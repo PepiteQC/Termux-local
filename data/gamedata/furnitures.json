@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chair-nebula",
+    "label": "Chaise Nebula",
+    "category": "seat",
+    "spritePath": "/sprites/furnitures/meubles/chair-nebula.png",
+    "dimensions": { "width": 1, "depth": 1, "height": 1 },
+    "states": ["idle", "active", "use"],
+    "defaultState": "idle",
+    "particleEffect": null,
+    "price": 90,
+    "rarity": "common"
+  },
+  {
+    "id": "table-prism",
+    "label": "Table Prism",
+    "category": "surface",
+    "spritePath": "/sprites/furnitures/meubles/table-prism.png",
+    "dimensions": { "width": 2, "depth": 2, "height": 1 },
+    "states": ["idle", "active"],
+    "defaultState": "idle",
+    "particleEffect": null,
+    "price": 140,
+    "rarity": "common"
+  },
+  {
+    "id": "bed-obsidian",
+    "label": "Lit Obsidian",
+    "category": "bed",
+    "spritePath": "/sprites/furnitures/meubles/bed-obsidian.png",
+    "dimensions": { "width": 2, "depth": 3, "height": 1 },
+    "states": ["idle", "open", "use"],
+    "defaultState": "idle",
+    "particleEffect": "dream-motes",
+    "price": 220,
+    "rarity": "rare"
+  },
+  {
+    "id": "lamp-halo",
+    "label": "Lampe Halo",
+    "category": "lighting",
+    "spritePath": "/sprites/furnitures/meubles/lamp-halo.png",
+    "dimensions": { "width": 1, "depth": 1, "height": 2 },
+    "states": ["idle", "active", "use"],
+    "defaultState": "active",
+    "particleEffect": "warm-glow",
+    "price": 160,
+    "rarity": "uncommon"
+  },
+  {
+    "id": "crystal-ether",
+    "label": "Cristal Ether",
+    "category": "decor",
+    "spritePath": "/sprites/furnitures/meubles/crystal-ether.png",
+    "dimensions": { "width": 1, "depth": 1, "height": 2 },
+    "states": ["idle", "active", "use"],
+    "defaultState": "active",
+    "particleEffect": "ether-sparkles",
+    "price": 260,
+    "rarity": "epic"
+  },
+  {
+    "id": "neon-crown",
+    "label": "Neon Crown",
+    "category": "wall-item",
+    "spritePath": "/sprites/furnitures/meubles/neon-crown.png",
+    "dimensions": { "width": 1, "depth": 1, "height": 1 },
+    "states": ["idle", "active", "open"],
+    "defaultState": "active",
+    "particleEffect": "neon-pulse",
+    "price": 200,
+    "rarity": "rare"
+  }
+]

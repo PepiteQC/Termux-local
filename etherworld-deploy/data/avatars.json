@@ -1,0 +1,66 @@
+[
+  {
+    "id": "player-myskin",
+    "name": "My Skin",
+    "gender": "unisex",
+    "category": "player",
+    "spritePath": "../public/assets/avatars/player/myskin.png",
+    "layers": ["body", "eyes", "hair", "top", "bottom", "shoes"]
+  },
+  {
+    "id": "basic-nova-m",
+    "name": "Nova",
+    "gender": "male",
+    "category": "basic",
+    "spritePath": "../public/assets/avatars/basic/nova-m.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes"]
+  },
+  {
+    "id": "basic-iris-f",
+    "name": "Iris",
+    "gender": "female",
+    "category": "basic",
+    "spritePath": "../public/assets/avatars/basic/iris-f.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes"]
+  },
+  {
+    "id": "basic-onyx-m",
+    "name": "Onyx",
+    "gender": "male",
+    "category": "basic",
+    "spritePath": "../public/assets/avatars/basic/onyx-m.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes", "accessory"]
+  },
+  {
+    "id": "basic-luma-f",
+    "name": "Luma",
+    "gender": "female",
+    "category": "basic",
+    "spritePath": "../public/assets/avatars/basic/luma-f.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes", "accessory"]
+  },
+  {
+    "id": "botanica-sage-m",
+    "name": "Sage Runner",
+    "gender": "male",
+    "category": "botanica-shop",
+    "spritePath": "../public/assets/avatars/weed-shop/sage-m.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes", "fx"]
+  },
+  {
+    "id": "botanica-fern-f",
+    "name": "Fern Pulse",
+    "gender": "female",
+    "category": "botanica-shop",
+    "spritePath": "../public/assets/avatars/weed-shop/fern-f.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes", "fx"]
+  },
+  {
+    "id": "botanica-moss-u",
+    "name": "Moss Echo",
+    "gender": "unisex",
+    "category": "botanica-shop",
+    "spritePath": "../public/assets/avatars/weed-shop/moss-u.png",
+    "layers": ["body", "hair", "top", "bottom", "shoes", "accessory", "fx"]
+  }
+]

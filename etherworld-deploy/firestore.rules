@@ -1,0 +1,32 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.admin == true;
+    }
+
+    match /avatars/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /items/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /furnitures/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /rooms/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}

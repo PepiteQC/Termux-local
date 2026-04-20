@@ -1,0 +1,579 @@
+.ether-loader-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top, rgba(79, 195, 247, 0.1), transparent 35%),
+    linear-gradient(180deg, #0a0a1a 0%, #050510 100%);
+  color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.ether-loader-card {
+  width: min(100%, 560px);
+  text-align: center;
+  padding: 40px 28px;
+  border-radius: 24px;
+  background: rgba(14, 18, 38, 0.82);
+  border: 1px solid rgba(124, 77, 255, 0.18);
+  box-shadow:
+    0 20px 80px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(10px);
+}
+
+.ether-loader-icon {
+  font-size: 52px;
+  margin-bottom: 18px;
+  animation: etherFloat 3s ease-in-out infinite;
+}
+
+.ether-loader-logo {
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 800;
+  letter-spacing: 0.35rem;
+  color: #4fc3f7;
+  text-shadow: 0 0 24px rgba(79, 195, 247, 0.45);
+  margin-bottom: 8px;
+}
+
+.ether-loader-subtitle {
+  font-size: 0.72rem;
+  letter-spacing: 0.22rem;
+  text-transform: uppercase;
+  color: #8f94b3;
+  margin-bottom: 34px;
+}
+
+.ether-loader-bar {
+  width: 100%;
+  height: 12px;
+  background: #171a33;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 18px;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+.ether-loader-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #4fc3f7, #7c4dff, #ff6d00);
+  transition: width 0.35s ease;
+  animation: etherShimmer 2s infinite;
+}
+
+.ether-loader-status {
+  min-height: 24px;
+  font-size: 0.85rem;
+  color: #9edfff;
+  letter-spacing: 0.04rem;
+}
+
+.ether-loader-version {
+  margin-top: 24px;
+  font-size: 0.72rem;
+  color: #4e567e;
+}
+
+@keyframes etherFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes etherShimmer {
+  0% { filter: brightness(1); }
+  50% { filter: brightness(1.25); }
+  100% { filter: brightness(1); }
+}
+
+:root {
+  --ew-bg: #08111d;
+  --ew-panel: rgba(10, 16, 29, 0.86);
+  --ew-card: rgba(21, 31, 53, 0.94);
+  --ew-border: rgba(135, 191, 255, 0.16);
+  --ew-ink: #edf4ff;
+  --ew-muted: #91a4c4;
+  --ew-primary: #4fc3f7;
+  --ew-accent: #7c4dff;
+  --ew-glow: 0 18px 42px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top, rgba(79, 195, 247, 0.12), transparent 30%),
+    linear-gradient(180deg, #07101b 0%, #04070f 100%);
+  color: var(--ew-ink);
+  font-family: Arial, sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.muted {
+  color: var(--ew-muted);
+}
+
+.mono {
+  font-family: "Courier New", monospace;
+}
+
+.glass-panel {
+  border: 1px solid var(--ew-border);
+  background: var(--ew-panel);
+  backdrop-filter: blur(14px);
+  box-shadow: var(--ew-glow);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  border-radius: 999px;
+  padding: 6px 10px;
+  background: rgba(79, 195, 247, 0.14);
+  color: #bdeeff;
+  font-size: 0.74rem;
+  letter-spacing: 0.08rem;
+  text-transform: uppercase;
+}
+
+.stat-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  color: var(--ew-ink);
+}
+
+.ew-primary-btn,
+.touch-button {
+  min-height: 42px;
+  border: 0;
+  border-radius: 14px;
+  padding: 0 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.ew-primary-btn,
+.touch-button-primary {
+  background: linear-gradient(135deg, var(--ew-primary), var(--ew-accent));
+  color: #06111e;
+}
+
+.touch-button-secondary {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--ew-ink);
+}
+
+.touch-button-danger {
+  background: linear-gradient(135deg, #ff6b6b, #c92a2a);
+  color: #fff;
+}
+
+.button-primary {
+  background: linear-gradient(135deg, var(--ew-primary), var(--ew-accent));
+  color: #06111e;
+}
+
+.button-secondary {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--ew-ink);
+}
+
+.button-danger {
+  background: linear-gradient(135deg, #ff6b6b, #c92a2a);
+  color: #fff;
+}
+
+.ew-room-page {
+  min-height: 100vh;
+  padding: 20px;
+  display: grid;
+  gap: 18px;
+}
+
+.ew-shell-topbar {
+  border-radius: 24px;
+  padding: 18px 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
+
+.ew-shell-topbar h1,
+.ew-panel h2,
+.ew-stage-copy h2 {
+  margin: 8px 0 0;
+}
+
+.ew-topbar-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.ew-shell-grid {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr) 320px;
+  gap: 18px;
+  align-items: start;
+}
+
+.ew-sidebar-column,
+.ew-main-column {
+  display: grid;
+  gap: 18px;
+}
+
+.ew-panel,
+.ew-stage-copy,
+.ew-shop-section,
+.mobile-room,
+.mobile-toolbar,
+.inventory-panel,
+.furniture-preview-card {
+  border-radius: 24px;
+  padding: 16px;
+}
+
+.ew-panel-head {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.ew-room-list,
+.ew-asset-grid,
+.ew-file-list {
+  display: grid;
+  gap: 12px;
+}
+
+.ew-room-card,
+.ew-asset-card,
+.ew-tab-row button,
+.inventory-chip {
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  background: var(--ew-card);
+  color: var(--ew-ink);
+  cursor: pointer;
+}
+
+.ew-room-card {
+  padding: 14px;
+  text-align: left;
+  display: grid;
+  gap: 8px;
+}
+
+.ew-room-card span {
+  color: var(--ew-muted);
+  line-height: 1.45;
+}
+
+.ew-room-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 0.84rem;
+  color: #bfd8ff;
+}
+
+.ew-room-card.active,
+.ew-asset-card.active,
+.ew-tab-row button.active,
+.inventory-chip.active,
+.ew-primary-btn.active {
+  outline: 2px solid rgba(79, 195, 247, 0.48);
+  box-shadow: 0 0 0 1px rgba(79, 195, 247, 0.16) inset;
+}
+
+.ew-avatar-stage {
+  position: relative;
+  min-height: 210px;
+  display: grid;
+  place-items: center;
+  border-radius: 22px;
+  background:
+    linear-gradient(180deg, rgba(79, 195, 247, 0.14), rgba(124, 77, 255, 0.06)),
+    rgba(255, 255, 255, 0.03);
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.ew-avatar-stage img {
+  width: 124px;
+  image-rendering: pixelated;
+}
+
+.ew-avatar-stage .wardrobe-layer {
+  position: absolute;
+  opacity: 0.96;
+}
+
+.ew-selection-copy {
+  display: grid;
+  gap: 4px;
+  margin-bottom: 14px;
+}
+
+.ew-asset-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.ew-asset-card {
+  padding: 12px;
+  display: grid;
+  gap: 8px;
+  text-align: left;
+}
+
+.ew-asset-card img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  image-rendering: pixelated;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+}
+
+.ew-asset-card span {
+  color: var(--ew-muted);
+  font-size: 0.84rem;
+}
+
+.ew-stage-copy {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+}
+
+.ew-highlight-strip {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.mobile-room {
+  position: relative;
+  overflow: hidden;
+}
+
+.furniture-room {
+  min-height: 720px;
+}
+
+.furniture-canvas {
+  width: 100%;
+  display: block;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #111729, #090d16);
+}
+
+.furniture-overlay {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  right: 18px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.avatar-dpad {
+  position: absolute;
+  right: 18px;
+  bottom: 18px;
+  padding: 12px;
+  border-radius: 18px;
+  background: rgba(5, 10, 20, 0.78);
+}
+
+.avatar-dpad-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 48px);
+  gap: 8px;
+  align-items: center;
+  justify-items: center;
+}
+
+.mobile-toolbar {
+  display: grid;
+  gap: 12px;
+}
+
+.touch-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.inventory-panel {
+  display: grid;
+  gap: 12px;
+}
+
+.panel-heading {
+  display: grid;
+  gap: 8px;
+}
+
+.panel-heading h3 {
+  margin: 0;
+}
+
+.inventory-scroll {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.inventory-chip {
+  padding: 12px;
+  display: grid;
+  gap: 6px;
+  text-align: left;
+}
+
+.furniture-preview-card {
+  display: grid;
+  gap: 8px;
+}
+
+.preview-valid {
+  color: #8ce99a;
+}
+
+.preview-invalid {
+  color: #ff8787;
+}
+
+.ew-shop-layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 16px;
+  align-items: start;
+}
+
+.ew-shop-feature,
+.ew-furni-feature {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.ew-shop-feature img,
+.ew-furni-feature img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.ew-catalog-strip {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.ew-catalog-card {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.ew-catalog-card img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.ew-catalog-card span {
+  color: var(--ew-muted);
+  font-size: 0.84rem;
+}
+
+.ew-tab-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.ew-tab-row button {
+  min-height: 42px;
+}
+
+.ew-file-row {
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.04);
+  overflow: auto;
+}
+
+@media (max-width: 1240px) {
+  .ew-shell-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ew-stage-copy,
+  .ew-shell-topbar,
+  .ew-shop-layout {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+}
+
+@media (max-width: 720px) {
+  .ew-room-page {
+    padding: 12px;
+  }
+
+  .ew-asset-grid,
+  .touch-grid,
+  .inventory-scroll {
+    grid-template-columns: 1fr;
+  }
+
+  .avatar-dpad {
+    left: 12px;
+    right: auto;
+    bottom: 12px;
+  }
+
+  .avatar-dpad-grid {
+    grid-template-columns: repeat(3, 44px);
+  }
+}

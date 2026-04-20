@@ -1,0 +1,33 @@
+[
+  {
+    "id": "avatar-ether",
+    "name": "Ether Base",
+    "category": "player",
+    "path": "/sprites/avatar/avatar-ether.png",
+    "meta": "Default player skin"
+  },
+  {
+    "id": "hair-afro",
+    "name": "Afro",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-afro.png"
+  },
+  {
+    "id": "hair-braids",
+    "name": "Braids",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-braids.png"
+  },
+  {
+    "id": "hair-curly",
+    "name": "Curly",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-curly.png"
+  },
+  {
+    "id": "hair-ponytail-high",
+    "name": "High Ponytail",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-ponytail-high.png"
+  }
+]

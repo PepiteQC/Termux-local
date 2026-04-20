@@ -1,0 +1,65 @@
+public/sprites/avatar/
+├── hair/
+│   ├── hair-spiky.png
+│   ├── hair-long.png
+│   ├── hair-bob.png
+│   ├── hair-mohawk.png
+│   ├── hair-curly.png
+│   ├── hair-braids.png
+│   ├── hair-ponytail.png
+│   ├── hair-undercut.png
+│   ├── hair-dreads.png
+│   ├── hair-afro.png
+│   ├── hair-buzzcut.png
+│   ├── hair-messy.png
+├── head/
+│   ├── head-round.png
+│   ├── head-square.png
+│   ├── head-oval.png
+│   ├── head-heart.png
+│   ├── head-long.png
+│   ├── head-wide.png
+│   ├── head-small.png
+│   ├── head-large.png
+├── shirt/
+│   ├── shirt-basic.png
+│   ├── shirt-striped.png
+│   ├── shirt-hoodie.png
+│   ├── shirt-polo.png
+│   ├── shirt-tshirt.png
+│   ├── shirt-buttonup.png
+│   ├── shirt-tanktop.png
+│   ├── shirt-cropped.png
+├── jacket/
+│   ├── jacket-leather.png
+│   ├── jacket-denim.png
+│   ├── jacket-bomber.png
+│   ├── jacket-hoodie.png
+│   ├── jacket-cropped.png
+│   ├── jacket-none.png
+├── pants/
+│   ├── pants-jeans.png
+│   ├── pants-cargo.png
+│   ├── pants-leggings.png
+│   ├── pants-shorts.png
+│   ├── pants-sweatpants.png
+│   ├── pants-skirt.png
+├── shoes/
+│   ├── shoes-sneakers.png
+│   ├── shoes-boots.png
+│   ├── shoes-sandals.png
+│   ├── shoes-hi-tops.png
+│   ├── shoes-loafers.png
+│   ├── shoes-heels.png
+├── glasses/
+│   ├── glasses-round.png
+│   ├── glasses-square.png
+│   ├── glasses-aviator.png
+│   ├── glasses-none.png
+└── jewelry/
+    ├── necklace-crystal.png
+    ├── earrings.png
+    ├── bracelet.png
+    ├── ring.png
+    ├── choker.png
+    ├── piercings.png

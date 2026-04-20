@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <!-- Col bomber -->
+  <ellipse cx="32" cy="24" rx="10" ry="5" fill="#2D3748" stroke="#4A5568"/>
+  <!-- Corps satiné -->
+  <rect x="18" y="28" width="28" height="26" rx="4" fill="#2D3748" stroke="#4A5568" stroke-width="2"/>
+  <!-- Zip brillant -->
+  <path d="M28 30 L28 52" stroke="#C53030" stroke-width="2"/>
+  <!-- Élastiques -->
+  <ellipse cx="23" cy="52" rx="6" ry="2" fill="#2D3748"/>
+  <ellipse cx="41" cy="52" rx="6" ry="2" fill="#2D3748"/>
+</svg>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EtherWorld Deploy</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">EW</div>
+          <div>
+            <h1>EtherWorld</h1>
+            <p>JSON-driven social room starter</p>
+          </div>
+        </div>
+
+        <section class="panel">
+          <h2>Rooms</h2>
+          <div id="room-list" class="card-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Avatar</h2>
+          <div class="avatar-preview">
+            <img id="avatar-preview" alt="Avatar preview" />
+          </div>
+          <div id="avatar-list" class="card-list compact"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Furniture</h2>
+          <div id="furniture-list" class="card-list compact"></div>
+        </section>
+      </aside>
+
+      <main class="main-view">
+        <header class="topbar">
+          <div>
+            <h2 id="room-title">Loading room...</h2>
+            <p id="room-meta">Preparing scene</p>
+          </div>
+          <div class="topbar-actions">
+            <button id="open-shop" class="primary-btn">Open Botanica Shop</button>
+          </div>
+        </header>
+
+        <section class="room-stage">
+          <img id="room-image" class="room-image" alt="Room background" />
+          <div id="furniture-layer" class="furniture-layer"></div>
+          <img id="avatar-sprite" class="avatar-sprite" alt="Avatar sprite" />
+        </section>
+
+        <section class="log-panel">
+          <h3>Data-first workflow</h3>
+          <p>
+            Add PNG files under <code>public/assets</code> and matching entries in
+            <code>data/*.json</code>. Reload the page, then run the Firebase scripts when you want to sync storage and Firestore.
+          </p>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="shop-dialog" class="shop-dialog">
+      <div class="shop-shell">
+        <header class="shop-header">
+          <div>
+            <h2>Botanica Boutique</h2>
+            <p>Original cosmetic shop with character skins and wearable effects.</p>
+          </div>
+          <button id="close-shop" class="ghost-btn">Close</button>
+        </header>
+        <div class="shop-hero">
+          <img src="./assets/ui/weedshop.png" alt="Boutique UI art" />
+        </div>
+        <div class="shop-columns">
+          <section>
+            <h3>Characters</h3>
+            <div id="shop-avatars" class="shop-grid"></div>
+          </section>
+          <section>
+            <h3>Items</h3>
+            <div id="shop-items" class="shop-grid"></div>
+          </section>
+        </div>
+      </div>
+    </dialog>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+  </html>

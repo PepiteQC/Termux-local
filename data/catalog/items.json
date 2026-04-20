@@ -1,0 +1,68 @@
+[
+  {
+    "id": "catalog-chair-nebula",
+    "name": "Chaise Nebula",
+    "kind": "furniture",
+    "refId": "chair-nebula",
+    "category": "starter-room",
+    "price": 90,
+    "rarity": "common",
+    "spritePath": "/sprites/furnitures/meubles/chair-nebula.png",
+    "tags": ["chair", "starter", "seat"]
+  },
+  {
+    "id": "catalog-table-prism",
+    "name": "Table Prism",
+    "kind": "furniture",
+    "refId": "table-prism",
+    "category": "starter-room",
+    "price": 140,
+    "rarity": "common",
+    "spritePath": "/sprites/furnitures/meubles/table-prism.png",
+    "tags": ["table", "surface"]
+  },
+  {
+    "id": "catalog-lamp-halo",
+    "name": "Lampe Halo",
+    "kind": "furniture",
+    "refId": "lamp-halo",
+    "category": "lighting",
+    "price": 160,
+    "rarity": "uncommon",
+    "spritePath": "/sprites/furnitures/meubles/lamp-halo.png",
+    "tags": ["light", "glow", "room"]
+  },
+  {
+    "id": "catalog-crystal-ether",
+    "name": "Cristal Ether",
+    "kind": "furniture",
+    "refId": "crystal-ether",
+    "category": "collector",
+    "price": 260,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/meubles/crystal-ether.png",
+    "tags": ["decor", "crystal", "sparkle"]
+  },
+  {
+    "id": "catalog-bomber-look",
+    "name": "Bomber Jacket Look",
+    "kind": "wearable",
+    "refId": "jacket-bomber",
+    "category": "looks",
+    "price": 120,
+    "rarity": "rare",
+    "spritePath": "/sprites/avatar/jacket/jacket-bomber.png",
+    "tags": ["wearable", "jacket", "style"]
+  },
+  {
+    "id": "catalog-neon-frames",
+    "name": "Verdant Frames",
+    "kind": "wearable",
+    "refId": "verdant-frames",
+    "category": "looks",
+    "price": 90,
+    "rarity": "rare",
+    "spritePath": "/sprites/avatar/glasses/glasses-aviator.png",
+    "tags": ["wearable", "glasses", "premium"]
+  }
+]

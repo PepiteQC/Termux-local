@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <!-- Forme cœur visage -->
+  <path d="M20 16 Q24 12 32 16 Q40 12 44 16 Q48 24 44 32 Q40 36 32 34 Q24 36 20 32 Z" fill="#FAD4C0" stroke="#E8B4A3" stroke-width="2"/>
+  <!-- Yeux expressifs -->
+  <ellipse cx="27" cy="24" rx="2.5" ry="1.5" fill="#FFFFFF"/>
+  <circle cx="27" cy="24" r="1" fill="#4A5568"/>
+  <ellipse cx="37" cy="24" rx="2.5" ry="1.5" fill="#FFFFFF"/>
+  <circle cx="37" cy="24" r="1" fill="#4A5568"/>
+</svg>

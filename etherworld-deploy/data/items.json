@@ -1,0 +1,162 @@
+[
+  {
+    "id": "top-tshirt-white",
+    "name": "White Tee",
+    "category": "basic-clothing",
+    "price": 45,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/top-tshirt-white.png",
+    "tags": ["tshirt", "starter", "casual"],
+    "animated": false
+  },
+  {
+    "id": "top-hoodie-charcoal",
+    "name": "Charcoal Hoodie",
+    "category": "basic-clothing",
+    "price": 80,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/top-hoodie-charcoal.png",
+    "tags": ["hoodie", "street", "casual"],
+    "animated": false
+  },
+  {
+    "id": "top-shirt-sky",
+    "name": "Sky Shirt",
+    "category": "basic-clothing",
+    "price": 65,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/top-shirt-sky.png",
+    "tags": ["shirt", "smart", "starter"],
+    "animated": false
+  },
+  {
+    "id": "bottom-jeans-indigo",
+    "name": "Indigo Jeans",
+    "category": "basic-clothing",
+    "price": 70,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/bottom-jeans-indigo.png",
+    "tags": ["jeans", "denim"],
+    "animated": false
+  },
+  {
+    "id": "bottom-shorts-sand",
+    "name": "Sand Shorts",
+    "category": "basic-clothing",
+    "price": 50,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/bottom-shorts-sand.png",
+    "tags": ["shorts", "summer"],
+    "animated": false
+  },
+  {
+    "id": "shoes-sneakers-red",
+    "name": "Red Sneakers",
+    "category": "basic-clothing",
+    "price": 55,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/shoes-sneakers-red.png",
+    "tags": ["sneakers", "street"],
+    "animated": false
+  },
+  {
+    "id": "shoes-boots-onyx",
+    "name": "Onyx Boots",
+    "category": "basic-clothing",
+    "price": 90,
+    "rarity": "uncommon",
+    "spritePath": "../public/assets/items/cosmetics/shoes-boots-onyx.png",
+    "tags": ["boots", "urban"],
+    "animated": false
+  },
+  {
+    "id": "hair-wave-ember",
+    "name": "Ember Wave",
+    "category": "basic-clothing",
+    "price": 40,
+    "rarity": "common",
+    "spritePath": "../public/assets/items/cosmetics/hair-wave-ember.png",
+    "tags": ["hair", "style"],
+    "animated": false
+  },
+  {
+    "id": "acc-glasses-aviator",
+    "name": "Aviator Glasses",
+    "category": "basic-clothing",
+    "price": 60,
+    "rarity": "uncommon",
+    "spritePath": "../public/assets/items/cosmetics/acc-glasses-aviator.png",
+    "tags": ["accessory", "glasses"],
+    "animated": false
+  },
+  {
+    "id": "bot-jacket-leafline",
+    "name": "Leafline Jacket",
+    "category": "cosmetic-shop",
+    "price": 140,
+    "rarity": "rare",
+    "spritePath": "../public/assets/items/botanical/bot-jacket-leafline.png",
+    "tags": ["botanica", "jacket", "neon"],
+    "animated": true
+  },
+  {
+    "id": "bot-pants-vinewave",
+    "name": "Vinewave Pants",
+    "category": "cosmetic-shop",
+    "price": 120,
+    "rarity": "uncommon",
+    "spritePath": "../public/assets/items/botanical/bot-pants-vinewave.png",
+    "tags": ["botanica", "pants"],
+    "animated": false
+  },
+  {
+    "id": "bot-hat-mosscap",
+    "name": "Mosscap",
+    "category": "cosmetic-shop",
+    "price": 95,
+    "rarity": "uncommon",
+    "spritePath": "../public/assets/items/botanical/bot-hat-mosscap.png",
+    "tags": ["botanica", "hat"],
+    "animated": false
+  },
+  {
+    "id": "bot-glasses-sporeview",
+    "name": "Sporeview Shades",
+    "category": "cosmetic-shop",
+    "price": 110,
+    "rarity": "rare",
+    "spritePath": "../public/assets/items/botanical/bot-glasses-sporeview.png",
+    "tags": ["botanica", "glasses", "glow"],
+    "animated": true
+  },
+  {
+    "id": "bot-fx-halo-verdant",
+    "name": "Verdant Halo",
+    "category": "cosmetic-shop",
+    "price": 180,
+    "rarity": "epic",
+    "spritePath": "../public/assets/items/botanical/bot-fx-halo-verdant.png",
+    "tags": ["effect", "halo", "glow"],
+    "animated": true
+  },
+  {
+    "id": "bot-fx-aura-mist",
+    "name": "Mist Aura",
+    "category": "cosmetic-shop",
+    "price": 160,
+    "rarity": "rare",
+    "spritePath": "../public/assets/items/botanical/bot-fx-aura-mist.png",
+    "tags": ["effect", "mist", "ambient"],
+    "animated": true
+  },
+  {
+    "id": "bot-bundle-night-garden",
+    "name": "Night Garden Set",
+    "category": "cosmetic-shop",
+    "price": 340,
+    "rarity": "epic",
+    "spritePath": "../public/assets/items/botanical/bot-bundle-night-garden.png",
+    "tags": ["bundle", "botanica", "premium"],
+    "animated": true
+  }
+]

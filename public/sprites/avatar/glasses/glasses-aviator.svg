@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <ellipse cx="26" cy="26" rx="8" ry="5" fill="#00000020" stroke="#A0A0A0"/>
+  <ellipse cx="38" cy="26" rx="8" ry="5" fill="#00000020" stroke="#A0A0A0"/>
+  <path d="M34 26 L30 26" stroke="#A0A0A0"/>
+</svg>

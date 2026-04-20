@@ -1,0 +1,58 @@
+[
+  {
+    "id": "furni-bed-starter",
+    "name": "Starter Bed",
+    "category": "bedroom",
+    "spritePath": "../public/assets/icons/furni-bed-starter.png",
+    "footprint": { "w": 2, "h": 3 },
+    "walkable": false
+  },
+  {
+    "id": "furni-desk-starter",
+    "name": "Starter Desk",
+    "category": "office",
+    "spritePath": "../public/assets/icons/furni-desk-starter.png",
+    "footprint": { "w": 2, "h": 1 },
+    "walkable": false
+  },
+  {
+    "id": "furni-chair-starter",
+    "name": "Starter Chair",
+    "category": "office",
+    "spritePath": "../public/assets/icons/furni-chair-starter.png",
+    "footprint": { "w": 1, "h": 1 },
+    "walkable": false
+  },
+  {
+    "id": "furni-computer-starter",
+    "name": "Desktop Terminal",
+    "category": "office",
+    "spritePath": "../public/assets/icons/furni-computer-starter.png",
+    "footprint": { "w": 1, "h": 1 },
+    "walkable": false
+  },
+  {
+    "id": "furni-window-starter",
+    "name": "Blue Window",
+    "category": "wall",
+    "spritePath": "../public/assets/icons/furni-window-starter.png",
+    "footprint": { "w": 2, "h": 1 },
+    "walkable": true
+  },
+  {
+    "id": "furni-lamp-starter",
+    "name": "Glow Lamp",
+    "category": "lighting",
+    "spritePath": "../public/assets/icons/furni-lamp-starter.png",
+    "footprint": { "w": 1, "h": 1 },
+    "walkable": false
+  },
+  {
+    "id": "furni-poster-city",
+    "name": "City Poster",
+    "category": "wall",
+    "spritePath": "../public/assets/icons/furni-poster-city.png",
+    "footprint": { "w": 1, "h": 1 },
+    "walkable": true
+  }
+]

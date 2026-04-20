@@ -1,0 +1,30 @@
+[
+  {
+    "id": "botanica-coat",
+    "name": "Botanica Coat",
+    "category": "premium look",
+    "path": "/sprites/avatar/jacket/jacket-cropped.png",
+    "meta": "140 credits"
+  },
+  {
+    "id": "verdant-frames",
+    "name": "Verdant Frames",
+    "category": "premium accessory",
+    "path": "/sprites/avatar/glasses/glasses-aviator.png",
+    "meta": "90 credits"
+  },
+  {
+    "id": "pulse-braids",
+    "name": "Pulse Braids",
+    "category": "premium hair",
+    "path": "/sprites/avatar/hair/hair-braids-3d.png",
+    "meta": "120 credits"
+  },
+  {
+    "id": "night-heels",
+    "name": "Night Heels",
+    "category": "premium shoes",
+    "path": "/sprites/avatar/shoes/shoes-heels.png",
+    "meta": "110 credits"
+  }
+]

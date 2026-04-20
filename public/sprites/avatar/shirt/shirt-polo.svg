@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <!-- Col polo -->
+  <path d="M24 26 L32 22 L40 26" fill="#90EE90" stroke="#32CD32"/>
+  <!-- Boutons polo -->
+  <circle cx="36" cy="28" r="1.2" fill="#FFFFFF"/>
+  <!-- Corps -->
+  <rect x="22" y="30" width="20" height="24" rx="3" fill="#90EE90" stroke="#32CD32"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <!-- Hi-tops détaillées -->
+  <path d="M22 50 Q26 54 32 52 L36 54 Q32 56 28 54 Z" fill="#4A90E2" stroke="#357ABD"/>
+  <path d="M32 50 Q36 54 42 52 L46 54 Q42 56 38 54 Z" fill="#4A90E2" stroke="#357ABD"/>
+  <!-- Lacets multiples -->
+  <path d="M26 51 L28 49 L30 51 M28 53 L30 51 M32 51 L34 49 M34 53 M36 51 L38 49 M38 53" stroke="#FFFFFF" stroke-width="1.5"/>
+</svg>

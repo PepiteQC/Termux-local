@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bed-obsidian",
+    "name": "Obsidian Bed",
+    "category": "furniture",
+    "path": "/sprites/furnitures/meubles/bed-obsidian.png"
+  },
+  {
+    "id": "chair-nebula",
+    "name": "Nebula Chair",
+    "category": "furniture",
+    "path": "/sprites/furnitures/meubles/chair-nebula.png"
+  },
+  {
+    "id": "table-prism",
+    "name": "Prism Table",
+    "category": "furniture",
+    "path": "/sprites/furnitures/meubles/table-prism.png"
+  },
+  {
+    "id": "lamp-halo",
+    "name": "Halo Lamp",
+    "category": "furniture",
+    "path": "/sprites/furnitures/meubles/lamp-halo.png"
+  },
+  {
+    "id": "neon-crown",
+    "name": "Neon Crown",
+    "category": "wall item",
+    "path": "/sprites/furnitures/meubles/neon-crown.png"
+  },
+  {
+    "id": "crystal-ether",
+    "name": "Ether Crystal",
+    "category": "decor",
+    "path": "/sprites/furnitures/meubles/crystal-ether.png"
+  }
+]

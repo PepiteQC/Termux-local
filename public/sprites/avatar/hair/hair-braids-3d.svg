@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <ellipse cx="32" cy="20" rx="12" ry="14" fill="#FAD4C0"/>
+  <!-- Tresses 3D -->
+  <path d="M26 18 L28 26 L30 22 L32 28 L34 24 L36 28" stroke="#663DFF" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M28 20 L30 28 L32 24 L34 30" stroke="#5A4AFF" stroke-width="2.5" fill="none"/>
+</svg>

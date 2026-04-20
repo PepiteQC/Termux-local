@@ -1,0 +1,50 @@
+[
+  {
+    "id": "shirt-tshirt",
+    "name": "T-Shirt",
+    "category": "top",
+    "path": "/sprites/avatar/shirt/shirt-tshirt.png"
+  },
+  {
+    "id": "shirt-polo",
+    "name": "Polo",
+    "category": "top",
+    "path": "/sprites/avatar/shirt/shirt-polo.png"
+  },
+  {
+    "id": "shirt-cropped",
+    "name": "Cropped Top",
+    "category": "top",
+    "path": "/sprites/avatar/shirt/shirt-cropped.png"
+  },
+  {
+    "id": "jacket-bomber",
+    "name": "Bomber Jacket",
+    "category": "outerwear",
+    "path": "/sprites/avatar/jacket/jacket-bomber.png"
+  },
+  {
+    "id": "pants-shorts",
+    "name": "Shorts",
+    "category": "bottom",
+    "path": "/sprites/avatar/pants/pants-shorts.png"
+  },
+  {
+    "id": "pants-sweatpants",
+    "name": "Sweatpants",
+    "category": "bottom",
+    "path": "/sprites/avatar/pants/pants-sweatpants.png"
+  },
+  {
+    "id": "shoes-hi-tops",
+    "name": "Hi-Tops",
+    "category": "shoes",
+    "path": "/sprites/avatar/shoes/shoes-hi-tops.png"
+  },
+  {
+    "id": "glasses-aviator",
+    "name": "Aviator Glasses",
+    "category": "accessory",
+    "path": "/sprites/avatar/glasses/glasses-aviator.png"
+  }
+]

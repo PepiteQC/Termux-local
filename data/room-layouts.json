@@ -1,0 +1,118 @@
+{
+  "ether-suite-premium": [
+    {
+      "id": "suite-bed",
+      "type": "bed-obsidian",
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "suite-chair",
+      "type": "chair-nebula",
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "rotation": 1,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "suite-table",
+      "type": "table-prism",
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "suite-lamp",
+      "type": "lamp-halo",
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "suite-neon",
+      "type": "neon-crown",
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    }
+  ],
+  "skyline-club": [
+    {
+      "id": "club-crystal",
+      "type": "crystal-ether",
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "club-table",
+      "type": "table-prism",
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "club-chair",
+      "type": "chair-nebula",
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "rotation": 1,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    }
+  ],
+  "garden-boutique": [
+    {
+      "id": "garden-lamp",
+      "type": "lamp-halo",
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "garden-crystal",
+      "type": "crystal-ether",
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "id": "garden-neon",
+      "type": "neon-crown",
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "rotation": 0,
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-04-20T00:00:00.000Z"
+    }
+  ]
+}

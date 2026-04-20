@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ether-suite-premium",
+    "name": "Ether Suite Premium",
+    "tagline": "Spawn lounge with starter furniture and central social floor.",
+    "theme": "Crystal blue",
+    "occupancy": "12 users"
+  },
+  {
+    "id": "skyline-club",
+    "name": "Skyline Club",
+    "tagline": "Late-night lobby with neon corners and social seating.",
+    "theme": "Night arcade",
+    "occupancy": "18 users"
+  },
+  {
+    "id": "garden-boutique",
+    "name": "Garden Boutique",
+    "tagline": "Original cosmetics room with botanical glow and premium drops.",
+    "theme": "Botanica",
+    "occupancy": "10 users"
+  }
+]

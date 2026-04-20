@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+  <!-- T-shirt loose -->
+  <path d="M20 28 Q24 24 32 26 Q40 24 44 28 L48 48 L16 48 Z" fill="#FF6B6B" stroke="#FF5252" stroke-width="1.5"/>
+  <!-- Logo petit -->
+  <circle cx="32" cy="36" r="3" fill="#FFFFFF"/>
+</svg>

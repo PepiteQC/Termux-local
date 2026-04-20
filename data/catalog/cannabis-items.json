@@ -1,0 +1,2620 @@
+[
+  {
+    "id": "og-kush",
+    "name": "Og Kush",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 20,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/og-kush.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Og Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "blue-dream",
+    "name": "Blue Dream",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/blue-dream.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Blue Dream EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "gelato",
+    "name": "Gelato",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/gelato.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Gelato EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "wedding-cake",
+    "name": "Wedding Cake",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 26,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/wedding-cake.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Wedding Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "gorilla-glue",
+    "name": "Gorilla Glue",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/gorilla-glue.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Gorilla Glue EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "girl-scout-cookies",
+    "name": "Girl Scout Cookies",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/girl-scout-cookies.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Girl Scout Cookies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sour-diesel",
+    "name": "Sour Diesel",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 32,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/sour-diesel.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Sour Diesel EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "purple-punch",
+    "name": "Purple Punch",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 20,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/purple-punch.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Purple Punch EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "granddaddy-purple",
+    "name": "Granddaddy Purple",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 22,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/granddaddy-purple.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Granddaddy Purple EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "white-widow",
+    "name": "White Widow",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/white-widow.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "White Widow EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "northern-lights",
+    "name": "Northern Lights",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/northern-lights.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Northern Lights EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "ak-47",
+    "name": "Ak 47",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/ak-47.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Ak 47 EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "jack-herer",
+    "name": "Jack Herer",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 30,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/jack-herer.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Jack Herer EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "runtz",
+    "name": "Runtz",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 32,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/runtz.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Runtz EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "zkittlez",
+    "name": "Zkittlez",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/zkittlez.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Zkittlez EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "mimosa",
+    "name": "Mimosa",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/mimosa.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Mimosa EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "mac",
+    "name": "Mac",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/mac.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Mac EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cereal-milk",
+    "name": "Cereal Milk",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/cereal-milk.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Cereal Milk EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "lemon-haze",
+    "name": "Lemon Haze",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 28,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/lemon-haze.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Lemon Haze EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "trainwreck",
+    "name": "Trainwreck",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/trainwreck.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Trainwreck EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "purple-haze",
+    "name": "Purple Haze",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 32,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/purple-haze.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Purple Haze EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "banana-kush",
+    "name": "Banana Kush",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 20,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/banana-kush.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Banana Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "biscotti",
+    "name": "Biscotti",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/biscotti.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Biscotti EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "ice-cream-cake",
+    "name": "Ice Cream Cake",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 24,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/ice-cream-cake.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Ice Cream Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sunset-sherbet",
+    "name": "Sunset Sherbet",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/sunset-sherbet.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Sunset Sherbet EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "slurricane",
+    "name": "Slurricane",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/slurricane.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Slurricane EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "dosidos",
+    "name": "Dosidos",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/dosidos.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Dosidos EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "london-pound-cake",
+    "name": "London Pound Cake",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 32,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/london-pound-cake.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "London Pound Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "pineapple-express",
+    "name": "Pineapple Express",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/pineapple-express.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Pineapple Express EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "strawberry-cough",
+    "name": "Strawberry Cough",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/strawberry-cough.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Strawberry Cough EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "forbidden-fruit",
+    "name": "Forbidden Fruit",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/forbidden-fruit.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Forbidden Fruit EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "tropicana-cookies",
+    "name": "Tropicana Cookies",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/tropicana-cookies.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Tropicana Cookies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "animal-mints",
+    "name": "Animal Mints",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/animal-mints.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Animal Mints EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "chemdawg",
+    "name": "Chemdawg",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/chemdawg.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Chemdawg EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "durban-poison",
+    "name": "Durban Poison",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 32,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/durban-poison.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Durban Poison EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "platinum-cookies",
+    "name": "Platinum Cookies",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/platinum-cookies.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Platinum Cookies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "blackberry-kush",
+    "name": "Blackberry Kush",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 22,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/blackberry-kush.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Blackberry Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "grape-ape",
+    "name": "Grape Ape",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/grape-ape.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Grape Ape EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "apple-fritter",
+    "name": "Apple Fritter",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/apple-fritter.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Apple Fritter EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cherry-pie",
+    "name": "Cherry Pie",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/cherry-pie.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Cherry Pie EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "critical-mass",
+    "name": "Critical Mass",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/critical-mass.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Critical Mass EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "lava-cake",
+    "name": "Lava Cake",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 32,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/lava-cake.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Lava Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "jealousy",
+    "name": "Jealousy",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/jealousy.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Jealousy EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "super-lemon-haze",
+    "name": "Super Lemon Haze",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 22,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/super-lemon-haze.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Super Lemon Haze EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "amnesia-haze",
+    "name": "Amnesia Haze",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 24,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/amnesia-haze.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Amnesia Haze EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "orange-cookies",
+    "name": "Orange Cookies",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/orange-cookies.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Orange Cookies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "peanut-butter-breath",
+    "name": "Peanut Butter Breath",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/peanut-butter-breath.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Peanut Butter Breath EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "platinum-og",
+    "name": "Platinum Og",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/platinum-og.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Platinum Og EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sherb-cream-pie",
+    "name": "Sherb Cream Pie",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 32,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/sherb-cream-pie.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Sherb Cream Pie EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "wappa",
+    "name": "Wappa",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/wappa.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Wappa EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "pink-kush",
+    "name": "Pink Kush",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 22,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/pink-kush.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Pink Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "thin-mint",
+    "name": "Thin Mint",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/thin-mint.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Thin Mint EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sundae-driver",
+    "name": "Sundae Driver",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/sundae-driver.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Sundae Driver EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "motorbreath",
+    "name": "Motorbreath",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/motorbreath.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Motorbreath EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cookie-dawg",
+    "name": "Cookie Dawg",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 30,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/cookie-dawg.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Cookie Dawg EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "mint-chocolate-chip",
+    "name": "Mint Chocolate Chip",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 32,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/mint-chocolate-chip.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Mint Chocolate Chip EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "gelonade",
+    "name": "Gelonade",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/gelonade.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Gelonade EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "moonbow",
+    "name": "Moonbow",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/moonbow.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Moonbow EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "nectarine-jelly",
+    "name": "Nectarine Jelly",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/nectarine-jelly.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Nectarine Jelly EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "melonade",
+    "name": "Melonade",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/melonade.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Melonade EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "candy-rain",
+    "name": "Candy Rain",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/candy-rain.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Candy Rain EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "bubba-kush",
+    "name": "Bubba Kush",
+    "category": "flower",
+    "subcategory": "indica",
+    "price": 30,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/bubba-kush.png",
+    "tags": [
+      "flower",
+      "indica",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Bubba Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "grape-gas",
+    "name": "Grape Gas",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 32,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/grape-gas.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Grape Gas EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "tahoe-og",
+    "name": "Tahoe Og",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/tahoe-og.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Tahoe Og EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "jet-fuel",
+    "name": "Jet Fuel",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/jet-fuel.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Jet Fuel EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "garlic-cookies",
+    "name": "Garlic Cookies",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/garlic-cookies.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Garlic Cookies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "blue-zushi",
+    "name": "Blue Zushi",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/blue-zushi.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Blue Zushi EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "french-toast",
+    "name": "French Toast",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 28,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/french-toast.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "French Toast EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "lilac-diesel",
+    "name": "Lilac Diesel",
+    "category": "flower",
+    "subcategory": "sativa",
+    "price": 30,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/lilac-diesel.png",
+    "tags": [
+      "flower",
+      "sativa",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Lilac Diesel EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "nectar-og",
+    "name": "Nectar Og",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 32,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/nectar-og.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-gold"
+    ],
+    "animation": "shake",
+    "effect": "smoke-yellow",
+    "description": "Nectar Og EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cosmic-cream",
+    "name": "Cosmic Cream",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 20,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/cosmic-cream.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-green"
+    ],
+    "animation": "glow-pulse",
+    "effect": "smoke-green",
+    "description": "Cosmic Cream EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sunrise-z",
+    "name": "Sunrise Z",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 22,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/sunrise-z.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-blue"
+    ],
+    "animation": "sparkle",
+    "effect": "bubble-blue",
+    "description": "Sunrise Z EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "nightshade",
+    "name": "Nightshade",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 24,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/nightshade.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "smoke-purple",
+    "description": "Nightshade EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "diamond-dust",
+    "name": "Diamond Dust",
+    "category": "flower",
+    "subcategory": "hybrid",
+    "price": 26,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/diamond-dust.png",
+    "tags": [
+      "flower",
+      "hybrid",
+      "neon-pink"
+    ],
+    "animation": "glow-rotate",
+    "effect": "sparkle-pink",
+    "description": "Diamond Dust EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "live-rosin-og",
+    "name": "Live Rosin Og",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 53,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/live-rosin-og.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-gold"
+    ],
+    "animation": "drip",
+    "effect": "vapor-white",
+    "description": "Live Rosin Og EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "shatter-gelato",
+    "name": "Shatter Gelato",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 55,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/shatter-gelato.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-green"
+    ],
+    "animation": "pulse-hot",
+    "effect": "drip-gold",
+    "description": "Shatter Gelato EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "wax-blue-dream",
+    "name": "Wax Blue Dream",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 57,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/wax-blue-dream.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-blue"
+    ],
+    "animation": "glow",
+    "effect": "smoke-amber",
+    "description": "Wax Blue Dream EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "badder-runtz",
+    "name": "Badder Runtz",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 45,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/badder-runtz.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-purple"
+    ],
+    "animation": "crack",
+    "effect": "vapor-white",
+    "description": "Badder Runtz EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "diamonds-zkittlez",
+    "name": "Diamonds Zkittlez",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 47,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/diamonds-zkittlez.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-pink"
+    ],
+    "animation": "drip",
+    "effect": "drip-gold",
+    "description": "Diamonds Zkittlez EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "live-resin-sour-diesel",
+    "name": "Live Resin Sour Diesel",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 49,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/live-resin-sour-diesel.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-gold"
+    ],
+    "animation": "pulse-hot",
+    "effect": "smoke-amber",
+    "description": "Live Resin Sour Diesel EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "hash-rosin-wedding-cake",
+    "name": "Hash Rosin Wedding Cake",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 51,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/hash-rosin-wedding-cake.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-green"
+    ],
+    "animation": "glow",
+    "effect": "vapor-white",
+    "description": "Hash Rosin Wedding Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sauce-mac",
+    "name": "Sauce Mac",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 53,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/sauce-mac.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-blue"
+    ],
+    "animation": "crack",
+    "effect": "drip-gold",
+    "description": "Sauce Mac EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "crumble-mimosa",
+    "name": "Crumble Mimosa",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 55,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/crumble-mimosa.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-purple"
+    ],
+    "animation": "drip",
+    "effect": "smoke-amber",
+    "description": "Crumble Mimosa EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "budder-gorilla-glue",
+    "name": "Budder Gorilla Glue",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 57,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/budder-gorilla-glue.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-pink"
+    ],
+    "animation": "pulse-hot",
+    "effect": "vapor-white",
+    "description": "Budder Gorilla Glue EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sugar-jack-herer",
+    "name": "Sugar Jack Herer",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 45,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/sugar-jack-herer.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-gold"
+    ],
+    "animation": "glow",
+    "effect": "drip-gold",
+    "description": "Sugar Jack Herer EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "rosin-purple-punch",
+    "name": "Rosin Purple Punch",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 47,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/rosin-purple-punch.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-green"
+    ],
+    "animation": "crack",
+    "effect": "smoke-amber",
+    "description": "Rosin Purple Punch EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "distillate-gelato",
+    "name": "Distillate Gelato",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 49,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/distillate-gelato.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-blue"
+    ],
+    "animation": "drip",
+    "effect": "vapor-white",
+    "description": "Distillate Gelato EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "diamond-sauce-cereal-milk",
+    "name": "Diamond Sauce Cereal Milk",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 51,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/diamond-sauce-cereal-milk.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-purple"
+    ],
+    "animation": "pulse-hot",
+    "effect": "drip-gold",
+    "description": "Diamond Sauce Cereal Milk EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "terp-slushie-runtz",
+    "name": "Terp Slushie Runtz",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 53,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/terp-slushie-runtz.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-pink"
+    ],
+    "animation": "glow",
+    "effect": "smoke-amber",
+    "description": "Terp Slushie Runtz EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cold-cure-og-kush",
+    "name": "Cold Cure Og Kush",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 55,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/cold-cure-og-kush.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-gold"
+    ],
+    "animation": "crack",
+    "effect": "vapor-white",
+    "description": "Cold Cure Og Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "fresh-press-london-pound-cake",
+    "name": "Fresh Press London Pound Cake",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 57,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/fresh-press-london-pound-cake.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-green"
+    ],
+    "animation": "drip",
+    "effect": "drip-gold",
+    "description": "Fresh Press London Pound Cake EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "jam-biscotti",
+    "name": "Jam Biscotti",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 45,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/jam-biscotti.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-blue"
+    ],
+    "animation": "pulse-hot",
+    "effect": "smoke-amber",
+    "description": "Jam Biscotti EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "shatter-trainwreck",
+    "name": "Shatter Trainwreck",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 47,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/shatter-trainwreck.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-purple"
+    ],
+    "animation": "glow",
+    "effect": "vapor-white",
+    "description": "Shatter Trainwreck EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "resin-apple-fritter",
+    "name": "Resin Apple Fritter",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 49,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/resin-apple-fritter.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-pink"
+    ],
+    "animation": "crack",
+    "effect": "drip-gold",
+    "description": "Resin Apple Fritter EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "rosin-banana-kush",
+    "name": "Rosin Banana Kush",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 51,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/rosin-banana-kush.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-gold"
+    ],
+    "animation": "drip",
+    "effect": "smoke-amber",
+    "description": "Rosin Banana Kush EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "badder-slurricane",
+    "name": "Badder Slurricane",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 53,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/badder-slurricane.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-green"
+    ],
+    "animation": "pulse-hot",
+    "effect": "vapor-white",
+    "description": "Badder Slurricane EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "wax-jealousy",
+    "name": "Wax Jealousy",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 55,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/wax-jealousy.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-blue"
+    ],
+    "animation": "glow",
+    "effect": "drip-gold",
+    "description": "Wax Jealousy EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "diamonds-forbidden-fruit",
+    "name": "Diamonds Forbidden Fruit",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 57,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/diamonds-forbidden-fruit.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-purple"
+    ],
+    "animation": "crack",
+    "effect": "smoke-amber",
+    "description": "Diamonds Forbidden Fruit EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sauce-super-lemon-haze",
+    "name": "Sauce Super Lemon Haze",
+    "category": "concentrate",
+    "subcategory": "concentrate",
+    "price": 45,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/sauce-super-lemon-haze.png",
+    "tags": [
+      "concentrate",
+      "concentrate",
+      "neon-pink"
+    ],
+    "animation": "drip",
+    "effect": "vapor-white",
+    "description": "Sauce Super Lemon Haze EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "gummy-bears",
+    "name": "Gummy Bears",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 18,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/gummy-bears.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-gold"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Gummy Bears EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "choco-bar",
+    "name": "Choco Bar",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 20,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/choco-bar.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-green"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Choco Bar EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "fruit-chews",
+    "name": "Fruit Chews",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 22,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/fruit-chews.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-blue"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Fruit Chews EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "space-brownie",
+    "name": "Space Brownie",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 24,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/space-brownie.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-purple"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Space Brownie EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cookies-cream-bites",
+    "name": "Cookies Cream Bites",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 26,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/cookies-cream-bites.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-pink"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Cookies Cream Bites EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "nano-soda",
+    "name": "Nano Soda",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 28,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/nano-soda.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-gold"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Nano Soda EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "gummy-rings",
+    "name": "Gummy Rings",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 16,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/gummy-rings.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-green"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Gummy Rings EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "caramel-cube",
+    "name": "Caramel Cube",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 18,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/caramel-cube.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-blue"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Caramel Cube EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "mint-truffle",
+    "name": "Mint Truffle",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 20,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/mint-truffle.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-purple"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Mint Truffle EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "marshmallow-square",
+    "name": "Marshmallow Square",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 22,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/marshmallow-square.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-pink"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Marshmallow Square EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "berry-jelly",
+    "name": "Berry Jelly",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 24,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/berry-jelly.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-gold"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Berry Jelly EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "citrus-lollipop",
+    "name": "Citrus Lollipop",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 26,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/citrus-lollipop.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-green"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Citrus Lollipop EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "sour-strips",
+    "name": "Sour Strips",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 28,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/sour-strips.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-blue"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Sour Strips EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "frosted-cookie",
+    "name": "Frosted Cookie",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 16,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/frosted-cookie.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-purple"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Frosted Cookie EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "peach-gummies",
+    "name": "Peach Gummies",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 18,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/peach-gummies.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-pink"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Peach Gummies EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cola-cubes",
+    "name": "Cola Cubes",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 20,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/cola-cubes.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-gold"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Cola Cubes EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cereal-bar",
+    "name": "Cereal Bar",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 22,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/cereal-bar.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-green"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Cereal Bar EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "tropic-taffy",
+    "name": "Tropic Taffy",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 24,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/tropic-taffy.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-blue"
+    ],
+    "animation": "sparkle-rainbow",
+    "effect": "glow-orange",
+    "description": "Tropic Taffy EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "moon-muffin",
+    "name": "Moon Muffin",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 26,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/moon-muffin.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-purple"
+    ],
+    "animation": "bounce",
+    "effect": "sparkle-rainbow",
+    "description": "Moon Muffin EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "dark-chocolate-bites",
+    "name": "Dark Chocolate Bites",
+    "category": "edible",
+    "subcategory": "edible",
+    "price": 28,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/dark-chocolate-bites.png",
+    "tags": [
+      "edible",
+      "edible",
+      "neon-pink"
+    ],
+    "animation": "melt",
+    "effect": "glow-brown",
+    "description": "Dark Chocolate Bites EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "neon-bong",
+    "name": "Neon Bong",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 35,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/neon-bong.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-gold"
+    ],
+    "animation": "vapor",
+    "effect": "bubble",
+    "description": "Neon Bong EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "dab-rig",
+    "name": "Dab Rig",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 43,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/dab-rig.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-green"
+    ],
+    "animation": "bubble",
+    "effect": "smoke-cyan",
+    "description": "Dab Rig EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "rolling-tray",
+    "name": "Rolling Tray",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 51,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/rolling-tray.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-blue"
+    ],
+    "animation": "glow-hot",
+    "effect": "vapor-white",
+    "description": "Rolling Tray EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "metal-grinder",
+    "name": "Metal Grinder",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 59,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/metal-grinder.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-purple"
+    ],
+    "animation": "shine",
+    "effect": "bubble",
+    "description": "Metal Grinder EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "butane-torch",
+    "name": "Butane Torch",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 67,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/butane-torch.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-pink"
+    ],
+    "animation": "vapor",
+    "effect": "smoke-cyan",
+    "description": "Butane Torch EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "glass-jar",
+    "name": "Glass Jar",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 75,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/glass-jar.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-gold"
+    ],
+    "animation": "bubble",
+    "effect": "vapor-white",
+    "description": "Glass Jar EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "stash-box",
+    "name": "Stash Box",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 83,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/stash-box.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-green"
+    ],
+    "animation": "glow-hot",
+    "effect": "bubble",
+    "description": "Stash Box EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "vaporizer",
+    "name": "Vaporizer",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 35,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/vaporizer.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-blue"
+    ],
+    "animation": "shine",
+    "effect": "smoke-cyan",
+    "description": "Vaporizer EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "rolling-papers",
+    "name": "Rolling Papers",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 43,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/rolling-papers.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-purple"
+    ],
+    "animation": "vapor",
+    "effect": "vapor-white",
+    "description": "Rolling Papers EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cone-pack",
+    "name": "Cone Pack",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 51,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/cone-pack.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-pink"
+    ],
+    "animation": "bubble",
+    "effect": "bubble",
+    "description": "Cone Pack EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "ash-catcher",
+    "name": "Ash Catcher",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 59,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/ash-catcher.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-gold"
+    ],
+    "animation": "glow-hot",
+    "effect": "smoke-cyan",
+    "description": "Ash Catcher EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "percolator-bong",
+    "name": "Percolator Bong",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 67,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/percolator-bong.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-green"
+    ],
+    "animation": "shine",
+    "effect": "vapor-white",
+    "description": "Percolator Bong EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "mini-rig",
+    "name": "Mini Rig",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 75,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/mini-rig.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-blue"
+    ],
+    "animation": "vapor",
+    "effect": "bubble",
+    "description": "Mini Rig EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "quartz-banger",
+    "name": "Quartz Banger",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 83,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/quartz-banger.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-purple"
+    ],
+    "animation": "bubble",
+    "effect": "smoke-cyan",
+    "description": "Quartz Banger EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "carb-cap",
+    "name": "Carb Cap",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 35,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/carb-cap.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-pink"
+    ],
+    "animation": "glow-hot",
+    "effect": "vapor-white",
+    "description": "Carb Cap EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "recycler-rig",
+    "name": "Recycler Rig",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 43,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/recycler-rig.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-gold"
+    ],
+    "animation": "shine",
+    "effect": "bubble",
+    "description": "Recycler Rig EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "travel-case",
+    "name": "Travel Case",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 51,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/travel-case.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-green"
+    ],
+    "animation": "vapor",
+    "effect": "smoke-cyan",
+    "description": "Travel Case EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "ashtray-glass",
+    "name": "Ashtray Glass",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 59,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/ashtray-glass.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-blue"
+    ],
+    "animation": "bubble",
+    "effect": "vapor-white",
+    "description": "Ashtray Glass EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "humidity-pack",
+    "name": "Humidity Pack",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 67,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/humidity-pack.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-purple"
+    ],
+    "animation": "glow-hot",
+    "effect": "bubble",
+    "description": "Humidity Pack EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "smell-proof-bag",
+    "name": "Smell Proof Bag",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 75,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/smell-proof-bag.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-pink"
+    ],
+    "animation": "shine",
+    "effect": "smoke-cyan",
+    "description": "Smell Proof Bag EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "digital-scale",
+    "name": "Digital Scale",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 83,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/digital-scale.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-gold"
+    ],
+    "animation": "vapor",
+    "effect": "vapor-white",
+    "description": "Digital Scale EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "cleaning-kit",
+    "name": "Cleaning Kit",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 35,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/cleaning-kit.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-green"
+    ],
+    "animation": "bubble",
+    "effect": "bubble",
+    "description": "Cleaning Kit EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "puffco-dock",
+    "name": "Puffco Dock",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 43,
+    "rarity": "rare",
+    "spritePath": "/sprites/furnitures/cannabis/puffco-dock.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-blue"
+    ],
+    "animation": "glow-hot",
+    "effect": "smoke-cyan",
+    "description": "Puffco Dock EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "pre-roll-tube",
+    "name": "Pre Roll Tube",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 51,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/pre-roll-tube.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-purple"
+    ],
+    "animation": "shine",
+    "effect": "vapor-white",
+    "description": "Pre Roll Tube EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "display-jar",
+    "name": "Display Jar",
+    "category": "paraphernalia",
+    "subcategory": "paraphernalia",
+    "price": 59,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/display-jar.png",
+    "tags": [
+      "paraphernalia",
+      "paraphernalia",
+      "neon-pink"
+    ],
+    "animation": "vapor",
+    "effect": "bubble",
+    "description": "Display Jar EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "strain-pack",
+    "name": "Strain Pack",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 68,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/strain-pack.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-gold"
+    ],
+    "animation": "shuffle",
+    "effect": "sparkle-multi",
+    "description": "Strain Pack EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "dab-starter-kit",
+    "name": "Dab Starter Kit",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 70,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/dab-starter-kit.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-green"
+    ],
+    "animation": "sparkle-multi",
+    "effect": "glow-green",
+    "description": "Dab Starter Kit EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "flower-sampler",
+    "name": "Flower Sampler",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 72,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/flower-sampler.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-blue"
+    ],
+    "animation": "pulse",
+    "effect": "halo-gold",
+    "description": "Flower Sampler EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "premium-terps-box",
+    "name": "Premium Terps Box",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 60,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/premium-terps-box.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-purple"
+    ],
+    "animation": "shuffle",
+    "effect": "sparkle-multi",
+    "description": "Premium Terps Box EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "night-session-pack",
+    "name": "Night Session Pack",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 62,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/night-session-pack.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-pink"
+    ],
+    "animation": "sparkle-multi",
+    "effect": "glow-green",
+    "description": "Night Session Pack EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "wake-bake-box",
+    "name": "Wake Bake Box",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 64,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/wake-bake-box.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-gold"
+    ],
+    "animation": "pulse",
+    "effect": "halo-gold",
+    "description": "Wake Bake Box EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "edible-party-pack",
+    "name": "Edible Party Pack",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 66,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/edible-party-pack.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-green"
+    ],
+    "animation": "shuffle",
+    "effect": "sparkle-multi",
+    "description": "Edible Party Pack EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "glass-collector-set",
+    "name": "Glass Collector Set",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 68,
+    "rarity": "legendary",
+    "spritePath": "/sprites/furnitures/cannabis/glass-collector-set.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-blue"
+    ],
+    "animation": "sparkle-multi",
+    "effect": "glow-green",
+    "description": "Glass Collector Set EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "starter-daily-kit",
+    "name": "Starter Daily Kit",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 70,
+    "rarity": "exotic",
+    "spritePath": "/sprites/furnitures/cannabis/starter-daily-kit.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-purple"
+    ],
+    "animation": "pulse",
+    "effect": "halo-gold",
+    "description": "Starter Daily Kit EtherWorld edition, pixel art neon collectible"
+  },
+  {
+    "id": "legendary-lounge-pack",
+    "name": "Legendary Lounge Pack",
+    "category": "bundle",
+    "subcategory": "bundle",
+    "price": 72,
+    "rarity": "epic",
+    "spritePath": "/sprites/furnitures/cannabis/legendary-lounge-pack.png",
+    "tags": [
+      "bundle",
+      "bundle",
+      "neon-pink"
+    ],
+    "animation": "shuffle",
+    "effect": "sparkle-multi",
+    "description": "Legendary Lounge Pack EtherWorld edition, pixel art neon collectible"
+  }
+]

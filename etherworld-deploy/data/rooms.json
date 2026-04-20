@@ -1,0 +1,34 @@
+[
+  {
+    "id": "spawn-suite",
+    "name": "Spawn Suite",
+    "model": "isometric-suite",
+    "tileset": "../public/assets/tiles/spawn-floor.png",
+    "spritePath": "../public/assets/rooms/spawn.png",
+    "spawn": { "x": 5, "y": 6, "direction": "south-east" },
+    "size": { "cols": 11, "rows": 9 },
+    "defaultFurniture": [
+      { "furnitureId": "furni-bed-starter", "x": 1, "y": 5, "rotation": 0 },
+      { "furnitureId": "furni-desk-starter", "x": 6, "y": 2, "rotation": 0 },
+      { "furnitureId": "furni-chair-starter", "x": 6, "y": 3, "rotation": 0 },
+      { "furnitureId": "furni-computer-starter", "x": 7, "y": 2, "rotation": 0 },
+      { "furnitureId": "furni-window-starter", "x": 7, "y": 0, "rotation": 0 },
+      { "furnitureId": "furni-lamp-starter", "x": 3, "y": 2, "rotation": 0 },
+      { "furnitureId": "furni-poster-city", "x": 2, "y": 1, "rotation": 0 }
+    ]
+  },
+  {
+    "id": "botanica-boutique",
+    "name": "Botanica Boutique",
+    "model": "isometric-boutique",
+    "tileset": "../public/assets/tiles/boutique-floor.png",
+    "spritePath": "../public/assets/rooms/botanica-boutique.png",
+    "spawn": { "x": 4, "y": 5, "direction": "south-east" },
+    "size": { "cols": 10, "rows": 8 },
+    "defaultFurniture": [
+      { "furnitureId": "furni-desk-starter", "x": 5, "y": 2, "rotation": 0 },
+      { "furnitureId": "furni-lamp-starter", "x": 1, "y": 2, "rotation": 0 },
+      { "furnitureId": "furni-poster-city", "x": 2, "y": 1, "rotation": 0 }
+    ]
+  }
+]
