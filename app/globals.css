@@ -2877,3 +2877,40 @@ body {
 .control-btn.danger:hover {
   box-shadow: 0 4px 12px rgba(220, 100, 100, 0.3);
 }
+
+/* Remote Avatar Styles */
+.remote-avatar-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  transform: translate(-50%, -100%);
+}
+
+.badge-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  background: white;
+  border: 2px solid #4169E1;
+  border-radius: 8px;
+  padding: 4px 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  min-width: 80px;
+  text-align: center;
+}
+
+.badge-name {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #2C1810;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+.badge-direction {
+  font-size: 0.8rem;
+  color: #4169E1;
+  font-weight: 700;
+}
