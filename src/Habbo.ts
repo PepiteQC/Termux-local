@@ -161,6 +161,22 @@ export default class Habbo {
 		return true
 	}
 
+	public rotateFurnitureById(id: string): number | null {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return null
+		const container = (room as unknown as {
+			roomContainer?: {
+				furnituresContainer?: {
+					furnitures?: Array<{ getItemId?: () => string; turn?: () => number | null }>
+				}
+			}
+		}).roomContainer
+		const sprites = container?.furnituresContainer?.furnitures ?? []
+		const target = sprites.find((sprite) => sprite.getItemId?.() === id)
+		if (!target?.turn) return null
+		return target.turn() ?? null
+	}
+
 	public placeHabboFurni(className: string, options?: { x?: number; y?: number; width?: number; depth?: number; direction?: number; label?: string }): boolean {
 		const room = this.roomManager.getCurrentRoom()
 		if (!room) return false

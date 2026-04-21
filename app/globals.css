@@ -1989,6 +1989,108 @@ body {
 .ew-interaction-title { font-weight: 800; }
 .ew-interaction-sub { font-size: 11px; color: #9d9bc5; }
 
+.ew-furni-menu-backdrop {
+	position: fixed;
+	inset: 0;
+	z-index: 60;
+	background: transparent;
+}
+.ew-furni-menu {
+	position: fixed;
+	width: 220px;
+	padding: 12px;
+	border-radius: 16px;
+	background: linear-gradient(180deg, rgba(38, 27, 52, 0.98) 0%, rgba(22, 15, 32, 0.98) 100%);
+	border: 1px solid rgba(255, 215, 120, 0.35);
+	box-shadow: 0 18px 42px rgba(0, 0, 0, 0.55), 0 0 0 1px rgba(255, 215, 120, 0.08) inset;
+	color: #f4ecdc;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	pointer-events: auto;
+	animation: ew-furni-menu-in 120ms ease-out;
+}
+@keyframes ew-furni-menu-in {
+	from { opacity: 0; transform: translateY(6px) scale(0.96); }
+	to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.ew-furni-menu-head {
+	display: flex; align-items: center; justify-content: space-between; gap: 8px;
+}
+.ew-furni-menu-title {
+	font-weight: 800;
+	font-size: 14px;
+	letter-spacing: 0.02em;
+	color: #ffe2a4;
+}
+.ew-furni-menu-close {
+	appearance: none;
+	width: 28px; height: 28px;
+	border-radius: 50%;
+	border: 1px solid rgba(255, 215, 120, 0.35);
+	background: rgba(0, 0, 0, 0.35);
+	color: #f4ecdc;
+	font-size: 18px;
+	line-height: 1;
+	cursor: pointer;
+	display: flex; align-items: center; justify-content: center;
+}
+.ew-furni-menu-close:hover { background: rgba(255, 215, 120, 0.18); }
+.ew-furni-menu-sub {
+	font-size: 11px;
+	color: #c7b596;
+	text-transform: lowercase;
+	letter-spacing: 0.04em;
+	opacity: 0.85;
+}
+.ew-furni-menu-action {
+	appearance: none;
+	display: flex; align-items: center; gap: 12px;
+	padding: 12px 14px;
+	min-height: 52px;
+	border-radius: 12px;
+	border: 1px solid rgba(255, 215, 120, 0.28);
+	background: rgba(44, 30, 58, 0.9);
+	color: #f4ecdc;
+	text-align: left;
+	font: inherit;
+	cursor: pointer;
+	transition: transform 80ms ease, background 120ms ease, border-color 120ms ease;
+}
+.ew-furni-menu-action:hover:not(:disabled) {
+	border-color: rgba(255, 215, 120, 0.7);
+	background: rgba(56, 38, 72, 0.95);
+}
+.ew-furni-menu-action:active:not(:disabled) { transform: scale(0.97); }
+.ew-furni-menu-action:disabled { opacity: 0.4; cursor: not-allowed; }
+.ew-furni-menu-icon { font-size: 22px; line-height: 1; }
+.ew-furni-menu-action-title { font-weight: 800; font-size: 14px; }
+.ew-furni-menu-action-sub { font-size: 11px; color: #c0aa84; margin-top: 2px; }
+.ew-furni-menu-meta {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 6px;
+	padding: 8px;
+	border-radius: 10px;
+	background: rgba(0, 0, 0, 0.28);
+	font-size: 10px;
+	color: #c0aa84;
+}
+.ew-furni-menu-meta > div {
+	display: flex; flex-direction: column; align-items: center; gap: 2px;
+}
+.ew-furni-menu-meta span { text-transform: uppercase; letter-spacing: 0.08em; opacity: 0.7; }
+.ew-furni-menu-meta strong { color: #ffe2a4; font-size: 12px; font-weight: 800; }
+
+@media (max-width: 480px) {
+	.ew-furni-menu {
+		width: calc(100vw - 32px);
+		left: 16px !important;
+	}
+	.ew-furni-menu-action { min-height: 56px; padding: 14px; }
+	.ew-furni-menu-action-title { font-size: 15px; }
+}
+
 /* Faction rail (cards horizontales) */
 .ew-faction-rail {
 	display: grid;
