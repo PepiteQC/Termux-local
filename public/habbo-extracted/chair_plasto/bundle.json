@@ -1,0 +1,387 @@
+{
+  "className": "chair_plasto",
+  "assets": {
+    "chair_plasto_64_a_0_0": {
+      "x": 21,
+      "y": 37,
+      "flipH": false
+    },
+    "chair_plasto_64_a_2_0": {
+      "x": 0,
+      "y": 45,
+      "flipH": false
+    },
+    "chair_plasto_64_a_4_0": {
+      "x": 0,
+      "y": 45,
+      "source": "chair_plasto_64_a_2_0",
+      "flipH": true
+    },
+    "chair_plasto_64_a_6_0": {
+      "x": 21,
+      "y": 37,
+      "source": "chair_plasto_64_a_0_0",
+      "flipH": true
+    },
+    "chair_plasto_64_b_0_0": {
+      "x": 22,
+      "y": 38,
+      "flipH": false
+    },
+    "chair_plasto_64_b_2_0": {
+      "x": 0,
+      "y": 46,
+      "flipH": false
+    },
+    "chair_plasto_64_b_4_0": {
+      "x": 0,
+      "y": 46,
+      "source": "chair_plasto_64_b_2_0",
+      "flipH": true
+    },
+    "chair_plasto_64_b_6_0": {
+      "x": 22,
+      "y": 38,
+      "source": "chair_plasto_64_b_0_0",
+      "flipH": true
+    },
+    "chair_plasto_64_c_0_0": {
+      "x": 21,
+      "y": 37,
+      "flipH": false
+    },
+    "chair_plasto_64_c_2_0": {
+      "x": 21,
+      "y": 45,
+      "flipH": false
+    },
+    "chair_plasto_64_c_4_0": {
+      "x": 21,
+      "y": 45,
+      "source": "chair_plasto_64_c_2_0",
+      "flipH": true
+    },
+    "chair_plasto_64_c_6_0": {
+      "x": 21,
+      "y": 37,
+      "source": "chair_plasto_64_c_0_0",
+      "flipH": true
+    },
+    "chair_plasto_64_d_0_0": {
+      "x": 22,
+      "y": 38,
+      "flipH": false
+    },
+    "chair_plasto_64_d_2_0": {
+      "x": 22,
+      "y": 46,
+      "flipH": false
+    },
+    "chair_plasto_64_d_4_0": {
+      "x": 22,
+      "y": 46,
+      "source": "chair_plasto_64_d_2_0",
+      "flipH": true
+    },
+    "chair_plasto_64_d_6_0": {
+      "x": 22,
+      "y": 38,
+      "source": "chair_plasto_64_d_0_0",
+      "flipH": true
+    },
+    "chair_plasto_64_sd_0_0": {
+      "x": 24,
+      "y": 12,
+      "flipH": false
+    },
+    "chair_plasto_64_sd_2_0": {
+      "x": 24,
+      "y": 12,
+      "source": "chair_plasto_64_sd_0_0",
+      "flipH": false
+    },
+    "chair_plasto_64_sd_4_0": {
+      "x": 24,
+      "y": 12,
+      "source": "chair_plasto_64_sd_0_0",
+      "flipH": false
+    },
+    "chair_plasto_64_sd_6_0": {
+      "x": 24,
+      "y": 12,
+      "source": "chair_plasto_64_sd_0_0",
+      "flipH": false
+    },
+    "chair_plasto_icon_a": {
+      "x": 11,
+      "y": 15,
+      "flipH": false
+    },
+    "chair_plasto_32_a_0_0": {
+      "x": 11,
+      "y": 18,
+      "flipH": false
+    },
+    "chair_plasto_32_a_2_0": {
+      "x": 2,
+      "y": 22,
+      "flipH": false
+    },
+    "chair_plasto_32_a_4_0": {
+      "x": 2,
+      "y": 22,
+      "source": "chair_plasto_32_a_2_0",
+      "flipH": true
+    },
+    "chair_plasto_32_a_6_0": {
+      "x": 11,
+      "y": 18,
+      "source": "chair_plasto_32_a_0_0",
+      "flipH": true
+    },
+    "chair_plasto_32_b_0_0": {
+      "x": 12,
+      "y": 19,
+      "flipH": false
+    },
+    "chair_plasto_32_b_2_0": {
+      "x": 3,
+      "y": 23,
+      "flipH": false
+    },
+    "chair_plasto_32_b_4_0": {
+      "x": 3,
+      "y": 23,
+      "source": "chair_plasto_32_b_2_0",
+      "flipH": true
+    },
+    "chair_plasto_32_b_6_0": {
+      "x": 12,
+      "y": 19,
+      "source": "chair_plasto_32_b_0_0",
+      "flipH": true
+    },
+    "chair_plasto_32_c_0_0": {
+      "x": 0,
+      "y": 12,
+      "flipH": false
+    },
+    "chair_plasto_32_c_2_0": {
+      "x": 11,
+      "y": 22,
+      "flipH": false
+    },
+    "chair_plasto_32_c_4_0": {
+      "x": 11,
+      "y": 22,
+      "source": "chair_plasto_32_c_2_0",
+      "flipH": true
+    },
+    "chair_plasto_32_c_6_0": {
+      "x": 0,
+      "y": 12,
+      "source": "chair_plasto_32_c_0_0",
+      "flipH": true
+    },
+    "chair_plasto_32_d_0_0": {
+      "x": 0,
+      "y": 13,
+      "flipH": false
+    },
+    "chair_plasto_32_d_2_0": {
+      "x": 12,
+      "y": 23,
+      "flipH": false
+    },
+    "chair_plasto_32_d_4_0": {
+      "x": 12,
+      "y": 23,
+      "source": "chair_plasto_32_d_2_0",
+      "flipH": true
+    },
+    "chair_plasto_32_d_6_0": {
+      "x": 0,
+      "y": 13,
+      "source": "chair_plasto_32_d_0_0",
+      "flipH": true
+    },
+    "chair_plasto_32_sd_0_0": {
+      "x": 15,
+      "y": 7,
+      "flipH": false
+    },
+    "chair_plasto_32_sd_2_0": {
+      "x": 15,
+      "y": 7,
+      "source": "chair_plasto_32_sd_0_0",
+      "flipH": false
+    },
+    "chair_plasto_32_sd_4_0": {
+      "x": 15,
+      "y": 7,
+      "source": "chair_plasto_32_sd_0_0",
+      "flipH": false
+    },
+    "chair_plasto_32_sd_6_0": {
+      "x": 15,
+      "y": 7,
+      "source": "chair_plasto_32_sd_0_0",
+      "flipH": false
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 4,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "2": {
+          "z": -3,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "3": {
+          "z": -5,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {
+          "0": {
+            "z": 133
+          },
+          "1": {
+            "z": 140
+          }
+        },
+        "2": {
+          "0": {
+            "z": -3
+          },
+          "1": {
+            "z": -5
+          }
+        },
+        "4": {
+          "0": {
+            "z": -3
+          },
+          "1": {
+            "z": -5
+          }
+        },
+        "6": {
+          "0": {
+            "z": 151
+          },
+          "1": {
+            "z": 120
+          }
+        }
+      }
+    },
+    "64": {
+      "layerCount": 4,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "2": {
+          "z": -3,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "3": {
+          "z": -5,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {
+          "0": {
+            "z": 133
+          },
+          "1": {
+            "z": 140
+          }
+        },
+        "2": {
+          "0": {
+            "z": -3
+          },
+          "1": {
+            "z": -5
+          }
+        },
+        "4": {
+          "0": {
+            "z": -3
+          },
+          "1": {
+            "z": -5
+          }
+        },
+        "6": {
+          "0": {
+            "z": 151
+          },
+          "1": {
+            "z": 120
+          }
+        }
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "index": {
+    "type": "chair_plasto",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "chair_plasto_32_a_0_0.png",
+    "chair_plasto_icon_a.png",
+    "chair_plasto_32_c_0_0.png",
+    "chair_plasto_64_c_0_0.png",
+    "chair_plasto_64_b_0_0.png",
+    "chair_plasto_64_d_0_0.png",
+    "chair_plasto_64_sd_0_0.png",
+    "chair_plasto_64_d_2_0.png",
+    "chair_plasto_32_b_2_0.png",
+    "chair_plasto_32_d_0_0.png",
+    "chair_plasto_32_b_0_0.png",
+    "chair_plasto_64_a_0_0.png",
+    "chair_plasto_32_d_2_0.png",
+    "chair_plasto_32_a_2_0.png",
+    "chair_plasto_32_c_2_0.png",
+    "chair_plasto_32_sd_0_0.png",
+    "chair_plasto_64_c_2_0.png"
+  ]
+}

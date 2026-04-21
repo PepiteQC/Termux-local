@@ -1,0 +1,219 @@
+{
+  "className": "chair_basic",
+  "assets": {
+    "chair_basic_64_a_0_0": {
+      "x": 27,
+      "y": 63,
+      "source": "chair_basic_64_a_6_0",
+      "flipH": true
+    },
+    "chair_basic_64_a_2_0": {
+      "x": 34,
+      "y": 66,
+      "flipH": false
+    },
+    "chair_basic_64_a_4_0": {
+      "x": 34,
+      "y": 66,
+      "source": "chair_basic_64_a_2_0",
+      "flipH": true
+    },
+    "chair_basic_64_a_6_0": {
+      "x": 27,
+      "y": 63,
+      "flipH": false
+    },
+    "chair_basic_64_b_2_0": {
+      "x": 14,
+      "y": 31,
+      "flipH": false
+    },
+    "chair_basic_64_b_4_0": {
+      "x": 14,
+      "y": 31,
+      "source": "chair_basic_64_b_2_0",
+      "flipH": true
+    },
+    "chair_basic_64_c_2_0": {
+      "x": 34,
+      "y": 58,
+      "flipH": false
+    },
+    "chair_basic_64_c_4_0": {
+      "x": 34,
+      "y": 58,
+      "source": "chair_basic_64_c_2_0",
+      "flipH": true
+    },
+    "chair_basic_icon_a": {
+      "x": 12,
+      "y": 15,
+      "flipH": false
+    },
+    "chair_basic_icon_b": {
+      "x": 2,
+      "y": 2,
+      "flipH": false
+    },
+    "chair_basic_32_a_0_0": {
+      "x": 15,
+      "y": 31,
+      "source": "chair_basic_32_a_6_0",
+      "flipH": true
+    },
+    "chair_basic_32_a_2_0": {
+      "x": 17,
+      "y": 32,
+      "flipH": false
+    },
+    "chair_basic_32_a_4_0": {
+      "x": 17,
+      "y": 32,
+      "source": "chair_basic_32_a_2_0",
+      "flipH": true
+    },
+    "chair_basic_32_a_6_0": {
+      "x": 15,
+      "y": 31,
+      "flipH": false
+    },
+    "chair_basic_32_b_2_0": {
+      "x": 6,
+      "y": 15,
+      "flipH": false
+    },
+    "chair_basic_32_b_4_0": {
+      "x": 6,
+      "y": 15,
+      "source": "chair_basic_32_b_2_0",
+      "flipH": true
+    },
+    "chair_basic_32_c_2_0": {
+      "x": 17,
+      "y": 28,
+      "flipH": false
+    },
+    "chair_basic_32_c_4_0": {
+      "x": 17,
+      "y": 28,
+      "source": "chair_basic_32_c_2_0",
+      "flipH": true
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 2,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 3,
+      "angle": 45,
+      "layers": {
+        "2": {
+          "z": 100,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {
+          "0": {
+            "z": 100
+          }
+        },
+        "2": {
+          "0": {
+            "z": -100
+          },
+          "1": {
+            "z": -100
+          }
+        },
+        "4": {
+          "0": {
+            "z": -100
+          },
+          "1": {
+            "z": -100
+          }
+        },
+        "6": {
+          "0": {
+            "z": 100
+          }
+        }
+      }
+    },
+    "64": {
+      "layerCount": 3,
+      "angle": 45,
+      "layers": {
+        "2": {
+          "z": 100,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {
+          "0": {
+            "z": 100
+          }
+        },
+        "2": {
+          "0": {
+            "z": -100
+          },
+          "1": {
+            "z": -100
+          }
+        },
+        "4": {
+          "0": {
+            "z": -100
+          },
+          "1": {
+            "z": -100
+          }
+        },
+        "6": {
+          "0": {
+            "z": 100
+          }
+        }
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.99
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "index": {
+    "type": "chair_basic",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "chair_basic_icon_b.png",
+    "chair_basic_icon_a.png",
+    "chair_basic_32_a_2_0.png",
+    "chair_basic_64_a_6_0.png",
+    "chair_basic_32_c_2_0.png",
+    "chair_basic_64_a_2_0.png",
+    "chair_basic_32_a_6_0.png",
+    "chair_basic_64_c_2_0.png",
+    "chair_basic_64_b_2_0.png",
+    "chair_basic_32_b_2_0.png"
+  ]
+}

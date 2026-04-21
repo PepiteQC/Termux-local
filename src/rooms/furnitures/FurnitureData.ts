@@ -93,4 +93,8 @@ export default interface FurnitureData {
 	accent?: number
 	assetPath?: string
 	walkable?: boolean
+	/** Nom de classe Habbo officielle (bundle extrait via scripts/habbo-extract.mjs). */
+	habboClassName?: string
+	/** Direction Habbo (0/2/4/6). Défaut : 2. */
+	habboDirection?: number
 }

@@ -1,16 +1,11 @@
 import { Graphics, type Texture } from 'pixi.js'
 
 import type RoomScene from '../RoomScene'
-import { TILE_HEIGHT, TILE_WIDTH } from './TileMath'
+ import { TILE_HEIGHT, TILE_SURFACE_POINTS, TILE_WIDTH } from './TileMath'
 import { getThemePalette } from '../../data/habbo/ThemeManager'
 
 export default class TileGenerator {
-	public static readonly SURFACE_POINTS = [
-		TILE_WIDTH / 2, 0,
-		TILE_WIDTH, TILE_HEIGHT / 2,
-		TILE_WIDTH / 2, TILE_HEIGHT,
-		0, TILE_HEIGHT / 2
-	]
+	public static readonly SURFACE_POINTS = TILE_SURFACE_POINTS
 
 	private readonly room: RoomScene
 	private readonly floorThickness: number
@@ -69,7 +64,7 @@ export default class TileGenerator {
 		}
 
 		graphics
-			.poly(TileGenerator.SURFACE_POINTS)
+			.poly(TILE_SURFACE_POINTS)
 			.fill({ color: palette.topColor })
 			.stroke({ color: palette.topStroke, width: 1.5 })
 

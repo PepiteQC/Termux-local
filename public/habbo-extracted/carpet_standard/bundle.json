@@ -1,0 +1,91 @@
+{
+  "className": "carpet_standard",
+  "assets": {
+    "carpet_standard_64_a_0_0": {
+      "x": 162,
+      "y": 14,
+      "flipH": false
+    },
+    "carpet_standard_64_a_2_0": {
+      "x": 162,
+      "y": 14,
+      "source": "carpet_standard_64_a_0_0",
+      "flipH": true
+    },
+    "carpet_standard_icon_a": {
+      "x": 15,
+      "y": 7,
+      "flipH": false
+    },
+    "carpet_standard_32_a_0_0": {
+      "x": 81,
+      "y": 6,
+      "flipH": false
+    },
+    "carpet_standard_32_a_2_0": {
+      "x": 81,
+      "y": 6,
+      "source": "carpet_standard_32_a_0_0",
+      "flipH": true
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 1,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": -3000,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    },
+    "64": {
+      "layerCount": 1,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": -3000,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 5,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "index": {
+    "type": "carpet_standard",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "carpet_standard_icon_a.png",
+    "carpet_standard_32_a_0_0.png",
+    "carpet_standard_64_a_0_0.png"
+  ]
+}
