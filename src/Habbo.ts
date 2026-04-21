@@ -31,6 +31,7 @@ export default class Habbo {
 	private smokeLayer: SmokePuffLayer | null = null
 	private resizeObserver: ResizeObserver | null = null
 	private windowResizeHandler: (() => void) | null = null
+	private avatarMovementEnabled = true
 
 	public async init(parentElement: HTMLElement): Promise<void> {
 		initializeHabboTheme()
@@ -153,6 +154,24 @@ export default class Habbo {
 		return true
 	}
 
+	public setAvatarMovementEnabled(enabled: boolean): void {
+		this.avatarMovementEnabled = enabled
+	}
+
+	public handleTileTap(
+		position: { x: number; y: number; height: number },
+		moveAvatar: () => void
+	): void {
+		if (typeof window !== 'undefined') {
+			window.dispatchEvent(
+				new CustomEvent('ew-tile-tap', {
+					detail: { x: position.x, y: position.y, height: position.height }
+				})
+			)
+		}
+		if (this.avatarMovementEnabled) moveAvatar()
+	}
+
 	public emitSmokeAtTile(tileX: number, tileY: number, tint: number = 0xd8d8e2, count: number = 18): boolean {
 		if (!this.smokeLayer) return false
 		const worldX = TilesContainer.getScreenX({ x: tileX, y: tileY, height: 0 })
@@ -162,19 +181,37 @@ export default class Habbo {
 	}
 
 	public rotateFurnitureById(id: string): number | null {
+		const sprite = this.findFurnitureSprite(id)
+		if (!sprite?.turn) return null
+		return sprite.turn() ?? null
+	}
+
+	public moveFurnitureById(id: string, x: number, y: number): boolean {
+		const sprite = this.findFurnitureSprite(id)
+		if (!sprite?.moveTo) return false
+		return sprite.moveTo(x, y) ?? false
+	}
+
+	private findFurnitureSprite(id: string): {
+		getItemId?: () => string
+		turn?: () => number | null
+		moveTo?: (x: number, y: number) => boolean
+	} | null {
 		const room = this.roomManager.getCurrentRoom()
 		if (!room) return null
 		const container = (room as unknown as {
 			roomContainer?: {
 				furnituresContainer?: {
-					furnitures?: Array<{ getItemId?: () => string; turn?: () => number | null }>
+					furnitures?: Array<{
+						getItemId?: () => string
+						turn?: () => number | null
+						moveTo?: (x: number, y: number) => boolean
+					}>
 				}
 			}
 		}).roomContainer
 		const sprites = container?.furnituresContainer?.furnitures ?? []
-		const target = sprites.find((sprite) => sprite.getItemId?.() === id)
-		if (!target?.turn) return null
-		return target.turn() ?? null
+		return sprites.find((sprite) => sprite.getItemId?.() === id) ?? null
 	}
 
 	public placeHabboFurni(className: string, options?: { x?: number; y?: number; width?: number; depth?: number; direction?: number; label?: string }): boolean {

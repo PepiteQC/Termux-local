@@ -82,6 +82,7 @@ function flatten(points: Point2D[]): number[] {
 export default class FurnitureSprite extends Container {
 	private readonly room: RoomScene
 	private readonly item: FurnitureData
+	private buildGeneration = 0
 
 	public constructor(room: RoomScene, item: FurnitureData) {
 		super()
@@ -94,7 +95,11 @@ export default class FurnitureSprite extends Container {
 		this.on('pointertap', this.handlePointerTap, this)
 
 		if (item.habboClassName) {
-			this.buildHabbo().catch(() => this.build())
+			const gen = ++this.buildGeneration
+			this.buildHabbo(gen).catch(() => {
+				if (gen !== this.buildGeneration) return
+				this.build()
+			})
 		} else {
 			this.build()
 		}
@@ -102,6 +107,10 @@ export default class FurnitureSprite extends Container {
 
 	public getItemId(): string {
 		return this.item.id
+	}
+
+	public getItemData(): FurnitureData {
+		return this.item
 	}
 
 	public turn(): number | null {
@@ -117,9 +126,25 @@ export default class FurnitureSprite extends Container {
 		return nextDirection
 	}
 
+	public moveTo(x: number, y: number): boolean {
+		if (!this.room.map.hasTileAt(x, y)) return false
+		this.item.x = x
+		this.item.y = y
+		this.rebuildHabbo()
+		return true
+	}
+
 	private rebuildHabbo(): void {
+		const gen = ++this.buildGeneration
 		this.removeChildren().forEach((child) => child.destroy({ children: true }))
-		this.buildHabbo().catch(() => this.build())
+		if (this.item.habboClassName) {
+			this.buildHabbo(gen).catch(() => {
+				if (gen !== this.buildGeneration) return
+				this.build()
+			})
+		} else {
+			this.build()
+		}
 	}
 
 	private handlePointerTap(event: FederatedPointerEvent): void {
@@ -144,7 +169,7 @@ export default class FurnitureSprite extends Container {
 		)
 	}
 
-	private async buildHabbo(): Promise<void> {
+	private async buildHabbo(generation: number): Promise<void> {
 		const item = this.item
 		const baseHeight = Math.max(0, this.room.map.getTileHeightAt(item.x, item.y))
 		const worldOrigin = {
@@ -157,6 +182,10 @@ export default class FurnitureSprite extends Container {
 			size: 64,
 			direction: item.habboDirection ?? 2
 		})
+		if (generation !== this.buildGeneration) {
+			container?.destroy({ children: true })
+			return
+		}
 		if (!container) {
 			this.build()
 			return
