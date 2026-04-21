@@ -162,9 +162,9 @@ export function IsoRenderer({
     ctx.clearRect(0, 0, canvasSize.width, canvasSize.height);
 
     const background = ctx.createLinearGradient(0, 0, 0, canvasSize.height);
-    background.addColorStop(0, "#121521");
-    background.addColorStop(0.45, "#0D1018");
-    background.addColorStop(1, "#080A0F");
+    background.addColorStop(0, "#C8B896");
+    background.addColorStop(0.45, "#A09070");
+    background.addColorStop(1, "#8B7D6B");
     ctx.fillStyle = background;
     ctx.fillRect(0, 0, canvasSize.width, canvasSize.height);
 

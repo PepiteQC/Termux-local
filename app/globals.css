@@ -1,9 +1,9 @@
 .ether-loader-page {
   min-height: 100vh;
   background:
-    radial-gradient(circle at top, rgba(79, 195, 247, 0.1), transparent 35%),
-    linear-gradient(180deg, #0a0a1a 0%, #050510 100%);
-  color: #e0e0e0;
+    radial-gradient(circle at top, rgba(65, 105, 225, 0.08), transparent 35%),
+    linear-gradient(180deg, #E8D5A3 0%, #D4C4A0 100%);
+  color: #2C1810;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -15,12 +15,12 @@
   text-align: center;
   padding: 40px 28px;
   border-radius: 24px;
-  background: rgba(14, 18, 38, 0.82);
-  border: 1px solid rgba(124, 77, 255, 0.18);
+  background: rgba(255, 255, 255, 0.88);
+  border: 2px solid #4169E1;
   box-shadow:
-    0 20px 80px rgba(0, 0, 0, 0.45),
-    inset 0 1px 0 rgba(255, 255, 255, 0.04);
-  backdrop-filter: blur(10px);
+    0 10px 40px rgba(65, 105, 225, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(8px);
 }
 
 .ether-loader-icon {
@@ -33,8 +33,8 @@
   font-size: clamp(2rem, 6vw, 3rem);
   font-weight: 800;
   letter-spacing: 0.35rem;
-  color: #4fc3f7;
-  text-shadow: 0 0 24px rgba(79, 195, 247, 0.45);
+  color: #4169E1;
+  text-shadow: 0 0 16px rgba(65, 105, 225, 0.3);
   margin-bottom: 8px;
 }
 
@@ -42,25 +42,25 @@
   font-size: 0.72rem;
   letter-spacing: 0.22rem;
   text-transform: uppercase;
-  color: #8f94b3;
+  color: #6B5D4F;
   margin-bottom: 34px;
 }
 
 .ether-loader-bar {
   width: 100%;
   height: 12px;
-  background: #171a33;
+  background: #E0D0B8;
   border-radius: 999px;
   overflow: hidden;
   margin-bottom: 18px;
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+  box-shadow: inset 0 0 0 1px rgba(65, 105, 225, 0.2);
 }
 
 .ether-loader-fill {
   height: 100%;
   width: 0%;
   border-radius: 999px;
-  background: linear-gradient(90deg, #4fc3f7, #7c4dff, #ff6d00);
+  background: linear-gradient(90deg, #4169E1, #FF6B35);
   transition: width 0.35s ease;
   animation: etherShimmer 2s infinite;
 }
@@ -68,14 +68,14 @@
 .ether-loader-status {
   min-height: 24px;
   font-size: 0.85rem;
-  color: #9edfff;
+  color: #4169E1;
   letter-spacing: 0.04rem;
 }
 
 .ether-loader-version {
   margin-top: 24px;
   font-size: 0.72rem;
-  color: #4e567e;
+  color: #8B7355;
 }
 
 @keyframes etherFloat {
@@ -90,15 +90,15 @@
 }
 
 :root {
-  --ew-bg: #08111d;
-  --ew-panel: rgba(10, 16, 29, 0.86);
-  --ew-card: rgba(21, 31, 53, 0.94);
-  --ew-border: rgba(135, 191, 255, 0.16);
-  --ew-ink: #edf4ff;
-  --ew-muted: #91a4c4;
-  --ew-primary: #4fc3f7;
-  --ew-accent: #7c4dff;
-  --ew-glow: 0 18px 42px rgba(0, 0, 0, 0.35);
+  --ew-bg: #D4C4A0;
+  --ew-panel: rgba(235, 225, 205, 0.92);
+  --ew-card: rgba(245, 235, 220, 0.96);
+  --ew-border: rgba(100, 149, 237, 0.3);
+  --ew-ink: #2C1810;
+  --ew-muted: #6B5D4F;
+  --ew-primary: #4169E1;
+  --ew-accent: #FF6B35;
+  --ew-glow: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
 
 * {
@@ -108,8 +108,8 @@
 body {
   margin: 0;
   background:
-    radial-gradient(circle at top, rgba(79, 195, 247, 0.12), transparent 30%),
-    linear-gradient(180deg, #07101b 0%, #04070f 100%);
+    radial-gradient(circle at top, rgba(65, 105, 225, 0.08), transparent 30%),
+    linear-gradient(180deg, #E8D5A3 0%, #D4C4A0 100%);
   color: var(--ew-ink);
   font-family: Arial, sans-serif;
 }
@@ -936,18 +936,18 @@ body {
   letter-spacing: 0.12rem;
   text-transform: uppercase;
   color: #fff;
-  background: linear-gradient(135deg, #4fc3f7 0%, #7c4dff 100%);
+  background: linear-gradient(135deg, #4169E1 0%, #FF6B35 100%);
   border: none;
   border-radius: 16px;
   cursor: pointer;
-  box-shadow: 0 12px 32px rgba(79, 195, 247, 0.3), 0 0 32px rgba(124, 77, 255, 0.2);
+  box-shadow: 0 12px 32px rgba(65, 105, 225, 0.3), 0 0 32px rgba(255, 107, 53, 0.2);
   transition: all 0.3s ease;
   margin-bottom: 16px;
 }
 
 .ether-connect-button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 16px 40px rgba(79, 195, 247, 0.4), 0 0 40px rgba(124, 77, 255, 0.3);
+  box-shadow: 0 16px 40px rgba(65, 105, 225, 0.4), 0 0 40px rgba(255, 107, 53, 0.3);
 }
 
 .ether-connect-button:active {
@@ -956,7 +956,7 @@ body {
 
 .ether-login-info {
   font-size: 0.85rem;
-  color: #8f94b3;
+  color: #6B5D4F;
   letter-spacing: 0.04rem;
 }
 
