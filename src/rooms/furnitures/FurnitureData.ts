@@ -8,6 +8,35 @@ export type FurnitureKind =
 	| 'shelf'
 	| 'sofa'
 	| 'table'
+	// Weed Shop
+	| 'counter'
+	| 'cash-register'
+	| 'jar'
+	| 'vitrine'
+	| 'neon'
+	| 'enseigne'
+	| 'weed-plant'
+	| 'dab-station'
+	| 'poster'
+	| 'chill-sofa'
+	// Dépanneur
+	| 'fridge'
+	| 'cigarette-rack'
+	| 'snack-rack'
+	| 'coffee-machine'
+	| 'magazine-rack'
+	| 'checkout'
+	| 'donut-case'
+	| 'hot-dog'
+	// Gang
+	| 'weapon-rack'
+	| 'drug-stash'
+	| 'safe'
+	| 'pool-table'
+	| 'arcade'
+	| 'bar'
+	| 'motorbike'
+	| 'gang-crate'
 
 export type FurniturePalette =
 	| 'ember'
@@ -17,6 +46,21 @@ export type FurniturePalette =
 	| 'plum'
 	| 'sand'
 	| 'slate'
+	// Weed shop
+	| 'emerald'
+	| 'neon-green'
+	| 'hash-brown'
+	// Dépanneur
+	| 'lemon'
+	| 'cream'
+	| 'steel'
+	// Gangs
+	| 'royal-blonds'
+	| 'crimson-bmf'
+	| 'gold-vagos'
+	| 'blue-crips'
+	| 'leather-motards'
+	| 'ice-quebec'
 
 export default interface FurnitureData {
 	id: string
