@@ -38,21 +38,8 @@ export default function PixiRoom() {
 
     void boot();
 
-    const resizeObserver = new ResizeObserver((entries) => {
-      const entry = entries[0];
-      if (!entry) return;
-
-      game.resize(
-        Math.max(960, Math.floor(entry.contentRect.width)),
-        Math.max(640, Math.floor(entry.contentRect.height))
-      );
-    });
-
-    resizeObserver.observe(host);
-
     return () => {
       active = false;
-      resizeObserver.disconnect();
       game.destroy();
       gameRef.current = null;
     };

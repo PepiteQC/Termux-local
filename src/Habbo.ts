@@ -29,13 +29,21 @@ export default class Habbo {
 	private currentRoomId: string | null = null
 	private host: HTMLElement | null = null
 	private smokeLayer: SmokePuffLayer | null = null
+	private resizeObserver: ResizeObserver | null = null
+	private windowResizeHandler: (() => void) | null = null
 
 	public async init(parentElement: HTMLElement): Promise<void> {
 		initializeHabboTheme()
 		this.host = parentElement
 
-		const width = Math.max(960, parentElement.clientWidth || window.innerWidth)
-		const height = Math.max(640, parentElement.clientHeight || window.innerHeight)
+		const measure = () => {
+			const rect = parentElement.getBoundingClientRect()
+			const w = Math.max(1, Math.floor(rect.width || parentElement.clientWidth || window.innerWidth))
+			const h = Math.max(1, Math.floor(rect.height || parentElement.clientHeight || window.innerHeight))
+			return { w, h }
+		}
+
+		const { w: width, h: height } = measure()
 
 		this.application = new Application()
 		await this.application.init({
@@ -86,6 +94,21 @@ export default class Habbo {
 
 		parentElement.replaceChildren(this.application.canvas)
 		this.cullManager.setViewport(this.viewport)
+
+		const applyResize = () => {
+			const { w, h } = measure()
+			if (w <= 0 || h <= 0) return
+			if (w === this.application.renderer.width && h === this.application.renderer.height) return
+			this.resize(w, h)
+		}
+
+		if (typeof ResizeObserver !== 'undefined') {
+			this.resizeObserver = new ResizeObserver(() => applyResize())
+			this.resizeObserver.observe(parentElement)
+		}
+		this.windowResizeHandler = () => applyResize()
+		window.addEventListener('resize', this.windowResizeHandler)
+		window.addEventListener('orientationchange', this.windowResizeHandler)
 
 		const initialRoomData = getRoomById(DEFAULT_ROOM_ID) ?? defaultRoomData
 		const room = this.roomManager.createRoom(initialRoomData)
@@ -160,6 +183,15 @@ export default class Habbo {
 		if (this.smokeLayer) {
 			this.smokeLayer.destroy()
 			this.smokeLayer = null
+		}
+		if (this.resizeObserver) {
+			this.resizeObserver.disconnect()
+			this.resizeObserver = null
+		}
+		if (this.windowResizeHandler && typeof window !== 'undefined') {
+			window.removeEventListener('resize', this.windowResizeHandler)
+			window.removeEventListener('orientationchange', this.windowResizeHandler)
+			this.windowResizeHandler = null
 		}
 		this.viewport?.destroy({ children: true })
 		this.application?.destroy({ removeView: true }, { children: true })
