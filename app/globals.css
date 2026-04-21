@@ -2510,3 +2510,197 @@ body {
 	font-weight: 900;
 	letter-spacing: 0.08em;
 }
+
+/* Navigator Page Styles */
+.navigator-page {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #E8D5A3 0%, #D4C4A0 100%);
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigator-container {
+  width: min(100%, 900px);
+  background: white;
+  border-radius: 24px;
+  border: 3px solid #4169E1;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.navigator-header {
+  padding: 24px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.navigator-header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.navigator-back-btn {
+  padding: 10px 16px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.navigator-back-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.navigator-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid #4169E1;
+  padding: 0 24px;
+  background: #F5F0EB;
+}
+
+.navigator-tab {
+  flex: 1;
+  padding: 14px 16px;
+  border: none;
+  background: transparent;
+  color: #6B5D4F;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  border-bottom: 3px solid transparent;
+}
+
+.navigator-tab:hover {
+  background: rgba(65, 105, 225, 0.05);
+}
+
+.navigator-tab.active {
+  color: #4169E1;
+  border-bottom-color: #4169E1;
+}
+
+.navigator-create-btn {
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.navigator-create-btn:hover {
+  transform: translateY(-2px);
+}
+
+.navigator-content {
+  padding: 24px;
+  min-height: 300px;
+}
+
+.navigator-loading,
+.navigator-error,
+.navigator-empty {
+  text-align: center;
+  padding: 40px 20px;
+  color: #6B5D4F;
+  font-size: 1.1rem;
+}
+
+.navigator-error {
+  color: #DC6464;
+}
+
+.navigator-rooms-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.navigator-room-card {
+  background: #F5F0EB;
+  border: 2px solid #4169E1;
+  border-radius: 16px;
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.navigator-room-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(65, 105, 225, 0.2);
+  border-color: #FF6B35;
+}
+
+.room-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.room-card-name {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #2C1810;
+  font-weight: 800;
+}
+
+.room-card-players {
+  font-size: 0.85rem;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 8px;
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.room-card-description {
+  margin: 0;
+  color: #6B5D4F;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.room-card-owner {
+  font-size: 0.85rem;
+  color: #9A8C7E;
+}
+
+.room-card-owner strong {
+  color: #4169E1;
+}
+
+.room-card-enter-btn {
+  padding: 10px 16px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.room-card-enter-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(65, 105, 225, 0.3);
+}
