@@ -40,7 +40,12 @@ const PALETTES: Record<FurniturePalette, FurniturePaletteSet> = {
 	'gold-vagos': { left: 0xa47b1a, outline: 0xffd96b, right: 0x7d5c10, top: 0xd9a02d },
 	'blue-crips': { left: 0x1e3a6c, outline: 0x9ac4ff, right: 0x152752, top: 0x2f5fa6 },
 	'leather-motards': { left: 0x141414, outline: 0x888888, right: 0x0a0a0a, top: 0x2a2a2a },
-	'ice-quebec': { left: 0x2c5c77, outline: 0xcef0ff, right: 0x1e4058, top: 0x4f8ba7 }
+	'ice-quebec': { left: 0x2c5c77, outline: 0xcef0ff, right: 0x1e4058, top: 0x4f8ba7 },
+
+	'acid-lab': { left: 0x1a3a2e, outline: 0xa9ffbe, right: 0x103022, top: 0x2d5f47 },
+	'violet-lab': { left: 0x352464, outline: 0xd7b7ff, right: 0x24174a, top: 0x533a95 },
+	shadow: { left: 0x0e1018, outline: 0x7b8296, right: 0x05060a, top: 0x1f2230 },
+	blood: { left: 0x3a0c0c, outline: 0xff9c9c, right: 0x1d0505, top: 0x6b1a1a }
 }
 
 function shade(color: number, amount: number): number {
@@ -437,6 +442,125 @@ export default class FurnitureSprite extends Container {
 			graphics.rect(center.x - 14, topA.y + 6, 28, 18).fill({ color: shade(palette.top, -10) }).stroke({ color: palette.outline, width: 1 })
 			graphics.rect(center.x - 14, topA.y + 6, 28, 3).fill({ color: accent })
 			graphics.rect(center.x - 2, topA.y + 12, 4, 6).fill({ color: 0x1a1a1a })
+			return
+		}
+
+		if (kind === 'bong') {
+			graphics.ellipse(center.x, topA.y + 22, 7, 6).fill({ color: 0x2a4636, alpha: 0.7 }).stroke({ color: 0x0a1810, width: 1 })
+			graphics.rect(center.x - 2, topA.y + 2, 4, 22).fill({ color: 0x2a4636, alpha: 0.6 }).stroke({ color: 0x0a1810, width: 1 })
+			graphics.rect(center.x - 3, topA.y + 0, 6, 3).fill({ color: palette.outline, alpha: 0.8 })
+			graphics.ellipse(center.x, topA.y + 22, 4, 3).fill({ color: accent, alpha: 0.6 })
+			graphics.rect(center.x - 8, topA.y + 18, 4, 2).fill({ color: 0x2a4636, alpha: 0.8 })
+			return
+		}
+
+		if (kind === 'pyrex') {
+			graphics.rect(center.x - 3, topA.y + 4, 6, 8).fill({ color: 0xd8e4f2, alpha: 0.35 }).stroke({ color: palette.outline, width: 1 })
+			graphics.circle(center.x, topA.y + 18, 8).fill({ color: 0xd8e4f2, alpha: 0.35 }).stroke({ color: palette.outline, width: 1 })
+			graphics.circle(center.x, topA.y + 18, 6).fill({ color: accent, alpha: 0.65 })
+			graphics.rect(center.x - 4, topA.y + 1, 8, 3).fill({ color: shade(accent, -30) })
+			return
+		}
+
+		if (kind === 'joint') {
+			graphics.rect(center.x - 8, topA.y + 10, 16, 2).fill({ color: 0xf2e6c4 }).stroke({ color: 0x7a6240, width: 1 })
+			graphics.rect(center.x + 6, topA.y + 9, 3, 4).fill({ color: 0xff7a2a })
+			graphics.circle(center.x + 11, topA.y + 8, 2).fill({ color: 0xe0e6ef, alpha: 0.35 })
+			graphics.circle(center.x + 13, topA.y + 6, 3).fill({ color: 0xe0e6ef, alpha: 0.25 })
+			return
+		}
+
+		if (kind === 'ashtray') {
+			graphics.ellipse(center.x, topA.y + 14, 14, 6).fill({ color: 0x1a1a1f }).stroke({ color: 0x05060a, width: 1 })
+			graphics.ellipse(center.x, topA.y + 13, 10, 4).fill({ color: 0x3a3a45 })
+			graphics.rect(center.x - 4, topA.y + 11, 6, 1).fill({ color: 0xf2e6c4 })
+			graphics.circle(center.x + 3, topA.y + 12, 1).fill({ color: 0xff7a2a })
+			return
+		}
+
+		if (kind === 'lab-table') {
+			graphics.rect(center.x - 22, topA.y + 6, 44, 8).fill({ color: shade(palette.top, 10) }).stroke({ color: palette.outline, width: 1 })
+			graphics.rect(center.x - 20, topA.y + 6, 40, 2).fill({ color: palette.outline, alpha: 0.2 })
+			// beakers on top
+			graphics.rect(center.x - 14, topA.y + 0, 6, 8).fill({ color: 0x9affc6, alpha: 0.6 }).stroke({ color: palette.outline, width: 1 })
+			graphics.rect(center.x + 2, topA.y + 0, 5, 8).fill({ color: 0xffb25a, alpha: 0.6 }).stroke({ color: palette.outline, width: 1 })
+			graphics.circle(center.x + 14, topA.y + 4, 3).fill({ color: 0xff6be0, alpha: 0.6 }).stroke({ color: palette.outline, width: 1 })
+			return
+		}
+
+		if (kind === 'hotte') {
+			graphics.rect(center.x - 20, topA.y + 2, 40, 26).fill({ color: 0x10141c }).stroke({ color: palette.outline, width: 2 })
+			graphics.rect(center.x - 18, topA.y + 4, 36, 16).fill({ color: 0x1e2a36, alpha: 0.65 })
+			graphics.rect(center.x - 16, topA.y + 20, 32, 2).fill({ color: palette.outline, alpha: 0.55 })
+			graphics.rect(center.x - 6, topA.y + 9, 5, 8).fill({ color: accent, alpha: 0.8 })
+			graphics.rect(center.x + 2, topA.y + 11, 4, 6).fill({ color: shade(accent, 30), alpha: 0.8 })
+			graphics.circle(center.x - 4, topA.y + 6, 2).fill({ color: 0xff5a5a })
+			return
+		}
+
+		if (kind === 'chemical') {
+			graphics.rect(center.x - 8, topA.y + 2, 16, 20).fill({ color: 0x1a1f2b }).stroke({ color: palette.outline, width: 1 })
+			graphics.rect(center.x - 6, topA.y + 4, 4, 7).fill({ color: accent, alpha: 0.85 })
+			graphics.rect(center.x - 1, topA.y + 4, 4, 7).fill({ color: 0xff8a8a, alpha: 0.8 })
+			graphics.rect(center.x + 4, topA.y + 4, 3, 7).fill({ color: 0xf0d25a, alpha: 0.8 })
+			graphics.rect(center.x - 6, topA.y + 13, 4, 7).fill({ color: 0x9affc6, alpha: 0.8 })
+			graphics.rect(center.x - 1, topA.y + 13, 4, 7).fill({ color: 0xb8a6ff, alpha: 0.8 })
+			return
+		}
+
+		if (kind === 'scale') {
+			graphics.rect(center.x - 10, topA.y + 10, 20, 6).fill({ color: 0x1a1a1f }).stroke({ color: 0x05060a, width: 1 })
+			graphics.rect(center.x - 8, topA.y + 12, 12, 2).fill({ color: accent, alpha: 0.9 })
+			graphics.rect(center.x + 4, topA.y + 11, 4, 3).fill({ color: 0xb0b0b8 })
+			graphics.rect(center.x - 4, topA.y + 4, 8, 6).fill({ color: 0xe6e6ec, alpha: 0.9 }).stroke({ color: 0x2a2a2a, width: 1 })
+			return
+		}
+
+		if (kind === 'lab-cabinet') {
+			graphics.rect(center.x - 16, topA.y + 2, 32, 28).fill({ color: 0x0f1620 }).stroke({ color: palette.outline, width: 2 })
+			graphics.rect(center.x - 14, topA.y + 4, 13, 24).fill({ color: palette.top, alpha: 0.25 }).stroke({ color: palette.outline, width: 1 })
+			graphics.rect(center.x + 1, topA.y + 4, 13, 24).fill({ color: palette.top, alpha: 0.25 }).stroke({ color: palette.outline, width: 1 })
+			for (let i = 0; i < 3; i++) {
+				graphics.rect(center.x - 12, topA.y + 6 + i * 7, 9, 5).fill({ color: [accent, 0xff8a8a, 0x9affc6][i], alpha: 0.85 })
+				graphics.rect(center.x + 3, topA.y + 6 + i * 7, 9, 5).fill({ color: [0xb8a6ff, 0xf0d25a, 0xffa3ff][i], alpha: 0.85 })
+			}
+			return
+		}
+
+		if (kind === 'market-stand') {
+			graphics.rect(center.x - 22, topA.y + 10, 44, 8).fill({ color: shade(palette.top, -10) }).stroke({ color: palette.outline, width: 1 })
+			graphics.poly([
+				center.x - 24, topA.y + 4,
+				center.x + 24, topA.y + 4,
+				center.x + 20, topA.y - 6,
+				center.x - 20, topA.y - 6
+			]).fill({ color: accent, alpha: 0.85 }).stroke({ color: palette.outline, width: 1 })
+			for (let i = 0; i < 5; i++) {
+				graphics.rect(center.x - 22 + i * 10, topA.y - 4, 4, 8).fill({ color: i % 2 === 0 ? palette.outline : accent, alpha: 0.75 })
+			}
+			graphics.rect(center.x - 16, topA.y + 12, 6, 4).fill({ color: 0x9affc6 })
+			graphics.rect(center.x - 6, topA.y + 12, 6, 4).fill({ color: 0xffa3ff })
+			graphics.rect(center.x + 4, topA.y + 12, 6, 4).fill({ color: 0xf0d25a })
+			graphics.rect(center.x + 14, topA.y + 12, 4, 4).fill({ color: 0xff8a8a })
+			return
+		}
+
+		if (kind === 'npc-vendor') {
+			graphics.ellipse(center.x, topA.y + 24, 8, 4).fill({ color: 0x000000, alpha: 0.25 })
+			graphics.rect(center.x - 4, topA.y + 12, 8, 12).fill({ color: shade(palette.top, -10) }).stroke({ color: palette.outline, width: 1 })
+			graphics.circle(center.x, topA.y + 10, 4).fill({ color: 0xe8c49a }).stroke({ color: 0x3a2010, width: 1 })
+			graphics.rect(center.x - 4, topA.y + 5, 8, 3).fill({ color: accent })
+			graphics.circle(center.x - 1, topA.y + 10, 0.8).fill({ color: 0x0a0a0a })
+			graphics.circle(center.x + 2, topA.y + 10, 0.8).fill({ color: 0x0a0a0a })
+			return
+		}
+
+		if (kind === 'price-board') {
+			graphics.rect(center.x - 18, topA.y + 2, 36, 22).fill({ color: 0x0a0a10 }).stroke({ color: accent, width: 2 })
+			for (let i = 0; i < 4; i++) {
+				graphics.rect(center.x - 16, topA.y + 5 + i * 5, 20, 1).fill({ color: accent, alpha: 0.85 })
+				graphics.rect(center.x - 4, topA.y + 5 + i * 5, 12, 1).fill({ color: palette.outline, alpha: 0.65 })
+			}
 			return
 		}
 

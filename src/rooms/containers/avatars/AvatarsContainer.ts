@@ -20,4 +20,10 @@ export default class AvatarsContainer extends Container {
 	public movePrimaryAvatarTo(heightMapPosition: HeightMapPosition): void {
 		this.avatars[0]?.moveToTile(heightMapPosition)
 	}
+
+	public getPrimaryAvatarPosition(): HeightMapPosition | null {
+		const avatar = this.avatars[0]
+		if (!avatar) return null
+		return avatar.getCurrentTile()
+	}
 }

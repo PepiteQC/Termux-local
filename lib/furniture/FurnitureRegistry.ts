@@ -131,6 +131,16 @@ export const FURNITURE_REGISTRY: Record<FurnitureType, FurnitureDefinition> = {
     sprite: "shop-counter-corner",
     spriteUrl: `${SHOP}/shop-counter-corner.svg`,
     storagePath: "sprites/furnitures/shop/shop-counter-corner.svg",
+    width: 2,
+    depth: 2,
+    height: 1,
+    offsetX: 0,
+    offsetY: 6,
+    walkable: false,
+    drawWidth: 100,
+    drawHeight: 64,
+    glow: "rgba(95, 225, 142, 0.35)"
+  },
   "window-city-wide": {
     id: "window-city-wide",
     name: "window-city-wide",

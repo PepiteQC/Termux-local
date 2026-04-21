@@ -37,6 +37,19 @@ export type FurnitureKind =
 	| 'bar'
 	| 'motorbike'
 	| 'gang-crate'
+	// Fumerie + lab + marché noir
+	| 'bong'
+	| 'pyrex'
+	| 'joint'
+	| 'ashtray'
+	| 'lab-table'
+	| 'hotte'
+	| 'chemical'
+	| 'scale'
+	| 'lab-cabinet'
+	| 'market-stand'
+	| 'npc-vendor'
+	| 'price-board'
 
 export type FurniturePalette =
 	| 'ember'
@@ -61,6 +74,11 @@ export type FurniturePalette =
 	| 'blue-crips'
 	| 'leather-motards'
 	| 'ice-quebec'
+	// Lab / marché noir
+	| 'acid-lab'
+	| 'violet-lab'
+	| 'shadow'
+	| 'blood'
 
 export default interface FurnitureData {
 	id: string

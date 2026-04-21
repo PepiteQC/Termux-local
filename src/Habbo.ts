@@ -7,6 +7,9 @@ import { getRoomById, getRoomSummary, DEFAULT_ROOM_ID } from './rooms/data/rooms
 import RoomManager from './rooms/RoomManager'
 import RoomScene from './rooms/RoomScene'
 import { initializeHabboTheme } from './data/habbo/initTheme'
+import GangState from './gang/GangState'
+import SmokePuffLayer from './effects/SmokePuff'
+import TilesContainer from './rooms/containers/tiles/TilesContainer'
 
 if (typeof window !== 'undefined') {
 	console.log('[Habbo] Module loaded')
@@ -18,11 +21,14 @@ export default class Habbo {
 	public application!: Application
 	public viewport!: Viewport
 
+	public readonly gangState = new GangState()
+
 	private readonly cullManager = new CullManager()
 	private readonly roomManager = new RoomManager(this)
 	private currentRoom: RoomScene | null = null
 	private currentRoomId: string | null = null
 	private host: HTMLElement | null = null
+	private smokeLayer: SmokePuffLayer | null = null
 
 	public async init(parentElement: HTMLElement): Promise<void> {
 		initializeHabboTheme()
@@ -86,6 +92,10 @@ export default class Habbo {
 		this.roomManager.setRoom(room)
 		this.currentRoomId = initialRoomData.id
 
+		this.smokeLayer = new SmokePuffLayer()
+		this.viewport.addChild(this.smokeLayer)
+		this.gangState.startTicks()
+
 		if (typeof window !== 'undefined') {
 			;(window as unknown as { __habbo?: Habbo }).__habbo = this
 			window.dispatchEvent(new CustomEvent('ew-room-change', { detail: { id: this.currentRoomId } }))
@@ -120,11 +130,46 @@ export default class Habbo {
 		return true
 	}
 
+	public emitSmokeAtTile(tileX: number, tileY: number, tint: number = 0xd8d8e2, count: number = 18): boolean {
+		if (!this.smokeLayer) return false
+		const worldX = TilesContainer.getScreenX({ x: tileX, y: tileY, height: 0 })
+		const worldY = TilesContainer.getScreenY({ x: tileX, y: tileY, height: 0 }) - 40
+		this.smokeLayer.emitAt(worldX, worldY, count, tint)
+		return true
+	}
+
+	public emitSmokeAtPrimaryAvatar(tint: number = 0xd8d8e2, count: number = 18): boolean {
+		const room = this.roomManager.getCurrentRoom() as unknown as {
+			roomContainer?: {
+				avatarsContainer?: {
+					getPrimaryAvatarPosition?: () => { x: number; y: number; height: number } | null
+				}
+			}
+		} | null
+		const position = room?.roomContainer?.avatarsContainer?.getPrimaryAvatarPosition?.()
+		if (position) {
+			return this.emitSmokeAtTile(position.x, position.y, tint, count)
+		}
+		// fallback: puff somewhere in the middle of the room
+		return this.emitSmokeAtTile(5, 5, tint, count)
+	}
+
 	public destroy(): void {
+		this.gangState.stopTicks()
 		this.currentRoom = null
+		if (this.smokeLayer) {
+			this.smokeLayer.destroy()
+			this.smokeLayer = null
+		}
 		this.viewport?.destroy({ children: true })
 		this.application?.destroy({ removeView: true }, { children: true })
 		this.host = null
+		if (typeof window !== 'undefined') {
+			const bag = window as unknown as { __habbo?: Habbo }
+			if (bag.__habbo === this) {
+				bag.__habbo = undefined
+			}
+		}
 	}
 
 	public loadRoom(room: RoomScene): void {
