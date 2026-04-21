@@ -62,13 +62,13 @@ export async function buildHabboFurniContainer(opts: BuildOptions): Promise<Cont
   const layerInfos = sized?.layers ?? {}
   const dirOverrides = sized?.directions?.[direction.toString()] ?? {}
 
-  // Shadow first (z=-10)
-  await addLayer(container, bundle, className, size, 'sd', direction, frame, { z: -10, alpha: 0.4 })
+  // Shadow first (z=-10). alpha est exprimé en 0-255 (même échelle que les XML Habbo).
+  await addLayer(container, bundle, className, size, 'sd', direction, frame, { z: -10, alpha: 102 })
 
   for (let li = 0; li < layerCount; li++) {
     const letter = layerLetter(li)
-    const baseInfo = layerInfos[(li + 1).toString()] ?? layerInfos[li.toString()] ?? {}
-    const dirInfo = dirOverrides[(li + 1).toString()] ?? dirOverrides[li.toString()] ?? {}
+    const baseInfo = layerInfos[li.toString()] ?? {}
+    const dirInfo = dirOverrides[li.toString()] ?? {}
     await addLayer(container, bundle, className, size, letter, direction, frame, {
       z: dirInfo.z ?? baseInfo.z ?? li,
       dx: dirInfo.x,
