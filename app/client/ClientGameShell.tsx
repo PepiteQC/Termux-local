@@ -1,6 +1,6 @@
 "use client"
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react"
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 
 type RoomSummary = {
 	id: string
@@ -1083,6 +1083,8 @@ function FurnitureActionMenu({
 		w: typeof window === "undefined" ? 1024 : window.innerWidth,
 		h: typeof window === "undefined" ? 768 : window.innerHeight
 	}))
+	const menuRef = useRef<HTMLDivElement | null>(null)
+	const [measuredHeight, setMeasuredHeight] = useState<number | null>(null)
 
 	useEffect(() => {
 		const onResize = () => setViewport({ w: window.innerWidth, h: window.innerHeight })
@@ -1090,8 +1092,12 @@ function FurnitureActionMenu({
 		return () => window.removeEventListener("resize", onResize)
 	}, [])
 
+	useLayoutEffect(() => {
+		if (menuRef.current) setMeasuredHeight(menuRef.current.offsetHeight)
+	}, [detail.id])
+
 	const menuWidth = 220
-	const menuHeight = 280
+	const menuHeight = measuredHeight ?? 400
 	const margin = 16
 	const left = Math.max(margin, Math.min(detail.clientX - menuWidth / 2, viewport.w - menuWidth - margin))
 	const top = Math.max(margin, Math.min(detail.clientY - menuHeight - 12, viewport.h - menuHeight - margin))
@@ -1099,6 +1105,7 @@ function FurnitureActionMenu({
 	return (
 		<div className="ew-furni-menu-backdrop" onClick={onClose}>
 			<div
+				ref={menuRef}
 				className="ew-furni-menu"
 				role="dialog"
 				aria-label={`Actions pour ${detail.label}`}
