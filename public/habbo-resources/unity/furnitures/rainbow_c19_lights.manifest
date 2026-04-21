@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 761096668
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc25c3b8b3591657558518805984699f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_64_a_0_0.png
+- Assets/Live/rainbow_c19_lights/flash/manifest.xml
+- Assets/Live/rainbow_c19_lights/flash/index.xml
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_64_c_0_0.png
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_64_b_0_0.png
+- Assets/Live/rainbow_c19_lights/rainbow_c19_lights.xml
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_icon_a.png
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_visualization.xml
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_64_sd_0_0.png
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_assets.xml
+- Assets/Live/rainbow_c19_lights/flash/rainbow_c19_lights_logic.xml
+Dependencies: []

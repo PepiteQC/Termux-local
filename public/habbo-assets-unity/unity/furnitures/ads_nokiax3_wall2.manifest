@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4159005532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3a3465fb933068e8156b4a7709594e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_nokiax3_wall2/flash/ads_nokiax3_wall2_assets.xml
+- Assets/Live/ads_nokiax3_wall2/ads_nokiax3_wall2.xml
+- Assets/Live/ads_nokiax3_wall2/flash/manifest.xml
+- Assets/Live/ads_nokiax3_wall2/flash/index.xml
+- Assets/Live/ads_nokiax3_wall2/flash/ads_nokiax3_wall2_logic.xml
+- Assets/Live/ads_nokiax3_wall2/flash/ads_nokiax3_wall2_64_a_4_0.png
+- Assets/Live/ads_nokiax3_wall2/flash/ads_nokiax3_wall2_icon_a.png
+- Assets/Live/ads_nokiax3_wall2/flash/ads_nokiax3_wall2_visualization.xml
+Dependencies: []

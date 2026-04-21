@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2357253308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a203a26e85f84ad71d1e840884450e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_holographicdress/flash/index.xml
+- Assets/Live/clothing_holographicdress/flash/clothing_holographicdress_icon_a.png
+- Assets/Live/clothing_holographicdress/flash/clothing_holographicdress_assets.xml
+- Assets/Live/clothing_holographicdress/flash/manifest.xml
+- Assets/Live/clothing_holographicdress/flash/clothing_holographicdress_visualization.xml
+- Assets/Live/clothing_holographicdress/flash/clothing_holographicdress_logic.xml
+- Assets/Live/clothing_holographicdress/flash/clothing_holographicdress_64_a_0_0.png
+- Assets/Live/clothing_holographicdress/clothing_holographicdress.xml
+Dependencies: []

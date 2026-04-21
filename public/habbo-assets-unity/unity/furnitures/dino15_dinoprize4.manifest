@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 471855837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e048926229d7817443f409d7ce032f6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino15_dinoprize4/flash/dino15_dinoprize4_logic.xml
+- Assets/Live/dino15_dinoprize4/flash/dino15_dinoprize4_visualization.xml
+- Assets/Live/dino15_dinoprize4/flash/dino15_dinoprize4_icon_a.png
+- Assets/Live/dino15_dinoprize4/dino15_dinoprize4.xml
+- Assets/Live/dino15_dinoprize4/flash/dino15_dinoprize4_assets.xml
+- Assets/Live/dino15_dinoprize4/flash/index.xml
+- Assets/Live/dino15_dinoprize4/flash/dino15_dinoprize4_64_a_4_0.png
+- Assets/Live/dino15_dinoprize4/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1771469976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c80e8f18ebe7d1f9dfd627a5757b1264
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_64_a_0_0.png
+- Assets/Live/rainbow_c21_balloonarch/flash/manifest.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_64_b_0_0.png
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_visualization.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/index.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_64_sd_0_0.png
+- Assets/Live/rainbow_c21_balloonarch/rainbow_c21_balloonarch.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_logic.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_assets.xml
+- Assets/Live/rainbow_c21_balloonarch/flash/rainbow_c21_balloonarch_icon_a.png
+Dependencies: []

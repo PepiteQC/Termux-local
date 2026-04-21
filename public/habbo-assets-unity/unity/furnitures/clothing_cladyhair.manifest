@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 512995599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 087adb77c8d7ced8f4477ef37e8d3f14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_logic.xml
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_visualization.xml
+- Assets/Live/clothing_cladyhair/flash/index.xml
+- Assets/Live/clothing_cladyhair/clothing_cladyhair.xml
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_icon_a.png
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_64_a_0_0.png
+- Assets/Live/clothing_cladyhair/flash/manifest.xml
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_64_a_0_1.png
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_assets.xml
+- Assets/Live/clothing_cladyhair/flash/clothing_cladyhair_64_sd_0_0.png
+Dependencies: []

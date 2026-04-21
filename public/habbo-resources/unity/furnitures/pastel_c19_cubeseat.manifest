@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2145744751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c92f6fa60353b012f94a3fb653f2ed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_visualization.xml
+- Assets/Live/pastel_c19_cubeseat/pastel_c19_cubeseat.xml
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_64_a_0_1.png
+- Assets/Live/pastel_c19_cubeseat/flash/index.xml
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_logic.xml
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_64_a_0_0.png
+- Assets/Live/pastel_c19_cubeseat/flash/manifest.xml
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_assets.xml
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_64_sd_0_0.png
+- Assets/Live/pastel_c19_cubeseat/flash/pastel_c19_cubeseat_icon_a.png
+Dependencies: []

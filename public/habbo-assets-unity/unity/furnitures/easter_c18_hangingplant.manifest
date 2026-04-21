@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3972111867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea18f63df6c940b59c51579b8c8b57c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_hangingplant/flash/index.xml
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_64_a_0_1.png
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_64_a_0_2.png
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_icon_a.png
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_visualization.xml
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_logic.xml
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_64_sd_0_0.png
+- Assets/Live/easter_c18_hangingplant/flash/manifest.xml
+- Assets/Live/easter_c18_hangingplant/easter_c18_hangingplant.xml
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_64_a_0_0.png
+- Assets/Live/easter_c18_hangingplant/flash/easter_c18_hangingplant_assets.xml
+Dependencies: []

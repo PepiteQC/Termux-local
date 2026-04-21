@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2633928264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9240a0bdf1346df5ecfe90e998eaf5a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_girlcoatrack/flash/index.xml
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_64_a_4_0.png
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_64_a_4_2.png
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_assets.xml
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_icon_a.png
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_visualization.xml
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_logic.xml
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_64_a_4_3.png
+- Assets/Live/uni_girlcoatrack/flash/uni_girlcoatrack_64_a_4_1.png
+- Assets/Live/uni_girlcoatrack/uni_girlcoatrack.xml
+- Assets/Live/uni_girlcoatrack/flash/manifest.xml
+Dependencies: []

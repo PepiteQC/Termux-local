@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 152390544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f77fc25a1e5fc4b8b68b5202560e7cdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_neoncoral1/flash/manifest.xml
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_icon_a.png
+- Assets/Live/coralking_c18_neoncoral1/flash/index.xml
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_visualization.xml
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_assets.xml
+- Assets/Live/coralking_c18_neoncoral1/coralking_c18_neoncoral1.xml
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_64_sd_0_0.png
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_64_a_0_0.png
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_64_a_0_1.png
+- Assets/Live/coralking_c18_neoncoral1/flash/coralking_c18_neoncoral1_logic.xml
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 274009943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6f1daddeda299da3c2cea054441f032
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_6.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_0.png
+- Assets/Live/gold_c15_arc_lamp/flash/index.xml
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_4.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_4.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_5.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_assets.xml
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_1.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_0.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_2.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_logic.xml
+- Assets/Live/gold_c15_arc_lamp/gold_c15_arc_lamp.xml
+- Assets/Live/gold_c15_arc_lamp/flash/manifest.xml
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_3.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_3.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_icon_a.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_visualization.xml
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_5.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_c_0_1.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_b_0_2.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_a_0_0.png
+- Assets/Live/gold_c15_arc_lamp/flash/gold_c15_arc_lamp_64_a_0_1.png
+Dependencies: []

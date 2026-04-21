@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 608766820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 473012be51bc8c2677b8d6f8310f8f89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_12.png
+- Assets/Live/xmas_ltd19_icethrone/xmas_ltd19_icethrone.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_a_4_0.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_sd_4_0.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_7.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_11.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_5.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_3.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_visualization.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_9.png
+- Assets/Live/xmas_ltd19_icethrone/flash/index.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_1.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_assets.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_logic.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_b_4_0.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_0.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_6.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_15.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_icon_a.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_8.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_2.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_10.png
+- Assets/Live/xmas_ltd19_icethrone/flash/manifest.xml
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_4.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_14.png
+- Assets/Live/xmas_ltd19_icethrone/flash/xmas_ltd19_icethrone_64_c_4_13.png
+Dependencies: []

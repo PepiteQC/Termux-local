@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1900673505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be8b440e9a55c2545e2f43a7da82944f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_newzealand/flash/flag_newzealand_icon_a.png
+- Assets/Live/flag_newzealand/flash/flag_newzealand_64_a_2_0.png
+- Assets/Live/flag_newzealand/flag_newzealand.xml
+- Assets/Live/flag_newzealand/flash/manifest.xml
+- Assets/Live/flag_newzealand/flash/flag_newzealand_visualization.xml
+- Assets/Live/flag_newzealand/flash/flag_newzealand_64_a_4_0.png
+- Assets/Live/flag_newzealand/flash/index.xml
+- Assets/Live/flag_newzealand/flash/flag_newzealand_logic.xml
+- Assets/Live/flag_newzealand/flash/flag_newzealand_assets.xml
+Dependencies: []

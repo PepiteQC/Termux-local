@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2606618920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90d3d7590f2ffbd6931627fc6684fde2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pillow_bronze/flash/pillow_bronze_icon_a.png
+- Assets/Live/pillow_bronze/flash/pillow_bronze_assets.xml
+- Assets/Live/pillow_bronze/flash/pillow_bronze_64_a_0_0.png
+- Assets/Live/pillow_bronze/flash/pillow_bronze_64_sd_0_0.png
+- Assets/Live/pillow_bronze/flash/manifest.xml
+- Assets/Live/pillow_bronze/flash/pillow_bronze_visualization.xml
+- Assets/Live/pillow_bronze/pillow_bronze.xml
+- Assets/Live/pillow_bronze/flash/pillow_bronze_logic.xml
+- Assets/Live/pillow_bronze/flash/index.xml
+Dependencies: []

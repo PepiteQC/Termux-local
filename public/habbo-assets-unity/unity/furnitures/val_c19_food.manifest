@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1130022692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02fd55b95be7bcedff314d2479eb0b10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_c19_food/flash/val_c19_food_64_a_0_1.png
+- Assets/Live/val_c19_food/flash/manifest.xml
+- Assets/Live/val_c19_food/flash/val_c19_food_64_a_0_2.png
+- Assets/Live/val_c19_food/flash/index.xml
+- Assets/Live/val_c19_food/flash/val_c19_food_icon_a.png
+- Assets/Live/val_c19_food/val_c19_food.xml
+- Assets/Live/val_c19_food/flash/val_c19_food_assets.xml
+- Assets/Live/val_c19_food/flash/val_c19_food_visualization.xml
+- Assets/Live/val_c19_food/flash/val_c19_food_64_a_0_0.png
+- Assets/Live/val_c19_food/flash/val_c19_food_64_sd_0_0.png
+- Assets/Live/val_c19_food/flash/val_c19_food_logic.xml
+Dependencies: []

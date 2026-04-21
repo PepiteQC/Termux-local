@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 171027447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edcb58a94b9858308bd91553303ec403
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_tiedyehoodie/flash/clothing_tiedyehoodie_64_a_0_0.png
+- Assets/Live/clothing_tiedyehoodie/flash/index.xml
+- Assets/Live/clothing_tiedyehoodie/flash/clothing_tiedyehoodie_visualization.xml
+- Assets/Live/clothing_tiedyehoodie/flash/clothing_tiedyehoodie_logic.xml
+- Assets/Live/clothing_tiedyehoodie/flash/clothing_tiedyehoodie_assets.xml
+- Assets/Live/clothing_tiedyehoodie/flash/clothing_tiedyehoodie_icon_a.png
+- Assets/Live/clothing_tiedyehoodie/clothing_tiedyehoodie.xml
+- Assets/Live/clothing_tiedyehoodie/flash/manifest.xml
+Dependencies: []

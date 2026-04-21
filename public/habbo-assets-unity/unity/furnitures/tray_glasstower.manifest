@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1172274589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3467a1c24f6a8bfd2cd3e105059770a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tray_glasstower/flash/tray_glasstower_logic.xml
+- Assets/Live/tray_glasstower/flash/tray_glasstower_assets.xml
+- Assets/Live/tray_glasstower/flash/tray_glasstower_icon_a.png
+- Assets/Live/tray_glasstower/flash/manifest.xml
+- Assets/Live/tray_glasstower/flash/tray_glasstower_64_sd_2_0.png
+- Assets/Live/tray_glasstower/flash/tray_glasstower_visualization.xml
+- Assets/Live/tray_glasstower/flash/index.xml
+- Assets/Live/tray_glasstower/flash/tray_glasstower_64_a_2_0.png
+- Assets/Live/tray_glasstower/flash/tray_glasstower_64_a_2_1.png
+- Assets/Live/tray_glasstower/tray_glasstower.xml
+Dependencies: []

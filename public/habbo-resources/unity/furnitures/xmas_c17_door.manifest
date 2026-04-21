@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2478071521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0018334359b451dae33080253b875e4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_c_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_g_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_c_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_b_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_d_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_i_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_i_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_h_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_a_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_f_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_h_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_b_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_d_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_logic.xml
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_g_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_h_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_f_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_b_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_c_2_0.png
+- Assets/Live/xmas_c17_door/flash/manifest.xml
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_i_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_i_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_f_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_c_2_1.png
+- Assets/Live/xmas_c17_door/flash/index.xml
+- Assets/Live/xmas_c17_door/xmas_c17_door.xml
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_icon_a.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_g_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_f_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_d_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_h_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_a_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_b_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_e_0_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_d_2_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_g_0_1.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_visualization.xml
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_64_e_2_0.png
+- Assets/Live/xmas_c17_door/flash/xmas_c17_door_assets.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2630788128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8f6d2f3d6922da34eb3a58559b9b1c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/eco_chair1/flash/eco_chair1_assets.xml
+- Assets/Live/eco_chair1/flash/eco_chair1_visualization.xml
+- Assets/Live/eco_chair1/flash/manifest.xml
+- Assets/Live/eco_chair1/flash/eco_chair1_64_sd_0_0.png
+- Assets/Live/eco_chair1/flash/eco_chair1_64_a_0_0.png
+- Assets/Live/eco_chair1/flash/index.xml
+- Assets/Live/eco_chair1/flash/eco_chair1_logic.xml
+- Assets/Live/eco_chair1/eco_chair1.xml
+- Assets/Live/eco_chair1/flash/eco_chair1_icon_a.png
+- Assets/Live/eco_chair1/flash/eco_chair1_64_b_0_0.png
+Dependencies: []

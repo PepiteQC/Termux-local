@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1721764432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f8824236699e695f097f40e8a2ab38a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_eggearrings/flash/manifest.xml
+- Assets/Live/clothing_nt_eggearrings/flash/clothing_nt_eggearrings_assets.xml
+- Assets/Live/clothing_nt_eggearrings/flash/clothing_nt_eggearrings_logic.xml
+- Assets/Live/clothing_nt_eggearrings/clothing_nt_eggearrings.xml
+- Assets/Live/clothing_nt_eggearrings/flash/index.xml
+- Assets/Live/clothing_nt_eggearrings/flash/clothing_nt_eggearrings_visualization.xml
+- Assets/Live/clothing_nt_eggearrings/flash/clothing_nt_eggearrings_64_a_0_0.png
+- Assets/Live/clothing_nt_eggearrings/flash/clothing_nt_eggearrings_icon_a.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 239814894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce349bebf5fa079a6ff0d63530d8cfbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/solarium_norja/flash/index.xml
+- Assets/Live/solarium_norja/flash/solarium_norja_icon_b.png
+- Assets/Live/solarium_norja/flash/solarium_norja_64_a_4_0.png
+- Assets/Live/solarium_norja/flash/solarium_norja_assets.xml
+- Assets/Live/solarium_norja/solarium_norja.xml
+- Assets/Live/solarium_norja/flash/solarium_norja_64_sd_4_0.png
+- Assets/Live/solarium_norja/flash/solarium_norja_icon_a.png
+- Assets/Live/solarium_norja/flash/solarium_norja_visualization.xml
+- Assets/Live/solarium_norja/flash/solarium_norja_logic.xml
+- Assets/Live/solarium_norja/flash/solarium_norja_64_b_4_0.png
+- Assets/Live/solarium_norja/flash/solarium_norja_64_c_4_0.png
+- Assets/Live/solarium_norja/flash/manifest.xml
+Dependencies: []

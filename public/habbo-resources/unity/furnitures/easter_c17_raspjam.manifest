@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1220796076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb6c27ca69863110b951dde2cdaf0efa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_64_sd_0_0.png
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_assets.xml
+- Assets/Live/easter_c17_raspjam/flash/manifest.xml
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_logic.xml
+- Assets/Live/easter_c17_raspjam/easter_c17_raspjam.xml
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_visualization.xml
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_64_a_0_0.png
+- Assets/Live/easter_c17_raspjam/flash/index.xml
+- Assets/Live/easter_c17_raspjam/flash/easter_c17_raspjam_icon_a.png
+Dependencies: []

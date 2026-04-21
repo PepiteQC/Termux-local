@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1972257218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7201329331557102b0aaecdb3b6775a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_64_a_0_2.png
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_icon_a.png
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_64_a_0_0.png
+- Assets/Live/xmas11_balloon3/flash/manifest.xml
+- Assets/Live/xmas11_balloon3/xmas11_balloon3.xml
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_logic.xml
+- Assets/Live/xmas11_balloon3/flash/index.xml
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_visualization.xml
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_assets.xml
+- Assets/Live/xmas11_balloon3/flash/xmas11_balloon3_64_a_0_1.png
+Dependencies: []

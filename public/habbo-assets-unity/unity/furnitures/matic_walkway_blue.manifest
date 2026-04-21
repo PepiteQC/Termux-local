@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2974657721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10734928390dd8bd3e093d96dc2f1170
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_walkway_blue/flash/index.xml
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_64_a_0_0.png
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_visualization.xml
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_64_sd_0_0.png
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_logic.xml
+- Assets/Live/matic_walkway_blue/flash/manifest.xml
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_icon_a.png
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_64_b_0_0.png
+- Assets/Live/matic_walkway_blue/matic_walkway_blue.xml
+- Assets/Live/matic_walkway_blue/flash/matic_walkway_blue_assets.xml
+Dependencies: []

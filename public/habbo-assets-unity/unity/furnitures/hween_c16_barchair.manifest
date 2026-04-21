@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1851229464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdee9707bd5b9dcc10ac442fe1c29891
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_barchair/hween_c16_barchair.xml
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_64_a_0_1.png
+- Assets/Live/hween_c16_barchair/flash/index.xml
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_64_a_0_0.png
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_logic.xml
+- Assets/Live/hween_c16_barchair/flash/manifest.xml
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_64_sd_0_0.png
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_assets.xml
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_visualization.xml
+- Assets/Live/hween_c16_barchair/flash/hween_c16_barchair_icon_a.png
+Dependencies: []

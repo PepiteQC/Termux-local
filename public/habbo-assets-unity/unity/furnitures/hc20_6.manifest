@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3957833715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67a5b152312e1c178d0e3d09300fa2d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc20_6/flash/hc20_6_logic.xml
+- Assets/Live/hc20_6/flash/hc20_6_assets.xml
+- Assets/Live/hc20_6/flash/hc20_6_64_a_4_0.png
+- Assets/Live/hc20_6/flash/manifest.xml
+- Assets/Live/hc20_6/hc20_6.xml
+- Assets/Live/hc20_6/flash/hc20_6_visualization.xml
+- Assets/Live/hc20_6/flash/hc20_6_64_sd_4_0.png
+- Assets/Live/hc20_6/flash/hc20_6_64_a_2_0.png
+- Assets/Live/hc20_6/flash/index.xml
+- Assets/Live/hc20_6/flash/hc20_6_icon_a.png
+Dependencies: []

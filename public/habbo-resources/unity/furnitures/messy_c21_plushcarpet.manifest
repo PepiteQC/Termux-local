@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3215436473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 412593af2c0baa326f2ece747e319da1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_64_b_0_0.png
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_64_a_0_0.png
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_assets.xml
+- Assets/Live/messy_c21_plushcarpet/messy_c21_plushcarpet.xml
+- Assets/Live/messy_c21_plushcarpet/flash/manifest.xml
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_visualization.xml
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_logic.xml
+- Assets/Live/messy_c21_plushcarpet/flash/index.xml
+- Assets/Live/messy_c21_plushcarpet/flash/messy_c21_plushcarpet_icon_a.png
+Dependencies: []

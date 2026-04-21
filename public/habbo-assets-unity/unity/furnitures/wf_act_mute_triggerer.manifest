@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4169781833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 376cc4c3fba3ab6ecaeb387ce8436ce2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_act_mute_triggerer/wf_act_mute_triggerer.xml
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_0.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_5.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_3.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_8.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_assets.xml
+- Assets/Live/wf_act_mute_triggerer/flash/manifest.xml
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_4.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_icon_a.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_6.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_1.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_2.png
+- Assets/Live/wf_act_mute_triggerer/flash/index.xml
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_logic.xml
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_64_a_2_7.png
+- Assets/Live/wf_act_mute_triggerer/flash/wf_act_mute_triggerer_visualization.xml
+Dependencies: []

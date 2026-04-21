@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3929209166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5eb237459fad31be9d0fbc791441be4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r21_tousledwaves/flash/clothing_r21_tousledwaves_visualization.xml
+- Assets/Live/clothing_r21_tousledwaves/clothing_r21_tousledwaves.xml
+- Assets/Live/clothing_r21_tousledwaves/flash/manifest.xml
+- Assets/Live/clothing_r21_tousledwaves/flash/clothing_r21_tousledwaves_64_a_0_0.png
+- Assets/Live/clothing_r21_tousledwaves/flash/clothing_r21_tousledwaves_assets.xml
+- Assets/Live/clothing_r21_tousledwaves/flash/index.xml
+- Assets/Live/clothing_r21_tousledwaves/flash/clothing_r21_tousledwaves_logic.xml
+- Assets/Live/clothing_r21_tousledwaves/flash/clothing_r21_tousledwaves_icon_a.png
+Dependencies: []

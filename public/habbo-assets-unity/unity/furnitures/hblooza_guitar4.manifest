@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3190953781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3e96f6996bd0b00dfc8d9902c08b67e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_guitar4/flash/index.xml
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_icon_a.png
+- Assets/Live/hblooza_guitar4/flash/manifest.xml
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_64_a_0_0.png
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_assets.xml
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_logic.xml
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_64_sd_0_0.png
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_64_sd_2_0.png
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_visualization.xml
+- Assets/Live/hblooza_guitar4/flash/hblooza_guitar4_64_a_2_0.png
+- Assets/Live/hblooza_guitar4/hblooza_guitar4.xml
+Dependencies: []

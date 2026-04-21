@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3247207543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0677a1f9a857f8463fc51fa9135b82e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/eleblock9/flash/eleblock9_visualization.xml
+- Assets/Live/eleblock9/flash/eleblock9_64_a_0_0.png
+- Assets/Live/eleblock9/flash/eleblock9_assets.xml
+- Assets/Live/eleblock9/eleblock9.xml
+- Assets/Live/eleblock9/flash/eleblock9_64_a_0_4.png
+- Assets/Live/eleblock9/flash/eleblock9_64_a_0_2.png
+- Assets/Live/eleblock9/flash/eleblock9_64_a_0_3.png
+- Assets/Live/eleblock9/flash/manifest.xml
+- Assets/Live/eleblock9/flash/index.xml
+- Assets/Live/eleblock9/flash/eleblock9_logic.xml
+- Assets/Live/eleblock9/flash/eleblock9_64_icon_a.png
+- Assets/Live/eleblock9/flash/eleblock9_64_a_0_1.png
+- Assets/Live/eleblock9/flash/eleblock9_icon_a.png
+Dependencies: []

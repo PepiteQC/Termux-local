@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2866128184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59be1ea81a53b3488437f4fb591a6ebc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_stool/studio_stool.xml
+- Assets/Live/studio_stool/flash/studio_stool_sd_0_0.png
+- Assets/Live/studio_stool/flash/studio_stool_icon_a.png
+- Assets/Live/studio_stool/flash/studio_stool_assets.xml
+- Assets/Live/studio_stool/flash/manifest.xml
+- Assets/Live/studio_stool/flash/studio_stool_logic.xml
+- Assets/Live/studio_stool/flash/studio_stool_64_0_0.png
+- Assets/Live/studio_stool/flash/studio_stool_visualization.xml
+- Assets/Live/studio_stool/flash/studio_stool_32_0_0.png
+- Assets/Live/studio_stool/flash/index.xml
+Dependencies: []

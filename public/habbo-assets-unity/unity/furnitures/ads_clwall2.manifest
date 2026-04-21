@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1441911996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 006c184f16cc813ff24562881d355e32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_c_2_0.png
+- Assets/Live/ads_clwall2/flash/ads_clwall2_assets.xml
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_a_4_0.png
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_a_2_0.png
+- Assets/Live/ads_clwall2/flash/ads_clwall2_logic.xml
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_b_2_0.png
+- Assets/Live/ads_clwall2/flash/index.xml
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_c_4_0.png
+- Assets/Live/ads_clwall2/flash/manifest.xml
+- Assets/Live/ads_clwall2/flash/ads_clwall2_visualization.xml
+- Assets/Live/ads_clwall2/flash/ads_clwall2_icon_a.png
+- Assets/Live/ads_clwall2/flash/ads_clwall2_64_b_4_0.png
+- Assets/Live/ads_clwall2/ads_clwall2.xml
+Dependencies: []

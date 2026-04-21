@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3934163654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22bad2c25048e6020fdec23a5fd80d4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_dialeafcrown/flash/clothing_dialeafcrown_logic.xml
+- Assets/Live/clothing_dialeafcrown/flash/manifest.xml
+- Assets/Live/clothing_dialeafcrown/flash/clothing_dialeafcrown_visualization.xml
+- Assets/Live/clothing_dialeafcrown/flash/index.xml
+- Assets/Live/clothing_dialeafcrown/flash/clothing_dialeafcrown_assets.xml
+- Assets/Live/clothing_dialeafcrown/flash/clothing_dialeafcrown_64_a_0_0.png
+- Assets/Live/clothing_dialeafcrown/clothing_dialeafcrown.xml
+- Assets/Live/clothing_dialeafcrown/flash/clothing_dialeafcrown_icon_a.png
+Dependencies: []

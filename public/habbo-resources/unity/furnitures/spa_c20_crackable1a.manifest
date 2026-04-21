@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2293402712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e6c40059878d888934025a13ecd61ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_0.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_logic.xml
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_2.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_1.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_11.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_13.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_icon_a.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_6.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_7.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_visualization.xml
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_8.png
+- Assets/Live/spa_c20_crackable1A/flash/manifest.xml
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_12.png
+- Assets/Live/spa_c20_crackable1A/flash/index.xml
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_10.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_3.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_5.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_9.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_64_a_0_4.png
+- Assets/Live/spa_c20_crackable1A/flash/spa_c20_crackable1A_assets.xml
+- Assets/Live/spa_c20_crackable1A/spa_c20_crackable1A.xml
+Dependencies: []

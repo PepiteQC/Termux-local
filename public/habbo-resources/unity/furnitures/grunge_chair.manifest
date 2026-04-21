@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1041608220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b19bbc534ecfe7dfd1194a590719794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grunge_chair/flash/grunge_chair_icon_a.png
+- Assets/Live/grunge_chair/flash/grunge_chair_64_b_2_0.png
+- Assets/Live/grunge_chair/grunge_chair.xml
+- Assets/Live/grunge_chair/flash/grunge_chair_logic.xml
+- Assets/Live/grunge_chair/flash/manifest.xml
+- Assets/Live/grunge_chair/flash/grunge_chair_64_a_6_0.png
+- Assets/Live/grunge_chair/flash/grunge_chair_64_c_2_0.png
+- Assets/Live/grunge_chair/flash/grunge_chair_64_c_6_0.png
+- Assets/Live/grunge_chair/flash/grunge_chair_assets.xml
+- Assets/Live/grunge_chair/flash/grunge_chair_64_b_6_0.png
+- Assets/Live/grunge_chair/flash/index.xml
+- Assets/Live/grunge_chair/flash/grunge_chair_64_a_2_0.png
+- Assets/Live/grunge_chair/flash/grunge_chair_64_sd_0_0.png
+- Assets/Live/grunge_chair/flash/grunge_chair_visualization.xml
+Dependencies: []

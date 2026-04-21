@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2913666517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c131bd618f111234d64a4a4b32675445
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_berrytart/flash/index.xml
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_visualization.xml
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_icon_a.png
+- Assets/Live/easter_c17_berrytart/easter_c17_berrytart.xml
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_logic.xml
+- Assets/Live/easter_c17_berrytart/flash/manifest.xml
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_assets.xml
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_64_sd_0_0.png
+- Assets/Live/easter_c17_berrytart/flash/easter_c17_berrytart_64_a_0_0.png
+Dependencies: []

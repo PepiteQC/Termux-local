@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2287375031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13091a8d674b86b5a54a66646ca124b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/picnic_basket/flash/picnic_basket_assets.xml
+- Assets/Live/picnic_basket/flash/manifest.xml
+- Assets/Live/picnic_basket/flash/picnic_basket_64_a_0_0.png
+- Assets/Live/picnic_basket/picnic_basket.xml
+- Assets/Live/picnic_basket/flash/picnic_basket_logic.xml
+- Assets/Live/picnic_basket/flash/picnic_basket_icon_a.png
+- Assets/Live/picnic_basket/flash/picnic_basket_visualization.xml
+- Assets/Live/picnic_basket/flash/index.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 623035009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73ce42d9e73f4b06f7b210239ea18209
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_dianoblecrown/flash/clothing_dianoblecrown_icon_a.png
+- Assets/Live/clothing_dianoblecrown/flash/clothing_dianoblecrown_visualization.xml
+- Assets/Live/clothing_dianoblecrown/flash/index.xml
+- Assets/Live/clothing_dianoblecrown/flash/manifest.xml
+- Assets/Live/clothing_dianoblecrown/flash/clothing_dianoblecrown_assets.xml
+- Assets/Live/clothing_dianoblecrown/flash/clothing_dianoblecrown_64_a_0_0.png
+- Assets/Live/clothing_dianoblecrown/clothing_dianoblecrown.xml
+- Assets/Live/clothing_dianoblecrown/flash/clothing_dianoblecrown_logic.xml
+Dependencies: []

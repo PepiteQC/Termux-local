@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1577679319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 961619f8dfecbeac5159989fd3dcec2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_icon_a.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_5.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_6.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_assets.xml
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_visualization.xml
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_3.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_logic.xml
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_4.png
+- Assets/Live/bathroom_shampoo/flash/manifest.xml
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_7.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_1.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_2.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_0.png
+- Assets/Live/bathroom_shampoo/flash/bathroom_shampoo_64_a_0_8.png
+- Assets/Live/bathroom_shampoo/bathroom_shampoo.xml
+- Assets/Live/bathroom_shampoo/flash/index.xml
+Dependencies: []

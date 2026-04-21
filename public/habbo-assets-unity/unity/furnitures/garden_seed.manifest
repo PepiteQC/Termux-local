@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 881079640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bf971b049a376c2dd39e3e90fafe86c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_icon_a.png
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_logic.xml
+- Assets/Live/garden_seed/flash/garden_seed/garden_seed_assets.xml
+- Assets/Live/garden_seed/garden_seed.xml
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_assets.xml
+- Assets/Live/garden_seed/flash/garden_seed/garden_seed_logic.xml
+- Assets/Live/garden_seed/flash/garden_seed/index.xml
+- Assets/Live/garden_seed/flash/garden_seed/manifest.xml
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_64_a_0_0.png
+- Assets/Live/garden_seed/flash/garden_seed/garden_seed_64_a_0_0.png
+- Assets/Live/garden_seed/flash/garden_seed_cmp/index.xml
+- Assets/Live/garden_seed/flash/garden_seed/garden_seed_icon_a.png
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_32_a_0_0.png
+- Assets/Live/garden_seed/flash/garden_seed_cmp/manifest.xml
+- Assets/Live/garden_seed/flash/garden_seed_cmp/garden_seed_cmp_visualization.xml
+- Assets/Live/garden_seed/flash/garden_seed/garden_seed_visualization.xml
+Dependencies: []

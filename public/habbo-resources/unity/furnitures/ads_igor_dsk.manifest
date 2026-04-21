@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 631475393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4feab71c7d350ed8314d6f374b7189d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_sd_4_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_b_6_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_6_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_6_3.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_d_4_0.png
+- Assets/Live/ads_igor_dsk/ads_igor_dsk.xml
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_e_2_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_6_2.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_4_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_e_6_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_d_6_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_6_1.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_a_6_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_d_4_1.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_logic.xml
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_4_1.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_a_2_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_assets.xml
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_icon_a.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_d_6_1.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_4_2.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_b_2_0.png
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_visualization.xml
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_c_4_3.png
+- Assets/Live/ads_igor_dsk/flash/index.xml
+- Assets/Live/ads_igor_dsk/flash/ads_igor_dsk_64_sd_6_0.png
+- Assets/Live/ads_igor_dsk/flash/manifest.xml
+Dependencies: []

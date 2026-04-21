@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 993598242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1752449c365776f77befeeedfc691576
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_visualization.xml
+- Assets/Live/rainyday_c19_rugblanket/rainyday_c19_rugblanket.xml
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_logic.xml
+- Assets/Live/rainyday_c19_rugblanket/flash/index.xml
+- Assets/Live/rainyday_c19_rugblanket/flash/manifest.xml
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_icon_a.png
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_assets.xml
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_64_sd_0_0.png
+- Assets/Live/rainyday_c19_rugblanket/flash/rainyday_c19_rugblanket_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1501080128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f322307060774f23c5c6c5de2937b84e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_assets.xml
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_64_a_0_3.png
+- Assets/Live/xmas13_pillar/flash/index.xml
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_64_a_0_0.png
+- Assets/Live/xmas13_pillar/flash/manifest.xml
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_visualization.xml
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_64_a_0_2.png
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_icon_a.png
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_64_sd_0_0.png
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_64_a_0_1.png
+- Assets/Live/xmas13_pillar/xmas13_pillar.xml
+- Assets/Live/xmas13_pillar/flash/xmas13_pillar_logic.xml
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 847993516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 700155c445eb40d04328198b52efc4b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_d_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_h_2_0.png
+- Assets/Live/mystics_bbench/flash/manifest.xml
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_h_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_b_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_icon_a.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_logic.xml
+- Assets/Live/mystics_bbench/mystics_bbench.xml
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_g_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_assets.xml
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_c_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_g_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_c_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_f_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_a_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_d_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_visualization.xml
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_f_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_b_2_0.png
+- Assets/Live/mystics_bbench/flash/index.xml
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_e_6_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_e_2_0.png
+- Assets/Live/mystics_bbench/flash/mystics_bbench_64_a_6_0.png
+Dependencies: []

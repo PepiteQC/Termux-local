@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 633005353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 538a610a94c291be5b21103e8b8a3704
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_64_sd_2_0.png
+- Assets/Live/cine_bigcorn/cine_bigcorn.xml
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_64_sd_0_0.png
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_assets.xml
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_icon_a.png
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_visualization.xml
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_64_a_2_0.png
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_logic.xml
+- Assets/Live/cine_bigcorn/flash/cine_bigcorn_64_a_0_0.png
+- Assets/Live/cine_bigcorn/flash/manifest.xml
+- Assets/Live/cine_bigcorn/flash/index.xml
+Dependencies: []

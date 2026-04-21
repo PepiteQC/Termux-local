@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 322712009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d2f5aed2003bbaa785e1faca154c8f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_d_0_0.png
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_icon_a.png
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_b_0_1.png
+- Assets/Live/val15_shinto_arch/flash/index.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_c_0_0.png
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_assets.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_b_0_0.png
+- Assets/Live/val15_shinto_arch/flash/manifest.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_logic.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_d_0_1.png
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_visualization.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_a_0_0.png
+- Assets/Live/val15_shinto_arch/val15_shinto_arch.xml
+- Assets/Live/val15_shinto_arch/flash/val15_shinto_arch_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 424227338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbaff7281a00cfb02710f30684919a7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_records/flash/classic8_records_64_a_0_1.png
+- Assets/Live/classic8_records/flash/classic8_records_64_a_0_3.png
+- Assets/Live/classic8_records/flash/classic8_records_logic.xml
+- Assets/Live/classic8_records/flash/manifest.xml
+- Assets/Live/classic8_records/flash/classic8_records_64_a_0_2.png
+- Assets/Live/classic8_records/classic8_records.xml
+- Assets/Live/classic8_records/flash/classic8_records_assets.xml
+- Assets/Live/classic8_records/flash/classic8_records_64_a_0_0.png
+- Assets/Live/classic8_records/flash/classic8_records_visualization.xml
+- Assets/Live/classic8_records/flash/index.xml
+- Assets/Live/classic8_records/flash/classic8_records_icon_a.png
+Dependencies: []

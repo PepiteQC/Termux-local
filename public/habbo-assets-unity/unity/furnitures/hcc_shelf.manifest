@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3317006669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76662baf4476d384a38dd6bb4d80b3f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hcc_shelf/flash/hcc_shelf_icon_a.png
+- Assets/Live/hcc_shelf/flash/hcc_shelf_visualization.xml
+- Assets/Live/hcc_shelf/flash/hcc_shelf_logic.xml
+- Assets/Live/hcc_shelf/flash/manifest.xml
+- Assets/Live/hcc_shelf/flash/hcc_shelf_assets.xml
+- Assets/Live/hcc_shelf/flash/index.xml
+- Assets/Live/hcc_shelf/flash/hcc_shelf_64_b_0_0.png
+- Assets/Live/hcc_shelf/flash/hcc_shelf_64_a_0_0.png
+- Assets/Live/hcc_shelf/hcc_shelf.xml
+- Assets/Live/hcc_shelf/flash/hcc_shelf_64_sd_0_0.png
+Dependencies: []

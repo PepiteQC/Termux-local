@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2754111448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb3933bb0a08f5f7dd701873eca1a384
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_a_0_0.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_b_0_3.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_b_0_1.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_icon_a.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_b_0_0.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_logic.xml
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_b_0_4.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_b_0_2.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_assets.xml
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_sd_0_0.png
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_visualization.xml
+- Assets/Live/darkmodern_c20_tv/flash/manifest.xml
+- Assets/Live/darkmodern_c20_tv/flash/index.xml
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_c_0_0.png
+- Assets/Live/darkmodern_c20_tv/darkmodern_c20_tv.xml
+- Assets/Live/darkmodern_c20_tv/flash/darkmodern_c20_tv_64_c_0_1.png
+Dependencies: []

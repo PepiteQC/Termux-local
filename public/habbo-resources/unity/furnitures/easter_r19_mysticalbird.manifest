@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2521709583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08d6e8ce410dafbc157d1974fa0fb6f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_3.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_7.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_12.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_19.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_13.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_assets.xml
+- Assets/Live/easter_r19_mysticalbird/easter_r19_mysticalbird.xml
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_18.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_3.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_17.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_15.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_10.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_22.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_18.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_21.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_13.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_logic.xml
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_8.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_visualization.xml
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_sd_4_0.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_6.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_20.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_2.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_22.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_4.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_11.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_23.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_icon_a.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_10.png
+- Assets/Live/easter_r19_mysticalbird/flash/index.xml
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_11.png
+- Assets/Live/easter_r19_mysticalbird/flash/manifest.xml
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_9.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_6.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_8.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_19.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_17.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_4.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_1.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_9.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_16.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_14.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_20.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_12.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_21.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_1.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_2.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_7.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_0.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_0.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_16.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_14.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_5.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_5.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_b_4_15.png
+- Assets/Live/easter_r19_mysticalbird/flash/easter_r19_mysticalbird_64_a_4_23.png
+Dependencies: []

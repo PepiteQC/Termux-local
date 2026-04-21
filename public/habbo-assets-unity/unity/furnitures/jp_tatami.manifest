@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2815239010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89be8fb277688181715ebe6bbdb4edbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_tatami/jp_tatami.xml
+- Assets/Live/jp_tatami/flash/jp_tatami_visualization.xml
+- Assets/Live/jp_tatami/flash/jp_tatami_64_a_0_0.png
+- Assets/Live/jp_tatami/flash/index.xml
+- Assets/Live/jp_tatami/flash/jp_tatami_icon_a.png
+- Assets/Live/jp_tatami/flash/jp_tatami_assets.xml
+- Assets/Live/jp_tatami/flash/jp_tatami_logic.xml
+- Assets/Live/jp_tatami/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1939882236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3cc76cbb006b270e5da0024d50cc3fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_assets.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_c_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_visualization.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_icon_a.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_e_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_h_4_2.png
+- Assets/Live/ads_igorbrain/flash/index.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_c_4_2.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_i_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_h_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_b_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_g_4_0.png
+- Assets/Live/ads_igorbrain/flash/manifest.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_d_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_f_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_h_4_1.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_sd_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_a_4_0.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_c_4_1.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_j_4_1.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_logic.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_a_4_1.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_h_4_3.png
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_j_4_0.png
+- Assets/Live/ads_igorbrain/ads_igorbrain.xml
+- Assets/Live/ads_igorbrain/flash/ads_igorbrain_64_i_4_1.png
+Dependencies: []

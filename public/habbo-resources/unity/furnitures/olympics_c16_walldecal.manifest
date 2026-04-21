@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 623500375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebc8ea8ab3f9a72339c7fdd74f9b5d79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_icon_a.png
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_visualization.xml
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_assets.xml
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_logic.xml
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_2_0.png
+- Assets/Live/olympics_c16_walldecal/flash/index.xml
+- Assets/Live/olympics_c16_walldecal/olympics_c16_walldecal.xml
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_4_2.png
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_2_2.png
+- Assets/Live/olympics_c16_walldecal/flash/manifest.xml
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_2_1.png
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_4_0.png
+- Assets/Live/olympics_c16_walldecal/flash/olympics_c16_walldecal_64_a_4_1.png
+Dependencies: []

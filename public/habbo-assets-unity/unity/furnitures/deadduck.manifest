@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2118259608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19bdde6787985a95a082a0da34473549
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/deadduck/flash/deadduck_logic.xml
+- Assets/Live/deadduck/flash/deadduck_assets.xml
+- Assets/Live/deadduck/flash/deadduck_icon_a.png
+- Assets/Live/deadduck/flash/manifest.xml
+- Assets/Live/deadduck/deadduck.xml
+- Assets/Live/deadduck/flash/deadduck_visualization.xml
+- Assets/Live/deadduck/flash/index.xml
+- Assets/Live/deadduck/flash/deadduck_64_a_0_0.png
+Dependencies: []

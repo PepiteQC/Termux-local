@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3611710404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f42532beee62cc2367dbe6f174731068
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_64_sd_0_0.png
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_assets.xml
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_visualization.xml
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_logic.xml
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_64_a_0_0.png
+- Assets/Live/plushie_c20_rainbowlion3/flash/manifest.xml
+- Assets/Live/plushie_c20_rainbowlion3/flash/plushie_c20_rainbowlion3_icon_a.png
+- Assets/Live/plushie_c20_rainbowlion3/plushie_c20_rainbowlion3.xml
+- Assets/Live/plushie_c20_rainbowlion3/flash/index.xml
+Dependencies: []

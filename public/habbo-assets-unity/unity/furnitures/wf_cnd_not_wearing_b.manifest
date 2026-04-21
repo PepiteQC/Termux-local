@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3716066443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddb367a7deb73032e734ea399d7e9cb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_visualization.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_64_a_2_0.png
+- Assets/Live/wf_cnd_not_wearing_b/flash/manifest.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/index.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_64_a_2_1.png
+- Assets/Live/wf_cnd_not_wearing_b/wf_cnd_not_wearing_b.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_64_a_2_2.png
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_icon_a.png
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_logic.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_64_a_2_4.png
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_assets.xml
+- Assets/Live/wf_cnd_not_wearing_b/flash/wf_cnd_not_wearing_b_64_a_2_3.png
+Dependencies: []

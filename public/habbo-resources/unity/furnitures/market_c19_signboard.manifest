@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 969309854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a165e3bf91a0c368d390a110bead6c27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_a_0_0.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_visualization.xml
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_d_0_0.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_sd_0_0.png
+- Assets/Live/market_c19_signboard/market_c19_signboard.xml
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_d_0_1.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_icon_a.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_b_0_0.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_assets.xml
+- Assets/Live/market_c19_signboard/flash/index.xml
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_c_0_1.png
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_64_c_0_0.png
+- Assets/Live/market_c19_signboard/flash/manifest.xml
+- Assets/Live/market_c19_signboard/flash/market_c19_signboard_logic.xml
+Dependencies: []

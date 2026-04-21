@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2571206277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f34853a6ab2f31e5493b187a8541398b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_visualization.xml
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_64_a_0_0.png
+- Assets/Live/cubie_rug_p/flash/manifest.xml
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_logic.xml
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_64_b_0_0.png
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_assets.xml
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_64_b_0_2.png
+- Assets/Live/cubie_rug_p/cubie_rug_p.xml
+- Assets/Live/cubie_rug_p/flash/index.xml
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_64_b_0_1.png
+- Assets/Live/cubie_rug_p/flash/cubie_rug_p_icon_a.png
+Dependencies: []

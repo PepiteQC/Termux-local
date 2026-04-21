@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3313535932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 289c67dd3270d57460514146a2c5076f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pizza/flash/index.xml
+- Assets/Live/pizza/flash/pizza_assets.xml
+- Assets/Live/pizza/pizza.xml
+- Assets/Live/pizza/flash/pizza_visualization.xml
+- Assets/Live/pizza/flash/pizza_64_sd_0_0.png
+- Assets/Live/pizza/flash/manifest.xml
+- Assets/Live/pizza/flash/pizza_icon_a.png
+- Assets/Live/pizza/flash/pizza_logic.xml
+- Assets/Live/pizza/flash/pizza_64_a_0_0.png
+Dependencies: []

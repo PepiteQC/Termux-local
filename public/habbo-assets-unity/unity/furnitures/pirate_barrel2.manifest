@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 674198284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8df91b845ef8f722a2100a1c16b6e54f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_barrel2/flash/index.xml
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_icon_a.png
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_visualization.xml
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_64_a_0_0.png
+- Assets/Live/pirate_barrel2/pirate_barrel2.xml
+- Assets/Live/pirate_barrel2/flash/manifest.xml
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_logic.xml
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_assets.xml
+- Assets/Live/pirate_barrel2/flash/pirate_barrel2_64_sd_0_0.png
+Dependencies: []

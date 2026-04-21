@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1035375347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d893d3fad48a2191ffd8dfdb8cf892a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lamp_armas/flash/index.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_assets.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_visualization.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_64_b_0_0.png
+- Assets/Live/lamp_armas/flash/lamp_armas_logic.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_64_a_0_0.png
+- Assets/Live/lamp_armas/lamp_armas.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_64_c_0_1.png
+- Assets/Live/lamp_armas/flash/lamp_armas_icon_a.png
+- Assets/Live/lamp_armas/flash/lamp_armas_64_b_0_1.png
+- Assets/Live/lamp_armas/flash/manifest.xml
+- Assets/Live/lamp_armas/flash/lamp_armas_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 442777158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c3308ba72b852b15537202e7f03423d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_c_0_0.png
+- Assets/Live/rare_r19_car1/rare_r19_car1.xml
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_icon_a.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_assets.xml
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_d_0_0.png
+- Assets/Live/rare_r19_car1/flash/index.xml
+- Assets/Live/rare_r19_car1/flash/manifest.xml
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_b_0_0.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_logic.xml
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_a_0_0.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_a_4_0.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_b_4_0.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_visualization.xml
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_d_4_0.png
+- Assets/Live/rare_r19_car1/flash/rare_r19_car1_64_c_4_0.png
+Dependencies: []

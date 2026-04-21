@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3875510369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe03a7b25349f4af533b1452b8f25ada
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_mexico/flash/flag_mexico_visualization.xml
+- Assets/Live/flag_mexico/flash/index.xml
+- Assets/Live/flag_mexico/flash/flag_mexico_64_a_4_0.png
+- Assets/Live/flag_mexico/flash/flag_mexico_logic.xml
+- Assets/Live/flag_mexico/flash/flag_mexico_assets.xml
+- Assets/Live/flag_mexico/flash/flag_mexico_icon_a.png
+- Assets/Live/flag_mexico/flag_mexico.xml
+- Assets/Live/flag_mexico/flash/manifest.xml
+- Assets/Live/flag_mexico/flash/flag_mexico_64_a_2_0.png
+Dependencies: []

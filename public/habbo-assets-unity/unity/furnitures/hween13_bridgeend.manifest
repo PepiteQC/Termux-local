@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3776604593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a25ff09e3da667a2bab1e7c06df80dcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_icon_0.png
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_visualization.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_logic.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_b_0_0.png
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_sd_4_0.png
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_a_0_0.png
+- Assets/Live/hween13_bridgeend/hween13_bridgeend.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_sd_0_0.png
+- Assets/Live/hween13_bridgeend/flash/manifest.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_icon_a.png
+- Assets/Live/hween13_bridgeend/flash/index.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_a_4_0.png
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_assets.xml
+- Assets/Live/hween13_bridgeend/flash/hween13_bridgeend_64_b_4_0.png
+Dependencies: []

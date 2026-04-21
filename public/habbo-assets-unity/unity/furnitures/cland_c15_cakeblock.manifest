@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 296868793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47dedbc5870b94aae2ef5aa227908cf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_e_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_3.png
+- Assets/Live/cland_c15_cakeblock/cland_c15_cakeblock.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_icon_a.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_a_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_b_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_c_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_c_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_c_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_c_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_sd_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_c_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_c_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_b_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_5.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_logic.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_c_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_visualization.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_b_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_c_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_a_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_e_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_assets.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_a_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_e_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_a_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_c_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_sd_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_a_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_b_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_e_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_e_0_2.png
+- Assets/Live/cland_c15_cakeblock/flash/index.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_d_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_b_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_a_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_3.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_1.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_d_0_5.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_c_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_64_b_0_0.png
+- Assets/Live/cland_c15_cakeblock/flash/manifest.xml
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_b_0_4.png
+- Assets/Live/cland_c15_cakeblock/flash/cland_c15_cakeblock_a_0_4.png
+Dependencies: []

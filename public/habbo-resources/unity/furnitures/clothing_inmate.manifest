@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2264278310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f48e28a84a472ddbf42db17a8d94b07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_inmate/flash/clothing_inmate_64_a_2_0.png
+- Assets/Live/clothing_inmate/flash/clothing_box.png
+- Assets/Live/clothing_inmate/flash/clothing_inmate_visualization.xml
+- Assets/Live/clothing_inmate/flash/index.xml
+- Assets/Live/clothing_inmate/flash/clothing_inmate_logic.xml
+- Assets/Live/clothing_inmate/flash/clothing_inmate_icon_a.png
+- Assets/Live/clothing_inmate/flash/clothing_inmate_assets.xml
+- Assets/Live/clothing_inmate/flash/manifest.xml
+- Assets/Live/clothing_inmate/clothing_inmate.xml
+Dependencies: []

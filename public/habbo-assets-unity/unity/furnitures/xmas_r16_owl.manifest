@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1547502017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0abbd12cf82c04d5324b17dc667c9aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_4.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_logic.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_13.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_6.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_15.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_2.png
+- Assets/Live/xmas_r16_owl/xmas_r16_owl.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_14.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_1.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_a_0_0.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_11.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_assets.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_8.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_7.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_9.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_icon_a.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_a_0_1.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_10.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_3.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_5.png
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_12.png
+- Assets/Live/xmas_r16_owl/flash/manifest.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_visualization.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_sd_0_0.png
+- Assets/Live/xmas_r16_owl/flash/index.xml
+- Assets/Live/xmas_r16_owl/flash/xmas_r16_owl_64_b_0_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4005996671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a8132887c3b9bc01ecf0c43fec852d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_norway/flash/flag_norway_64_a_2_0.png
+- Assets/Live/flag_norway/flash/index.xml
+- Assets/Live/flag_norway/flash/flag_norway_assets.xml
+- Assets/Live/flag_norway/flag_norway.xml
+- Assets/Live/flag_norway/flash/flag_norway_icon_a.png
+- Assets/Live/flag_norway/flash/manifest.xml
+- Assets/Live/flag_norway/flash/flag_norway_64_a_4_0.png
+- Assets/Live/flag_norway/flash/flag_norway_logic.xml
+- Assets/Live/flag_norway/flash/flag_norway_visualization.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1992974646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db9b9cda18ca91e172ac01d60ecbc8a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_comedymask/flash/clothing_r19_comedymask_assets.xml
+- Assets/Live/clothing_r19_comedymask/flash/clothing_r19_comedymask_visualization.xml
+- Assets/Live/clothing_r19_comedymask/flash/clothing_r19_comedymask_icon_a.png
+- Assets/Live/clothing_r19_comedymask/flash/clothing_comedymask_64_a_0_0.png
+- Assets/Live/clothing_r19_comedymask/clothing_r19_comedymask.xml
+- Assets/Live/clothing_r19_comedymask/flash/clothing_r19_comedymask_64_a_0_0.png
+- Assets/Live/clothing_r19_comedymask/flash/clothing_r19_comedymask_logic.xml
+- Assets/Live/clothing_r19_comedymask/flash/manifest.xml
+- Assets/Live/clothing_r19_comedymask/flash/index.xml
+- Assets/Live/clothing_r19_comedymask/flash/clothing_comedymask_icon_a.png
+Dependencies: []

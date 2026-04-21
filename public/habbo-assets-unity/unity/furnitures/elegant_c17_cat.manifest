@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3817038976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 965792e5f9c6863be763d1891ad26c23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_9.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_0.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_1.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_sd_0_0.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_0.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_2.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_6.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_1.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_6.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_visualization.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_7.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_2.png
+- Assets/Live/elegant_c17_cat/elegant_c17_cat.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_assets.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_11.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_8.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_logic.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_icon_a.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_10.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_3.png
+- Assets/Live/elegant_c17_cat/flash/manifest.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_5.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_4.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_4.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_12.png
+- Assets/Live/elegant_c17_cat/flash/index.xml
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_b_0_3.png
+- Assets/Live/elegant_c17_cat/flash/elegant_c17_cat_64_a_0_5.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 936345224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdcd454f5c578971820d2a1f38c05624
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_big2/flash/es_big2_64_b_2_0.png
+- Assets/Live/es_big2/es_big2.xml
+- Assets/Live/es_big2/flash/es_big2_icon_a.png
+- Assets/Live/es_big2/flash/manifest.xml
+- Assets/Live/es_big2/flash/es_big2_64_a_2_0.png
+- Assets/Live/es_big2/flash/es_big2_assets.xml
+- Assets/Live/es_big2/flash/es_big2_logic.xml
+- Assets/Live/es_big2/flash/es_big2_visualization.xml
+- Assets/Live/es_big2/flash/index.xml
+Dependencies: []

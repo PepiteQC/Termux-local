@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1589872265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 539a305be66305380913c69bb604890e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/picnic_food3/flash/picnic_food3_visualization.xml
+- Assets/Live/picnic_food3/flash/picnic_food3_logic.xml
+- Assets/Live/picnic_food3/flash/index.xml
+- Assets/Live/picnic_food3/flash/manifest.xml
+- Assets/Live/picnic_food3/flash/picnic_food3_64_a_0_0.png
+- Assets/Live/picnic_food3/flash/picnic_food3_icon_a.png
+- Assets/Live/picnic_food3/picnic_food3.xml
+- Assets/Live/picnic_food3/flash/picnic_food3_assets.xml
+Dependencies: []

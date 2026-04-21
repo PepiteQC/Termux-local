@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 590197386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36709631b93bc7766d028fe0e24f53d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/romantique_tray2/flash/romantique_tray2_visualization.xml
+- Assets/Live/romantique_tray2/flash/romantique_tray2_logic.xml
+- Assets/Live/romantique_tray2/flash/romantique_tray2_64_a_2_0.png
+- Assets/Live/romantique_tray2/flash/romantique_tray2_assets.xml
+- Assets/Live/romantique_tray2/flash/manifest.xml
+- Assets/Live/romantique_tray2/flash/index.xml
+- Assets/Live/romantique_tray2/flash/romantique_tray2_icon_a.png
+- Assets/Live/romantique_tray2/romantique_tray2.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3354370662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 542856684a12c41249011c70ed6e4746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_shortcut/flash/clothing_nt_shortcut_icon_a.png
+- Assets/Live/clothing_nt_shortcut/flash/clothing_shortcut_icon_a.png
+- Assets/Live/clothing_nt_shortcut/flash/clothing_nt_shortcut_visualization.xml
+- Assets/Live/clothing_nt_shortcut/clothing_nt_shortcut.xml
+- Assets/Live/clothing_nt_shortcut/flash/manifest.xml
+- Assets/Live/clothing_nt_shortcut/flash/clothing_nt_shortcut_logic.xml
+- Assets/Live/clothing_nt_shortcut/flash/clothing_nt_shortcut_64_a_0_0.png
+- Assets/Live/clothing_nt_shortcut/flash/clothing_shortcut_64_a_0_0.png
+- Assets/Live/clothing_nt_shortcut/flash/index.xml
+- Assets/Live/clothing_nt_shortcut/flash/clothing_nt_shortcut_assets.xml
+Dependencies: []

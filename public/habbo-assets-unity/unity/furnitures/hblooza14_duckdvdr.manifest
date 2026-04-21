@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2578407185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 857bebcae8d6a60e769e78e8baa2f052
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_icon_a.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_logic.xml
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_assets.xml
+- Assets/Live/hblooza14_duckdvdr/flash/index.xml
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_sd_4_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_a_4_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/manifest.xml
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_b_4_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_a_2_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_b_2_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_64_sd_2_0.png
+- Assets/Live/hblooza14_duckdvdr/flash/hblooza14_duckdvdr_visualization.xml
+- Assets/Live/hblooza14_duckdvdr/hblooza14_duckdvdr.xml
+Dependencies: []

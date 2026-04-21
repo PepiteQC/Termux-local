@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 697603173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 070ceba0a7d52df44d0b99c131bacdb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_sphere/flash/bc_sphere_logic.xml
+- Assets/Live/bc_sphere/flash/bc_sphere_icon_a.png
+- Assets/Live/bc_sphere/flash/bc_sphere_assets.xml
+- Assets/Live/bc_sphere/flash/bc_sphere_64_b_0_0.png
+- Assets/Live/bc_sphere/flash/index.xml
+- Assets/Live/bc_sphere/bc_sphere.xml
+- Assets/Live/bc_sphere/flash/bc_sphere_64_c_0_0.png
+- Assets/Live/bc_sphere/flash/bc_sphere_visualization.xml
+- Assets/Live/bc_sphere/flash/manifest.xml
+- Assets/Live/bc_sphere/flash/bc_sphere_64_a_0_0.png
+Dependencies: []

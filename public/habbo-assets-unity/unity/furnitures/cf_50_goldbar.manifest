@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1117156611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b7bfda1f3f22a1a52f42940817068dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_50_goldbar/flash/manifest.xml
+- Assets/Live/CF_50_goldbar/flash/index.xml
+- Assets/Live/CF_50_goldbar/flash/CF_50_goldbar_visualization.xml
+- Assets/Live/CF_50_goldbar/flash/CF_50_goldbar_logic.xml
+- Assets/Live/CF_50_goldbar/flash/CF_50_goldbar_assets.xml
+- Assets/Live/CF_50_goldbar/flash/CF_50_goldbar_icon_a.png
+- Assets/Live/CF_50_goldbar/CF_50_goldbar.xml
+- Assets/Live/CF_50_goldbar/flash/CF_50_goldbar_64_a_0_0.png
+Dependencies: []

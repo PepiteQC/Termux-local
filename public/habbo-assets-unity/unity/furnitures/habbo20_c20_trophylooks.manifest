@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3712512820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bfbf187b7389bd000921fe9cddbb37c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_b_2_2.png
+- Assets/Live/habbo20_c20_trophylooks/flash/manifest.xml
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_a_2_0.png
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_icon_a.png
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_logic.xml
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_visualization.xml
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_b_2_0.png
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_assets.xml
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_b_2_3.png
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_b_2_1.png
+- Assets/Live/habbo20_c20_trophylooks/flash/habbo20_c20_trophylooks_64_sd_2_0.png
+- Assets/Live/habbo20_c20_trophylooks/habbo20_c20_trophylooks.xml
+- Assets/Live/habbo20_c20_trophylooks/flash/index.xml
+Dependencies: []

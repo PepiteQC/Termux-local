@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2785802109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 205ca3ad3805a78d6694aeace7554be7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_64_a_0_0.png
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_64_a_0_1.png
+- Assets/Live/xmas_c17_sewingmchn/flash/index.xml
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_64_sd_0_0.png
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_icon_a.png
+- Assets/Live/xmas_c17_sewingmchn/flash/manifest.xml
+- Assets/Live/xmas_c17_sewingmchn/xmas_c17_sewingmchn.xml
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_visualization.xml
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_logic.xml
+- Assets/Live/xmas_c17_sewingmchn/flash/xmas_c17_sewingmchn_assets.xml
+Dependencies: []

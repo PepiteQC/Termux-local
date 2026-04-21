@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2122233020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cab9afb67db067d43164f0db82e170f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_towelhair/flash/index.xml
+- Assets/Live/clothing_towelhair/clothing_towelhair.xml
+- Assets/Live/clothing_towelhair/flash/manifest.xml
+- Assets/Live/clothing_towelhair/flash/clothing_towelhair_icon_a.png
+- Assets/Live/clothing_towelhair/flash/clothing_towelhair_assets.xml
+- Assets/Live/clothing_towelhair/flash/clothing_towelhair_visualization.xml
+- Assets/Live/clothing_towelhair/flash/clothing_towelhair_64_a_0_0.png
+- Assets/Live/clothing_towelhair/flash/clothing_towelhair_logic.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 796327635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a3b8c674efbbc068502ac9c7b5c0462
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_wall/flash/attic15_wall_64_4_a_1.png
+- Assets/Live/attic15_wall/flash/attic15_wall_64_4_a_0.png
+- Assets/Live/attic15_wall/flash/attic15_wall_64_a_4_2.png
+- Assets/Live/attic15_wall/flash/attic15_wall_visualization.xml
+- Assets/Live/attic15_wall/flash/attic15_wall_icon_a.png
+- Assets/Live/attic15_wall/flash/index.xml
+- Assets/Live/attic15_wall/flash/attic15_wall_64_a_4_1.png
+- Assets/Live/attic15_wall/flash/attic15_wall_logic.xml
+- Assets/Live/attic15_wall/flash/manifest.xml
+- Assets/Live/attic15_wall/attic15_wall.xml
+- Assets/Live/attic15_wall/flash/attic15_wall_64_a_4_0.png
+- Assets/Live/attic15_wall/flash/attic15_wall_assets.xml
+- Assets/Live/attic15_wall/flash/attic15_wall_64_4_a_2.png
+Dependencies: []

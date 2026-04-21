@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 977775542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc894136023dc03c2efffc31bdab8e2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_satchel/flash/clothing_satchel_64_a_0_0.png
+- Assets/Live/clothing_satchel/flash/clothing_satchel_icon_a.png
+- Assets/Live/clothing_satchel/clothing_satchel.xml
+- Assets/Live/clothing_satchel/flash/clothing_satchel_logic.xml
+- Assets/Live/clothing_satchel/flash/index.xml
+- Assets/Live/clothing_satchel/flash/manifest.xml
+- Assets/Live/clothing_satchel/flash/clothing_satchel_visualization.xml
+- Assets/Live/clothing_satchel/flash/clothing_satchel_assets.xml
+Dependencies: []

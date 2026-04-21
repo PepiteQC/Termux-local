@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2894959316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de64e8a200b992eba043c51ef798f95a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_assets.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_sd_0_0.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_1.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_icon_a.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_2.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_3.png
+- Assets/Live/bazaar_c17_colourbucket/bazaar_c17_colourbucket.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/index.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_6.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_0.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_logic.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_visualization.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/manifest.xml
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_5.png
+- Assets/Live/bazaar_c17_colourbucket/flash/bazaar_c17_colourbucket_64_a_0_4.png
+Dependencies: []

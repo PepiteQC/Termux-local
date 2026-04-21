@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3917637094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3624046d25dbb807271638dcb5399c1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_5.png
+- Assets/Live/room_hall15_plant1/room_hall15_plant1.xml
+- Assets/Live/room_hall15_plant1/flash/manifest.xml
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_logic.xml
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_3.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_4.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_a_0_0.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_0.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_assets.xml
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_sd_0_0.png
+- Assets/Live/room_hall15_plant1/flash/index.xml
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_1.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_icon_a.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_64_b_0_2.png
+- Assets/Live/room_hall15_plant1/flash/room_hall15_plant1_visualization.xml
+Dependencies: []

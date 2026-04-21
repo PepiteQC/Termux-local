@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1482388011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3c93f8a1f7b4421e5d81e3b1955bafc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_64_a_0_0.png
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_assets.xml
+- Assets/Live/suncity_c19_glass/suncity_c19_glass.xml
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_logic.xml
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_64_sd_0_0.png
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_icon_a.png
+- Assets/Live/suncity_c19_glass/flash/manifest.xml
+- Assets/Live/suncity_c19_glass/flash/suncity_c19_glass_visualization.xml
+- Assets/Live/suncity_c19_glass/flash/index.xml
+Dependencies: []

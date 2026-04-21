@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 714232110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08979c0e916d6ad81aa632e9addbccca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_logic.xml
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_b_0_0.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_c_0_1.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_a_0_0.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_b_0_2.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_c_0_0.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_a_0_1.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_assets.xml
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_icon_a.png
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_64_b_0_1.png
+- Assets/Live/classic8_glassfloor/flash/index.xml
+- Assets/Live/classic8_glassfloor/flash/classic8_glassfloor_visualization.xml
+- Assets/Live/classic8_glassfloor/classic8_glassfloor.xml
+- Assets/Live/classic8_glassfloor/flash/manifest.xml
+Dependencies: []

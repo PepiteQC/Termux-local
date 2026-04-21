@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1792650522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13f6db2c7f86ccd97825d75cfbcd7b69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_staringbush/garden_staringbush.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_g_4_2.png
+- Assets/Live/garden_staringbush/flash/manifest.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_i_4_2.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_icon_a.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_assets.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_visualization.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_sd_4_0.png
+- Assets/Live/garden_staringbush/flash/index.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_h_4_2.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_c_4_0.png
+- Assets/Live/garden_staringbush/flash/Copy of garden_staringbush_assets.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_h_4_1.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_logic.xml
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_d_4_0.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_i_4_1.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_g_4_1.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_a_4_0.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_j_4_0.png
+- Assets/Live/garden_staringbush/flash/garden_staringbush_64_b_4_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1517124528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90528a3f95144cb90cf4b0bc32b2b164
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_girlbed/flash/uni_girlbed_logic.xml
+- Assets/Live/uni_girlbed/uni_girlbed.xml
+- Assets/Live/uni_girlbed/flash/uni_girlbed_64_c_0_0.png
+- Assets/Live/uni_girlbed/flash/uni_girlbed_64_a_0_0.png
+- Assets/Live/uni_girlbed/flash/index.xml
+- Assets/Live/uni_girlbed/flash/uni_girlbed_assets.xml
+- Assets/Live/uni_girlbed/flash/uni_girlbed_64_b_0_0.png
+- Assets/Live/uni_girlbed/flash/uni_girlbed_visualization.xml
+- Assets/Live/uni_girlbed/flash/manifest.xml
+- Assets/Live/uni_girlbed/flash/uni_girlbed_icon_a.png
+Dependencies: []

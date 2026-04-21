@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2311174322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9db24b083262b707b5ebcf11eb2a7d0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bar_basic/flash/bar_basic_64_a_2_1.png
+- Assets/Live/bar_basic/flash/bar_basic_assets.xml
+- Assets/Live/bar_basic/flash/manifest.xml
+- Assets/Live/bar_basic/flash/bar_basic_64_a_2_0.png
+- Assets/Live/bar_basic/flash/bar_basic_64_sd_0_0.png
+- Assets/Live/bar_basic/flash/index.xml
+- Assets/Live/bar_basic/bar_basic.xml
+- Assets/Live/bar_basic/flash/bar_basic_visualization.xml
+- Assets/Live/bar_basic/flash/bar_basic_icon_a.png
+- Assets/Live/bar_basic/flash/bar_basic_logic.xml
+Dependencies: []

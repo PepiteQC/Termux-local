@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 691157271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cefe039c6570ede251980c55faf5414
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_64_sd_0_0.png
+- Assets/Live/CF_500_platinum_bar/CF_500_platinum_bar.xml
+- Assets/Live/CF_500_platinum_bar/flash/manifest.xml
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_icon_a.png
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_64_a_0_0.png
+- Assets/Live/CF_500_platinum_bar/flash/index.xml
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_64_a_0_1.png
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_visualization.xml
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_assets.xml
+- Assets/Live/CF_500_platinum_bar/flash/CF_500_platinum_bar_logic.xml
+Dependencies: []

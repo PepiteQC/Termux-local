@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1394629229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 740cae93c5ab8fd7e66406338252744b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_visualization.xml
+- Assets/Live/ads_idol_tblCloth/ads_idol_tblCloth.xml
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_64_sd_0_0.png
+- Assets/Live/ads_idol_tblCloth/flash/manifest.xml
+- Assets/Live/ads_idol_tblCloth/flash/index.xml
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_logic.xml
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_assets.xml
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_64_a_0_0.png
+- Assets/Live/ads_idol_tblCloth/flash/ads_idol_tblCloth_icon_a.png
+Dependencies: []

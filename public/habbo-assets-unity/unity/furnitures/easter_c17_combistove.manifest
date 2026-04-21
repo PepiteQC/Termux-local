@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2171557420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50a913e9991a01fcc100a609f1f0e7df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_combistove/easter_c17_combistove.xml
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_icon_a.png
+- Assets/Live/easter_c17_combistove/flash/manifest.xml
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_logic.xml
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_visualization.xml
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_64_sd_4_0.png
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_64_b_4_1.png
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_assets.xml
+- Assets/Live/easter_c17_combistove/flash/index.xml
+- Assets/Live/easter_c17_combistove/flash/easter_c17_combistove_64_a_4_0.png
+Dependencies: []

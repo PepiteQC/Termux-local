@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2668133784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8404b71e0bb82d0fda52ad8d4236ed0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_camera/clothing_camera.xml
+- Assets/Live/clothing_camera/flash/clothing_camera_icon_a.png
+- Assets/Live/clothing_camera/flash/clothing_camera_64_a_0_0.png
+- Assets/Live/clothing_camera/flash/clothing_camera_assets.xml
+- Assets/Live/clothing_camera/flash/index.xml
+- Assets/Live/clothing_camera/flash/clothing_camera_64_a_0_1.png
+- Assets/Live/clothing_camera/flash/manifest.xml
+- Assets/Live/clothing_camera/flash/clothing_camera_logic.xml
+- Assets/Live/clothing_camera/flash/clothing_camera_visualization.xml
+- Assets/Live/clothing_camera/flash/clothing_camera_64_sd_0_0.png
+Dependencies: []

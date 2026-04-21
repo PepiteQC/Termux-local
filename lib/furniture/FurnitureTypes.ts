@@ -1,12 +1,6 @@
 export type FurnitureRotation = 0 | 1 | 2 | 3;
 
-export type FurnitureType =
-  | "chair-nebula"
-  | "table-prism"
-  | "bed-obsidian"
-  | "lamp-halo"
-  | "crystal-ether"
-  | "neon-crown";
+export type FurnitureType = string;
 
 export type IsoTile = {
   x: number;

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2530079138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b987aa84b0714d9bf199e1f952d561e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_fishnet/flash/index.xml
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_sd_2_0.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_c_2_0.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_d_2_0.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_f_2_0.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_assets.xml
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_visualization.xml
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_icon_a.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_logic.xml
+- Assets/Live/coralking_c18_fishnet/flash/manifest.xml
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_e_2_0.png
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_a_2_0.png
+- Assets/Live/coralking_c18_fishnet/coralking_c18_fishnet.xml
+- Assets/Live/coralking_c18_fishnet/flash/coralking_c18_fishnet_64_b_2_0.png
+Dependencies: []

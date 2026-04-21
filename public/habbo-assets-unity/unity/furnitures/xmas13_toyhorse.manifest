@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2661555943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 987266cc4c88841139900da9e7108a8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_64_a_0_0.png
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_64_sd_0_0.png
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_icon_a.png
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_assets.xml
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_visualization.xml
+- Assets/Live/xmas13_toyhorse/xmas13_toyhorse.xml
+- Assets/Live/xmas13_toyhorse/flash/index.xml
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_64_a_0_2.png
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_logic.xml
+- Assets/Live/xmas13_toyhorse/flash/manifest.xml
+- Assets/Live/xmas13_toyhorse/flash/xmas13_toyhorse_64_a_0_1.png
+Dependencies: []

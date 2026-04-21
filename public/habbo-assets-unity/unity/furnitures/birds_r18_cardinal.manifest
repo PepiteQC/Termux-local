@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2375586913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71b9780c5d8b93b3632b92f6c3bc52bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_10.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_11.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_0.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_5.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_11.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_8.png
+- Assets/Live/birds_r18_cardinal/birds_r18_cardinal.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_7.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_sd_0_0.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_15.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_7.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_13.png
+- Assets/Live/birds_r18_cardinal/flash/index.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_3.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_3.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_logic.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_visualization.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_2.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_1.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_4.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_12.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_14.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_icon_a.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_6.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_6.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_12.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_8.png
+- Assets/Live/birds_r18_cardinal/flash/manifest.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_9.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_13.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_10.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_9.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_assets.xml
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_1.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_5.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_4.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_0.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_14.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_b_0_2.png
+- Assets/Live/birds_r18_cardinal/flash/birds_r18_cardinal_64_a_0_15.png
+Dependencies: []

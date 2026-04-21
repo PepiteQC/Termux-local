@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3538536206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7684fd043b88468dbf5d7877a2eaf12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_3.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_1.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_visualization.xml
+- Assets/Live/penguin_ballet/flash/penguin_ballet_logic.xml
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_sd_4_0.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_icon_a.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_7.png
+- Assets/Live/penguin_ballet/penguin_ballet.xml
+- Assets/Live/penguin_ballet/flash/index.xml
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_5.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_6.png
+- Assets/Live/penguin_ballet/flash/manifest.xml
+- Assets/Live/penguin_ballet/flash/penguin_ballet_assets.xml
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_2.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_4.png
+- Assets/Live/penguin_ballet/flash/penguin_ballet_64_a_4_0.png
+Dependencies: []

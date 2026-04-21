@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3619479839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dc6a86054f8764aa85e8564e1372d28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_icon_a.png
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_64_sd_0_0.png
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_64_a_0_1.png
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_visualization.xml
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_64_a_0_0.png
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_64_b_0_1.png
+- Assets/Live/hween13_castledoor/hween13_castledoor.xml
+- Assets/Live/hween13_castledoor/flash/manifest.xml
+- Assets/Live/hween13_castledoor/flash/index.xml
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_assets.xml
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_64_b_0_0.png
+- Assets/Live/hween13_castledoor/flash/hween13_castledoor_logic.xml
+Dependencies: []

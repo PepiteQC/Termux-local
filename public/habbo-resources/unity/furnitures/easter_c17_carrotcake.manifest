@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 28066068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77a879bf35f1f9c11d0e909e2f30d1bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_carrotcake/easter_c17_carrotcake.xml
+- Assets/Live/easter_c17_carrotcake/flash/manifest.xml
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_assets.xml
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_64_sd_0_0.png
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_logic.xml
+- Assets/Live/easter_c17_carrotcake/flash/index.xml
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_64_a_0_0.png
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_visualization.xml
+- Assets/Live/easter_c17_carrotcake/flash/easter_c17_carrotcake_icon_a.png
+Dependencies: []

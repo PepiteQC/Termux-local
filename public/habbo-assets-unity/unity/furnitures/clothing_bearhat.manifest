@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3689782713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 424b6ab6763547d98b7d4a99147fe07e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_assets.xml
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_64_sd_0_0.png
+- Assets/Live/clothing_bearhat/flash/manifest.xml
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_logic.xml
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_64_a_0_0.png
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_icon_a.png
+- Assets/Live/clothing_bearhat/flash/index.xml
+- Assets/Live/clothing_bearhat/clothing_bearhat.xml
+- Assets/Live/clothing_bearhat/flash/clothing_bearhat_visualization.xml
+Dependencies: []

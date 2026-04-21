@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2703204204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80cb1e961a95716df304d52aebc28aa1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_assets.xml
+- Assets/Live/xmas13_mincepies/flash/manifest.xml
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_64_a_0_0.png
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_logic.xml
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_visualization.xml
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_64_a_0_1.png
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_icon_a.png
+- Assets/Live/xmas13_mincepies/xmas13_mincepies.xml
+- Assets/Live/xmas13_mincepies/flash/xmas13_mincepies_64_sd_0_0.png
+- Assets/Live/xmas13_mincepies/flash/index.xml
+Dependencies: []

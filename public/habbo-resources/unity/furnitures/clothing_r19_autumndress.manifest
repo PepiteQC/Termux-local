@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2769032189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65d4051c4b13d29dd9b4ef9b9bdf4524
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_autumndress/flash/clothing_r19_autumndress_visualization.xml
+- Assets/Live/clothing_r19_autumndress/flash/index.xml
+- Assets/Live/clothing_r19_autumndress/flash/clothing_r19_autumndress_64_a_0_0.png
+- Assets/Live/clothing_r19_autumndress/flash/clothing_r19_autumndress_icon_a.png
+- Assets/Live/clothing_r19_autumndress/flash/manifest.xml
+- Assets/Live/clothing_r19_autumndress/flash/clothing_r19_autumndress_logic.xml
+- Assets/Live/clothing_r19_autumndress/flash/clothing_r19_autumndress_assets.xml
+- Assets/Live/clothing_r19_autumndress/clothing_r19_autumndress.xml
+Dependencies: []

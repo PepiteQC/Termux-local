@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 474215747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6bcbfa131b56329c9fb030046aa918f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_badflower/flash/manifest.xml
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_visualization.xml
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_64_sd_0_0.png
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_icon_a.png
+- Assets/Live/easter_c18_badflower/easter_c18_badflower.xml
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_assets.xml
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_64_a_0_0.png
+- Assets/Live/easter_c18_badflower/flash/easter_c18_badflower_logic.xml
+- Assets/Live/easter_c18_badflower/flash/index.xml
+Dependencies: []

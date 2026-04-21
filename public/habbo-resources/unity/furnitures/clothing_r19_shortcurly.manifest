@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2616003796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c5053e7e4d6f8ec835a0f16086e3faf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_shortcurly/flash/clothing_r19_shortcurly_logic.xml
+- Assets/Live/clothing_r19_shortcurly/flash/clothing_r19_shortcurly_assets.xml
+- Assets/Live/clothing_r19_shortcurly/flash/manifest.xml
+- Assets/Live/clothing_r19_shortcurly/flash/clothing_r19_shortcurly_visualization.xml
+- Assets/Live/clothing_r19_shortcurly/flash/clothing_r19_shortcurly_icon_a.png
+- Assets/Live/clothing_r19_shortcurly/flash/index.xml
+- Assets/Live/clothing_r19_shortcurly/flash/clothing_r19_shortcurly_64_a_0_0.png
+- Assets/Live/clothing_r19_shortcurly/clothing_r19_shortcurly.xml
+Dependencies: []

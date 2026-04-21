@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2115157657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0339fffd3f18ae3ef9409c30425b1b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_visualization.xml
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_d_6_1.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_2_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_6_2.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_6_3.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_c_2_1.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_2_1.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_sd_2_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_2_3.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_d_6_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_icon_a.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_2_2.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_c_2_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_6_2.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_6_1.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_6_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_2_2.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_6_0.png
+- Assets/Live/plushie_r20_hammock/flash/index.xml
+- Assets/Live/plushie_r20_hammock/flash/manifest.xml
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_6_3.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_2_3.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_logic.xml
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_a_6_1.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_assets.xml
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_2_1.png
+- Assets/Live/plushie_r20_hammock/plushie_r20_hammock.xml
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_d_2_0.png
+- Assets/Live/plushie_r20_hammock/flash/plushie_r20_hammock_64_b_2_0.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1934225273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d389ab76c34248f9ae3bd19e8bf4ff5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_icestar_g/es_icestar_g.xml
+- Assets/Live/es_icestar_g/flash/es_icestar_g_visualization.xml
+- Assets/Live/es_icestar_g/flash/es_icestar_g_logic.xml
+- Assets/Live/es_icestar_g/flash/manifest.xml
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_b_0_3.png
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_b_0_0.png
+- Assets/Live/es_icestar_g/flash/es_icestar_g_icon_a.png
+- Assets/Live/es_icestar_g/flash/es_icestar_g_assets.xml
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_b_0_2.png
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_a_0_0.png
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_b_0_4.png
+- Assets/Live/es_icestar_g/flash/index.xml
+- Assets/Live/es_icestar_g/flash/es_icestar_g_64_b_0_1.png
+Dependencies: []

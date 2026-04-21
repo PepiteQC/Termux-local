@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2506745958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d494fc6a3fc7f7ca9f4dab30340aa266
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_visualization.xml
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_64_a_4_0.png
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_icon_a.png
+- Assets/Live/hotel_c18_rooftop/flash/index.xml
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_64_b_4_0.png
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_logic.xml
+- Assets/Live/hotel_c18_rooftop/hotel_c18_rooftop.xml
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_64_b_2_0.png
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_64_a_2_0.png
+- Assets/Live/hotel_c18_rooftop/flash/manifest.xml
+- Assets/Live/hotel_c18_rooftop/flash/hotel_c18_rooftop_assets.xml
+Dependencies: []

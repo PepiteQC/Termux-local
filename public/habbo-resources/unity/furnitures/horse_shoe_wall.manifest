@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2792185919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffff88a0320403f99c75795f5cd7493d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_shoe_wall/flash/horse_shoe_wall_assets.xml
+- Assets/Live/horse_shoe_wall/flash/manifest.xml
+- Assets/Live/horse_shoe_wall/flash/horse_shoe_wall_visualization.xml
+- Assets/Live/horse_shoe_wall/flash/index.xml
+- Assets/Live/horse_shoe_wall/horse_shoe_wall.xml
+- Assets/Live/horse_shoe_wall/flash/horse_shoe_wall_64_a_2_0.png
+- Assets/Live/horse_shoe_wall/flash/horse_shoe_wall_icon_a.png
+- Assets/Live/horse_shoe_wall/flash/horse_shoe_wall_logic.xml
+Dependencies: []

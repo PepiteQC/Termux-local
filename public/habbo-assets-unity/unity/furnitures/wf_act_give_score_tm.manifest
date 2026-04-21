@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2066620504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd2a33eb9c508e369da566884562112a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_icon_a.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_2.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_0.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_5.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_6.png
+- Assets/Live/wf_act_give_score_tm/flash/manifest.xml
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_logic.xml
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_4.png
+- Assets/Live/wf_act_give_score_tm/flash/index.xml
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_8.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_1.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_3.png
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_assets.xml
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_visualization.xml
+- Assets/Live/wf_act_give_score_tm/flash/wf_act_give_score_tm_64_a_2_7.png
+- Assets/Live/wf_act_give_score_tm/wf_act_give_score_tm.xml
+Dependencies: []

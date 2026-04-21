@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1265943069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aff2c36f2b98509fdcfebb4b4b3a9f56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_icon_a.png
+- Assets/Live/dessertcafe_c17_armchair/dessertcafe_c17_armchair.xml
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_64_b_4_0.png
+- Assets/Live/dessertcafe_c17_armchair/flash/manifest.xml
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_logic.xml
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_64_a_0_0.png
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_visualization.xml
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_64_a_4_0.png
+- Assets/Live/dessertcafe_c17_armchair/flash/index.xml
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_64_sd_4_0.png
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_64_b_0_0.png
+- Assets/Live/dessertcafe_c17_armchair/flash/dessertcafe_c17_armchair_assets.xml
+Dependencies: []

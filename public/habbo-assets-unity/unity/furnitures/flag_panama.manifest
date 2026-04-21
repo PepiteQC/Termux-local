@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1178525581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0108c985b47c34f85399f6eae91d9005
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_panama/flash/flag_panama_64_a_2_0.png
+- Assets/Live/flag_panama/flash/flag_panama_icon_a.png
+- Assets/Live/flag_panama/flash/flag_panama_64_a_4_0.png
+- Assets/Live/flag_panama/flag_panama.xml
+- Assets/Live/flag_panama/flash/index.xml
+- Assets/Live/flag_panama/flash/flag_panama_logic.xml
+- Assets/Live/flag_panama/flash/manifest.xml
+- Assets/Live/flag_panama/flash/flag_panama_visualization.xml
+- Assets/Live/flag_panama/flash/flag_panama_assets.xml
+Dependencies: []

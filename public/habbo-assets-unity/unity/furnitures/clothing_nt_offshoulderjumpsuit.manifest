@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1672252650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c0dc92cb3552d6d3fd7b20c06b8d285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/manifest.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/clothing_nt_offshoulderjumpsuit.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/clothing_nt_offshoulderjumpsuit_logic.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/index.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/clothing_nt_offshoulderjumpsuit_64_a_0_0.png
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/clothing_nt_offshoulderjumpsuit_visualization.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/clothing_nt_offshoulderjumpsuit_assets.xml
+- Assets/Live/clothing_nt_offshoulderjumpsuit/flash/clothing_nt_offshoulderjumpsuit_icon_a.png
+Dependencies: []

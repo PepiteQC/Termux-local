@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1229726738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28602aaf9b271217d065003b606184ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_e_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_visualization.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_b_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_logic.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_assets.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_f_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_c_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_a_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_sd_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_sd_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/manifest.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_g_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_e_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_d_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_g_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_icon_a.png
+- Assets/Live/hween_c20_porchfloor/flash/index.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_d_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_b_0_0.png
+- Assets/Live/hween_c20_porchfloor/hween_c20_porchfloor.xml
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_a_2_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_c_0_0.png
+- Assets/Live/hween_c20_porchfloor/flash/hween_c20_porchfloor_64_f_0_0.png
+Dependencies: []

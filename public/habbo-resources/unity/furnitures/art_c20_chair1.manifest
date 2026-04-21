@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 489571513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f589cc2ee85febe3f1ae0a8815a5f9b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_64_sd_0_0.png
+- Assets/Live/art_c20_chair1/flash/manifest.xml
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_assets.xml
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_icon_a.png
+- Assets/Live/art_c20_chair1/art_c20_chair1.xml
+- Assets/Live/art_c20_chair1/flash/index.xml
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_64_a_0_0.png
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_logic.xml
+- Assets/Live/art_c20_chair1/flash/art_c20_chair1_visualization.xml
+Dependencies: []

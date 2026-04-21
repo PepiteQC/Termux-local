@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2155469761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72be92dad6da65927e5d39e25f27b852
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_advent9/flash/manifest.xml
+- Assets/Live/xmas_c15_advent9/flash/xmas_c15_advent9_64_a_4_0.png
+- Assets/Live/xmas_c15_advent9/xmas_c15_advent9.xml
+- Assets/Live/xmas_c15_advent9/flash/index.xml
+- Assets/Live/xmas_c15_advent9/flash/xmas_c15_advent9_logic.xml
+- Assets/Live/xmas_c15_advent9/flash/xmas_c15_advent9_assets.xml
+- Assets/Live/xmas_c15_advent9/flash/xmas_c15_advent9_icon_a.png
+- Assets/Live/xmas_c15_advent9/flash/xmas_c15_advent9_visualization.xml
+Dependencies: []

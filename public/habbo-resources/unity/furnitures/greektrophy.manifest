@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2857020323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a04f1274b19dc9713b8145dc915154e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greektrophy/flash/greektrophy_icon_a.png
+- Assets/Live/greektrophy/flash/greektrophy_assets.xml
+- Assets/Live/greektrophy/flash/greektrophy_visualization.xml
+- Assets/Live/greektrophy/greektrophy.xml
+- Assets/Live/greektrophy/flash/greektrophy_64_sd_2_0.png
+- Assets/Live/greektrophy/flash/greektrophy_64_a_2_0.png
+- Assets/Live/greektrophy/flash/greektrophy_64_b_2_0.png
+- Assets/Live/greektrophy/flash/manifest.xml
+- Assets/Live/greektrophy/flash/greektrophy_64_c_2_0.png
+- Assets/Live/greektrophy/flash/greektrophy_logic.xml
+- Assets/Live/greektrophy/flash/index.xml
+Dependencies: []

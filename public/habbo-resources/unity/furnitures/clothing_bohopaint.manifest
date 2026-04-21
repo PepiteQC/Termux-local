@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 33858230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ac467caed56881a7632b8e4c97e13ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bohopaint/flash/clothing_bohopaint_icon_a.png
+- Assets/Live/clothing_bohopaint/flash/index.xml
+- Assets/Live/clothing_bohopaint/flash/clothing_bohopaint_64_a_0_0.png
+- Assets/Live/clothing_bohopaint/flash/clothing_bohopaint_assets.xml
+- Assets/Live/clothing_bohopaint/flash/manifest.xml
+- Assets/Live/clothing_bohopaint/flash/clothing_bohopaint_logic.xml
+- Assets/Live/clothing_bohopaint/flash/clothing_bohopaint_visualization.xml
+- Assets/Live/clothing_bohopaint/clothing_bohopaint.xml
+Dependencies: []

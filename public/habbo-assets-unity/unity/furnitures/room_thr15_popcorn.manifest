@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3128202766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0af41dab7e7f1a331d27e8fd9f72d8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_5.png
+- Assets/Live/room_thr15_popcorn/room_thr15_popcorn.xml
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_3.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_assets.xml
+- Assets/Live/room_thr15_popcorn/flash/index.xml
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_logic.xml
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_visualization.xml
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_icon_a.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_8.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_4.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_9.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_10.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_1.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_a_0_0.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_7.png
+- Assets/Live/room_thr15_popcorn/flash/manifest.xml
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_12.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_6.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_0.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_2.png
+- Assets/Live/room_thr15_popcorn/flash/room_thr15_popcorn_64_b_0_11.png
+Dependencies: []

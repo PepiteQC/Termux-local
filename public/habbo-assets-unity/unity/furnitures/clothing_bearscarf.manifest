@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2053584087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20a286d7eb32a936bfdd50eca28aef0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_64_sd_0_0.png
+- Assets/Live/clothing_bearscarf/flash/manifest.xml
+- Assets/Live/clothing_bearscarf/flash/index.xml
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_logic.xml
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_icon_a.png
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_assets.xml
+- Assets/Live/clothing_bearscarf/clothing_bearscarf.xml
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_visualization.xml
+- Assets/Live/clothing_bearscarf/flash/clothing_bearscarf_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3072582748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c4f6a95e454ba43b476cfd1799686f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_9.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_3.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_1.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_3.png
+- Assets/Live/hween13_book/flash/hween13_book_logic.xml
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_0.png
+- Assets/Live/hween13_book/flash/hween13_book_64_a_2_0.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_5.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_0.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_2.png
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_5.png
+- Assets/Live/hween13_book/flash/index.xml
+- Assets/Live/hween13_book/flash/hween13_book_icon_a.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_4.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_0.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_4.png
+- Assets/Live/hween13_book/flash/hween13_book_64_b_2_2.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_5.png
+- Assets/Live/hween13_book/flash/hween13_book_visualization.xml
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_1.png
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_3.png
+- Assets/Live/hween13_book/hween13_book.xml
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_1.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_7.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_10.png
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_8.png
+- Assets/Live/hween13_book/flash/hween13_book_assets.xml
+- Assets/Live/hween13_book/flash/hween13_book_64_d_2_6.png
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_4.png
+- Assets/Live/hween13_book/flash/hween13_book_64_c_2_2.png
+- Assets/Live/hween13_book/flash/manifest.xml
+Dependencies: []

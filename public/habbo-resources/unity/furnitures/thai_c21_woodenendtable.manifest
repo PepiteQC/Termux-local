@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1272845560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81879ae6d08e308b5e171b96a595b013
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_woodenendtable/thai_c21_woodenendtable.xml
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_icon_a.png
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_logic.xml
+- Assets/Live/thai_c21_woodenendtable/flash/index.xml
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_64_a_0_0.png
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_assets.xml
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_64_sd_0_0.png
+- Assets/Live/thai_c21_woodenendtable/flash/manifest.xml
+- Assets/Live/thai_c21_woodenendtable/flash/thai_c21_woodenendtable_visualization.xml
+Dependencies: []

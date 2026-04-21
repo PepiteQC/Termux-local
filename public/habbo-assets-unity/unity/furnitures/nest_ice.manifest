@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2912030644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c79c5630c5be3fc97f8407d1ab1cde72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_ice/flash/manifest.xml
+- Assets/Live/nest_ice/nest_ice.xml
+- Assets/Live/nest_ice/flash/nest_ice_64_a_2_0.png
+- Assets/Live/nest_ice/flash/index.xml
+- Assets/Live/nest_ice/flash/nest_ice_icon_a.png
+- Assets/Live/nest_ice/flash/nest_ice_visualization.xml
+- Assets/Live/nest_ice/flash/nest_ice_logic.xml
+- Assets/Live/nest_ice/flash/nest_ice_assets.xml
+- Assets/Live/nest_ice/flash/nest_ice_64_sd_2_0.png
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 449351989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8038905e376c4501b324d42de2969f43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_1.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_2.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_c_4_0.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_assets.xml
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_5.png
+- Assets/Live/hween_c18_complexmchn2/flash/index.xml
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_4.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_icon_a.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_logic.xml
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_sd_4_0.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_e_4_0.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_6.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_d_4_1.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_d_4_2.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_b_4_3.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_visualization.xml
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_c_4_1.png
+- Assets/Live/hween_c18_complexmchn2/hween_c18_complexmchn2.xml
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_a_4_0.png
+- Assets/Live/hween_c18_complexmchn2/flash/hween_c18_complexmchn2_64_d_4_0.png
+- Assets/Live/hween_c18_complexmchn2/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1245627770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ec4775df3f857b7d707e1bc8cccc311
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_punkoutfit2/flash/clothing_punkoutfit2_assets.xml
+- Assets/Live/clothing_punkoutfit2/flash/manifest.xml
+- Assets/Live/clothing_punkoutfit2/flash/clothing_punkoutfit2_icon_a.png
+- Assets/Live/clothing_punkoutfit2/flash/clothing_punkoutfit2_visualization.xml
+- Assets/Live/clothing_punkoutfit2/flash/clothing_punkoutfit2_64_a_0_0.png
+- Assets/Live/clothing_punkoutfit2/flash/index.xml
+- Assets/Live/clothing_punkoutfit2/clothing_punkoutfit2.xml
+- Assets/Live/clothing_punkoutfit2/flash/clothing_punkoutfit2_logic.xml
+Dependencies: []

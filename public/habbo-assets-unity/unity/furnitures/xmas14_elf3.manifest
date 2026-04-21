@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4161845515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9405fc4a80392031fbb6ab8e436a8635
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_b_0_3.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_c_0_2.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_sd_0_0.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_b_0_0.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_a_0_0.png
+- Assets/Live/xmas14_elf3/flash/manifest.xml
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_c_0_1.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_icon_a.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_logic.xml
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_a_0_1.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_b_0_1.png
+- Assets/Live/xmas14_elf3/flash/index.xml
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_b_0_2.png
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_visualization.xml
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_assets.xml
+- Assets/Live/xmas14_elf3/xmas14_elf3.xml
+- Assets/Live/xmas14_elf3/flash/xmas14_elf3_64_c_0_0.png
+Dependencies: []

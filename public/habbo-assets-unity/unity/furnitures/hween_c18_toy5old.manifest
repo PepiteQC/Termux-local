@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4185453142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0f3d695294b2cea43b0921d7908ec6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_toy5old/flash/hween_c18_toy5old_icon_a.png
+- Assets/Live/hween_c18_toy5old/flash/hween_c18_toy5old_64_a_0_0.png
+- Assets/Live/hween_c18_toy5old/flash/hween_c18_toy5old_assets.xml
+- Assets/Live/hween_c18_toy5old/hween_c18_toy5old.xml
+- Assets/Live/hween_c18_toy5old/flash/manifest.xml
+- Assets/Live/hween_c18_toy5old/flash/hween_c18_toy5old_visualization.xml
+- Assets/Live/hween_c18_toy5old/flash/index.xml
+- Assets/Live/hween_c18_toy5old/flash/hween_c18_toy5old_logic.xml
+Dependencies: []

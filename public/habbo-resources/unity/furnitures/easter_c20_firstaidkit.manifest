@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 194465383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76ef5aae7e9c9df690b031517338ec8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_icon_a.png
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_assets.xml
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_64_a_4_1.png
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_visualization.xml
+- Assets/Live/easter_c20_firstaidkit/flash/index.xml
+- Assets/Live/easter_c20_firstaidkit/flash/manifest.xml
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_64_sd_4_0.png
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_logic.xml
+- Assets/Live/easter_c20_firstaidkit/flash/easter_c20_firstaidkit_64_a_4_0.png
+- Assets/Live/easter_c20_firstaidkit/easter_c20_firstaidkit.xml
+Dependencies: []

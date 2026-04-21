@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1527822990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ffc3c8d7900c82f718b54e771ba1767
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_assets.xml
+- Assets/Live/bathroom_sinkmodule2/flash/index.xml
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_64_b_4_1.png
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_icon_a.png
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_64_a_2_0.png
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_64_a_4_0.png
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_visualization.xml
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_logic.xml
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_64_sd_4_0.png
+- Assets/Live/bathroom_sinkmodule2/flash/manifest.xml
+- Assets/Live/bathroom_sinkmodule2/flash/bathroom_sinkmodule2_64_b_4_0.png
+- Assets/Live/bathroom_sinkmodule2/bathroom_sinkmodule2.xml
+Dependencies: []

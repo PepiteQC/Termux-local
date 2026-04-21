@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3275694186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b78136825d85c611b4c642760e1ab3bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_blueprint4/flash/manifest.xml
+- Assets/Live/xmas_c17_blueprint4/xmas_c17_blueprint4.xml
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_icon_a.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_visualization.xml
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_c_0_0.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_c_0_1.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_b_0_0.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_assets.xml
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_c_0_2.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_a_0_0.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_b_0_2.png
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_64_b_0_1.png
+- Assets/Live/xmas_c17_blueprint4/flash/index.xml
+- Assets/Live/xmas_c17_blueprint4/flash/xmas_c17_blueprint4_logic.xml
+Dependencies: []

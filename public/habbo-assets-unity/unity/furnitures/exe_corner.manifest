@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 815621793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 295c2a116947f1aef2e29b281502bfc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/exe_corner/flash/index.xml
+- Assets/Live/exe_corner/flash/manifest.xml
+- Assets/Live/exe_corner/flash/exe_corner_64_a_4_0.png
+- Assets/Live/exe_corner/exe_corner.xml
+- Assets/Live/exe_corner/flash/exe_corner_assets.xml
+- Assets/Live/exe_corner/flash/exe_corner_64_a_2_0.png
+- Assets/Live/exe_corner/flash/exe_corner_logic.xml
+- Assets/Live/exe_corner/flash/exe_corner_64_a_6_0.png
+- Assets/Live/exe_corner/flash/exe_corner_visualization.xml
+- Assets/Live/exe_corner/flash/exe_corner_64_a_0_0.png
+- Assets/Live/exe_corner/flash/exe_corner_icon_a.png
+Dependencies: []

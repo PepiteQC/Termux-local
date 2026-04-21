@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1871115587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a07f0de27306d8992825b12b2a08f84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_9.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_2.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_0.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_2.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_5.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_8.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_f_2_0.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_5.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_9.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_4.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_3.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_4.png
+- Assets/Live/super_r16_adamskele/flash/manifest.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_10.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_3.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_a_2_0.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_5.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_e_2_1.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_0.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_1.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_logic.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_7.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_3.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_assets.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_e_2_0.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_2.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_visualization.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_1.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_6.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_6.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_7.png
+- Assets/Live/super_r16_adamskele/super_r16_adamskele.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_c_2_1.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_4.png
+- Assets/Live/super_r16_adamskele/flash/index.xml
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_d_2_8.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_f_2_1.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_icon_a.png
+- Assets/Live/super_r16_adamskele/flash/super_r16_adamskele_64_b_2_0.png
+Dependencies: []

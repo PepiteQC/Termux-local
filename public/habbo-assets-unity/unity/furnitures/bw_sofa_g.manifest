@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2776830739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37557dc9ffed986e3bba44e92e9bf4ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_assets.xml
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_e_2_1.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_icon_a.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_a_2_0.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_d_2_0.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_e_2_0.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_c_2_1.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_d_2_1.png
+- Assets/Live/bw_sofa_g/bw_sofa_g.xml
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_b_2_0.png
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_logic.xml
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_visualization.xml
+- Assets/Live/bw_sofa_g/flash/bw_sofa_g_64_c_2_0.png
+- Assets/Live/bw_sofa_g/flash/index.xml
+- Assets/Live/bw_sofa_g/flash/manifest.xml
+Dependencies: []

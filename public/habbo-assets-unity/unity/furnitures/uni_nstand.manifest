@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2397372508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7688dd6e2126363ee59c7ac53620a19c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_nstand/flash/uni_nstand_icon_a.png
+- Assets/Live/uni_nstand/flash/index.xml
+- Assets/Live/uni_nstand/flash/uni_nstand_64_sd_2_0.png
+- Assets/Live/uni_nstand/flash/uni_nstand_64_a_2_0.png
+- Assets/Live/uni_nstand/uni_nstand.xml
+- Assets/Live/uni_nstand/flash/uni_nstand_visualization.xml
+- Assets/Live/uni_nstand/flash/uni_nstand_assets.xml
+- Assets/Live/uni_nstand/flash/uni_nstand_logic.xml
+- Assets/Live/uni_nstand/flash/manifest.xml
+Dependencies: []

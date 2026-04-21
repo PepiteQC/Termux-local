@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1832875383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca11f16eb28bac880904960400a048f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_spacerent5x5/flash/manifest.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_h_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_logic.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_j_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_c_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_j_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_e_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_e_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_f_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/index.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_f_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_a_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_i_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_d_0_0.png
+- Assets/Live/hblooza_spacerent5x5/hblooza_spacerent5x5.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_b_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_i_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_c_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_g_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_assets.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_d_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_visualization.xml
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_h_0_1.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_a_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_icon_a.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_g_0_0.png
+- Assets/Live/hblooza_spacerent5x5/flash/hblooza_spacerent5x5_64_b_0_0.png
+Dependencies: []

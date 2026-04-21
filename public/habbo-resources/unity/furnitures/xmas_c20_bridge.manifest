@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3925241523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5256179f39fe1f56db68ca2e485e4c9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_bridge/xmas_c20_bridge.xml
+- Assets/Live/xmas_c20_bridge/flash/manifest.xml
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_a_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_visualization.xml
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_e_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_g_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_sd_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/index.xml
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_c_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_i_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_b_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_f_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_icon_a.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_h_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_assets.xml
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_64_d_4_0.png
+- Assets/Live/xmas_c20_bridge/flash/xmas_c20_bridge_logic.xml
+Dependencies: []

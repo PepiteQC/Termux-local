@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 460524779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1628636f2443651da810c164cb7d12be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_sportshair/flash/clothing_sportshair_logic.xml
+- Assets/Live/clothing_sportshair/clothing_sportshair.xml
+- Assets/Live/clothing_sportshair/flash/clothing_sportshair_assets.xml
+- Assets/Live/clothing_sportshair/flash/manifest.xml
+- Assets/Live/clothing_sportshair/flash/index.xml
+- Assets/Live/clothing_sportshair/flash/clothing_sportshair_icon_a.png
+- Assets/Live/clothing_sportshair/flash/clothing_sportshair_visualization.xml
+- Assets/Live/clothing_sportshair/flash/clothing_sportshair_64_a_0_0.png
+Dependencies: []

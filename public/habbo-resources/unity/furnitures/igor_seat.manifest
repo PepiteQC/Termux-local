@@ -1,0 +1,143 @@
+ManifestFileVersion: 0
+CRC: 385340416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95a5bb2ab2ab1dc5c46dc2b7b5c9f5d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_6_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_6_4.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_assets.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_c_2_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_2_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_2_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_icon_a.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_sd_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_e_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_6_4.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_f_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/manifest.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_6_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_6_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_e_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_sd_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_2_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_visualization.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_sd_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_6_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_6_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_visualization.xml
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_sd_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_2_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/manifest.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_6_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_f_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_6_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_6_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_c_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_c_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_6_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_e_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_b_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_6_4.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_c_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/index.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_2_4.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_c_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_c_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_2_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_b_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_sd_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_b_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_logic.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_2_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_c_2_0.png
+- Assets/Live/igor_seat/igor_seat.xml
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_c_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_2_4.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_2_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_6_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_e_0_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_6_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_6_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_2_1.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_sd_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/index.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_c_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_6_2.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_e_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_a_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_6_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_6_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_c_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_6_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_c_2_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_d_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_f_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_e_2_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_2_3.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_c_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_6_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_6_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_assets.xml
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_a_2_3.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_2_4.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_2_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_g_6_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_32_g_6_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_logic.xml
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_6_0.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_e_0_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_e_0_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_g_2_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_e_2_0.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_icon_a.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_a_2_1.png
+- Assets/Live/igor_seat/flash/igor_seatcmp/igor_seatcmp_64_d_6_2.png
+- Assets/Live/igor_seat/flash/igor_seat/igor_seat_64_d_6_2.png
+Dependencies: []

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2014095940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01d37a68aadcf109b98dc85d9a2564c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_a_4_0.png
+- Assets/Live/winter15_freeze/flash/index.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_3.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_4.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_1.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_2.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_logic.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_2.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_3.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_2.png
+- Assets/Live/winter15_freeze/winter15_freeze.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_5.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_1.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_assets.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_0.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_3.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_icon_a.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_0.png
+- Assets/Live/winter15_freeze/flash/manifest.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_4.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_0.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_visualization.xml
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_c_4_5.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_5.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_b_4_4.png
+- Assets/Live/winter15_freeze/flash/winter15_freeze_64_d_4_1.png
+Dependencies: []

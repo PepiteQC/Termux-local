@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4007534260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8b98e5f07ef4144dba2cfc26de8b982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/samovar/flash/samovar_logic.xml
+- Assets/Live/samovar/flash/samovar_64_a_2_0.png
+- Assets/Live/samovar/samovar.xml
+- Assets/Live/samovar/flash/index.xml
+- Assets/Live/samovar/flash/manifest.xml
+- Assets/Live/samovar/flash/samovar_visualization.xml
+- Assets/Live/samovar/flash/samovar_64_sd_0_0.png
+- Assets/Live/samovar/flash/samovar_assets.xml
+- Assets/Live/samovar/flash/samovar_icon_a.png
+Dependencies: []

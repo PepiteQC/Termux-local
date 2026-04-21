@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 402257440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 045479c56a9820268a0dbc6673f87c56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_monkeyfezhat/clothing_r20_monkeyfezhat.xml
+- Assets/Live/clothing_r20_monkeyfezhat/flash/index.xml
+- Assets/Live/clothing_r20_monkeyfezhat/flash/clothing_r20_monkeyfezhat_icon_a.png
+- Assets/Live/clothing_r20_monkeyfezhat/flash/clothing_r20_monkeyfezhat_assets.xml
+- Assets/Live/clothing_r20_monkeyfezhat/flash/clothing_r20_monkeyfezhat_64_a_0_0.png
+- Assets/Live/clothing_r20_monkeyfezhat/flash/clothing_r20_monkeyfezhat_visualization.xml
+- Assets/Live/clothing_r20_monkeyfezhat/flash/clothing_r20_monkeyfezhat_logic.xml
+- Assets/Live/clothing_r20_monkeyfezhat/flash/manifest.xml
+Dependencies: []

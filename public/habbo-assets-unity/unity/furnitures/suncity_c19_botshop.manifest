@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3869343228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ad91b89b8905e09e4ddc0a7211e1f0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_botshop/flash/index.xml
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_visualization.xml
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_b_2_0.png
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_a_2_0.png
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_a_4_0.png
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_c_4_0.png
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_b_4_0.png
+- Assets/Live/suncity_c19_botshop/suncity_c19_botshop.xml
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_assets.xml
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_64_c_2_0.png
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_icon_a.png
+- Assets/Live/suncity_c19_botshop/flash/manifest.xml
+- Assets/Live/suncity_c19_botshop/flash/suncity_c19_botshop_logic.xml
+Dependencies: []

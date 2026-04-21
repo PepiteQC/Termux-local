@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1722920147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef27b60c6c6d259f55f1cafefe1d30df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_4.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_visualization.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_7.png
+- Assets/Live/qt_xm10_bauble2/qt_xm10_bauble2.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_assets.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_icon_a.png
+- Assets/Live/qt_xm10_bauble2/flash/index.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_6.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_5.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_11.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_8.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_logic.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_2.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_3.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_10.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_9.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_1.png
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_b_2_0.png
+- Assets/Live/qt_xm10_bauble2/flash/manifest.xml
+- Assets/Live/qt_xm10_bauble2/flash/qt_xm10_bauble2_64_a_2_0.png
+Dependencies: []

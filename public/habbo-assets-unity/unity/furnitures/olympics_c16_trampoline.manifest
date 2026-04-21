@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3868863508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abc3e44e70e2ada4aa6e3aacdf9f76df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_logic.xml
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_b_0_1.png
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_assets.xml
+- Assets/Live/olympics_c16_trampoline/flash/manifest.xml
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_b_0_2.png
+- Assets/Live/olympics_c16_trampoline/flash/index.xml
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_icon_a.png
+- Assets/Live/olympics_c16_trampoline/olympics_c16_trampoline.xml
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_a_0_0.png
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_b_0_4.png
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_b_0_0.png
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_b_0_3.png
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_visualization.xml
+- Assets/Live/olympics_c16_trampoline/flash/olympics_c16_trampoline_64_sd_0_0.png
+Dependencies: []

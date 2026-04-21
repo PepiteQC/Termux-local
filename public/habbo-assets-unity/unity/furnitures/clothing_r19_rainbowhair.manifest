@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1684482721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5732e1324e7fb42ac1a73c42064ff1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_grandetail_icon_a.png
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_grandetail_64_a_0_0.png
+- Assets/Live/clothing_r19_rainbowhair/clothing_r19_rainbowhair.xml
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_r19_rainbowhair_visualization.xml
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_r19_rainbowhair_64_a_0_0.png
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_r19_rainbowhair_icon_a.png
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_r19_rainbowhair_logic.xml
+- Assets/Live/clothing_r19_rainbowhair/flash/clothing_r19_rainbowhair_assets.xml
+- Assets/Live/clothing_r19_rainbowhair/flash/manifest.xml
+- Assets/Live/clothing_r19_rainbowhair/flash/index.xml
+Dependencies: []

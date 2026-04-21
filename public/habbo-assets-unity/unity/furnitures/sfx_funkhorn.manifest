@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3246747300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9c2a6449385627cffa77a94f9a49304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_funkhorn/flash/manifest.xml
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_visualization.xml
+- Assets/Live/sfx_funkhorn/flash/index.xml
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_5.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_assets.xml
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_0.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_2.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_icon_a.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_1.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_3.png
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_logic.xml
+- Assets/Live/sfx_funkhorn/sfx_funkhorn.xml
+- Assets/Live/sfx_funkhorn/flash/sfx_funkhorn_64_a_4_4.png
+Dependencies: []

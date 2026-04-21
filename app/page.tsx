@@ -19,8 +19,16 @@ export default function HomePage() {
   const [index, setIndex] = useState(0);
   const [progress, setProgress] = useState(0);
   const [label, setLabel] = useState("Initialisation...");
+  const [isLoading, setIsLoading] = useState(false);
+
+  const handleConnect = () => {
+    setIsLoading(true);
+    setIndex(0);
+  };
 
   useEffect(() => {
+    if (!isLoading) return;
+
     if (index >= steps.length) {
       const timeout = setTimeout(() => {
         router.push("/room");
@@ -37,7 +45,7 @@ export default function HomePage() {
     }, 500 + Math.random() * 300);
 
     return () => clearTimeout(timeout);
-  }, [index, router]);
+  }, [index, router, isLoading]);
 
   return (
     <main className="ether-loader-page">
@@ -46,14 +54,29 @@ export default function HomePage() {
         <div className="ether-loader-logo">ETHERWORLD</div>
         <div className="ether-loader-subtitle">HABBO-STYLE GAME ENGINE</div>
 
-        <div className="ether-loader-bar">
-          <div
-            className="ether-loader-fill"
-            style={{ width: `${progress}%` }}
-          />
-        </div>
+        {!isLoading ? (
+          <div className="ether-login-section">
+            <button
+              onClick={handleConnect}
+              className="ether-connect-button"
+            >
+              CONNEXION
+            </button>
+            <div className="ether-login-info">Cliquez pour entrer dans EtherWorld</div>
+          </div>
+        ) : (
+          <>
+            <div className="ether-loader-bar">
+              <div
+                className="ether-loader-fill"
+                style={{ width: `${progress}%` }}
+              />
+            </div>
 
-        <div className="ether-loader-status">{label}</div>
+            <div className="ether-loader-status">{label}</div>
+          </>
+        )}
+
         <div className="ether-loader-version">v2.0.0 — Premium Chamber</div>
       </section>
     </main>

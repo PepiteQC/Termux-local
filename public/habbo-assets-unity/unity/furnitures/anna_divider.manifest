@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 213755074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 279364b4c42551b0679f3f8754c57a28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anna_divider/flash/anna_divider_visualization.xml
+- Assets/Live/anna_divider/flash/anna_divider_icon_b.png
+- Assets/Live/anna_divider/flash/anna_divider_64_b_0_0.png
+- Assets/Live/anna_divider/flash/anna_divider_64_a_0_0.png
+- Assets/Live/anna_divider/flash/manifest.xml
+- Assets/Live/anna_divider/flash/anna_divider_assets.xml
+- Assets/Live/anna_divider/flash/anna_divider_64_a_2_0.png
+- Assets/Live/anna_divider/flash/anna_divider_icon_a.png
+- Assets/Live/anna_divider/flash/index.xml
+- Assets/Live/anna_divider/flash/anna_divider_logic.xml
+- Assets/Live/anna_divider/anna_divider.xml
+- Assets/Live/anna_divider/flash/anna_divider_64_b_2_0.png
+Dependencies: []

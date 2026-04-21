@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3080652895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6445d5afef318b6125465ff9b1767db9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_e_0_0.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_logic.xml
+- Assets/Live/party_crate2_3/flash/party_crate2_3_assets.xml
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_g_0_1.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_a_0_0.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_visualization.xml
+- Assets/Live/party_crate2_3/party_crate2_3.xml
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_c_0_0.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_icon_a.png
+- Assets/Live/party_crate2_3/flash/index.xml
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_f_0_0.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_b_0_0.png
+- Assets/Live/party_crate2_3/flash/party_crate2_3_64_c_0_1.png
+- Assets/Live/party_crate2_3/flash/manifest.xml
+Dependencies: []

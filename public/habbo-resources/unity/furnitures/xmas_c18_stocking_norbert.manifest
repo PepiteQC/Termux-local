@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2544117860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef130dd893773317d1d78b603f6cc1e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_assets.xml
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_logic.xml
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_64_a_0_0.png
+- Assets/Live/xmas_c18_stocking_norbert/flash/index.xml
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_icon_a.png
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_64_sd_0_0.png
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_visualization.xml
+- Assets/Live/xmas_c18_stocking_norbert/flash/manifest.xml
+- Assets/Live/xmas_c18_stocking_norbert/xmas_c18_stocking_norbert.xml
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_64_a_0_3.png
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_64_a_0_2.png
+- Assets/Live/xmas_c18_stocking_norbert/flash/xmas_c18_stocking_norbert_64_a_0_1.png
+Dependencies: []

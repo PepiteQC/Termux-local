@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3499580032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 706c835a11641f42765d9b09de1d162d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_64_sd_0_0.png
+- Assets/Live/easter_c17_strawbsjam/flash/manifest.xml
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_64_a_0_0.png
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_logic.xml
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_icon_a.png
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_assets.xml
+- Assets/Live/easter_c17_strawbsjam/flash/index.xml
+- Assets/Live/easter_c17_strawbsjam/flash/easter_c17_strawbsjam_visualization.xml
+- Assets/Live/easter_c17_strawbsjam/easter_c17_strawbsjam.xml
+Dependencies: []

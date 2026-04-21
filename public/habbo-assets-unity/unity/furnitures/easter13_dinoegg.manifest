@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3439546579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7451e43beb6958661d2176b7ae6bd64e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_dinoegg/flash/easter13_dinoegg_assets.xml
+- Assets/Live/easter13_dinoegg/flash/manifest.xml
+- Assets/Live/easter13_dinoegg/flash/index.xml
+- Assets/Live/easter13_dinoegg/flash/easter13_dinoegg_64_a_0_0.png
+- Assets/Live/easter13_dinoegg/flash/easter13_dinoegg_visualization.xml
+- Assets/Live/easter13_dinoegg/easter13_dinoegg.xml
+- Assets/Live/easter13_dinoegg/flash/easter13_dinoegg_logic.xml
+- Assets/Live/easter13_dinoegg/flash/easter13_dinoegg_icon_a.png
+Dependencies: []

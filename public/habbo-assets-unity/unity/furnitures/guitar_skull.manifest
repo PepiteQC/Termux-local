@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4052808596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8186ef46419872880e36f403b5da2c3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/guitar_skull/flash/guitar_skull_assets.xml
+- Assets/Live/guitar_skull/flash/guitar_skull_icon_a.png
+- Assets/Live/guitar_skull/flash/manifest.xml
+- Assets/Live/guitar_skull/flash/guitar_skull_64_b_2_0.png
+- Assets/Live/guitar_skull/flash/guitar_skull_64_a_2_0.png
+- Assets/Live/guitar_skull/flash/guitar_skull_logic.xml
+- Assets/Live/guitar_skull/flash/index.xml
+- Assets/Live/guitar_skull/guitar_skull.xml
+- Assets/Live/guitar_skull/flash/guitar_skull_visualization.xml
+Dependencies: []

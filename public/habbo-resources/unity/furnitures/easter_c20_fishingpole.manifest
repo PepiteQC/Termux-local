@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1572099907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22837cc6f873114eb3fc356f0cdcc4ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_6_4.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_logic.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_6_1.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_6_2.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_6_3.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_0_2.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_0_1.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_6_0.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_2_1.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_2_0.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_2_3.png
+- Assets/Live/easter_c20_fishingpole/flash/manifest.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_0_4.png
+- Assets/Live/easter_c20_fishingpole/flash/index.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_2_2.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_0_3.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_visualization.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_2_4.png
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_64_a_0_0.png
+- Assets/Live/easter_c20_fishingpole/easter_c20_fishingpole.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_assets.xml
+- Assets/Live/easter_c20_fishingpole/flash/easter_c20_fishingpole_icon_a.png
+Dependencies: []

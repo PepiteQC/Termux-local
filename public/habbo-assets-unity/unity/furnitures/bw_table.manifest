@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3864329137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e055b6dbef187157307669e77cd1429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_table/flash/bw_table_assets.xml
+- Assets/Live/bw_table/flash/bw_table_icon_a.png
+- Assets/Live/bw_table/flash/index.xml
+- Assets/Live/bw_table/bw_table.xml
+- Assets/Live/bw_table/flash/bw_table_logic.xml
+- Assets/Live/bw_table/flash/bw_table_64_b_0_0.png
+- Assets/Live/bw_table/flash/bw_table_64_b_0_1.png
+- Assets/Live/bw_table/flash/manifest.xml
+- Assets/Live/bw_table/flash/bw_table_64_a_0_0.png
+- Assets/Live/bw_table/flash/bw_table_visualization.xml
+Dependencies: []

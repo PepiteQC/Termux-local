@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 386961969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 495a6c91745b1445512a652bb974af8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bohotiara/flash/index.xml
+- Assets/Live/clothing_bohotiara/flash/manifest.xml
+- Assets/Live/clothing_bohotiara/flash/clothing_bohotiara_visualization.xml
+- Assets/Live/clothing_bohotiara/flash/clothing_bohotiara_assets.xml
+- Assets/Live/clothing_bohotiara/flash/clothing_bohotiara_64_a_0_0.png
+- Assets/Live/clothing_bohotiara/flash/clothing_bohotiara_logic.xml
+- Assets/Live/clothing_bohotiara/clothing_bohotiara.xml
+- Assets/Live/clothing_bohotiara/flash/clothing_bohotiara_icon_a.png
+Dependencies: []

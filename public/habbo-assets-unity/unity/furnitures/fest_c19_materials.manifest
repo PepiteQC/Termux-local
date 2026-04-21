@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 204557033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5727b46a7191c25f0482d0ce7f21e2a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_materials/flash/fest_c19_materials_64_a_0_0.png
+- Assets/Live/fest_c19_materials/flash/fest_c19_materials_assets.xml
+- Assets/Live/fest_c19_materials/flash/fest_c19_materials_visualization.xml
+- Assets/Live/fest_c19_materials/flash/fest_c19_materials_icon_a.png
+- Assets/Live/fest_c19_materials/flash/index.xml
+- Assets/Live/fest_c19_materials/flash/fest_c19_materials_logic.xml
+- Assets/Live/fest_c19_materials/fest_c19_materials.xml
+- Assets/Live/fest_c19_materials/flash/manifest.xml
+Dependencies: []

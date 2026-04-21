@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2639009546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8eddf9fe855324cb9202285ce2b59e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/carpet_standard/flash/carpet_standard_assets.xml
+- Assets/Live/carpet_standard/flash/manifest.xml
+- Assets/Live/carpet_standard/flash/carpet_standard_visualization.xml
+- Assets/Live/carpet_standard/flash/index.xml
+- Assets/Live/carpet_standard/flash/carpet_standard_icon_a.png
+- Assets/Live/carpet_standard/flash/carpet_standard_64_a_0_0.png
+- Assets/Live/carpet_standard/carpet_standard.xml
+- Assets/Live/carpet_standard/flash/carpet_standard_logic.xml
+Dependencies: []

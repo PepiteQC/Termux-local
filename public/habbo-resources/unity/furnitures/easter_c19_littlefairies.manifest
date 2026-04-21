@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1835277110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 192d259e35e8df44a25e2559a0c1fbd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_littlefairies/flash/manifest.xml
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_3.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_4.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_0.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_icon_a.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_10.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_9.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_logic.xml
+- Assets/Live/easter_c19_littlefairies/flash/index.xml
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_visualization.xml
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_0.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_2.png
+- Assets/Live/easter_c19_littlefairies/easter_c19_littlefairies.xml
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_14.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_9.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_8.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_3.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_3.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_9.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_1.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_1.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_10.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_8.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_13.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_11.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_15.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_2.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_1.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_5.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_5.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_12.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_6.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_7.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_2.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_6.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_7.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_15.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_sd_4_0.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_4.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_13.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_7.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_5.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_c_4_8.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_11.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_12.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_14.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_0.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_assets.xml
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_a_4_6.png
+- Assets/Live/easter_c19_littlefairies/flash/easter_c19_littlefairies_64_b_4_4.png
+Dependencies: []

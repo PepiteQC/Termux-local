@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 380620775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0ceb5b80053b4ee4f489f0986dd52a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_logchair/flash/manifest.xml
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_logic.xml
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_64_a_4_0.png
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_64_b_0_0.png
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_icon_a.png
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_64_a_0_0.png
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_assets.xml
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_64_b_4_0.png
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_visualization.xml
+- Assets/Live/easter_c19_logchair/easter_c19_logchair.xml
+- Assets/Live/easter_c19_logchair/flash/easter_c19_logchair_64_sd_0_0.png
+- Assets/Live/easter_c19_logchair/flash/index.xml
+Dependencies: []

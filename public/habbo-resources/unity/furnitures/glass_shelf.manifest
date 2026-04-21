@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 371390428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e78fd71b0532929724e2c33e75b03e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/glass_shelf/flash/glass_shelf_64_sd_0_0.png
+- Assets/Live/glass_shelf/flash/glass_shelf_icon_a.png
+- Assets/Live/glass_shelf/flash/manifest.xml
+- Assets/Live/glass_shelf/flash/glass_shelf_64_a_0_0.png
+- Assets/Live/glass_shelf/flash/index.xml
+- Assets/Live/glass_shelf/flash/glass_shelf_assets.xml
+- Assets/Live/glass_shelf/flash/glass_shelf_logic.xml
+- Assets/Live/glass_shelf/glass_shelf.xml
+- Assets/Live/glass_shelf/flash/glass_shelf_64_b_0_0.png
+- Assets/Live/glass_shelf/flash/glass_shelf_visualization.xml
+Dependencies: []

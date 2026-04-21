@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1827101412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 985a15158bd91548e31fdf2b965c46e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_leatherhoodie/flash/clothing_leatherhoodie_icon_a.png
+- Assets/Live/clothing_leatherhoodie/flash/clothing_leatherhoodie_visualization.xml
+- Assets/Live/clothing_leatherhoodie/flash/manifest.xml
+- Assets/Live/clothing_leatherhoodie/flash/clothing_leatherhoodie_assets.xml
+- Assets/Live/clothing_leatherhoodie/clothing_leatherhoodie.xml
+- Assets/Live/clothing_leatherhoodie/flash/clothing_leatherhoodie_logic.xml
+- Assets/Live/clothing_leatherhoodie/flash/clothing_leatherhoodie_64_a_0_0.png
+- Assets/Live/clothing_leatherhoodie/flash/index.xml
+Dependencies: []

@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3680879143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c48e1d1a09e8547a8b0969b4899ee76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_1.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_logic.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/manifest.xml
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_visualization.xml
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_6.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_logic.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_3.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/index.xml
+- Assets/Live/ads_chups/ads_chups.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_7.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_sd_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups/manifest.xml
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_assets.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_5.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_7.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_sd_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_5.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_visualization.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_assets.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_3.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_5.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_icon_a.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_1.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_6.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_6.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_1.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_sd_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_7.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_2.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_3.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_4.png
+- Assets/Live/ads_chups/flash/ads_chups/index.xml
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_2.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_icon_a.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_64_a_0_4.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_4.png
+- Assets/Live/ads_chups/flash/ads_chups_camp/ads_chups_camp_32_a_0_0.png
+- Assets/Live/ads_chups/flash/ads_chups/ads_chups_64_a_0_2.png
+Dependencies: []

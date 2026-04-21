@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3282198547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e3dca6a1b675f626851b630e728cbb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_scuffedboots/clothing_r19_scuffedboots.xml
+- Assets/Live/clothing_r19_scuffedboots/flash/clothing_r19_scuffedboots_assets.xml
+- Assets/Live/clothing_r19_scuffedboots/flash/index.xml
+- Assets/Live/clothing_r19_scuffedboots/flash/manifest.xml
+- Assets/Live/clothing_r19_scuffedboots/flash/clothing_r19_scuffedboots_icon_a.png
+- Assets/Live/clothing_r19_scuffedboots/flash/clothing_r19_scuffedboots_logic.xml
+- Assets/Live/clothing_r19_scuffedboots/flash/clothing_r19_scuffedboots_64_a_0_0.png
+- Assets/Live/clothing_r19_scuffedboots/flash/clothing_r19_scuffedboots_visualization.xml
+Dependencies: []

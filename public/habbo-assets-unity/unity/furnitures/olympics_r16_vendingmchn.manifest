@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3421536242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46ccee7867e72321dfc6633f2d14a551
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_64_a_4_1.png
+- Assets/Live/olympics_r16_vendingmchn/olympics_r16_vendingmchn.xml
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_icon_a.png
+- Assets/Live/olympics_r16_vendingmchn/flash/index.xml
+- Assets/Live/olympics_r16_vendingmchn/flash/manifest.xml
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_visualization.xml
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_assets.xml
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_64_a_4_0.png
+- Assets/Live/olympics_r16_vendingmchn/flash/olympics_r16_vendingmchn_logic.xml
+Dependencies: []

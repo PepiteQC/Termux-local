@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 53461362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd51bf22dd5590afcadd4466c0205f62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bartable_armas/flash/bartable_armas_logic.xml
+- Assets/Live/bartable_armas/flash/bartable_armas_64_a_0_0.png
+- Assets/Live/bartable_armas/flash/manifest.xml
+- Assets/Live/bartable_armas/flash/bartable_armas_assets.xml
+- Assets/Live/bartable_armas/flash/bartable_armas_64_b_0_0.png
+- Assets/Live/bartable_armas/flash/bartable_armas_64_sd_0_0.png
+- Assets/Live/bartable_armas/flash/index.xml
+- Assets/Live/bartable_armas/bartable_armas.xml
+- Assets/Live/bartable_armas/flash/bartable_armas_64_c_0_0.png
+- Assets/Live/bartable_armas/flash/bartable_armas_icon_a.png
+- Assets/Live/bartable_armas/flash/bartable_armas_visualization.xml
+Dependencies: []

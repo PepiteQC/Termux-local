@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 567400827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f791825c18ab80f83fbc02b6fecab1cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_stage2/flash/manifest.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_4_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_4_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_7_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_5_1.png
+- Assets/Live/pirate_stage2/flash/index.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_3_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_6_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_visualization.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_1_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_6_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_2_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_7_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_1_0.png
+- Assets/Live/pirate_stage2/pirate_stage2.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_0_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_2_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_5_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_4_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_1_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_0_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_0_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_3_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_assets.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_5_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_0_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_6_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_icon_a.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_1_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_0_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_7_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_logic.xml
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_7_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_5_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_6_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_d_2_1.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_2_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_b_3_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_a_3_0.png
+- Assets/Live/pirate_stage2/flash/pirate_stage2_64_c_4_0.png
+Dependencies: []

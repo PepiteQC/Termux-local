@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3524709159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c7fe08e09b6ffdfd05ad7c2d93bc9c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_frosted/flash/manifest.xml
+- Assets/Live/clothing_r19_frosted/clothing_r19_frosted.xml
+- Assets/Live/clothing_r19_frosted/flash/index.xml
+- Assets/Live/clothing_r19_frosted/flash/clothing_r19_frosted_logic.xml
+- Assets/Live/clothing_r19_frosted/flash/clothing_r19_frosted_visualization.xml
+- Assets/Live/clothing_r19_frosted/flash/clothing_r19_frosted_64_a_2_0.png
+- Assets/Live/clothing_r19_frosted/flash/clothing_r19_frosted_assets.xml
+- Assets/Live/clothing_r19_frosted/flash/clothing_r19_frosted_icon_a.png
+Dependencies: []

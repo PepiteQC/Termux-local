@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1441718501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bac683b9daefb93213c8234595bfeecd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_8.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_6.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_0.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_3.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_2.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_icon_a.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_1.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_assets.xml
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_a_0_1.png
+- Assets/Live/coralking_c18_pearloyster/flash/index.xml
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_sd_0_0.png
+- Assets/Live/coralking_c18_pearloyster/flash/manifest.xml
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_a_0_0.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_4.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_visualization.xml
+- Assets/Live/coralking_c18_pearloyster/coralking_c18_pearloyster.xml
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_logic.xml
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_9.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_7.png
+- Assets/Live/coralking_c18_pearloyster/flash/coralking_c18_pearloyster_64_b_0_5.png
+Dependencies: []

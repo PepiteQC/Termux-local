@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1134143850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04afce9725c59c09bdce1d7abcb47e9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_logic.xml
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_visualization.xml
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_64_a_0_0.png
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_64_b_0_0.png
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_icon_a.png
+- Assets/Live/hween_c20_brokenfloor/flash/manifest.xml
+- Assets/Live/hween_c20_brokenfloor/hween_c20_brokenfloor.xml
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_64_b_0_3.png
+- Assets/Live/hween_c20_brokenfloor/flash/index.xml
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_assets.xml
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_64_b_0_1.png
+- Assets/Live/hween_c20_brokenfloor/flash/hween_c20_brokenfloor_64_b_0_2.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3935089853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cba5000d8712e531e47144e3c9ccd3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland_c15_table/flash/cland_c15_table_64_a_0_1.png
+- Assets/Live/cland_c15_table/flash/cland_c15_table_icon_a.png
+- Assets/Live/cland_c15_table/cland_c15_table.xml
+- Assets/Live/cland_c15_table/flash/cland_c15_table_assets.xml
+- Assets/Live/cland_c15_table/flash/manifest.xml
+- Assets/Live/cland_c15_table/flash/cland_c15_table_logic.xml
+- Assets/Live/cland_c15_table/flash/cland_c15_table_visualization.xml
+- Assets/Live/cland_c15_table/flash/cland_c15_table_64_a_0_0.png
+- Assets/Live/cland_c15_table/flash/index.xml
+- Assets/Live/cland_c15_table/flash/cland_c15_table_64_a_0_2.png
+Dependencies: []

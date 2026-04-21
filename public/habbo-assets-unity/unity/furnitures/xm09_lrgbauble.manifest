@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2962943135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2da6618a3bec55cf005eb4c7e1eeab11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm09_lrgBauble/xm09_lrgBauble.xml
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_64_b_0_0.png
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_assets.xml
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_visualization.xml
+- Assets/Live/xm09_lrgBauble/flash/manifest.xml
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_icon_a.png
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_64_sd_0_0.png
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_logic.xml
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_64_c_0_0.png
+- Assets/Live/xm09_lrgBauble/flash/xm09_lrgBauble_64_a_0_0.png
+- Assets/Live/xm09_lrgBauble/flash/index.xml
+Dependencies: []

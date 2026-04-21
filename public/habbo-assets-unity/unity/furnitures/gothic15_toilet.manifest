@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1518661959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4f8214731842582ec4d94350df27fb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_4.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_7.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_e_0_1.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_3.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_1.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_3.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_2.png
+- Assets/Live/gothic15_toilet/flash/index.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_2.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_b_0_1.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_6.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_d_0_1.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_5.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_6.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_a_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_d_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_1.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_assets.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_d_4_1.png
+- Assets/Live/gothic15_toilet/flash/manifest.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_b_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_a_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_e_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_4.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_e_4_1.png
+- Assets/Live/gothic15_toilet/gothic15_toilet.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_f_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_logic.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_5.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_e_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_visualization.xml
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_7.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_b_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_d_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_icon_a.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_f_0_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_c_4_0.png
+- Assets/Live/gothic15_toilet/flash/gothic15_toilet_64_b_4_1.png
+Dependencies: []

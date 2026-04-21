@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1431643197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ae6325d81673e32f81bf90fc27dc45e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_sd_0_0.png
+- Assets/Live/army_c15_jerrycan/army_c15_jerrycan.xml
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_9.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_4.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_5.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_10.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_0.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_3.png
+- Assets/Live/army_c15_jerrycan/flash/index.xml
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_3.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_11.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_5.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_1.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_8 .png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_0.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_10.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_0.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_2.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_2.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_7.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_4.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_3.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_8.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_2.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_6.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_9.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_visualization.xml
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_logic.xml
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_a_0_0.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_11.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_6.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_7.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_5.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_icon_a.png
+- Assets/Live/army_c15_jerrycan/flash/manifest.xml
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_c_0_4.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_d_0_1.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_64_b_0_1.png
+- Assets/Live/army_c15_jerrycan/flash/army_c15_jerrycan_assets.xml
+Dependencies: []

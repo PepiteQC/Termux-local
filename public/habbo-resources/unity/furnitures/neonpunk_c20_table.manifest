@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 725988577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43e31696ac283e238ea9666130ed2fac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_64_a_0_0.png
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_visualization.xml
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_64_sd_0_0.png
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_assets.xml
+- Assets/Live/neonpunk_c20_table/flash/index.xml
+- Assets/Live/neonpunk_c20_table/neonpunk_c20_table.xml
+- Assets/Live/neonpunk_c20_table/flash/manifest.xml
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_icon_a.png
+- Assets/Live/neonpunk_c20_table/flash/neonpunk_c20_table_logic.xml
+Dependencies: []

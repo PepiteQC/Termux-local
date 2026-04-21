@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3687092394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02d3b088c153e1495e94bd728ff2c19a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_a_0_0.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_c_4_0.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_assets.xml
+- Assets/Live/drago_c15_sofa/flash/manifest.xml
+- Assets/Live/drago_c15_sofa/flash/index.xml
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_a_4_0.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_logic.xml
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_icon_a.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_b_4_0.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_b_0_0.png
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_visualization.xml
+- Assets/Live/drago_c15_sofa/flash/drago_c15_sofa_64_c_0_0.png
+- Assets/Live/drago_c15_sofa/drago_c15_sofa.xml
+Dependencies: []

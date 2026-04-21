@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2141385679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb088e0cac26feb23af010151631dbf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_b_0_1.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_c_0_1.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_b_4_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_icon_b.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_visualization.xml
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_a_0_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_b_0_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_a_4_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_c_0_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_c_4_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_logic.xml
+- Assets/Live/diner_cashreg/flash/index.xml
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_a_4_1.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_assets.xml
+- Assets/Live/diner_cashreg/flash/diner_cashreg_icon_a.png
+- Assets/Live/diner_cashreg/diner_cashreg.xml
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_sd_0_0.png
+- Assets/Live/diner_cashreg/flash/diner_cashreg_64_a_0_1.png
+- Assets/Live/diner_cashreg/flash/manifest.xml
+Dependencies: []

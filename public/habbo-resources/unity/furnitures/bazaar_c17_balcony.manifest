@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3319876215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d4fa02c38a3ff568799b36f61200509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_e_4_0.png
+- Assets/Live/bazaar_c17_balcony/bazaar_c17_balcony.xml
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_sd_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/index.xml
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_b_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_g_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_f_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_c_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_e_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_icon_a.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_h_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_h_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_assets.xml
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_sd_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_b_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_c_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_d_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_a_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_visualization.xml
+- Assets/Live/bazaar_c17_balcony/flash/manifest.xml
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_d_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_f_4_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_logic.xml
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_g_2_0.png
+- Assets/Live/bazaar_c17_balcony/flash/bazaar_c17_balcony_64_a_4_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1362806720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 626436740816ac88090629396d632e67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/camera/flash/camera_64_b_0_0.png
+- Assets/Live/camera/flash/camera_64_sd_0_0.png
+- Assets/Live/camera/flash/camera_logic.xml
+- Assets/Live/camera/flash/camera_64_a_0_0.png
+- Assets/Live/camera/flash/camera_icon_a.png
+- Assets/Live/camera/flash/index.xml
+- Assets/Live/camera/camera.xml
+- Assets/Live/camera/flash/manifest.xml
+- Assets/Live/camera/flash/camera_visualization.xml
+- Assets/Live/camera/flash/camera_assets.xml
+Dependencies: []

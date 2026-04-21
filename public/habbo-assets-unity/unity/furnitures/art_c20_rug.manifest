@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2629133899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29df881f7825c929d7ba8a7385ccedf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/art_c20_rug/flash/art_c20_rug_logic.xml
+- Assets/Live/art_c20_rug/flash/art_c20_rug_64_a_0_0.png
+- Assets/Live/art_c20_rug/flash/index.xml
+- Assets/Live/art_c20_rug/art_c20_rug.xml
+- Assets/Live/art_c20_rug/flash/art_c20_rug_icon_a.png
+- Assets/Live/art_c20_rug/flash/art_c20_rug_assets.xml
+- Assets/Live/art_c20_rug/flash/manifest.xml
+- Assets/Live/art_c20_rug/flash/art_c20_rug_visualization.xml
+- Assets/Live/art_c20_rug/flash/art_c20_rug_64_sd_0_0.png
+Dependencies: []

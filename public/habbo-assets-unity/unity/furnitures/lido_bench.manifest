@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1579076985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c5bb189ca1d52417cafd98bc9b0f85b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lido_bench/flash/lido_bench_assets.xml
+- Assets/Live/lido_bench/flash/lido_bench_visualization.xml
+- Assets/Live/lido_bench/flash/lido_bench_64_b_2_0.png
+- Assets/Live/lido_bench/flash/lido_bench_icon_a.png
+- Assets/Live/lido_bench/lido_bench.xml
+- Assets/Live/lido_bench/flash/lido_bench_64_sd_2_0.png
+- Assets/Live/lido_bench/flash/manifest.xml
+- Assets/Live/lido_bench/flash/lido_bench_64_a_2_0.png
+- Assets/Live/lido_bench/flash/lido_bench_logic.xml
+- Assets/Live/lido_bench/flash/index.xml
+Dependencies: []

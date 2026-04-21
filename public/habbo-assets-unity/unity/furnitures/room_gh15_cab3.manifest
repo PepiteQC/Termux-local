@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1177255418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6fd6d83510bdf474e9d250b01389dc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_gh15_cab3/room_gh15_cab3.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_a_6_0.png
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_b_6_0.png
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_visualization.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_logic.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_b_6_1.png
+- Assets/Live/room_gh15_cab3/flash/index.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_b_2_0.png
+- Assets/Live/room_gh15_cab3/flash/manifest.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_a_2_0.png
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_assets.xml
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_icon_a.png
+- Assets/Live/room_gh15_cab3/flash/room_gh15_cab3_64_b_2_1.png
+Dependencies: []

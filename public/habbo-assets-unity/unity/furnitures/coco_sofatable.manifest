@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 901732385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 408e16e9764d3f61bb3cf9ed697bf1e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coco_sofatable/flash/coco_sofatable_assets.xml
+- Assets/Live/coco_sofatable/flash/index.xml
+- Assets/Live/coco_sofatable/coco_sofatable.xml
+- Assets/Live/coco_sofatable/flash/coco_sofatable_64_a_0_0.png
+- Assets/Live/coco_sofatable/flash/coco_sofatable_icon_a.png
+- Assets/Live/coco_sofatable/flash/coco_sofatable_visualization.xml
+- Assets/Live/coco_sofatable/flash/manifest.xml
+- Assets/Live/coco_sofatable/flash/coco_sofatable_logic.xml
+Dependencies: []

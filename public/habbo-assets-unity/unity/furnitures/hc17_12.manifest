@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1846097708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81067d74ebcf1e046aa87cac9f970c2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc17_12/flash/index.xml
+- Assets/Live/hc17_12/flash/hc17_12_icon_a.png
+- Assets/Live/hc17_12/flash/hc17_12_64_a_0_0.png
+- Assets/Live/hc17_12/hc17_12.xml
+- Assets/Live/hc17_12/flash/manifest.xml
+- Assets/Live/hc17_12/flash/hc17_12_assets.xml
+- Assets/Live/hc17_12/flash/hc17_12_visualization.xml
+- Assets/Live/hc17_12/flash/hc17_12_logic.xml
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2899502188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 414f35ba829248d2cfa944e121cacad5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wed_carsofa/flash/index.xml
+- Assets/Live/wed_carsofa/flash/wed_carsofa_visualization.xml
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_sd_2_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_a_6_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_logic.xml
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_a_2_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_d_6_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_c_6_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_c_2_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_icon_a.png
+- Assets/Live/wed_carsofa/wed_carsofa.xml
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_b_2_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_assets.xml
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_b_6_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_d_2_0.png
+- Assets/Live/wed_carsofa/flash/wed_carsofa_64_sd_6_0.png
+- Assets/Live/wed_carsofa/flash/manifest.xml
+Dependencies: []

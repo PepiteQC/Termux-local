@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1363671726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0789245994c9cb97d014aaf76f1123f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothic_chair/flash/gothic_chair_64_d_4_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_icon_a.png
+- Assets/Live/gothic_chair/flash/gothic_chair_64_b_0_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_visualization.xml
+- Assets/Live/gothic_chair/flash/index.xml
+- Assets/Live/gothic_chair/flash/gothic_chair_64_c_0_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_64_a_0_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_icon_b.png
+- Assets/Live/gothic_chair/flash/manifest.xml
+- Assets/Live/gothic_chair/flash/gothic_chair_64_a_4_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_64_d_0_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_64_sd_0_0.png
+- Assets/Live/gothic_chair/gothic_chair.xml
+- Assets/Live/gothic_chair/flash/gothic_chair_64_b_4_0.png
+- Assets/Live/gothic_chair/flash/gothic_chair_logic.xml
+- Assets/Live/gothic_chair/flash/gothic_chair_assets.xml
+- Assets/Live/gothic_chair/flash/gothic_chair_64_c_4_0.png
+Dependencies: []

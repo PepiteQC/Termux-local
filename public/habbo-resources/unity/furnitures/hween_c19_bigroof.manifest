@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2132171837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e82f03061138e8df6f984ce876193d63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_a_2_0.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_c_2_0.png
+- Assets/Live/hween_c19_bigroof/flash/manifest.xml
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_assets.xml
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_c_2_1.png
+- Assets/Live/hween_c19_bigroof/hween_c19_bigroof.xml
+- Assets/Live/hween_c19_bigroof/flash/index.xml
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_b_2_0.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_c_4_1.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_icon_a.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_b_4_0.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_a_4_0.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_b_2_1.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_visualization.xml
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_b_4_1.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_64_c_4_0.png
+- Assets/Live/hween_c19_bigroof/flash/hween_c19_bigroof_logic.xml
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1656107479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0754dfa2a3a582185dbd66dc245bc1c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_b_4_1.png
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_a_4_0.png
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_logic.xml
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_c_4_0.png
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_b_4_0.png
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_b_4_3.png
+- Assets/Live/stories_sch_hourglass/stories_sch_hourglass.xml
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_icon_a.png
+- Assets/Live/stories_sch_hourglass/flash/index.xml
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_b_4_2.png
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_assets.xml
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_visualization.xml
+- Assets/Live/stories_sch_hourglass/flash/stories_sch_hourglass_64_sd_4_0.png
+- Assets/Live/stories_sch_hourglass/flash/manifest.xml
+Dependencies: []

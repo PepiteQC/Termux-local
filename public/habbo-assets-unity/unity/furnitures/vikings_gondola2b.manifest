@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2280654842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f49cb73fe4d82c86e5268170315bfcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_gondola2b/vikings_gondola2b.xml
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_a_0_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_icon_a.png
+- Assets/Live/vikings_gondola2b/flash/manifest.xml
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_b_0_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_d_4_1.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_e_4_1.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_a_4_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_visualization.xml
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_d_0_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_d_0_1.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_assets.xml
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_logic.xml
+- Assets/Live/vikings_gondola2b/flash/index.xml
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_e_4_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_c_4_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_e_0_1.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_c_0_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_e_0_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_b_4_0.png
+- Assets/Live/vikings_gondola2b/flash/vikings_gondola2b_64_d_4_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 747626333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1dab1e8b804a8eaee055c330a9237b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lc_tile1/flash/index.xml
+- Assets/Live/lc_tile1/flash/lc_tile1_visualization.xml
+- Assets/Live/lc_tile1/flash/lc_tile1_assets.xml
+- Assets/Live/lc_tile1/flash/lc_tile1_64_a_0_0.png
+- Assets/Live/lc_tile1/flash/manifest.xml
+- Assets/Live/lc_tile1/flash/lc_tile1_logic.xml
+- Assets/Live/lc_tile1/lc_tile1.xml
+- Assets/Live/lc_tile1/flash/lc_tile1_icon_a.png
+Dependencies: []

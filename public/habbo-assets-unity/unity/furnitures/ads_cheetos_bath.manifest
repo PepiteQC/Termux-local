@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2716169732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fc356743dd748144974ec7a63660ac6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/manifest.xml
+- Assets/Live/ads_cheetos_bath/ads_cheetos_bath.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_j_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_d_6_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_icon_a.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_e_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_j_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_sd_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/manifest.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_c_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_b_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_logic.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/index.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_d_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_i_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_e_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_f_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_f_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_b_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_e_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_e_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_logic.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_i_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_h_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_e_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_c_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_i_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_visualization.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_assets.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_g_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_i_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_c_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_g_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_i_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_h_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_b_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_i_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_j_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_a_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_assets.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_h_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_sd_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_d_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_sd_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_a_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_j_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_icon_a.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_e_0_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_d_6_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_a_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath/ads_cheetos_bath_64_d_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_f_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_j_4_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_b_6_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_g_4_1.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_32_b_6_0.png
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_visualization.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/index.xml
+- Assets/Live/ads_cheetos_bath/flash/ads_cheetos_bath_camp/ads_cheetos_bath_camp_64_j_0_0.png
+Dependencies: []

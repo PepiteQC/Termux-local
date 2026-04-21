@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2328435445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6613ed72aadada030612dcf2148d73eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/chess_w_rook/flash/manifest.xml
+- Assets/Live/chess_w_rook/flash/chess_w_rook_visualization.xml
+- Assets/Live/chess_w_rook/flash/chess_w_rook_assets.xml
+- Assets/Live/chess_w_rook/chess_w_rook.xml
+- Assets/Live/chess_w_rook/flash/index.xml
+- Assets/Live/chess_w_rook/flash/chess_w_rook_icon_a.png
+- Assets/Live/chess_w_rook/flash/chess_w_rook_64_sd_0_0.png
+- Assets/Live/chess_w_rook/flash/chess_w_rook_logic.xml
+- Assets/Live/chess_w_rook/flash/chess_w_rook_64_a_0_0.png
+Dependencies: []

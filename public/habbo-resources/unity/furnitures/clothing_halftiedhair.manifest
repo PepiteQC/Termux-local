@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2240325446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d04b8e00d8b4e56767b7f3d46b86cde7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_halftiedhair/flash/clothing_halftiedhair_icon_a.png
+- Assets/Live/clothing_halftiedhair/clothing_halftiedhair.xml
+- Assets/Live/clothing_halftiedhair/flash/manifest.xml
+- Assets/Live/clothing_halftiedhair/flash/index.xml
+- Assets/Live/clothing_halftiedhair/flash/clothing_halftiedhair_visualization.xml
+- Assets/Live/clothing_halftiedhair/flash/clothing_halftiedhair_assets.xml
+- Assets/Live/clothing_halftiedhair/flash/clothing_halftiedhair_logic.xml
+- Assets/Live/clothing_halftiedhair/flash/clothing_halftiedhair_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3153643575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e93789c6523a95d01b3dc6f2d665b09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_xmasbow/flash/index.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_64_sd_0_0.png
+- Assets/Live/clothing_xmasbow/flash/manifest.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_logic.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_64_a_0_0.png
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_visualization.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_64_a_0_1.png
+- Assets/Live/clothing_xmasbow/clothing_xmasbow.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_assets.xml
+- Assets/Live/clothing_xmasbow/flash/clothing_xmasbow_icon_a.png
+Dependencies: []

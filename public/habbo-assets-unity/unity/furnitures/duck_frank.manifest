@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3160392490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 060ad6dc7d9196de6d0d2d457397783d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/duck_frank/flash/manifest.xml
+- Assets/Live/duck_frank/flash/duck_frank_64_sd_4_0.png
+- Assets/Live/duck_frank/flash/duck_frank_logic.xml
+- Assets/Live/duck_frank/duck_frank.xml
+- Assets/Live/duck_frank/flash/duck_frank_icon_a.png
+- Assets/Live/duck_frank/flash/duck_frank_64_a_4_0.png
+- Assets/Live/duck_frank/flash/index.xml
+- Assets/Live/duck_frank/flash/duck_frank_visualization.xml
+- Assets/Live/duck_frank/flash/duck_frank_assets.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4195924019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb61d5ad97a66424328be285d7661f0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_kitsunemask/clothing_r18_kitsunemask.xml
+- Assets/Live/clothing_r18_kitsunemask/flash/clothing_r18_kitsunemask_64_a_2_0.png
+- Assets/Live/clothing_r18_kitsunemask/flash/clothing_r18_kitsunemask_assets.xml
+- Assets/Live/clothing_r18_kitsunemask/flash/index.xml
+- Assets/Live/clothing_r18_kitsunemask/flash/clothing_r18_kitsunemask_logic.xml
+- Assets/Live/clothing_r18_kitsunemask/flash/clothing_r18_kitsunemask_icon_a.png
+- Assets/Live/clothing_r18_kitsunemask/flash/clothing_r18_kitsunemask_visualization.xml
+- Assets/Live/clothing_r18_kitsunemask/flash/manifest.xml
+Dependencies: []

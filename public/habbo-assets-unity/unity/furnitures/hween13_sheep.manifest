@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3572751050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 763279c8fc27202b8b2e492d97bbc1ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_sheep/flash/hween13_sheep_logic.xml
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_6.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_9.png
+- Assets/Live/hween13_sheep/hween13_sheep.xml
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_10.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_1.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_visualization.xml
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_0.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_7.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_2.png
+- Assets/Live/hween13_sheep/flash/manifest.xml
+- Assets/Live/hween13_sheep/flash/hween13_sheep_icon_a.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_5.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_8.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_assets.xml
+- Assets/Live/hween13_sheep/flash/index.xml
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_4.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_sd_0_0.png
+- Assets/Live/hween13_sheep/flash/hween13_sheep_64_a_0_3.png
+Dependencies: []

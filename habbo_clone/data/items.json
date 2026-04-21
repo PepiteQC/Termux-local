@@ -1,0 +1,44 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "Hoodie Orange",
+      "type": "top",
+      "color": [255, 140, 0],
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Pantalon Bleu",
+      "type": "bottom",
+      "color": [30, 80, 180],
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Casquette Rouge",
+      "type": "hat",
+      "color": [200, 30, 30],
+      "price": 15
+    },
+    {
+      "id": 4,
+      "name": "Robe Fleurie",
+      "type": "top",
+      "color": [255, 200, 220],
+      "price": 30
+    },
+    {
+      "id": 5,
+      "name": "Veste Cyberpunk",
+      "type": "top",
+      "color": [0, 255, 100],
+      "price": 50
+    }
+  ],
+  "tiles": {
+    "floor": [180, 160, 220],
+    "wall": [120, 100, 160],
+    "shop": [100, 200, 180]
+  }
+}

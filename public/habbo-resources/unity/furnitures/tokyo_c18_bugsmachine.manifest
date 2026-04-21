@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 992685400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6cfe28daa5bfd0142b585362b0ec549
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_visualization.xml
+- Assets/Live/tokyo_c18_bugsmachine/flash/manifest.xml
+- Assets/Live/tokyo_c18_bugsmachine/flash/index.xml
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_64_a_0_0.png
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_icon_a.png
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_64_sd_0_0.png
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_logic.xml
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_assets.xml
+- Assets/Live/tokyo_c18_bugsmachine/tokyo_c18_bugsmachine.xml
+- Assets/Live/tokyo_c18_bugsmachine/flash/tokyo_c18_bugsmachine_64_a_0_1.png
+Dependencies: []

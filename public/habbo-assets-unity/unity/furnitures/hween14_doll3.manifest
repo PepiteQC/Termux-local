@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1633458496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b681ea509614cd8846a34ac50483fd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_doll3/flash/hween14_doll3_64_a_2_0.png
+- Assets/Live/hween14_doll3/flash/hween14_doll3_assets.xml
+- Assets/Live/hween14_doll3/flash/hween14_doll3_visualization.xml
+- Assets/Live/hween14_doll3/hween14_doll3.xml
+- Assets/Live/hween14_doll3/flash/manifest.xml
+- Assets/Live/hween14_doll3/flash/index.xml
+- Assets/Live/hween14_doll3/flash/hween14_doll3_icon_a.png
+- Assets/Live/hween14_doll3/flash/hween14_doll3_64_sd_2_0.png
+- Assets/Live/hween14_doll3/flash/hween14_doll3_logic.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1651188959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fc24c778392fe8e6534ff63fc2738b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_dirt/flash/manifest.xml
+- Assets/Live/nest_dirt/flash/nest_dirt_logic.xml
+- Assets/Live/nest_dirt/flash/nest_dirt_icon_a.png
+- Assets/Live/nest_dirt/flash/nest_dirt_visualization.xml
+- Assets/Live/nest_dirt/flash/nest_dirt_64_a_2_0.png
+- Assets/Live/nest_dirt/flash/nest_dirt_assets.xml
+- Assets/Live/nest_dirt/nest_dirt.xml
+- Assets/Live/nest_dirt/flash/index.xml
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3429800070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29465c68343fe5924c50d359de767ca9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_cornr/flash/manifest.xml
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_visualization.xml
+- Assets/Live/ktchn_cornr/ktchn_cornr.xml
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_b_6_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_a_2_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_a_0_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_logic.xml
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_a_6_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_assets.xml
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_b_2_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_b_0_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_a_4_0.png
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_64_b_4_0.png
+- Assets/Live/ktchn_cornr/flash/index.xml
+- Assets/Live/ktchn_cornr/flash/ktchn_cornr_icon_a.png
+Dependencies: []

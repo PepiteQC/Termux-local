@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4151326808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a47e577497c75b41468fb5cfc7ffa0cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snst_fireplace/flash/snst_fireplace_64_c_2_1.png
+- Assets/Live/snst_fireplace/flash/snst_fireplace_visualization.xml
+- Assets/Live/snst_fireplace/flash/snst_fireplace_64_c_2_2.png
+- Assets/Live/snst_fireplace/flash/index.xml
+- Assets/Live/snst_fireplace/flash/snst_fireplace_logic.xml
+- Assets/Live/snst_fireplace/flash/snst_fireplace_64_b_2_0.png
+- Assets/Live/snst_fireplace/snst_fireplace.xml
+- Assets/Live/snst_fireplace/flash/snst_fireplace_64_c_2_0.png
+- Assets/Live/snst_fireplace/flash/snst_fireplace_64_a_2_0.png
+- Assets/Live/snst_fireplace/flash/snst_fireplace_assets.xml
+- Assets/Live/snst_fireplace/flash/manifest.xml
+- Assets/Live/snst_fireplace/flash/snst_fireplace_icon_a.png
+Dependencies: []

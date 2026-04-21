@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3259270998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 712c4d59531024289bad49a5b983a3ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_64_sd_0_0.png
+- Assets/Live/CF_350_sceptre/flash/index.xml
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_assets.xml
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_visualization.xml
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_logic.xml
+- Assets/Live/CF_350_sceptre/CF_350_sceptre.xml
+- Assets/Live/CF_350_sceptre/flash/manifest.xml
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_icon_a.png
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_64_b_0_0.png
+- Assets/Live/CF_350_sceptre/flash/CF_350_sceptre_64_a_0_0.png
+Dependencies: []

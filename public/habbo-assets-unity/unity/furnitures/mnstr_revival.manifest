@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1668743374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 941109e5ced64b4702a67ca5a4fb4a58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mnstr_revival/flash/manifest.xml
+- Assets/Live/mnstr_revival/flash/mnstr_revival_icon_a.png
+- Assets/Live/mnstr_revival/mnstr_revival.xml
+- Assets/Live/mnstr_revival/flash/mnstr_revival_64_a_0_0.png
+- Assets/Live/mnstr_revival/flash/mnstr_revival_assets.xml
+- Assets/Live/mnstr_revival/flash/index.xml
+- Assets/Live/mnstr_revival/flash/mnstr_revival_visualization.xml
+- Assets/Live/mnstr_revival/flash/mnstr_revival_logic.xml
+- Assets/Live/mnstr_revival/flash/mnstr_revival_64_sd_0_0.png
+Dependencies: []

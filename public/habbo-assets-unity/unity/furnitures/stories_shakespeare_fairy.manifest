@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 995432174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa8cac14c275287f687ec13d6308f81b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_shakespeare_fairy/flash/stories_shakespeare_fairy_icon_a.png
+- Assets/Live/stories_shakespeare_fairy/flash/manifest.xml
+- Assets/Live/stories_shakespeare_fairy/flash/stories_shakespeare_fairy_assets.xml
+- Assets/Live/stories_shakespeare_fairy/stories_shakespeare_fairy.xml
+- Assets/Live/stories_shakespeare_fairy/flash/index.xml
+- Assets/Live/stories_shakespeare_fairy/flash/stories_shakespeare_fairy_visualization.xml
+- Assets/Live/stories_shakespeare_fairy/flash/stories_shakespeare_fairy_64_a_2_0.png
+- Assets/Live/stories_shakespeare_fairy/flash/stories_shakespeare_fairy_logic.xml
+Dependencies: []

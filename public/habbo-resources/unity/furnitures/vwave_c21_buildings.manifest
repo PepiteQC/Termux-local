@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2958783630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bae3ae15b66e6804a4a0ad0e79a3fbe7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_c_2_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_d_2_2.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_e_0_1.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_sd_2_0.png
+- Assets/Live/vwave_c21_buildings/flash/index.xml
+- Assets/Live/vwave_c21_buildings/flash/manifest.xml
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_a_0_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_a_2_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_e_2_2.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_b_0_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_assets.xml
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_b_2_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_logic.xml
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_sd_0_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_d_2_1.png
+- Assets/Live/vwave_c21_buildings/vwave_c21_buildings.xml
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_c_0_0.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_icon_a.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_e_0_2.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_d_0_2.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_visualization.xml
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_e_2_1.png
+- Assets/Live/vwave_c21_buildings/flash/vwave_c21_buildings_64_d_0_1.png
+Dependencies: []

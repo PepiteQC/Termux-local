@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 151851782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 902fc7ee6928ae24e40ba1954d119ed9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_13.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_2.png
+- Assets/Live/wood_tv/wood_tv.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_8.png
+- Assets/Live/wood_tv/flash/index.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_16.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_19.png
+- Assets/Live/wood_tv/flash/wood_tv_64_sd_0_0.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_0.png
+- Assets/Live/wood_tv/flash/manifest.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_3.png
+- Assets/Live/wood_tv/flash/wood_tv_64_a_0_0.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_1.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_17.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_11.png
+- Assets/Live/wood_tv/flash/wood_tv_assets.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_4.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_20.png
+- Assets/Live/wood_tv/flash/wood_tv_icon_a.png
+- Assets/Live/wood_tv/flash/wood_tv_logic.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_12.png
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_5.png
+- Assets/Live/wood_tv/flash/wood_tv_visualization.xml
+- Assets/Live/wood_tv/flash/wood_tv_64_c_0_18.png
+- Assets/Live/wood_tv/flash/wood_tv_64_b_0_0.png
+Dependencies: []

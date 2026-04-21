@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3742078947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92b9503e0f7926cf5997666ea0f7f7fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_log/flash/country_log_64_sd_0_0.png
+- Assets/Live/country_log/flash/index.xml
+- Assets/Live/country_log/flash/country_log_64_a_6_0.png
+- Assets/Live/country_log/flash/country_log_assets.xml
+- Assets/Live/country_log/flash/manifest.xml
+- Assets/Live/country_log/flash/country_log_icon_a.png
+- Assets/Live/country_log/flash/country_log_visualization.xml
+- Assets/Live/country_log/country_log.xml
+- Assets/Live/country_log/flash/country_log_64_b_2_0.png
+- Assets/Live/country_log/flash/country_log_64_b_6_0.png
+- Assets/Live/country_log/flash/country_log_64_sd_2_0.png
+- Assets/Live/country_log/flash/country_log_logic.xml
+- Assets/Live/country_log/flash/country_log_64_a_2_0.png
+Dependencies: []

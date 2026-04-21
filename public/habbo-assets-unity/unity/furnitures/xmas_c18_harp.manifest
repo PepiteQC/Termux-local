@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2526774897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ca518580dee6fa7a3eca39d4293f278
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_64_sd_0_0.png
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_visualization.xml
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_64_a_0_0.png
+- Assets/Live/xmas_c18_harp/flash/manifest.xml
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_assets.xml
+- Assets/Live/xmas_c18_harp/flash/index.xml
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_icon_a.png
+- Assets/Live/xmas_c18_harp/flash/xmas_c18_harp_logic.xml
+- Assets/Live/xmas_c18_harp/xmas_c18_harp.xml
+Dependencies: []

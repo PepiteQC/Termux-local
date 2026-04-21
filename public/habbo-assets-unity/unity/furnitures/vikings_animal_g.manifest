@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2135217394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb318a8ef8577987a89f74d9c2d22c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_64_sd_0_0.png
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_assets.xml
+- Assets/Live/vikings_animal_g/flash/index.xml
+- Assets/Live/vikings_animal_g/vikings_animal_g.xml
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_logic.xml
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_icon_a.png
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_visualization.xml
+- Assets/Live/vikings_animal_g/flash/manifest.xml
+- Assets/Live/vikings_animal_g/flash/vikings_animal_g_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1485050244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 025c56c4d00f65eeeeb5b46b1f094f87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_sd_2_0.png
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_a_4_0.png
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_visualization.xml
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_assets.xml
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_a_2_0.png
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_a_2_1.png
+- Assets/Live/paris_c15_vegstall2/flash/index.xml
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_icon_a.png
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_logic.xml
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_a_4_1.png
+- Assets/Live/paris_c15_vegstall2/flash/manifest.xml
+- Assets/Live/paris_c15_vegstall2/flash/paris_c15_vegstall2_64_sd_4_0.png
+- Assets/Live/paris_c15_vegstall2/paris_c15_vegstall2.xml
+Dependencies: []

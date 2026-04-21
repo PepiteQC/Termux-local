@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 821452101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f6390c7ebebe61c3e1672eb093d743d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_d_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_2.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_j_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_h_4_0.png
+- Assets/Live/xmas14_festivehut/xmas14_festivehut.xml
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_3.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_6.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_i_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_1_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_i_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_1_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_c_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_f_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_h_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_j_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_logic.xml
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_7.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_g_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_d_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_4.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_b_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_k_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_icon_a.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_8.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_assets.xml
+- Assets/Live/xmas14_festivehut/flash/index.xml
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_g_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_visualization.xml
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_e_4_5.png
+- Assets/Live/xmas14_festivehut/flash/manifest.xml
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_f_4_1.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_a_4_0.png
+- Assets/Live/xmas14_festivehut/flash/xmas14_festivehut_64_k_4_1.png
+Dependencies: []

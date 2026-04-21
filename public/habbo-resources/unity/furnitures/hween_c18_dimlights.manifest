@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2027233845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c8e7a6dfb2329f54f0ece88a7f89e5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_b_0_0.png
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_icon_a.png
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_logic.xml
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_visualization.xml
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_c_0_1.png
+- Assets/Live/hween_c18_dimlights/flash/index.xml
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_a_0_0.png
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_c_0_0.png
+- Assets/Live/hween_c18_dimlights/hween_c18_dimlights.xml
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_d_0_0.png
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_sd_0_0.png
+- Assets/Live/hween_c18_dimlights/flash/manifest.xml
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_64_d_0_1.png
+- Assets/Live/hween_c18_dimlights/flash/hween_c18_dimlights_assets.xml
+Dependencies: []

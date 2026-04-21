@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 311055378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5e87ef832c5fcdb7e0cfb44da37d3f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_c_0_1.png
+- Assets/Live/stories_shakespeare_tree/stories_shakespeare_tree.xml
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_logic.xml
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_visualization.xml
+- Assets/Live/stories_shakespeare_tree/flash/index.xml
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_b_0_0.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_d_0_0.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_a_0_0.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_d_0_1.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_icon_a.png
+- Assets/Live/stories_shakespeare_tree/flash/manifest.xml
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_c_0_0.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_64_sd_0_0.png
+- Assets/Live/stories_shakespeare_tree/flash/stories_shakespeare_tree_assets.xml
+Dependencies: []

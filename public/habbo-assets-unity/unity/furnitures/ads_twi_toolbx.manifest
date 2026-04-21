@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1733729909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a837f8bb9a0ea7ce605eee8357e73a5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_twi_toolbx/ads_twi_toolbx.xml
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_64_a_4_1.png
+- Assets/Live/ads_twi_toolbx/flash/index.xml
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_64_a_4_0.png
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_assets.xml
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_visualization.xml
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_icon_a.png
+- Assets/Live/ads_twi_toolbx/flash/manifest.xml
+- Assets/Live/ads_twi_toolbx/flash/ads_twi_toolbx_logic.xml
+Dependencies: []

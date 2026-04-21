@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1412899632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 335f12651ebb8638c2ed71c4a1abc860
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_chinese_wide/window_chinese_wide.xml
+- Assets/Live/window_chinese_wide/flash/index.xml
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_32_2_mask.png
+- Assets/Live/window_chinese_wide/flash/manifest.xml
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_logic.xml
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_assets.xml
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_visualization.xml
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_icon_a.png
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_64_a_2_0.png
+- Assets/Live/window_chinese_wide/flash/window_chinese_wide_64_2_mask.png
+Dependencies: []

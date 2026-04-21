@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1407004241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 697b92cfc3e45f4267121ac1d4b6c1cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_m_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_n_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_h_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_visualization.xml
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_l_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_i_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_c_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_icon_a.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_logic.xml
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_g_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_f_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_b_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_k_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_d_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_j_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/index.xml
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_a_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/manifest.xml
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_e_0_0.png
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_64_o_0_0.png
+- Assets/Live/room_noob_wallbl3/room_noob_wallbl3.xml
+- Assets/Live/room_noob_wallbl3/flash/room_noob_wallbl3_assets.xml
+Dependencies: []

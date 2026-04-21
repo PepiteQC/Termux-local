@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4192513796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74487bccecb2f36d9b9b648fc389b2cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_icon_a.png
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_64_a_0_1.png
+- Assets/Live/clothing_jacket_twotone/flash/manifest.xml
+- Assets/Live/clothing_jacket_twotone/clothing_jacket_twotone.xml
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_64_sd_0_0.png
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_logic.xml
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_64_a_0_0.png
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_assets.xml
+- Assets/Live/clothing_jacket_twotone/flash/index.xml
+- Assets/Live/clothing_jacket_twotone/flash/clothing_jacket_twotone_visualization.xml
+Dependencies: []

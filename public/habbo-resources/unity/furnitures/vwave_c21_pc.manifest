@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2702018398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2304d2197e91131d254d5372fa511cf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_icon_a.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_5.png
+- Assets/Live/vwave_c21_pc/flash/index.xml
+- Assets/Live/vwave_c21_pc/vwave_c21_pc.xml
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_0.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_4.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_assets.xml
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_logic.xml
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_2.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_sd_0_0.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_1.png
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_visualization.xml
+- Assets/Live/vwave_c21_pc/flash/manifest.xml
+- Assets/Live/vwave_c21_pc/flash/vwave_c21_pc_64_a_0_3.png
+Dependencies: []

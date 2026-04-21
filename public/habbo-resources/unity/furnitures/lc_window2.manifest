@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3254556745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a118ac4edcb0a71b17098999ae244d7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lc_window2/flash/lc_window2_visualization.xml
+- Assets/Live/lc_window2/lc_window2.xml
+- Assets/Live/lc_window2/flash/lc_window2_64_a_2_0.png
+- Assets/Live/lc_window2/flash/lc_window2_64_2_mask.png
+- Assets/Live/lc_window2/flash/index.xml
+- Assets/Live/lc_window2/flash/lc_window2_logic.xml
+- Assets/Live/lc_window2/flash/lc_window2_64_b_2_1.png
+- Assets/Live/lc_window2/flash/lc_window2_32_2_mask.png
+- Assets/Live/lc_window2/flash/manifest.xml
+- Assets/Live/lc_window2/flash/lc_window2_icon_a.png
+- Assets/Live/lc_window2/flash/lc_window2_64_b_2_0.png
+- Assets/Live/lc_window2/flash/lc_window2_assets.xml
+Dependencies: []

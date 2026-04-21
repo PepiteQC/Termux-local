@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2270023133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4e3d6307c5227808177c30edf98fbc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_thailei/flash/clothing_nt_thailei_64_a_0_0.png
+- Assets/Live/clothing_nt_thailei/flash/clothing_nt_thailei_icon_a.png
+- Assets/Live/clothing_nt_thailei/clothing_nt_thailei.xml
+- Assets/Live/clothing_nt_thailei/flash/clothing_nt_thailei_logic.xml
+- Assets/Live/clothing_nt_thailei/flash/clothing_nt_thailei_assets.xml
+- Assets/Live/clothing_nt_thailei/flash/clothing_nt_thailei_visualization.xml
+- Assets/Live/clothing_nt_thailei/flash/manifest.xml
+- Assets/Live/clothing_nt_thailei/flash/index.xml
+Dependencies: []

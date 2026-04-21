@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4126541055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68034ea7df1697334b2a7c07d0444eb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_2_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_icon_a.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_0_1.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_6_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_4_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_assets.xml
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_6_1.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_0_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_logic.xml
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_0_0.png
+- Assets/Live/army_c15_contable2/army_c15_contable2.xml
+- Assets/Live/army_c15_contable2/flash/manifest.xml
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_2_1.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_4_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_2_1.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_visualization.xml
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_0_2.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_6_0.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_6_1.png
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_a_0_2.png
+- Assets/Live/army_c15_contable2/flash/index.xml
+- Assets/Live/army_c15_contable2/flash/army_c15_contable2_64_b_2_0.png
+Dependencies: []

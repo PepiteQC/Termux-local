@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3690335350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b3ac6610d6dad1c92d31e52eca5a4c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_bunnyoutfit/flash/clothing_r20_bunnyoutfit_64_a_0_0.png
+- Assets/Live/clothing_r20_bunnyoutfit/flash/manifest.xml
+- Assets/Live/clothing_r20_bunnyoutfit/flash/clothing_r20_bunnyoutfit_icon_a.png
+- Assets/Live/clothing_r20_bunnyoutfit/flash/index.xml
+- Assets/Live/clothing_r20_bunnyoutfit/flash/clothing_r20_bunnyoutfit_assets.xml
+- Assets/Live/clothing_r20_bunnyoutfit/flash/clothing_r20_bunnyoutfit_logic.xml
+- Assets/Live/clothing_r20_bunnyoutfit/clothing_r20_bunnyoutfit.xml
+- Assets/Live/clothing_r20_bunnyoutfit/flash/clothing_r20_bunnyoutfit_visualization.xml
+Dependencies: []

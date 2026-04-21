@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2930850483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca3a0df5b0bfaa13d78b4ffff9fb7300
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_b_4_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_b_4_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/manifest.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_a_4_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_icon_a.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_assets.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_64_b_4_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_64_sd_0_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/index.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_visualization.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_a_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_visualization.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_logic.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/index.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_a_4_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_64_a_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_b_2_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_icon_a.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_b_2_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_64_a_4_0.png
+- Assets/Live/ads_ob_pillow/ads_ob_pillow.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_assets.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_sd_0_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_b_2_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_b_2_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/manifest.xml
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_b_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_a_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_32_b_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_64_sd_0_0.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillow/ads_ob_pillow_64_b_4_1.png
+- Assets/Live/ads_ob_pillow/flash/ads_ob_pillowcmp/ads_ob_pillowcmp_logic.xml
+Dependencies: []

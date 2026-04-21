@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 35232103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cf40c5f3c477bbabdeb264d4d02f72b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_icon_a.png
+- Assets/Live/darkelegant_c20_smalltable/flash/manifest.xml
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_visualization.xml
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_assets.xml
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_64_sd_0_0.png
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_64_a_0_0.png
+- Assets/Live/darkelegant_c20_smalltable/darkelegant_c20_smalltable.xml
+- Assets/Live/darkelegant_c20_smalltable/flash/index.xml
+- Assets/Live/darkelegant_c20_smalltable/flash/darkelegant_c20_smalltable_logic.xml
+Dependencies: []

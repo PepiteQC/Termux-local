@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2043453322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1bcc09ffaa28fcdef8bd82d0619f0b6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_doll2/xmas_c17_doll2.xml
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_64_a_0_0.png
+- Assets/Live/xmas_c17_doll2/flash/index.xml
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_visualization.xml
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_logic.xml
+- Assets/Live/xmas_c17_doll2/flash/manifest.xml
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_assets.xml
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_64_sd_0_0.png
+- Assets/Live/xmas_c17_doll2/flash/xmas_c17_doll2_icon_a.png
+Dependencies: []

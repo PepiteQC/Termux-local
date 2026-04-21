@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1369621595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa6062997a6c9fdd64df7cfdcd6f1ea4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_1.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_logic.xml
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_4.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_2.png
+- Assets/Live/rainbow_c21_prideflags/flash/index.xml
+- Assets/Live/rainbow_c21_prideflags/flash/manifest.xml
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_3.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_icon_a.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_1.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_4_0.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_4.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_6.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_sd_4_0.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_2.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_3.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_4_0.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_sd_2_0.png
+- Assets/Live/rainbow_c21_prideflags/rainbow_c21_prideflags.xml
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_visualization.xml
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_6.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_assets.xml
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_5.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_5.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_a_2_0.png
+- Assets/Live/rainbow_c21_prideflags/flash/rainbow_c21_prideflags_64_b_2_0.png
+Dependencies: []

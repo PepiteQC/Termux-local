@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2862445016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d8540c50d7ea504232029408cdc8d09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_vamp/clothing_r18_vamp.xml
+- Assets/Live/clothing_r18_vamp/flash/clothing_r18_vamp_icon_a.png
+- Assets/Live/clothing_r18_vamp/flash/clothing_r18_vamp_64_a_0_0.png
+- Assets/Live/clothing_r18_vamp/flash/index.xml
+- Assets/Live/clothing_r18_vamp/flash/manifest.xml
+- Assets/Live/clothing_r18_vamp/flash/clothing_r18_vamp_visualization.xml
+- Assets/Live/clothing_r18_vamp/flash/clothing_r18_vamp_assets.xml
+- Assets/Live/clothing_r18_vamp/flash/clothing_r18_vamp_logic.xml
+Dependencies: []

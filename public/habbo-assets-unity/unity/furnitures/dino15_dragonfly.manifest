@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2921141105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c244b2cc4f3d63c57f2f5d2dafa2b2ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_d_0_2.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_e_0_0.png
+- Assets/Live/dino15_dragonfly/flash/manifest.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_0.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_4.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_sd_0_0.png
+- Assets/Live/dino15_dragonfly/flash/index.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_d_0_4.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_d_0_3.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_logic.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_2.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_5.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_d_0_0.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_1.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_b_0_0.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_e_0_1.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_a_0_0.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_visualization.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_d_0_1.png
+- Assets/Live/dino15_dragonfly/dino15_dragonfly.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_e_0_2.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_assets.xml
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_64_c_0_3.png
+- Assets/Live/dino15_dragonfly/flash/dino15_dragonfly_icon_a.png
+Dependencies: []

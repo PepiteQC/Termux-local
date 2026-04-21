@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3919973432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d539fae830a5f6d77b227c365e244cd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_assets.xml
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_icon_a.png
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_logic.xml
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_64_a_0_0.png
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_visualization.xml
+- Assets/Live/elegant_c17_teaset/elegant_c17_teaset.xml
+- Assets/Live/elegant_c17_teaset/flash/index.xml
+- Assets/Live/elegant_c17_teaset/flash/manifest.xml
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_64_sd_0_0.png
+- Assets/Live/elegant_c17_teaset/flash/elegant_c17_teaset_64_a_0_1.png
+Dependencies: []

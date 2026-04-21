@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3962402003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08c34d9ea5e1b6ac13505d4c241e83d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_64_sd_0_0.png
+- Assets/Live/plushie_c20_fabric3/flash/manifest.xml
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_visualization.xml
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_icon_a.png
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_logic.xml
+- Assets/Live/plushie_c20_fabric3/flash/index.xml
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_64_a_0_0.png
+- Assets/Live/plushie_c20_fabric3/flash/plushie_c20_fabric3_assets.xml
+- Assets/Live/plushie_c20_fabric3/plushie_c20_fabric3.xml
+Dependencies: []

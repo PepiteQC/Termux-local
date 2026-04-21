@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 745548314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df2ada07671c6cb1101f50b8593fd93f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_assets.xml
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_a_0_0.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_4.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_icon_a.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_0.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_9.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_1.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_visualization.xml
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_3.png
+- Assets/Live/CF_250_toiletpaper/flash/index.xml
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_5.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_logic.xml
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_8.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_2.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_6.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_c_0_7.png
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_b_0_0.png
+- Assets/Live/CF_250_toiletpaper/CF_250_toiletpaper.xml
+- Assets/Live/CF_250_toiletpaper/flash/CF_250_toiletpaper_64_sd_0_0.png
+- Assets/Live/CF_250_toiletpaper/flash/manifest.xml
+Dependencies: []

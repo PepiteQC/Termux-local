@@ -1,0 +1,151 @@
+import { Application } from 'pixi.js'
+import { Viewport } from 'pixi-viewport'
+
+import CullManager from './rooms/cull/CullManager'
+import defaultRoomData from './rooms/data/defaultRoomData'
+import RoomManager from './rooms/RoomManager'
+import RoomScene from './rooms/RoomScene'
+import { initializeHabboTheme } from './data/habbo/initTheme'
+
+if (typeof window !== 'undefined') {
+	console.log('[Habbo] Module loaded')
+}
+
+export default class Habbo {
+	public static readonly DEBUG = false
+
+	public application!: Application
+	public viewport!: Viewport
+
+	private readonly cullManager = new CullManager()
+	private readonly roomManager = new RoomManager(this)
+	private currentRoom: RoomScene | null = null
+	private host: HTMLElement | null = null
+
+	public async init(parentElement: HTMLElement): Promise<void> {
+		initializeHabboTheme()
+		this.host = parentElement
+
+		const width = Math.max(960, parentElement.clientWidth || window.innerWidth)
+		const height = Math.max(640, parentElement.clientHeight || window.innerHeight)
+
+		this.application = new Application()
+		await this.application.init({
+			width,
+			height,
+			autoDensity: true,
+			antialias: false,
+			backgroundAlpha: 0,
+			preference: 'webgl',
+			resolution: window.devicePixelRatio || 1,
+			roundPixels: true
+		})
+
+		this.viewport = new Viewport({
+			screenWidth: width,
+			screenHeight: height,
+			worldWidth: width * 2,
+			worldHeight: height * 2,
+			events: this.application.renderer.events,
+			ticker: this.application.ticker,
+			disableOnContextMenu: true
+		})
+
+		this.viewport.sortableChildren = true
+		this.viewport.eventMode = 'static'
+		this.viewport
+			.drag({
+				wheel: false,
+				mouseButtons: 'right'
+			})
+			.pinch()
+			.wheel({
+				percent: 0.12,
+				smooth: 3
+			})
+			.decelerate()
+			.clampZoom({
+				minScale: 0.9,
+				maxScale: 3.4
+			})
+
+		this.application.stage.sortableChildren = true
+		this.application.stage.addChild(this.viewport)
+		this.application.canvas.style.width = '100%'
+		this.application.canvas.style.height = '100%'
+		this.application.canvas.style.display = 'block'
+		this.application.canvas.style.imageRendering = 'pixelated'
+
+		parentElement.replaceChildren(this.application.canvas)
+		this.cullManager.setViewport(this.viewport)
+
+		const room = this.roomManager.createRoom(defaultRoomData)
+		this.roomManager.setRoom(room)
+	}
+
+	public destroy(): void {
+		this.currentRoom = null
+		this.viewport?.destroy({ children: true })
+		this.application?.destroy({ removeView: true }, { children: true })
+		this.host = null
+	}
+
+	public loadRoom(room: RoomScene): void {
+		if (this.currentRoom && this.currentRoom.parent === this.viewport) {
+			this.viewport.removeChild(this.currentRoom)
+		}
+
+		this.currentRoom = room
+		this.viewport.addChild(room)
+		this.applyRoomMetrics(room)
+		this.viewport.sortChildren()
+		this.cullManager.handleMove()
+	}
+
+	public resize(width: number, height: number): void {
+		if (!this.application || !this.viewport) return
+
+		this.application.renderer.resize(width, height)
+
+		if (this.currentRoom) {
+			const metrics = this.currentRoom.getViewportMetrics()
+			this.viewport.resize(
+				width,
+				height,
+				Math.max(metrics.width, width * 2),
+				Math.max(metrics.height, height * 2)
+			)
+		} else {
+			this.viewport.resize(width, height, width * 2, height * 2)
+		}
+
+		this.cullManager.handleMove()
+	}
+
+	public unloadRoom(room: RoomScene): void {
+		if (room.parent === this.viewport) {
+			this.viewport.removeChild(room)
+		}
+	}
+
+	public get renderer() {
+		if (!this.application) {
+			throw new Error('Habbo renderer accessed before init().')
+		}
+
+		return this.application.renderer
+	}
+
+	private applyRoomMetrics(room: RoomScene): void {
+		const metrics = room.getViewportMetrics()
+
+		this.viewport.resize(
+			this.viewport.screenWidth,
+			this.viewport.screenHeight,
+			Math.max(metrics.width, this.viewport.screenWidth * 2),
+			Math.max(metrics.height, this.viewport.screenHeight * 2)
+		)
+		this.viewport.moveCenter(metrics.centerX, metrics.centerY)
+		this.viewport.setZoom(room.data.initialZoom, true)
+	}
+}

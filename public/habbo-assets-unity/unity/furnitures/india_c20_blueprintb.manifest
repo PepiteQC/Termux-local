@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 582991891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ab58dee6d04d6cf61016788677b59d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_64_sd_0_0.png
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_logic.xml
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_icon_a.png
+- Assets/Live/india_c20_blueprintb/flash/index.xml
+- Assets/Live/india_c20_blueprintb/india_c20_blueprintb.xml
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_visualization.xml
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_assets.xml
+- Assets/Live/india_c20_blueprintb/flash/manifest.xml
+- Assets/Live/india_c20_blueprintb/flash/india_c20_blueprintb_64_a_0_0.png
+Dependencies: []

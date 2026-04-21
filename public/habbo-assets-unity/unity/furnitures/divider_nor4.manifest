@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3761271532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef9dea94a6720d4cdc9575d62d88622c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/divider_nor4/flash/divider_nor4_64_b_0_0.png
+- Assets/Live/divider_nor4/flash/divider_nor4_icon_a.png
+- Assets/Live/divider_nor4/flash/divider_nor4_icon_b.png
+- Assets/Live/divider_nor4/flash/divider_nor4_64_a_0_0.png
+- Assets/Live/divider_nor4/flash/divider_nor4_visualization.xml
+- Assets/Live/divider_nor4/flash/divider_nor4_64_f_0_1.png
+- Assets/Live/divider_nor4/flash/divider_nor4_64_d_0_0.png
+- Assets/Live/divider_nor4/flash/divider_nor4_64_e_0_1.png
+- Assets/Live/divider_nor4/flash/divider_nor4_logic.xml
+- Assets/Live/divider_nor4/flash/divider_nor4_64_f_0_0.png
+- Assets/Live/divider_nor4/flash/divider_nor4_assets.xml
+- Assets/Live/divider_nor4/flash/divider_nor4_64_sd_0_0.png
+- Assets/Live/divider_nor4/flash/index.xml
+- Assets/Live/divider_nor4/flash/manifest.xml
+- Assets/Live/divider_nor4/flash/divider_nor4_64_c_0_0.png
+- Assets/Live/divider_nor4/divider_nor4.xml
+- Assets/Live/divider_nor4/flash/divider_nor4_64_e_0_0.png
+Dependencies: []

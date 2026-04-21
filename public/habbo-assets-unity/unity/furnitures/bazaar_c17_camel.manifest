@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 394366592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9662e3a784e2c5420f598ed540ea7568
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_20.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_e_4_4.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_26.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_3.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_assets.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_27.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_f_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_6.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_16.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_1.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_icon_a.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_22.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_1.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_c_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_b_4_1.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_24.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_25.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_2.png
+- Assets/Live/bazaar_c17_camel/flash/index.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_4.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_15.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_14.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_18.png
+- Assets/Live/bazaar_c17_camel/flash/manifest.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_17.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_2.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_12.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_7.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_23.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_6.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_21.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_e_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_e_4_1.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_4.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_3.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_b_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_8.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_10.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_e_4_3.png
+- Assets/Live/bazaar_c17_camel/bazaar_c17_camel.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_a_4_5.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_visualization.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_5.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_logic.xml
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_13.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_11.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_sd_4_0.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_19.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_d_4_9.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_c_4_1.png
+- Assets/Live/bazaar_c17_camel/flash/bazaar_c17_camel_64_e_4_2.png
+Dependencies: []

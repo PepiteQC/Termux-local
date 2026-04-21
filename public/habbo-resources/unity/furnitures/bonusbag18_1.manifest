@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4032603824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9edc097d18ff29890dbc7da931eb4d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_sd_0_0.png
+- Assets/Live/bonusbag18_1/flash/manifest.xml
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_10.png
+- Assets/Live/bonusbag18_1/bonusbag18_1.xml
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_9.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_6.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_b_0_1.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_1.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_5.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_3.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_visualization.xml
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_8.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_0.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_logic.xml
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_11.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_b_0_0.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_7.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_icon_a.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_4.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_assets.xml
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_64_a_0_2.png
+- Assets/Live/bonusbag18_1/flash/bonusbag18_1_icon_b.png
+- Assets/Live/bonusbag18_1/flash/index.xml
+Dependencies: []

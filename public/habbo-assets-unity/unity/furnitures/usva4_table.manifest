@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 212541007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44cb41a6a9b082d9ee7520c5a8ea8436
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/usva4_table/flash/usva4_table_64_c_0_0.png
+- Assets/Live/usva4_table/flash/index.xml
+- Assets/Live/usva4_table/usva4_table.xml
+- Assets/Live/usva4_table/flash/usva4_table_64_d_0_0.png
+- Assets/Live/usva4_table/flash/manifest.xml
+- Assets/Live/usva4_table/flash/usva4_table_logic.xml
+- Assets/Live/usva4_table/flash/usva4_table_64_b_0_0.png
+- Assets/Live/usva4_table/flash/usva4_table_icon_a.png
+- Assets/Live/usva4_table/flash/usva4_table_visualization.xml
+- Assets/Live/usva4_table/flash/usva4_table_64_a_0_0.png
+- Assets/Live/usva4_table/flash/usva4_table_assets.xml
+- Assets/Live/usva4_table/flash/usva4_table_64_sd_0_0.png
+Dependencies: []

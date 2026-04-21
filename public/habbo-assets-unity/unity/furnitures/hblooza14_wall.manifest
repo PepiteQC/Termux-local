@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3987270362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c27597567eacbfa5e06b51de5c306301
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_wall/flash/manifest.xml
+- Assets/Live/hblooza14_wall/flash/hblooza14_wall_visualization.xml
+- Assets/Live/hblooza14_wall/flash/hblooza14_wall_64_a_4_0.png
+- Assets/Live/hblooza14_wall/flash/hblooza14_wall_icon_a.png
+- Assets/Live/hblooza14_wall/flash/hblooza14_wall_logic.xml
+- Assets/Live/hblooza14_wall/hblooza14_wall.xml
+- Assets/Live/hblooza14_wall/flash/hblooza14_wall_assets.xml
+- Assets/Live/hblooza14_wall/flash/index.xml
+Dependencies: []

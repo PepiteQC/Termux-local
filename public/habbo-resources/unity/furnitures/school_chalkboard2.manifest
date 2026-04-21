@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1158348129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bfdd5ea1177b4ab30bc163df72f2bf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_2_1.png
+- Assets/Live/school_chalkboard2/flash/manifest.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_assets.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_4_0.png
+- Assets/Live/school_chalkboard2/flash/index.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_a_4_0.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_4_3.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_4_2.png
+- Assets/Live/school_chalkboard2/school_chalkboard2.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_4_1.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_2_3.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_2_2.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_b_2_0.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_visualization.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_logic.xml
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_64_a_2_0.png
+- Assets/Live/school_chalkboard2/flash/school_chalkboard2_icon_a.png
+Dependencies: []

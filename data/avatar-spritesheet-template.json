@@ -1,0 +1,33 @@
+[
+  {
+    "id": "avatar-ether-sheet",
+    "name": "Ether Animated Sheet",
+    "category": "player",
+    "path": "/sprites/avatar/avatar-ether-sheet.png",
+    "meta": "32-frame spritesheet template",
+    "spriteSheet": {
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "fps": 8,
+      "columns": 32,
+      "directions": {
+        "north": {
+          "idle": [0, 3],
+          "walk": [4, 7]
+        },
+        "south": {
+          "idle": [8, 11],
+          "walk": [12, 15]
+        },
+        "east": {
+          "idle": [16, 19],
+          "walk": [20, 23]
+        },
+        "west": {
+          "idle": [24, 27],
+          "walk": [28, 31]
+        }
+      }
+    }
+  }
+]

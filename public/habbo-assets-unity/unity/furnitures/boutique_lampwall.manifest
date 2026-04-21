@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1896432129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19329fbc3bd859b60a7e0f8481e13b76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_a_2_0.png
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_1.png
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_4.png
+- Assets/Live/boutique_lampwall/boutique_lampwall.xml
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_2.png
+- Assets/Live/boutique_lampwall/flash/index.xml
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_icon_a.png
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_assets.xml
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_logic.xml
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_0.png
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_visualization.xml
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_5.png
+- Assets/Live/boutique_lampwall/flash/boutique_lampwall_64_b_2_3.png
+- Assets/Live/boutique_lampwall/flash/manifest.xml
+Dependencies: []

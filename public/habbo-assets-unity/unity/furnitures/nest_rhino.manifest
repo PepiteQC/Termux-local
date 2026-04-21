@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 353898145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97c8a58fc2475c84b820d3114ab6e391
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_rhino/flash/nest_rhino_visualization.xml
+- Assets/Live/nest_rhino/flash/nest_rhino_logic.xml
+- Assets/Live/nest_rhino/flash/index.xml
+- Assets/Live/nest_rhino/flash/nest_rhino_64_b_0_0.png
+- Assets/Live/nest_rhino/flash/manifest.xml
+- Assets/Live/nest_rhino/flash/nest_rhino_icon_a.png
+- Assets/Live/nest_rhino/nest_rhino.xml
+- Assets/Live/nest_rhino/flash/nest_rhino_assets.xml
+- Assets/Live/nest_rhino/flash/nest_rhino_64_a_0_0.png
+Dependencies: []

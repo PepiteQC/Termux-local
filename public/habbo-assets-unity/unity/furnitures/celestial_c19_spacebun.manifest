@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4094687172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d424ccb99f7c7391f9995651f1d482b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_assets.xml
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_logic.xml
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_64_a_0_0.png
+- Assets/Live/celestial_c19_spacebun/celestial_c19_spacebun.xml
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_64_sd_0_0.png
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_icon_a.png
+- Assets/Live/celestial_c19_spacebun/flash/index.xml
+- Assets/Live/celestial_c19_spacebun/flash/celestial_c19_spacebun_visualization.xml
+- Assets/Live/celestial_c19_spacebun/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 254381920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 998cfadfdf7fd0756699866bdf5d936f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_patternjoggers/flash/clothing_patternjoggers_visualization.xml
+- Assets/Live/clothing_patternjoggers/flash/clothing_patternjoggers_icon_a.png
+- Assets/Live/clothing_patternjoggers/clothing_patternjoggers.xml
+- Assets/Live/clothing_patternjoggers/flash/manifest.xml
+- Assets/Live/clothing_patternjoggers/flash/index.xml
+- Assets/Live/clothing_patternjoggers/flash/clothing_patternjoggers_logic.xml
+- Assets/Live/clothing_patternjoggers/flash/clothing_patternjoggers_assets.xml
+- Assets/Live/clothing_patternjoggers/flash/clothing_patternjoggers_64_a_0_0.png
+Dependencies: []

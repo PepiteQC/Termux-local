@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1188856423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14312ab151d9973d433ccea6f12843a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sleepingbag/flash/sleepingbag_64_e_0_0.png
+- Assets/Live/sleepingbag/flash/sleepingbag_assets.xml
+- Assets/Live/sleepingbag/flash/sleepingbag_64_b_0_0.png
+- Assets/Live/sleepingbag/flash/sleepingbag_icon_a.png
+- Assets/Live/sleepingbag/flash/sleepingbag_64_d_0_0.png
+- Assets/Live/sleepingbag/flash/sleepingbag_logic.xml
+- Assets/Live/sleepingbag/sleepingbag.xml
+- Assets/Live/sleepingbag/flash/sleepingbag_icon_b.png
+- Assets/Live/sleepingbag/flash/sleepingbag_64_a_0_0.png
+- Assets/Live/sleepingbag/flash/sleepingbag_64_c_0_0.png
+- Assets/Live/sleepingbag/flash/index.xml
+- Assets/Live/sleepingbag/flash/manifest.xml
+- Assets/Live/sleepingbag/flash/sleepingbag_64_f_0_0.png
+- Assets/Live/sleepingbag/flash/sleepingbag_visualization.xml
+Dependencies: []

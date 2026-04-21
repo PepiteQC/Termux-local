@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1203957736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2382ba6c3280592f71f0d096d2ebf8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_icon_a.png
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_visualization.xml
+- Assets/Live/clothing_r17_explorerhelm/flash/manifest.xml
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_64_sd_0_0.png
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_logic.xml
+- Assets/Live/clothing_r17_explorerhelm/clothing_r17_explorerhelm.xml
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_assets.xml
+- Assets/Live/clothing_r17_explorerhelm/flash/clothing_r17_explorerhelm_64_a_0_0.png
+- Assets/Live/clothing_r17_explorerhelm/flash/index.xml
+Dependencies: []

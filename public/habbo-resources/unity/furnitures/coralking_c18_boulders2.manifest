@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 518823661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b483a7d410fc69b89151daf2e43a274
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_icon_a.png
+- Assets/Live/coralking_c18_boulders2/coralking_c18_boulders2.xml
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_logic.xml
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_64_a_0_0.png
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_64_a_0_1.png
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_visualization.xml
+- Assets/Live/coralking_c18_boulders2/flash/manifest.xml
+- Assets/Live/coralking_c18_boulders2/flash/coralking_c18_boulders2_assets.xml
+- Assets/Live/coralking_c18_boulders2/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 266235982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 556ad6d4c3da8fa7dd00679ebbe0abc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_xylopattern/sfx_xylopattern.xml
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_64_a_0_0.png
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_64_a_0_4.png
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_logic.xml
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_icon_a.png
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_64_a_0_3.png
+- Assets/Live/sfx_xylopattern/flash/index.xml
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_visualization.xml
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_64_a_0_2.png
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_assets.xml
+- Assets/Live/sfx_xylopattern/flash/sfx_xylopattern_64_a_0_1.png
+- Assets/Live/sfx_xylopattern/flash/manifest.xml
+Dependencies: []

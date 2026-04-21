@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 425500919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40010c6178de042af546ef471c87d735
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_b_6_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_b_0_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_visualization.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_sd_4_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_assets.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_b_2_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_sd_0_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_b_4_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_sd_6_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_logic.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_sd_2_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_icon_a.png
+- Assets/Live/greek_c15_bench/greek_c15_bench.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_a_2_0.png
+- Assets/Live/greek_c15_bench/flash/index.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_a_0_0.png
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_a_6_0.png
+- Assets/Live/greek_c15_bench/flash/manifest.xml
+- Assets/Live/greek_c15_bench/flash/greek_c15_bench_64_a_4_0.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1370866547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68e28993e3d99bde8bafd1bd239bd695
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_assets.xml
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_64_a_0_1.png
+- Assets/Live/room_gh15_desk/flash/index.xml
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_icon_a.png
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_64_a_0_2.png
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_64_a_0_3.png
+- Assets/Live/room_gh15_desk/room_gh15_desk.xml
+- Assets/Live/room_gh15_desk/flash/manifest.xml
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_64_a_0_0.png
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_visualization.xml
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_64_a_0_4.png
+- Assets/Live/room_gh15_desk/flash/room_gh15_desk_logic.xml
+Dependencies: []

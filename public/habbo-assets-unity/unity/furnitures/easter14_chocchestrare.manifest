@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1785754658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f574107f5306eccd976d5447a46363bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_visualization.xml
+- Assets/Live/easter14_chocchestrare/flash/index.xml
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_1.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_2.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_icon_a.png
+- Assets/Live/easter14_chocchestrare/flash/manifest.xml
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_logic.xml
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_2.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_4.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_3.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_0.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_3.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_1.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_0.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_4.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_b_4_5.png
+- Assets/Live/easter14_chocchestrare/easter14_chocchestrare.xml
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_64_a_4_5.png
+- Assets/Live/easter14_chocchestrare/flash/easter14_chocchestrare_assets.xml
+Dependencies: []

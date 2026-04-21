@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 2804067747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 716dafa75e3dbc7b2bcac8d52cfeeae7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_3.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_assets.xml
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_0_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/manifest.xml
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_icon_a.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_4.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_2_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_a_2_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_6.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_6.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_visualization.xml
+- Assets/Live/tokyo_c18_neonsign1/tokyo_c18_neonsign1.xml
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_3.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_6.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_0_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_2_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_8.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_8.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/index.xml
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_6.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_3.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_4.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_5.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_logic.xml
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_7.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_7.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_sd_2_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_4.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_sd_0_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_7.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_a_0_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_5.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_a_2_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_3.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_8.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_a_0_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_0_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_0_4.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_b_2_1.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_2.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_0.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_5.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_2_7.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_d_2_5.png
+- Assets/Live/tokyo_c18_neonsign1/flash/tokyo_c18_neonsign1_64_c_0_8.png
+Dependencies: []

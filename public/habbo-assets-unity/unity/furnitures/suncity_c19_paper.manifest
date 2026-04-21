@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4164193307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3acaf2b3c9bc13d132242a1eda6bc96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_icon_a.png
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_visualization.xml
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_64_a_0_0.png
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_64_sd_0_0.png
+- Assets/Live/suncity_c19_paper/suncity_c19_paper.xml
+- Assets/Live/suncity_c19_paper/flash/manifest.xml
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_assets.xml
+- Assets/Live/suncity_c19_paper/flash/suncity_c19_paper_logic.xml
+- Assets/Live/suncity_c19_paper/flash/index.xml
+Dependencies: []

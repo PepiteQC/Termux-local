@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2708481347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 962353b89988fa6abc910faf4f5f5d8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_64_a_4_0.png
+- Assets/Live/xmas11_stonefloor/xmas11_stonefloor.xml
+- Assets/Live/xmas11_stonefloor/flash/xmas2011_stonefloor_64_a_4_0.png
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_64_a_2_0.png
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_visualization.xml
+- Assets/Live/xmas11_stonefloor/flash/xmas2011_stonefloor_32_a_4_0.png
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_logic.xml
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_icon_a.png
+- Assets/Live/xmas11_stonefloor/flash/xmas11_stonefloor_assets.xml
+- Assets/Live/xmas11_stonefloor/flash/index.xml
+- Assets/Live/xmas11_stonefloor/flash/xmas2011_stonefloor_icon_a.png
+- Assets/Live/xmas11_stonefloor/flash/manifest.xml
+Dependencies: []

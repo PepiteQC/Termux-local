@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1933954311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c53b2c1fa95af5c244588d18617f7ec3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_a_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_e_0_0.png
+- Assets/Live/bed_budgetb_one/bed_budgetb_one.xml
+- Assets/Live/bed_budgetb_one/flash/index.xml
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_icon_a.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_f_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_logic.xml
+- Assets/Live/bed_budgetb_one/flash/manifest.xml
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_sd_2_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_sd_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_c_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_b_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_visualization.xml
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_64_d_0_0.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_icon_b.png
+- Assets/Live/bed_budgetb_one/flash/bed_budgetb_one_assets.xml
+Dependencies: []

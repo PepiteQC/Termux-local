@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1193114538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 447c8e537f064320d54ce82adb5d5380
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/arabian_tray4/flash/arabian_tray4_visualization.xml
+- Assets/Live/arabian_tray4/flash/arabian_tray4_icon_a.png
+- Assets/Live/arabian_tray4/flash/index.xml
+- Assets/Live/arabian_tray4/flash/arabian_tray4_assets.xml
+- Assets/Live/arabian_tray4/flash/arabian_tray4_logic.xml
+- Assets/Live/arabian_tray4/flash/manifest.xml
+- Assets/Live/arabian_tray4/flash/arabian_tray4_64_a_0_0.png
+- Assets/Live/arabian_tray4/arabian_tray4.xml
+Dependencies: []

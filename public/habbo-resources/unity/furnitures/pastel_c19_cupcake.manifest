@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 677512594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f84e467ff9fbec3b64689add1e05cf94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_icon_a.png
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_assets.xml
+- Assets/Live/pastel_c19_cupcake/flash/manifest.xml
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_visualization.xml
+- Assets/Live/pastel_c19_cupcake/flash/index.xml
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_64_a_0_0.png
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_logic.xml
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_64_a_0_1.png
+- Assets/Live/pastel_c19_cupcake/pastel_c19_cupcake.xml
+- Assets/Live/pastel_c19_cupcake/flash/pastel_c19_cupcake_64_sd_0_0.png
+Dependencies: []

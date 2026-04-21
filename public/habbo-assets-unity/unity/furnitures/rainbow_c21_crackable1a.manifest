@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2049551608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f639e7f25e3668eab125edccbd6b176
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c21_crackable1A/flash/rainbow_c21_crackable1A_logic.xml
+- Assets/Live/rainbow_c21_crackable1A/flash/rainbow_c21_crackable1A_icon_a.png
+- Assets/Live/rainbow_c21_crackable1A/flash/rainbow_c21_crackable1A_assets.xml
+- Assets/Live/rainbow_c21_crackable1A/flash/rainbow_c21_crackable1A_64_a_0_0.png
+- Assets/Live/rainbow_c21_crackable1A/flash/index.xml
+- Assets/Live/rainbow_c21_crackable1A/flash/manifest.xml
+- Assets/Live/rainbow_c21_crackable1A/flash/rainbow_c21_crackable1A_visualization.xml
+- Assets/Live/rainbow_c21_crackable1A/rainbow_c21_crackable1A.xml
+Dependencies: []

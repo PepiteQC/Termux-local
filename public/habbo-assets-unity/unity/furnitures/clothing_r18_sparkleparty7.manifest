@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2357794091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cce89ca5e3b2685119c0c19e397ad2a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_sparkleparty7/flash/clothing_r18_sparkleparty7_assets.xml
+- Assets/Live/clothing_r18_sparkleparty7/flash/clothing_r18_sparkleparty7_64_a_0_0.png
+- Assets/Live/clothing_r18_sparkleparty7/clothing_r18_sparkleparty7.xml
+- Assets/Live/clothing_r18_sparkleparty7/flash/clothing_r18_sparkleparty7_visualization.xml
+- Assets/Live/clothing_r18_sparkleparty7/flash/index.xml
+- Assets/Live/clothing_r18_sparkleparty7/flash/clothing_r18_sparkleparty7_icon_a.png
+- Assets/Live/clothing_r18_sparkleparty7/flash/manifest.xml
+- Assets/Live/clothing_r18_sparkleparty7/flash/clothing_r18_sparkleparty7_logic.xml
+Dependencies: []

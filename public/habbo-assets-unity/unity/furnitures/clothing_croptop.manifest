@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1297917267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bd5e5f577732346124e5c92ab00dd58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_croptop/flash/clothing_croptop_assets.xml
+- Assets/Live/clothing_croptop/flash/clothing_croptop_icon_a.png
+- Assets/Live/clothing_croptop/flash/manifest.xml
+- Assets/Live/clothing_croptop/flash/index.xml
+- Assets/Live/clothing_croptop/flash/clothing_croptop_64_a_0_0.png
+- Assets/Live/clothing_croptop/flash/clothing_croptop_logic.xml
+- Assets/Live/clothing_croptop/flash/clothing_croptop_visualization.xml
+- Assets/Live/clothing_croptop/clothing_croptop.xml
+Dependencies: []

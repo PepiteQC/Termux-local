@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 639693576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7d78bce22d80e251f15ff709e34d9b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_square/flash/manifest.xml
+- Assets/Live/window_square/flash/window_square_32_2_mask.png
+- Assets/Live/window_square/flash/window_square_64_2_mask.png
+- Assets/Live/window_square/flash/window_square_64_b_2_0.png
+- Assets/Live/window_square/flash/window_square_visualization.xml
+- Assets/Live/window_square/flash/window_square_assets.xml
+- Assets/Live/window_square/window_square.xml
+- Assets/Live/window_square/flash/window_square_64_a_2_0.png
+- Assets/Live/window_square/flash/window_square_logic.xml
+- Assets/Live/window_square/flash/window_square_icon_a.png
+- Assets/Live/window_square/flash/index.xml
+Dependencies: []

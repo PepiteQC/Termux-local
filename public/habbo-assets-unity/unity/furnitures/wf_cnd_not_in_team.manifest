@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1093487063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d0f58afd6161b493f1a3b75b6ac6cb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_cnd_not_in_team/flash/index.xml
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_64_a_2_3.png
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_logic.xml
+- Assets/Live/wf_cnd_not_in_team/wf_cnd_not_in_team.xml
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_icon_a.png
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_assets.xml
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_visualization.xml
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_64_a_2_1.png
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_64_a_2_0.png
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_64_a_2_2.png
+- Assets/Live/wf_cnd_not_in_team/flash/wf_cnd_not_in_team_64_a_2_4.png
+- Assets/Live/wf_cnd_not_in_team/flash/manifest.xml
+Dependencies: []

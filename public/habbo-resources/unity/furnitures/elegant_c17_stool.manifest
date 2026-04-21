@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 880520420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db0db95f604b140df4f6126e230447b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_64_sd_4_0.png
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_icon_a.png
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_64_a_0_0.png
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_64_a_4_0.png
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_64_sd_0_0.png
+- Assets/Live/elegant_c17_stool/flash/index.xml
+- Assets/Live/elegant_c17_stool/flash/manifest.xml
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_assets.xml
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_visualization.xml
+- Assets/Live/elegant_c17_stool/flash/elegant_c17_stool_logic.xml
+- Assets/Live/elegant_c17_stool/elegant_c17_stool.xml
+Dependencies: []

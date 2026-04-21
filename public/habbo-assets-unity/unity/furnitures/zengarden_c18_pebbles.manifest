@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1005881090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 246239a809605771d28f6efadd6d48fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c18_pebbles/flash/zengarden_c18_pebbles_visualization.xml
+- Assets/Live/zengarden_c18_pebbles/flash/index.xml
+- Assets/Live/zengarden_c18_pebbles/flash/zengarden_c18_pebbles_logic.xml
+- Assets/Live/zengarden_c18_pebbles/flash/zengarden_c18_pebbles_assets.xml
+- Assets/Live/zengarden_c18_pebbles/zengarden_c18_pebbles.xml
+- Assets/Live/zengarden_c18_pebbles/flash/zengarden_c18_pebbles_64_a_0_0.png
+- Assets/Live/zengarden_c18_pebbles/flash/zengarden_c18_pebbles_icon_a.png
+- Assets/Live/zengarden_c18_pebbles/flash/manifest.xml
+Dependencies: []

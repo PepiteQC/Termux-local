@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3013024402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fe5bad5a0fd0e2fa54c8b8a4358d35b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_snowybasket/flash/manifest.xml
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_assets.xml
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_64_a_0_0.png
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_64_sd_0_0.png
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_logic.xml
+- Assets/Live/xmas_c17_snowybasket/flash/index.xml
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_visualization.xml
+- Assets/Live/xmas_c17_snowybasket/xmas_c17_snowybasket.xml
+- Assets/Live/xmas_c17_snowybasket/flash/xmas_c17_snowybasket_icon_a.png
+Dependencies: []

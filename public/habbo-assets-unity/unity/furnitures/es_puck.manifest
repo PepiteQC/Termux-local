@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4128646715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30a1107953e5d6b91d7eeaa3019d5dc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_puck/flash/es_puck_assets.xml
+- Assets/Live/es_puck/flash/es_puck_visualization.xml
+- Assets/Live/es_puck/flash/es_puck_icon_a.png
+- Assets/Live/es_puck/flash/manifest.xml
+- Assets/Live/es_puck/flash/es_puck_logic.xml
+- Assets/Live/es_puck/flash/es_puck_64_a_0_0.png
+- Assets/Live/es_puck/flash/index.xml
+- Assets/Live/es_puck/es_puck.xml
+Dependencies: []

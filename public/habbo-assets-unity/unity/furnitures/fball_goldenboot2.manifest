@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 897672153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee890ce2ee26f24e8c5f3f9096620815
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_b_2_4.png
+- Assets/Live/fball_goldenboot2/flash/index.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_logic.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_b_2_1.png
+- Assets/Live/fball_goldenboot2/fball_goldenboot2.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_assets.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_b_2_0.png
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_b_2_3.png
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_visualization.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_a_2_0.png
+- Assets/Live/fball_goldenboot2/flash/manifest.xml
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_b_2_2.png
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_64_sd_2_0.png
+- Assets/Live/fball_goldenboot2/flash/fball_goldenboot2_icon_a.png
+Dependencies: []

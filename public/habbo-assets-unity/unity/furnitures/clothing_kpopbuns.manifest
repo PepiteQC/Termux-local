@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3140087927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ecf0acf848366deab65fb0a1718964d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_kpopbuns/flash/clothing_kpopbuns_assets.xml
+- Assets/Live/clothing_kpopbuns/flash/index.xml
+- Assets/Live/clothing_kpopbuns/flash/clothing_kpopbuns_icon_a.png
+- Assets/Live/clothing_kpopbuns/clothing_kpopbuns.xml
+- Assets/Live/clothing_kpopbuns/flash/clothing_kpopbuns_logic.xml
+- Assets/Live/clothing_kpopbuns/flash/manifest.xml
+- Assets/Live/clothing_kpopbuns/flash/clothing_kpopbuns_visualization.xml
+- Assets/Live/clothing_kpopbuns/flash/clothing_kpopbuns_64_a_0_0.png
+Dependencies: []

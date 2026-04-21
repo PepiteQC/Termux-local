@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2600397372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f48055c4013203fd6526ecdadd05d3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jetset_vault_crnr/flash/jetset_vault_crnr_64_a_0_0.png
+- Assets/Live/jetset_vault_crnr/flash/jetset_vault_crnr_logic.xml
+- Assets/Live/jetset_vault_crnr/flash/jetset_vault_crnr_assets.xml
+- Assets/Live/jetset_vault_crnr/flash/jetset_vault_crnr_visualization.xml
+- Assets/Live/jetset_vault_crnr/flash/manifest.xml
+- Assets/Live/jetset_vault_crnr/jetset_vault_crnr.xml
+- Assets/Live/jetset_vault_crnr/flash/jetset_vault_crnr_icon_a.png
+- Assets/Live/jetset_vault_crnr/flash/index.xml
+Dependencies: []

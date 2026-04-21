@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2425929681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abdc2555bc8b11f5daaedef2712d11f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_visualization.xml
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_64_b_4_0.png
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_logic.xml
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_64_a_4_0.png
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_64_b_2_0.png
+- Assets/Live/ads_twi_dreamc/flash/manifest.xml
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_64_a_2_0.png
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_assets.xml
+- Assets/Live/ads_twi_dreamc/ads_twi_dreamc.xml
+- Assets/Live/ads_twi_dreamc/flash/index.xml
+- Assets/Live/ads_twi_dreamc/flash/ads_twi_dreamc_icon_a.png
+Dependencies: []

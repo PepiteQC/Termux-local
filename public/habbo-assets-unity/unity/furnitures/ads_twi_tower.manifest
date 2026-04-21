@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2203724907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c586aad631c3140ef590f17edcd9eecd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_twi_tower/flash/manifest.xml
+- Assets/Live/ads_twi_tower/flash/index.xml
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_visualization.xml
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_icon_a.png
+- Assets/Live/ads_twi_tower/ads_twi_tower.xml
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_64_a_0_0.png
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_logic.xml
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_assets.xml
+- Assets/Live/ads_twi_tower/flash/ads_twi_tower_64_a_4_0.png
+Dependencies: []

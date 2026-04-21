@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1237127184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22b4e648c363c3bbf0cea783a95435c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_frontierbraids/flash/index.xml
+- Assets/Live/clothing_r17_frontierbraids/flash/manifest.xml
+- Assets/Live/clothing_r17_frontierbraids/clothing_r17_frontierbraids.xml
+- Assets/Live/clothing_r17_frontierbraids/flash/clothing_r17_frontierbraids_visualization.xml
+- Assets/Live/clothing_r17_frontierbraids/flash/clothing_r17_frontierbraids_assets.xml
+- Assets/Live/clothing_r17_frontierbraids/flash/clothing_r17_frontierbraids_64_a_2_0.png
+- Assets/Live/clothing_r17_frontierbraids/flash/clothing_r17_frontierbraids_icon_a.png
+- Assets/Live/clothing_r17_frontierbraids/flash/clothing_r17_frontierbraids_logic.xml
+Dependencies: []

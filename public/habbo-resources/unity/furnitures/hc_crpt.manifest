@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3168882106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8d52df67605e0f5c0ada18ab89a12c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_crpt/flash/manifest.xml
+- Assets/Live/hc_crpt/hc_crpt.xml
+- Assets/Live/hc_crpt/flash/hc_crpt_64_a_0_0.png
+- Assets/Live/hc_crpt/flash/hc_crpt_logic.xml
+- Assets/Live/hc_crpt/flash/hc_crpt_icon_a.png
+- Assets/Live/hc_crpt/flash/index.xml
+- Assets/Live/hc_crpt/flash/hc_crpt_visualization.xml
+- Assets/Live/hc_crpt/flash/hc_crpt_assets.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 40571391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 519b620af598339718396ae1e4f7b4b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_bridgewalkway/flash/index.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_64_c_0_0.png
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_64_sd_0_0.png
+- Assets/Live/thai_c21_bridgewalkway/thai_c21_bridgewalkway.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_64_a_0_0.png
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_logic.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_icon_a.png
+- Assets/Live/thai_c21_bridgewalkway/flash/manifest.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_assets.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_visualization.xml
+- Assets/Live/thai_c21_bridgewalkway/flash/thai_c21_bridgewalkway_64_b_0_0.png
+Dependencies: []

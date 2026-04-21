@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3357128044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb29bc3fd66ba21b23bce4b89af7e846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_2_0.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_4_2.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_2_1.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_2_2.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_logic.xml
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_visualization.xml
+- Assets/Live/uni_libraryshelf/uni_libraryshelf.xml
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_assets.xml
+- Assets/Live/uni_libraryshelf/flash/index.xml
+- Assets/Live/uni_libraryshelf/flash/manifest.xml
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_icon_a.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_4_1.png
+- Assets/Live/uni_libraryshelf/flash/uni_libraryshelf_64_a_4_0.png
+Dependencies: []

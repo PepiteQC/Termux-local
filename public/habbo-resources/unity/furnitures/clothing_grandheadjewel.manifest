@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 545669245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9d67da57b77c3c88dae6398ae919384
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_grandheadjewel/flash/clothing_grandheadjewel_logic.xml
+- Assets/Live/clothing_grandheadjewel/flash/clothing_grandheadjewel_64_a_0_0.png
+- Assets/Live/clothing_grandheadjewel/flash/index.xml
+- Assets/Live/clothing_grandheadjewel/clothing_grandheadjewel.xml
+- Assets/Live/clothing_grandheadjewel/flash/clothing_grandheadjewel_assets.xml
+- Assets/Live/clothing_grandheadjewel/flash/clothing_grandheadjewel_visualization.xml
+- Assets/Live/clothing_grandheadjewel/flash/clothing_grandheadjewel_icon_a.png
+- Assets/Live/clothing_grandheadjewel/flash/manifest.xml
+Dependencies: []

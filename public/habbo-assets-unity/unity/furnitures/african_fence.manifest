@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3503083454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 269e74a918a2d9872a2a42854a0efa9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/african_fence/flash/manifest.xml
+- Assets/Live/african_fence/flash/african_fence_64_a_0_0.png
+- Assets/Live/african_fence/flash/african_fence_64_b_0_0.png
+- Assets/Live/african_fence/flash/african_fence_visualization.xml
+- Assets/Live/african_fence/flash/african_fence_icon_a.png
+- Assets/Live/african_fence/flash/african_fence_logic.xml
+- Assets/Live/african_fence/flash/african_fence_64_sd_0_0.png
+- Assets/Live/african_fence/flash/african_fence_assets.xml
+- Assets/Live/african_fence/african_fence.xml
+- Assets/Live/african_fence/flash/index.xml
+Dependencies: []

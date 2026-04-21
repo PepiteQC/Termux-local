@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2569390625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0836f5665a4e6226c861b399bcb7d12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_7.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_3.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_6.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_4.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_a_4_2.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_0.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_assets.xml
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_6.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_3.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_0.png
+- Assets/Live/ktchn_c15_dishwasher/ktchn_c15_dishwasher.xml
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_visualization.xml
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_1.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_a_4_1.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_1.png
+- Assets/Live/ktchn_c15_dishwasher/flash/manifest.xml
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_icon_a.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_7.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_2.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_4.png
+- Assets/Live/ktchn_c15_dishwasher/flash/index.xml
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_2.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_a_4_0.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_b_4_5.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_64_c_4_5.png
+- Assets/Live/ktchn_c15_dishwasher/flash/ktchn_c15_dishwasher_logic.xml
+Dependencies: []

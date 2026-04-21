@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 962896090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 347c19214c4f90c96bafa429b2451266
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_64_a_0_1.png
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_assets.xml
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_64_sd_0_0.png
+- Assets/Live/plushie_c20_dyeblue/flash/index.xml
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_icon_a.png
+- Assets/Live/plushie_c20_dyeblue/flash/manifest.xml
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_visualization.xml
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_64_a_0_0.png
+- Assets/Live/plushie_c20_dyeblue/plushie_c20_dyeblue.xml
+- Assets/Live/plushie_c20_dyeblue/flash/plushie_c20_dyeblue_logic.xml
+Dependencies: []

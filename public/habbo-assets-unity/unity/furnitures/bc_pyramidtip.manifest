@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2364920161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81429c25ec19a7219d380a799376a805
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_c_0_2.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_icon_a.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_b_0_1.png
+- Assets/Live/bc_pyramidtip/flash/index.xml
+- Assets/Live/bc_pyramidtip/flash/manifest.xml
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_b_0_2.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_a_0_0.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_visualization.xml
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_assets.xml
+- Assets/Live/bc_pyramidtip/flash/Layer 1.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_c_0_0.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_a_0_1.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_logic.xml
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_b_0_0.png
+- Assets/Live/bc_pyramidtip/bc_pyramidtip.xml
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_c_0_1.png
+- Assets/Live/bc_pyramidtip/flash/bc_pyramidtip_64_a_0_2.png
+Dependencies: []

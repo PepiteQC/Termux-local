@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 401826543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e0d30af59dc85fb218d407c6690ffae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_prize18_xmas/flash/index.xml
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_64_sd_0_0.png
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_visualization.xml
+- Assets/Live/rare_prize18_xmas/rare_prize18_xmas.xml
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_assets.xml
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_64_a_0_0.png
+- Assets/Live/rare_prize18_xmas/flash/manifest.xml
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_icon_a.png
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_64_a_4_0.png
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_64_sd_4_0.png
+- Assets/Live/rare_prize18_xmas/flash/rare_prize18_xmas_logic.xml
+Dependencies: []

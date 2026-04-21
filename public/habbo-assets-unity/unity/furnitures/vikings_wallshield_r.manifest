@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1079971887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d49030382ec70c583efc84d38976787c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_64_c_2_0.png
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_64_c_2_1.png
+- Assets/Live/vikings_wallshield_r/flash/manifest.xml
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_icon_a.png
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_assets.xml
+- Assets/Live/vikings_wallshield_r/vikings_wallshield_r.xml
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_visualization.xml
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_64_a_2_0.png
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_logic.xml
+- Assets/Live/vikings_wallshield_r/flash/vikings_wallshield_r_64_b_2_0.png
+- Assets/Live/vikings_wallshield_r/flash/index.xml
+Dependencies: []

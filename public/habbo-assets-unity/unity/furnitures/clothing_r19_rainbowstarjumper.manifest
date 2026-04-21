@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4135543200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b531b594b4e173ddf65e66cb1d62c4e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/clothing_r19_rainbowstarjumper_icon_a.png
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/clothing_r19_rainbowstarjumper_logic.xml
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/index.xml
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/manifest.xml
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/clothing_r19_rainbowstarjumper_64_a_0_0.png
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/clothing_r19_rainbowstarjumper_assets.xml
+- Assets/Live/clothing_r19_rainbowstarjumper/clothing_r19_rainbowstarjumper.xml
+- Assets/Live/clothing_r19_rainbowstarjumper/flash/clothing_r19_rainbowstarjumper_visualization.xml
+Dependencies: []

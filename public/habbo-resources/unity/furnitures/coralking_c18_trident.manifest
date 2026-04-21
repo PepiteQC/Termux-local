@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1684051945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ad59c895203ce40b1faf3ed843dc6cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_trident/flash/coralking_c18_trident_logic.xml
+- Assets/Live/coralking_c18_trident/coralking_c18_trident.xml
+- Assets/Live/coralking_c18_trident/flash/coralking_c18_trident_icon_a.png
+- Assets/Live/coralking_c18_trident/flash/index.xml
+- Assets/Live/coralking_c18_trident/flash/manifest.xml
+- Assets/Live/coralking_c18_trident/flash/coralking_c18_trident_64_a_0_0.png
+- Assets/Live/coralking_c18_trident/flash/coralking_c18_trident_visualization.xml
+- Assets/Live/coralking_c18_trident/flash/coralking_c18_trident_assets.xml
+Dependencies: []

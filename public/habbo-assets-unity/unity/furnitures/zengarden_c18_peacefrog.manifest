@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4214876112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e3edc9f3ad4b2b35ddd179c54ea17c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_assets.xml
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_64_sd_0_0.png
+- Assets/Live/zengarden_c18_peacefrog/zengarden_c18_peacefrog.xml
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_icon_a.png
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_visualization.xml
+- Assets/Live/zengarden_c18_peacefrog/flash/index.xml
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_64_a_0_0.png
+- Assets/Live/zengarden_c18_peacefrog/flash/zengarden_c18_peacefrog_logic.xml
+- Assets/Live/zengarden_c18_peacefrog/flash/manifest.xml
+Dependencies: []

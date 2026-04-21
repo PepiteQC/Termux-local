@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 175367403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73f07280d174631ad1367caf478d6a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_assets.xml
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_c_0_2.png
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_b_0_0.png
+- Assets/Live/hween_c18_labtooltable/flash/manifest.xml
+- Assets/Live/hween_c18_labtooltable/flash/index.xml
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_c_0_0.png
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_visualization.xml
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_icon_a.png
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_a_0_0.png
+- Assets/Live/hween_c18_labtooltable/hween_c18_labtooltable.xml
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_logic.xml
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_c_0_1.png
+- Assets/Live/hween_c18_labtooltable/flash/hween_c18_labtooltable_64_sd_0_0.png
+Dependencies: []

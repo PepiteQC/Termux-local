@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3636136851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49092e1768a9b9c1bbfaea9c9551f5d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_4.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_1.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_2.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_assets.xml
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_3.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_5.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_icon_a.png
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_64_a_0_0.png
+- Assets/Live/clothing_mockymouse/clothing_mockymouse.xml
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_logic.xml
+- Assets/Live/clothing_mockymouse/flash/clothing_mockymouse_visualization.xml
+- Assets/Live/clothing_mockymouse/flash/index.xml
+- Assets/Live/clothing_mockymouse/flash/manifest.xml
+Dependencies: []

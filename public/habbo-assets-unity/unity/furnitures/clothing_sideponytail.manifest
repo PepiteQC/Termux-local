@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1704117393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 604f4094e27d632c59d0bf1d2f97e988
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_sideponytail/flash/clothing_sideponytail_assets.xml
+- Assets/Live/clothing_sideponytail/clothing_sideponytail.xml
+- Assets/Live/clothing_sideponytail/flash/clothing_sideponytail_visualization.xml
+- Assets/Live/clothing_sideponytail/flash/clothing_sideponytail_logic.xml
+- Assets/Live/clothing_sideponytail/flash/manifest.xml
+- Assets/Live/clothing_sideponytail/flash/clothing_sideponytail_icon_a.png
+- Assets/Live/clothing_sideponytail/flash/index.xml
+- Assets/Live/clothing_sideponytail/flash/clothing_sideponytail_64_a_0_0.png
+Dependencies: []

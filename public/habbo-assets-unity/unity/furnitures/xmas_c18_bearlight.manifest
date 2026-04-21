@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2161220010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ffe71d16365aaa49cc524be5a47040e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_h_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_assets.xml
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_icon_a.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_visualization.xml
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_e_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_a_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/index.xml
+- Assets/Live/xmas_c18_bearlight/flash/manifest.xml
+- Assets/Live/xmas_c18_bearlight/xmas_c18_bearlight.xml
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_logic.xml
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_d_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_sd_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_c_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_b_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_f_4_0.png
+- Assets/Live/xmas_c18_bearlight/flash/xmas_c18_bearlight_64_g_4_0.png
+Dependencies: []

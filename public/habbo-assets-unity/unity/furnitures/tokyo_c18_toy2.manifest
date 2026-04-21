@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 366229153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75c143667cd887e353ff5f64e1e532f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_visualization.xml
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_64_a_0_0.png
+- Assets/Live/tokyo_c18_toy2/flash/manifest.xml
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_64_sd_0_0.png
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_icon_a.png
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_logic.xml
+- Assets/Live/tokyo_c18_toy2/flash/index.xml
+- Assets/Live/tokyo_c18_toy2/tokyo_c18_toy2.xml
+- Assets/Live/tokyo_c18_toy2/flash/tokyo_c18_toy2_assets.xml
+Dependencies: []

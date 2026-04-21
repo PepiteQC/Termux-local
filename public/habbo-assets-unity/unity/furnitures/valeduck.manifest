@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 286757517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22d07880373b76c226f16478d4f1c1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/valeduck/flash/valeduck_64_sd_4_0.png
+- Assets/Live/valeduck/flash/valeduck_logic.xml
+- Assets/Live/valeduck/flash/valeduck_icon_a.png
+- Assets/Live/valeduck/flash/valeduck_64_a_4_0.png
+- Assets/Live/valeduck/flash/valeduck_64_sd_6_0.png
+- Assets/Live/valeduck/valeduck.xml
+- Assets/Live/valeduck/flash/valeduck_64_a_6_0.png
+- Assets/Live/valeduck/flash/manifest.xml
+- Assets/Live/valeduck/flash/valeduck_visualization.xml
+- Assets/Live/valeduck/flash/valeduck_assets.xml
+- Assets/Live/valeduck/flash/index.xml
+Dependencies: []

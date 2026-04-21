@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1092230593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a42d4e24b5d810a6397a777cd3bc998e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_6.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_a_2_0.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_c_2_1.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_logic.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_icon_a.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_3.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_0.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_2.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_visualization.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_d_2_0.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_c_2_0.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_assets.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_5.png
+- Assets/Live/xm09_lodgewall/flash/index.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_d_2_1.png
+- Assets/Live/xm09_lodgewall/flash/manifest.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_4.png
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_7.png
+- Assets/Live/xm09_lodgewall/xm09_lodgewall.xml
+- Assets/Live/xm09_lodgewall/flash/xm09_lodgewall_64_b_2_1.png
+Dependencies: []

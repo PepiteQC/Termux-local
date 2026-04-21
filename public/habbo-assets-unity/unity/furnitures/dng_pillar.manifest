@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1692722933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1788a7cdd45e59be9ebdf40a0c7c329
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dng_pillar/flash/dng_pillar_icon_a.png
+- Assets/Live/dng_pillar/flash/dng_pillar_logic.xml
+- Assets/Live/dng_pillar/flash/dng_pillar_visualization.xml
+- Assets/Live/dng_pillar/flash/manifest.xml
+- Assets/Live/dng_pillar/flash/dng_pillar_assets.xml
+- Assets/Live/dng_pillar/dng_pillar.xml
+- Assets/Live/dng_pillar/flash/index.xml
+- Assets/Live/dng_pillar/flash/dng_pillar_64_a_0_0.png
+Dependencies: []

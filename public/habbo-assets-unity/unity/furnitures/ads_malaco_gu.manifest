@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3628136085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5349d7c12fe7d2fd8ce8317f21ee292
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/index.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_logic.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_64_sd_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/index.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_32_sd_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_64_a_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_assets.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/manifest.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_32_a_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_64_sd_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_64_b_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_visualization.xml
+- Assets/Live/ads_malaco_gu/ads_malaco_gu.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_visualization.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_icon_a.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_logic.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_icon_a.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/manifest.xml
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gu/ads_malaco_gu_64_a_0_0.png
+- Assets/Live/ads_malaco_gu/flash/ads_malaco_gc/ads_malaco_gc_assets.xml
+Dependencies: []

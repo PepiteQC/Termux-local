@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1002542943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02218e718da645272da6a2db3df7384c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_b_0_1.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_assets.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_a_0_3.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_sd_0_0.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_a_0_1.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_logic.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_visualization.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_a_0_2.png
+- Assets/Live/hween_r20_meltingpainting/flash/index.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_b_0_3.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_c_0_1.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_c_0_0.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_a_0_0.png
+- Assets/Live/hween_r20_meltingpainting/flash/manifest.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_icon_a.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_b_0_2.png
+- Assets/Live/hween_r20_meltingpainting/hween_r20_meltingpainting.xml
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_c_0_3.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_c_0_2.png
+- Assets/Live/hween_r20_meltingpainting/flash/hween_r20_meltingpainting_64_b_0_0.png
+Dependencies: []

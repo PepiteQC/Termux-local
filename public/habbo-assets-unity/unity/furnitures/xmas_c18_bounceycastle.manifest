@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 528133714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08f4881396d477aa071dd5575cc6c118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_bounceycastle/xmas_c18_bounceycastle.xml
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/manifest.xml
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_i_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_c_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_logic.xml
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_b_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_d_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/index.xml
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_g_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_j_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_l_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_h_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_icon_a.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_0_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_6_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_a_0_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_f_6_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_k_2_0.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_64_e_2_1.png
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_assets.xml
+- Assets/Live/xmas_c18_bounceycastle/flash/xmas_c18_bounceycastle_visualization.xml
+Dependencies: []

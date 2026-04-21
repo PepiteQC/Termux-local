@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2740854112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe61eb4a701124c8ef9b893d85f8e68f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_oxfordshoes/flash/clothing_oxfordshoes_assets.xml
+- Assets/Live/clothing_oxfordshoes/clothing_oxfordshoes.xml
+- Assets/Live/clothing_oxfordshoes/flash/clothing_oxfordshoes_icon_a.png
+- Assets/Live/clothing_oxfordshoes/flash/manifest.xml
+- Assets/Live/clothing_oxfordshoes/flash/clothing_oxfordshoes_64_a_0_0.png
+- Assets/Live/clothing_oxfordshoes/flash/index.xml
+- Assets/Live/clothing_oxfordshoes/flash/clothing_oxfordshoes_logic.xml
+- Assets/Live/clothing_oxfordshoes/flash/clothing_oxfordshoes_visualization.xml
+Dependencies: []

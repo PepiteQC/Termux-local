@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2117736517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b395248242f3b5ba0141c471219e649
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_64_a_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_icon_a.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_64_a_2_1.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_64_sd_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_64_sd_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_assets.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_64_a_2_1.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_logic.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_32_a_2_1.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/manifest.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_assets.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_32_a_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/index.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/index.xml
+- Assets/Live/ads_cl_moodi/ads_cl_moodi.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_32_sd_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_visualization.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi_camp/ads_cl_moodi_camp_logic.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_64_a_2_0.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_visualization.xml
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/ads_cl_moodi_icon_a.png
+- Assets/Live/ads_cl_moodi/flash/ads_cl_moodi/manifest.xml
+Dependencies: []

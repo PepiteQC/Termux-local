@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 100319452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1052d318858edc3f2c445635c0f0b214
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/carpet_armas/flash/carpet_armas_logic.xml
+- Assets/Live/carpet_armas/flash/carpet_armas_visualization.xml
+- Assets/Live/carpet_armas/flash/carpet_armas_icon_a.png
+- Assets/Live/carpet_armas/flash/carpet_armas_assets.xml
+- Assets/Live/carpet_armas/carpet_armas.xml
+- Assets/Live/carpet_armas/flash/carpet_armas_64_a_0_0.png
+- Assets/Live/carpet_armas/flash/index.xml
+- Assets/Live/carpet_armas/flash/manifest.xml
+Dependencies: []

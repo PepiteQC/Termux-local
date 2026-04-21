@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1025613630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08f0d9621846b6e250f1113023c1c5d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_assets.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_icon_a.png
+- Assets/Live/bazaar_c17_lamp/flash/manifest.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_b_0_0.png
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_visualization.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_b_0_2.png
+- Assets/Live/bazaar_c17_lamp/bazaar_c17_lamp.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_b_0_3.png
+- Assets/Live/bazaar_c17_lamp/flash/index.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_c_0_0.png
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_a_0_0.png
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_logic.xml
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_sd_0_0.png
+- Assets/Live/bazaar_c17_lamp/flash/bazaar_c17_lamp_64_b_0_1.png
+Dependencies: []

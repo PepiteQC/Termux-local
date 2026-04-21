@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3861299666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a92f2911abc04230e448e53b33213e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_4.png
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_0.png
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_5.png
+- Assets/Live/clothing_militarypants/flash/manifest.xml
+- Assets/Live/clothing_militarypants/flash/index.xml
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_icon_a.png
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_2.png
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_3.png
+- Assets/Live/clothing_militarypants/clothing_militarypants.xml
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_64_a_0_1.png
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_visualization.xml
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_assets.xml
+- Assets/Live/clothing_militarypants/flash/clothing_militarypants_logic.xml
+Dependencies: []

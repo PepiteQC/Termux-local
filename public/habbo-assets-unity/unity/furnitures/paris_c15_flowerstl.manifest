@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1617446646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 214a83e1e2a3192fd173e8f9ff0efd99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_assets.xml
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_visualization.xml
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_64_sd_2_0.png
+- Assets/Live/paris_c15_flowerstl/paris_c15_flowerstl.xml
+- Assets/Live/paris_c15_flowerstl/flash/index.xml
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_logic.xml
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_icon_a.png
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_64_b_2_0.png
+- Assets/Live/paris_c15_flowerstl/flash/paris_c15_flowerstl_64_a_2_0.png
+- Assets/Live/paris_c15_flowerstl/flash/manifest.xml
+Dependencies: []

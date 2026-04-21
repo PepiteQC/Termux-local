@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1287751115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe75d8ce6cfdeac38f43b1898f3e3143
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_visualization.xml
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_assets.xml
+- Assets/Live/vwave_c21_palm/flash/index.xml
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_64_a_0_0.png
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_64_sd_0_0.png
+- Assets/Live/vwave_c21_palm/vwave_c21_palm.xml
+- Assets/Live/vwave_c21_palm/flash/manifest.xml
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_icon_a.png
+- Assets/Live/vwave_c21_palm/flash/vwave_c21_palm_logic.xml
+Dependencies: []

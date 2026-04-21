@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2824681233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af4603936599f61ff90b352bd90a08bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_closedspiral1/flash/manifest.xml
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_64_sd_0_0.png
+- Assets/Live/coralking_c18_closedspiral1/coralking_c18_closedspiral1.xml
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_icon_a.png
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_logic.xml
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_assets.xml
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_64_a_0_0.png
+- Assets/Live/coralking_c18_closedspiral1/flash/coralking_c18_closedspiral1_visualization.xml
+- Assets/Live/coralking_c18_closedspiral1/flash/index.xml
+Dependencies: []

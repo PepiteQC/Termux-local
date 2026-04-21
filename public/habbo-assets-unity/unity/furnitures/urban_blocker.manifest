@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 43289628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bab692bf4bec00655cefa0b02ac0f42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/urban_blocker/flash/index.xml
+- Assets/Live/urban_blocker/flash/urban_blocker_icon_a.png
+- Assets/Live/urban_blocker/flash/urban_blocker_assets.xml
+- Assets/Live/urban_blocker/flash/urban_blocker_64_sd_0_0.png
+- Assets/Live/urban_blocker/flash/urban_blocker_64_a_0_0.png
+- Assets/Live/urban_blocker/urban_blocker.xml
+- Assets/Live/urban_blocker/flash/manifest.xml
+- Assets/Live/urban_blocker/flash/urban_blocker_visualization.xml
+- Assets/Live/urban_blocker/flash/urban_blocker_logic.xml
+Dependencies: []

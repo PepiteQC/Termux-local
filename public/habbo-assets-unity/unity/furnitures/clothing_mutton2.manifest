@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3697937693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7787214fbd97e205bdb2f1164d3f708a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_assets.xml
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_sd_0_0.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_0.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_3.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_4.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_visualization.xml
+- Assets/Live/clothing_mutton2/flash/manifest.xml
+- Assets/Live/clothing_mutton2/flash/index.xml
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_2.png
+- Assets/Live/clothing_mutton2/clothing_mutton2.xml
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_logic.xml
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_1.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_64_a_0_5.png
+- Assets/Live/clothing_mutton2/flash/clothing_mutton2_icon_a.png
+Dependencies: []

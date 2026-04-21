@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2225044106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e213a1f38f6d23a2b47bf9c52346160f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_floor/theatre_floor.xml
+- Assets/Live/theatre_floor/flash/theatre_floor_logic.xml
+- Assets/Live/theatre_floor/flash/theatre_floor_icon_a.png
+- Assets/Live/theatre_floor/flash/index.xml
+- Assets/Live/theatre_floor/flash/theatre_floor_64_a_0_0.png
+- Assets/Live/theatre_floor/flash/theatre_floor_64_a_2_0.png
+- Assets/Live/theatre_floor/flash/theatre_floor_visualization.xml
+- Assets/Live/theatre_floor/flash/theatre_floor_assets.xml
+- Assets/Live/theatre_floor/flash/manifest.xml
+Dependencies: []

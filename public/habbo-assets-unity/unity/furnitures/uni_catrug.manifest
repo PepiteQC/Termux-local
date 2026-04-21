@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 720979797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6123fe0626ec9485cdc1b5e76fc84c54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_catrug/flash/uni_catrug_64_a_2_1.png
+- Assets/Live/uni_catrug/flash/uni_catrug_64_sd_2_0.png
+- Assets/Live/uni_catrug/flash/uni_catrug_visualization.xml
+- Assets/Live/uni_catrug/flash/uni_catrug_logic.xml
+- Assets/Live/uni_catrug/flash/uni_catrug_64_a_2_0.png
+- Assets/Live/uni_catrug/flash/manifest.xml
+- Assets/Live/uni_catrug/flash/index.xml
+- Assets/Live/uni_catrug/uni_catrug.xml
+- Assets/Live/uni_catrug/flash/uni_catrug_icon_a.png
+- Assets/Live/uni_catrug/flash/uni_catrug_64_a_2_2.png
+- Assets/Live/uni_catrug/flash/uni_catrug_64_a_2_3.png
+- Assets/Live/uni_catrug/flash/uni_catrug_assets.xml
+Dependencies: []

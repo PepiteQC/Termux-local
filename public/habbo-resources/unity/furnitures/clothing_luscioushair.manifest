@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 114682889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff842a2fb4acce9168cd267d6df6365c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_64_a_0_0.png
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_assets.xml
+- Assets/Live/clothing_luscioushair/flash/index.xml
+- Assets/Live/clothing_luscioushair/clothing_luscioushair.xml
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_icon_a.png
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_64_sd_0_0.png
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_visualization.xml
+- Assets/Live/clothing_luscioushair/flash/manifest.xml
+- Assets/Live/clothing_luscioushair/flash/clothing_luscioushair_logic.xml
+Dependencies: []

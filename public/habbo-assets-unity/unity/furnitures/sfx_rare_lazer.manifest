@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2292938179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 854a54a1e739b6f4638a62513a3612e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_rare_lazer/flash/index.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_f_4_3.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_a_2_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_4.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_f_4_2.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_icon_a.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_8.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_e_4_2.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_5.png
+- Assets/Live/sfx_rare_lazer/sfx_rare_lazer.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_assets.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_1.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_6.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_3.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_2.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_visualization.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_4.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_6.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_1.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_7.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_f_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/manifest.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_e_4_3.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_sd_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_f_4_1.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_a_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_2.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_5.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_e_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_logic.xml
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_b_4_1.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_c_4_3.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_e_4_4.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_b_4_0.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_7.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_f_4_4.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_d_4_8.png
+- Assets/Live/sfx_rare_lazer/flash/sfx_rare_lazer_64_e_4_1.png
+Dependencies: []

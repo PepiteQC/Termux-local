@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 739149891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 842f1b3824b43fa1e844f9735d7363bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tiki_nt_tray2/flash/manifest.xml
+- Assets/Live/tiki_nt_tray2/tiki_nt_tray2.xml
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_icon_a.png
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_logic.xml
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_assets.xml
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_64_a_0_0.png
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_visualization.xml
+- Assets/Live/tiki_nt_tray2/flash/index.xml
+- Assets/Live/tiki_nt_tray2/flash/tiki_nt_tray2_64_sd_0_0.png
+Dependencies: []

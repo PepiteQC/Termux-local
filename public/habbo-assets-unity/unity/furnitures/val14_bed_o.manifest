@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3962430619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97142096efde230dfbd02943eaa2a3e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_bed_o/flash/val14_bed_o_visualization.xml
+- Assets/Live/val14_bed_o/val14_bed_o.xml
+- Assets/Live/val14_bed_o/flash/val14_bed_o_assets.xml
+- Assets/Live/val14_bed_o/flash/val14_bed_o_logic.xml
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_a_0_0.png
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_sd_0_0.png
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_d_0_0.png
+- Assets/Live/val14_bed_o/flash/manifest.xml
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_b_0_0.png
+- Assets/Live/val14_bed_o/flash/val14_bed_o_icon_a.png
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_e_0_0.png
+- Assets/Live/val14_bed_o/flash/val14_bed_o_64_c_0_0.png
+- Assets/Live/val14_bed_o/flash/index.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3734762927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8ceb7caef927ef8902a55b499099cdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spa_c20_lavendersalt/flash/manifest.xml
+- Assets/Live/spa_c20_lavendersalt/spa_c20_lavendersalt.xml
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_assets.xml
+- Assets/Live/spa_c20_lavendersalt/flash/index.xml
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_visualization.xml
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_icon_a.png
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_64_sd_2_0.png
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_logic.xml
+- Assets/Live/spa_c20_lavendersalt/flash/spa_c20_lavendersalt_64_a_2_0.png
+Dependencies: []

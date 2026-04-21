@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3117314246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d790d0af138f75e3a064f4880a6f40c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_64_a_0_1.png
+- Assets/Live/india_c20_sewingmachine/flash/manifest.xml
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_assets.xml
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_icon_a.png
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_64_a_0_0.png
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_64_a_0_2.png
+- Assets/Live/india_c20_sewingmachine/india_c20_sewingmachine.xml
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_64_sd_0_0.png
+- Assets/Live/india_c20_sewingmachine/flash/index.xml
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_logic.xml
+- Assets/Live/india_c20_sewingmachine/flash/india_c20_sewingmachine_visualization.xml
+Dependencies: []

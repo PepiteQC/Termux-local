@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2114133401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6d3dce666d3fe49b7b416a9daaf57d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_shamisen/val15_shamisen.xml
+- Assets/Live/val15_shamisen/flash/val15_shamisen_64_a_2_0.png
+- Assets/Live/val15_shamisen/flash/val15_shamisen_64_sd_2_0.png
+- Assets/Live/val15_shamisen/flash/val15_shamisen_icon_a.png
+- Assets/Live/val15_shamisen/flash/val15_shamisen_assets.xml
+- Assets/Live/val15_shamisen/flash/val15_shamisen_visualization.xml
+- Assets/Live/val15_shamisen/flash/manifest.xml
+- Assets/Live/val15_shamisen/flash/val15_shamisen_logic.xml
+- Assets/Live/val15_shamisen/flash/index.xml
+Dependencies: []

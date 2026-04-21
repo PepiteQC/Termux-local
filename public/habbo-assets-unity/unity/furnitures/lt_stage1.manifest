@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 401151086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4e6ebb9fecced17a467412635c8f812
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lt_stage1/flash/lt_stage1_logic.xml
+- Assets/Live/lt_stage1/flash/index.xml
+- Assets/Live/lt_stage1/flash/lt_stage1_icon_a.png
+- Assets/Live/lt_stage1/lt_stage1.xml
+- Assets/Live/lt_stage1/flash/lt_stage1_visualization.xml
+- Assets/Live/lt_stage1/flash/manifest.xml
+- Assets/Live/lt_stage1/flash/lt_stage1_assets.xml
+- Assets/Live/lt_stage1/flash/lt_stage1_64_a_0_0.png
+Dependencies: []

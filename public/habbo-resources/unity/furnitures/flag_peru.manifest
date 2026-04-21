@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 882881774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 195e3d8ece09597fd37e1cf4cce1ebf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_peru/flash/flag_peru_icon_a.png
+- Assets/Live/flag_peru/flash/index.xml
+- Assets/Live/flag_peru/flag_peru.xml
+- Assets/Live/flag_peru/flash/flag_peru_64_a_4_0.png
+- Assets/Live/flag_peru/flash/flag_peru_64_a_2_0.png
+- Assets/Live/flag_peru/flash/flag_peru_visualization.xml
+- Assets/Live/flag_peru/flash/flag_peru_assets.xml
+- Assets/Live/flag_peru/flash/flag_peru_logic.xml
+- Assets/Live/flag_peru/flash/manifest.xml
+Dependencies: []

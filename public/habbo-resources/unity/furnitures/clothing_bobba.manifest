@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3009929627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41c1db4bde5fd3df1c012e802f85eb2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bobba/flash/clothing_bobba_visualization.xml
+- Assets/Live/clothing_bobba/clothing_bobba.xml
+- Assets/Live/clothing_bobba/flash/clothing_bobba_64_sd_0_0.png
+- Assets/Live/clothing_bobba/flash/index.xml
+- Assets/Live/clothing_bobba/flash/clothing_bobba_logic.xml
+- Assets/Live/clothing_bobba/flash/clothing_bobba_icon_a.png
+- Assets/Live/clothing_bobba/flash/clothing_bobba_64_a_0_0.png
+- Assets/Live/clothing_bobba/flash/manifest.xml
+- Assets/Live/clothing_bobba/flash/clothing_bobba_assets.xml
+Dependencies: []

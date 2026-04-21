@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3368106279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2395cd79b636e9d0f493c21fc5e21978
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic1_plant/flash/classic1_plant_64_sd_0_0.png
+- Assets/Live/classic1_plant/flash/classic1_plant_64_b_0_1.png
+- Assets/Live/classic1_plant/flash/classic1_plant_logic.xml
+- Assets/Live/classic1_plant/flash/classic1_plant_64_a_0_0.png
+- Assets/Live/classic1_plant/flash/classic1_plant_64_b_0_0.png
+- Assets/Live/classic1_plant/classic1_plant.xml
+- Assets/Live/classic1_plant/flash/classic1_plant_icon_a.png
+- Assets/Live/classic1_plant/flash/manifest.xml
+- Assets/Live/classic1_plant/flash/classic1_plant_assets.xml
+- Assets/Live/classic1_plant/flash/index.xml
+- Assets/Live/classic1_plant/flash/classic1_plant_visualization.xml
+Dependencies: []

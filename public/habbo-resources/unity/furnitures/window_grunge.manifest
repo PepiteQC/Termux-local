@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 412512290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27277e42052ec4861634fb05fcab5d1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_grunge/flash/window_grunge_icon_a.png
+- Assets/Live/window_grunge/flash/window_grunge_64_a_2_0.png
+- Assets/Live/window_grunge/flash/index.xml
+- Assets/Live/window_grunge/window_grunge.xml
+- Assets/Live/window_grunge/flash/window_grunge_64_2_mask.png
+- Assets/Live/window_grunge/flash/window_grunge_assets.xml
+- Assets/Live/window_grunge/flash/window_grunge_32_2_mask.png
+- Assets/Live/window_grunge/flash/manifest.xml
+- Assets/Live/window_grunge/flash/window_grunge_logic.xml
+- Assets/Live/window_grunge/flash/window_grunge_64_b_2_0.png
+- Assets/Live/window_grunge/flash/window_grunge_visualization.xml
+- Assets/Live/window_grunge/flash/window_grunge_64_b_2_1.png
+Dependencies: []

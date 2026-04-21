@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3614535330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 924baf36c960abc8f97370c33ac68a96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_snake/clothing_snake.xml
+- Assets/Live/clothing_snake/flash/clothing_snake_visualization.xml
+- Assets/Live/clothing_snake/flash/clothing_snake_logic.xml
+- Assets/Live/clothing_snake/flash/clothing_snake_64_a_0_0.png
+- Assets/Live/clothing_snake/flash/manifest.xml
+- Assets/Live/clothing_snake/flash/clothing_snake_icon_a.png
+- Assets/Live/clothing_snake/flash/index.xml
+- Assets/Live/clothing_snake/flash/clothing_snake_assets.xml
+Dependencies: []

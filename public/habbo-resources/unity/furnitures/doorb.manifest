@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4292024361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd151cd9ae91274c0d4def07849705b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/doorB/flash/doorB_64_a_4_1.png
+- Assets/Live/doorB/doorB.xml
+- Assets/Live/doorB/flash/doorB_logic.xml
+- Assets/Live/doorB/flash/doorB_64_a_4_0.png
+- Assets/Live/doorB/flash/doorB_64_b_4_0.png
+- Assets/Live/doorB/flash/doorB_visualization.xml
+- Assets/Live/doorB/flash/doorB_icon_a.png
+- Assets/Live/doorB/flash/doorB_64_c_4_1.png
+- Assets/Live/doorB/flash/manifest.xml
+- Assets/Live/doorB/flash/doorB_64_b_4_1.png
+- Assets/Live/doorB/flash/index.xml
+- Assets/Live/doorB/flash/doorB_assets.xml
+Dependencies: []

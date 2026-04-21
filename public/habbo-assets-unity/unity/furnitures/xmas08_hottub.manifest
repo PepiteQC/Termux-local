@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2531191609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99c445f49bd6db278122c84eee8e4fb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_4.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_visualization.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_6.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_3.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_a_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_4.png
+- Assets/Live/xmas08_hottub/flash/index.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_1.png
+- Assets/Live/xmas08_hottub/xmas08_hottub.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_1.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_2.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_4.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_5.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_b_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_logic.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_2.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_assets.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_j_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_6.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_3.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_1.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_icon_a.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_5.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_6.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_3.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_2.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_e_2_2.png
+- Assets/Live/xmas08_hottub/flash/manifest.xml
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_6.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_5.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_5.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_k_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_3.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_1.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_f_2_4.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_6.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_4.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_g_2_2.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_i_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_c_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_1.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_h_2_0.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_3.png
+- Assets/Live/xmas08_hottub/flash/xmas08_hottub_64_d_2_5.png
+Dependencies: []

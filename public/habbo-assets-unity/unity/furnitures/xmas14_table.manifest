@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 2202559739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b02d2cfbf59a8f4e225c68087d2b0f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_table/flash/xmas14_table_64_a_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_icon_a.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_h_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_3.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_10.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_6.png
+- Assets/Live/xmas14_table/xmas14_table.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_h_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_11.png
+- Assets/Live/xmas14_table/flash/xmas14_table_assets.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_9.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_logic.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_10.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_7.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_8.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_12.png
+- Assets/Live/xmas14_table/flash/index.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_d_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_g_4_2.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_2.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_5.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_3.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_14.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_7.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_2.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_13.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_g_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_b_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_9.png
+- Assets/Live/xmas14_table/flash/xmas14_table_visualization.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_7.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_9.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_sd_4_0.png
+- Assets/Live/xmas14_table/flash/manifest.xml
+- Assets/Live/xmas14_table/flash/xmas14_table_64_g_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_5.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_6.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_4.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_b_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_3.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_d_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_2.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_0.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_15.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_4.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_e_4_8.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_8.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_5.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_6.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_1.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_f_4_4.png
+- Assets/Live/xmas14_table/flash/xmas14_table_64_c_4_0.png
+Dependencies: []

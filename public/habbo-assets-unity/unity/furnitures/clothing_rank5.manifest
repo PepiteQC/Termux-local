@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2911107776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7f7db1005022e5bb2318704ab08635a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_5.png
+- Assets/Live/clothing_rank5/flash/clothing_rank5_logic.xml
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_0.png
+- Assets/Live/clothing_rank5/flash/clothing_rank5_icon_a.png
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_2.png
+- Assets/Live/clothing_rank5/flash/clothing_rank5_assets.xml
+- Assets/Live/clothing_rank5/flash/manifest.xml
+- Assets/Live/clothing_rank5/flash/index.xml
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_1.png
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_4.png
+- Assets/Live/clothing_rank5/clothing_rank5.xml
+- Assets/Live/clothing_rank5/flash/clothing_rank5_visualization.xml
+- Assets/Live/clothing_rank5/flash/clothing_rank5_64_a_0_3.png
+Dependencies: []

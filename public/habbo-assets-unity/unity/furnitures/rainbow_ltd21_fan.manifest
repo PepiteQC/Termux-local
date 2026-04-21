@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 304205233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d9c239c918b3f54c5ef8b735a53bc5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_d_2_1.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_logic.xml
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_assets.xml
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_c_2_1.png
+- Assets/Live/rainbow_ltd21_fan/rainbow_ltd21_fan.xml
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_c_2_0.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_visualization.xml
+- Assets/Live/rainbow_ltd21_fan/flash/index.xml
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_icon_a.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_a_2_0.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_d_2_0.png
+- Assets/Live/rainbow_ltd21_fan/flash/manifest.xml
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_d_2_2.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_a_6_0.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_sd_2_0.png
+- Assets/Live/rainbow_ltd21_fan/flash/rainbow_ltd21_fan_64_d_2_3.png
+Dependencies: []

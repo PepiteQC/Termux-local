@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4090651431
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26c0b4fa017aee7c384f0f38c4f0f20b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_13.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_2.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_9.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_visualization.xml
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_1.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_10.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_5.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_4.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_a_4_0.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_icon_a.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_logic.xml
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_sd_4_0.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_12.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_7.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_11.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_14.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_3.png
+- Assets/Live/hween15_horseman2/flash/index.xml
+- Assets/Live/hween15_horseman2/flash/hween15_horseman_64_sd_4_0.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_6.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_15.png
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_8.png
+- Assets/Live/hween15_horseman2/flash/manifest.xml
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_assets.xml
+- Assets/Live/hween15_horseman2/flash/hween15_horseman2_64_b_4_0.png
+- Assets/Live/hween15_horseman2/hween15_horseman2.xml
+Dependencies: []

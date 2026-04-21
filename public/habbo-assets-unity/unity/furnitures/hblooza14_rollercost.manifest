@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 753539554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76ed4da6ceb7f64fa2386852370a80a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_visualization.xml
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_logic.xml
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_e_6_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_d_4_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_b_6_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_a_4_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_assets.xml
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_e_4_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_d_6_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_e_6_0.png
+- Assets/Live/hblooza14_rollercost/flash/manifest.xml
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_a_6_0.png
+- Assets/Live/hblooza14_rollercost/flash/index.xml
+- Assets/Live/hblooza14_rollercost/hblooza14_rollercost.xml
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_c_6_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_c_4_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_d_4_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_b_4_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_d_6_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_c_4_1.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_icon_a.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_e_4_0.png
+- Assets/Live/hblooza14_rollercost/flash/hblooza14_rollercost_64_c_6_0.png
+Dependencies: []

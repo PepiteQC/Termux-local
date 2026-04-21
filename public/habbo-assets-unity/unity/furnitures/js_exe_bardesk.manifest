@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4198967417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db0fb5bf59bc083b515a1f011175d740
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_logic.xml
+- Assets/Live/js_exe_bardesk/flash/manifest.xml
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_assets.xml
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_icon_a.png
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_64_a_0_0.png
+- Assets/Live/js_exe_bardesk/flash/index.xml
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_64_b_2_0.png
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_64_a_2_0.png
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_visualization.xml
+- Assets/Live/js_exe_bardesk/js_exe_bardesk.xml
+- Assets/Live/js_exe_bardesk/flash/js_exe_bardesk_64_b_0_0.png
+Dependencies: []

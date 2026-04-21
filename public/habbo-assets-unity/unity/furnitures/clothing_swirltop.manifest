@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 4126488259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09514d388c62417d13f7206768cac9d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_swirltop/flash/index.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_visualization.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_4.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_0.png
+- Assets/Live/clothing_swirltop/clothing_swirltop.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_1.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_assets.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_3.png
+- Assets/Live/clothing_swirltop/flash/manifest.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_icon_a.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_logic.xml
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_2.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_5.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_2.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_sd_0_0.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_4.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_3.png
+- Assets/Live/clothing_swirltop/flash/clothing_swirltop_64_a_0_1.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2734872059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c24f1eaa200a8f83d09a22c65c682a94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ny2013_clock/flash/ny2013_clock_icon_a.png
+- Assets/Live/ny2013_clock/flash/ny2013_clock_64_sd_2_0.png
+- Assets/Live/ny2013_clock/flash/manifest.xml
+- Assets/Live/ny2013_clock/flash/ny2013_clock_assets.xml
+- Assets/Live/ny2013_clock/flash/ny2013_clock_64_a_2_0.png
+- Assets/Live/ny2013_clock/flash/index.xml
+- Assets/Live/ny2013_clock/flash/ny2013_clock_visualization.xml
+- Assets/Live/ny2013_clock/flash/ny2013_clock_64_sd_6_0.png
+- Assets/Live/ny2013_clock/flash/ny2013_clock_logic.xml
+- Assets/Live/ny2013_clock/flash/ny2013_clock_64_a_6_0.png
+- Assets/Live/ny2013_clock/ny2013_clock.xml
+Dependencies: []

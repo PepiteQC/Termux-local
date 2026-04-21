@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3037343221
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 444b1a60ad1412783686ccfe5edf001d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_table/flash/index.xml
+- Assets/Live/attic15_table/flash/attic15_table_assets.xml
+- Assets/Live/attic15_table/flash/attic15_table_visualization.xml
+- Assets/Live/attic15_table/flash/attic15_table_icon_a.png
+- Assets/Live/attic15_table/flash/attic15_table_logic.xml
+- Assets/Live/attic15_table/flash/attic15_table_64_a_4_0.png
+- Assets/Live/attic15_table/flash/attic15_table_64_sd_4_0.png
+- Assets/Live/attic15_table/flash/manifest.xml
+- Assets/Live/attic15_table/attic15_table.xml
+Dependencies: []

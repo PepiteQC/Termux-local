@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 818433301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5458e283f765e5c995927155e584017e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/diamond_painting16/flash/diamond_painting16_visualization.xml
+- Assets/Live/diamond_painting16/flash/index.xml
+- Assets/Live/diamond_painting16/flash/diamond_painting16_icon_a.png
+- Assets/Live/diamond_painting16/flash/diamond_painting16_64_a_2_0.png
+- Assets/Live/diamond_painting16/flash/manifest.xml
+- Assets/Live/diamond_painting16/flash/diamond_painting16_assets.xml
+- Assets/Live/diamond_painting16/flash/diamond_painting16_logic.xml
+- Assets/Live/diamond_painting16/diamond_painting16.xml
+Dependencies: []

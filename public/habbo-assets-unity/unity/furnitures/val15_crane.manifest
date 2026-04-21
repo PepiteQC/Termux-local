@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 418628883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63aa77785acdf690f07a0ea8bfa952f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_crane/flash/val15_crane_assets.xml
+- Assets/Live/val15_crane/flash/index.xml
+- Assets/Live/val15_crane/val15_crane.xml
+- Assets/Live/val15_crane/flash/val15_crane_icon_a.png
+- Assets/Live/val15_crane/flash/val15_crane_visualization.xml
+- Assets/Live/val15_crane/flash/val15_crane_64_sd_0_0.png
+- Assets/Live/val15_crane/flash/manifest.xml
+- Assets/Live/val15_crane/flash/val15_crane_64_a_0_0.png
+- Assets/Live/val15_crane/flash/val15_crane_logic.xml
+Dependencies: []

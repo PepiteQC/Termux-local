@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1830899234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a246eb2a882f74c6174fecc28e3ac7b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_pavement/flash/index.xml
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_logic.xml
+- Assets/Live/vwave_c21_pavement/vwave_c21_pavement.xml
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_visualization.xml
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_64_a_0_0.png
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_64_b_0_0.png
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_icon_a.png
+- Assets/Live/vwave_c21_pavement/flash/manifest.xml
+- Assets/Live/vwave_c21_pavement/flash/vwave_c21_pavement_assets.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1822439220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5789dcb8a5165bf4b6d6229a9e78c018
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_64_a_0_2.png
+- Assets/Live/paris_c15_flowerpot/paris_c15_flowerpot.xml
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_logic.xml
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_64_sd_0_0.png
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_64_a_0_0.png
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_64_a_0_1.png
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_icon_a.png
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_visualization.xml
+- Assets/Live/paris_c15_flowerpot/flash/index.xml
+- Assets/Live/paris_c15_flowerpot/flash/paris_c15_flowerpot_assets.xml
+- Assets/Live/paris_c15_flowerpot/flash/manifest.xml
+Dependencies: []

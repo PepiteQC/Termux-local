@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3358196110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 954aaa2dce8bd4956cdb0dfd40a002b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_logic.xml
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_64_b_0_0.png
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_visualization.xml
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_icon_a.png
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_icon_c.png
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_icon_b.png
+- Assets/Live/noob_rug_tradeable/noob_rug_tradeable.xml
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_64_a_0_0.png
+- Assets/Live/noob_rug_tradeable/flash/manifest.xml
+- Assets/Live/noob_rug_tradeable/flash/index.xml
+- Assets/Live/noob_rug_tradeable/flash/noob_rug_tradeable_assets.xml
+Dependencies: []

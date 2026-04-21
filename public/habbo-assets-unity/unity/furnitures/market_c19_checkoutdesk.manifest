@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1606434187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b7d324e8714bf7dbf4f0cbd0744a9ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_b_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_e_2_2.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_0_4.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_c_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_d_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_visualization.xml
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_e_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_2_1.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_icon_a.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_logic.xml
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_2_3.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_e_2_1.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_assets.xml
+- Assets/Live/market_c19_checkoutdesk/flash/index.xml
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_e_2_3.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_sd_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/manifest.xml
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_d_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_0_1.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_f_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_f_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_sd_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_0_2.png
+- Assets/Live/market_c19_checkoutdesk/market_c19_checkoutdesk.xml
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_c_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_b_0_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_2_4.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_0_3.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_e_2_0.png
+- Assets/Live/market_c19_checkoutdesk/flash/market_c19_checkoutdesk_64_a_2_2.png
+Dependencies: []

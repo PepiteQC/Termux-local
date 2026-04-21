@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1918669691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 492acabc8df3ceb93dec08b3965fd386
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_didgeridoo/fest_c19_didgeridoo.xml
+- Assets/Live/fest_c19_didgeridoo/flash/index.xml
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_assets.xml
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_64_sd_0_0.png
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_logic.xml
+- Assets/Live/fest_c19_didgeridoo/flash/manifest.xml
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_64_a_0_0.png
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_visualization.xml
+- Assets/Live/fest_c19_didgeridoo/flash/fest_c19_didgeridoo_icon_a.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1979797393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68df142ce28c1c72d29926ef2a938aae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/chess_b_rook/flash/index.xml
+- Assets/Live/chess_b_rook/flash/chess_b_rook_assets.xml
+- Assets/Live/chess_b_rook/flash/chess_b_rook_64_sd_0_0.png
+- Assets/Live/chess_b_rook/flash/chess_b_rook_logic.xml
+- Assets/Live/chess_b_rook/flash/manifest.xml
+- Assets/Live/chess_b_rook/chess_b_rook.xml
+- Assets/Live/chess_b_rook/flash/chess_b_rook_icon_a.png
+- Assets/Live/chess_b_rook/flash/chess_b_rook_visualization.xml
+- Assets/Live/chess_b_rook/flash/chess_b_rook_64_a_0_0.png
+Dependencies: []

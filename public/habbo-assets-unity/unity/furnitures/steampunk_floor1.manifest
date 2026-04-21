@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3714328676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c355a23817682b76bdd43819a30b9ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_1.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_logic.xml
+- Assets/Live/steampunk_floor1/steampunk_floor1.xml
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_0.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_icon_a.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_visualization.xml
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_3.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_b_2_0.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_5.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_5.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_b_0_0.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_2.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_1.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_2.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_assets.xml
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_3.png
+- Assets/Live/steampunk_floor1/flash/index.xml
+- Assets/Live/steampunk_floor1/flash/manifest.xml
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_0.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_2_4.png
+- Assets/Live/steampunk_floor1/flash/steampunk_floor1_64_a_0_4.png
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2686010274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10275acfa931f1c85d75fd5bdaf338fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_b_0_0.png
+- Assets/Live/habbo15_crackable/flash/index.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_a_0_0.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_4.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_visualization.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_6.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_logic.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_2.png
+- Assets/Live/habbo15_crackable/flash/manifest.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_7.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_assets.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_1.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_0.png
+- Assets/Live/habbo15_crackable/habbo15_crackable.xml
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_3.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_b_2_0.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_c_2_5.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_icon_a.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_sd_0_0.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_a_2_0.png
+- Assets/Live/habbo15_crackable/flash/habbo15_crackable_64_sd_2_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4082287228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7646a47c5ef4262f03ed32f9a3503ad3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_64_a_4_0.png
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_assets.xml
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_logic.xml
+- Assets/Live/ads_antena3_floor/flash/index.xml
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_64_a_2_0.png
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_icon_a.png
+- Assets/Live/ads_antena3_floor/flash/ads_antena3_floor_visualization.xml
+- Assets/Live/ads_antena3_floor/flash/manifest.xml
+- Assets/Live/ads_antena3_floor/ads_antena3_floor.xml
+Dependencies: []

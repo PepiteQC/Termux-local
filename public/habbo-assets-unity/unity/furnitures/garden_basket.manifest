@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3159917310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8c829919849d6fd9af14196bcfd8dea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_basket/flash/garden_basket_visualization.xml
+- Assets/Live/garden_basket/flash/garden_basket_logic.xml
+- Assets/Live/garden_basket/flash/garden_basket_64_sd_0_0.png
+- Assets/Live/garden_basket/garden_basket.xml
+- Assets/Live/garden_basket/flash/manifest.xml
+- Assets/Live/garden_basket/flash/garden_basket_icon_a.png
+- Assets/Live/garden_basket/flash/garden_basket_64_a_0_0.png
+- Assets/Live/garden_basket/flash/index.xml
+- Assets/Live/garden_basket/flash/garden_basket_assets.xml
+Dependencies: []

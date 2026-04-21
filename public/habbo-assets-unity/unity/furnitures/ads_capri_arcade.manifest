@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3247572658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76c42687ba8b12c45571b217b0cce32c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_64_a_4_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/manifest.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_icon_a.png
+- Assets/Live/ads_capri_arcade/ads_capri_arcade.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/index.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_logic.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/manifest.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_logic.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_visualization.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_assets.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_32_a_2_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_64_a_4_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/index.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_64_a_2_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_assets.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_visualization.xml
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_32_a_4_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade/ads_capri_arcade_64_a_2_0.png
+- Assets/Live/ads_capri_arcade/flash/ads_capri_arcade_camp/ads_capri_arcade_camp_icon_a.png
+Dependencies: []

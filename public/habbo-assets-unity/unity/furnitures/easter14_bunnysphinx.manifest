@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1558090434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f01ef6818a5b1cfb69dd74e1626a7c96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_bunnysphinx/flash/index.xml
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_assets.xml
+- Assets/Live/easter14_bunnysphinx/flash/manifest.xml
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_icon_a.png
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_64_a_4_0.png
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_visualization.xml
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_64_a_2_0.png
+- Assets/Live/easter14_bunnysphinx/flash/easter14_bunnysphinx_logic.xml
+- Assets/Live/easter14_bunnysphinx/easter14_bunnysphinx.xml
+Dependencies: []

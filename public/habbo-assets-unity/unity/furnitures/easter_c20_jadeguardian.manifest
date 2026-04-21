@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1522359607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5278e07903b3235e0ccd723536308b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_64_sd_0_0.png
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_assets.xml
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_visualization.xml
+- Assets/Live/easter_c20_jadeguardian/easter_c20_jadeguardian.xml
+- Assets/Live/easter_c20_jadeguardian/flash/index.xml
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_logic.xml
+- Assets/Live/easter_c20_jadeguardian/flash/manifest.xml
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_icon_a.png
+- Assets/Live/easter_c20_jadeguardian/flash/easter_c20_jadeguardian_64_a_0_0.png
+Dependencies: []

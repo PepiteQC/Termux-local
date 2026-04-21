@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4006019572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbb68e76bceedc91e471bca1c06b2f6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_poster1/uni_poster1.xml
+- Assets/Live/uni_poster1/flash/uni_poster1_assets.xml
+- Assets/Live/uni_poster1/flash/manifest.xml
+- Assets/Live/uni_poster1/flash/index.xml
+- Assets/Live/uni_poster1/flash/uni_poster1_icon_a.png
+- Assets/Live/uni_poster1/flash/uni_poster1_logic.xml
+- Assets/Live/uni_poster1/flash/uni_poster1_visualization.xml
+- Assets/Live/uni_poster1/flash/uni_poster1_64_a_2_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 373569973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 613092556d23cca0f5a4b0d683001dac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_scrolls1/greek_c19_scrolls1.xml
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_64_a_0_0.png
+- Assets/Live/greek_c19_scrolls1/flash/manifest.xml
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_visualization.xml
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_64_a_0_1.png
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_icon_a.png
+- Assets/Live/greek_c19_scrolls1/flash/index.xml
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_assets.xml
+- Assets/Live/greek_c19_scrolls1/flash/greek_c19_scrolls1_logic.xml
+Dependencies: []

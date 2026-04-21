@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2501312106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00794151516ebf24292cbc9d7b6b8b46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wooden_screen/flash/wooden_screen_64_a_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_logic.xml
+- Assets/Live/wooden_screen/wooden_screen.xml
+- Assets/Live/wooden_screen/flash/wooden_screen_64_e_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_64_f_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_64_c_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_icon_b.png
+- Assets/Live/wooden_screen/flash/wooden_screen_assets.xml
+- Assets/Live/wooden_screen/flash/wooden_screen_64_b_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_64_sd_0_0.png
+- Assets/Live/wooden_screen/flash/wooden_screen_64_d_0_0.png
+- Assets/Live/wooden_screen/flash/manifest.xml
+- Assets/Live/wooden_screen/flash/wooden_screen_icon_a.png
+- Assets/Live/wooden_screen/flash/index.xml
+- Assets/Live/wooden_screen/flash/wooden_screen_visualization.xml
+Dependencies: []

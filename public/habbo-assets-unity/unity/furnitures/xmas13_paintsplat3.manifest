@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 816134632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb52ec78bb18e6e36c5405d2f030c707
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_4.png
+- Assets/Live/xmas13_paintsplat3/xmas13_paintsplat3.xml
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_0.png
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_visualization.xml
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_3.png
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_icon_a.png
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_1.png
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_5.png
+- Assets/Live/xmas13_paintsplat3/flash/index.xml
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_logic.xml
+- Assets/Live/xmas13_paintsplat3/flash/manifest.xml
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_64_a_0_2.png
+- Assets/Live/xmas13_paintsplat3/flash/xmas13_paintsplat3_assets.xml
+Dependencies: []

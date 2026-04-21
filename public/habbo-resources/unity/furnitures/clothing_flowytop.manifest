@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2002883126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7930a8c74be739379da1a6c7166ce15d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_flowytop/clothing_flowytop.xml
+- Assets/Live/clothing_flowytop/flash/clothing_flowytop_assets.xml
+- Assets/Live/clothing_flowytop/flash/clothing_flowytop_64_a_0_0.png
+- Assets/Live/clothing_flowytop/flash/clothing_flowytop_logic.xml
+- Assets/Live/clothing_flowytop/flash/clothing_flowytop_icon_a.png
+- Assets/Live/clothing_flowytop/flash/clothing_flowytop_visualization.xml
+- Assets/Live/clothing_flowytop/flash/manifest.xml
+- Assets/Live/clothing_flowytop/flash/index.xml
+Dependencies: []

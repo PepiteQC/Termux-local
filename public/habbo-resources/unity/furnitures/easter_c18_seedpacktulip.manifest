@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 890149873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cc9e1d73e2ab46cd81360ade7f1226d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_64_a_2_0.png
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_logic.xml
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_icon_a.png
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_visualization.xml
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_64_sd_2_0.png
+- Assets/Live/easter_c18_seedpacktulip/flash/manifest.xml
+- Assets/Live/easter_c18_seedpacktulip/easter_c18_seedpacktulip.xml
+- Assets/Live/easter_c18_seedpacktulip/flash/easter_c18_seedpacktulip_assets.xml
+- Assets/Live/easter_c18_seedpacktulip/flash/index.xml
+Dependencies: []

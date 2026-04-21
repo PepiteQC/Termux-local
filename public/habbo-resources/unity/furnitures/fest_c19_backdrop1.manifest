@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3198216066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbc1f46d599816d1a4980e9d92b1d3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_64_sd_4_0.png
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_64_b_4_0.png
+- Assets/Live/fest_c19_backdrop1/flash/index.xml
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_visualization.xml
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_logic.xml
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_icon_a.png
+- Assets/Live/fest_c19_backdrop1/flash/manifest.xml
+- Assets/Live/fest_c19_backdrop1/fest_c19_backdrop1.xml
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_64_a_4_0.png
+- Assets/Live/fest_c19_backdrop1/flash/fest_c19_backdrop1_assets.xml
+Dependencies: []

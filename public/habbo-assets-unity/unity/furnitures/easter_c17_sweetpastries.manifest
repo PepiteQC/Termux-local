@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1347897146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d03b975dacc0e6d5f5ef61034b626ae3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_assets.xml
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_logic.xml
+- Assets/Live/easter_c17_sweetpastries/flash/manifest.xml
+- Assets/Live/easter_c17_sweetpastries/flash/index.xml
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_64_a_0_0.png
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_visualization.xml
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_64_sd_0_0.png
+- Assets/Live/easter_c17_sweetpastries/flash/easter_c17_sweetpastries_icon_a.png
+- Assets/Live/easter_c17_sweetpastries/easter_c17_sweetpastries.xml
+Dependencies: []

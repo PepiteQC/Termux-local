@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3233055246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04f155707255084bec819cd5680118d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_d_0_1.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_d_0_0.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_c_0_0.png
+- Assets/Live/lido_kiosk/flash/index.xml
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_b_0_0.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_c_0_1.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_icon_a.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_a_0_0.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_a_0_1.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_visualization.xml
+- Assets/Live/lido_kiosk/flash/lido_kiosk_logic.xml
+- Assets/Live/lido_kiosk/lido_kiosk.xml
+- Assets/Live/lido_kiosk/flash/lido_kiosk_64_b_0_1.png
+- Assets/Live/lido_kiosk/flash/lido_kiosk_assets.xml
+- Assets/Live/lido_kiosk/flash/manifest.xml
+Dependencies: []

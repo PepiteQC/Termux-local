@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 225763062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d48fc2e362d78f5c1e530b4f926010a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_24.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_19.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_2.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_f_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_4.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_f_0_2.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_15.png
+- Assets/Live/exotic_r17_birds/exotic_r17_birds.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_d_0_2.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_5.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_4.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_18.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_assets.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_23.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_13.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_logic.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_10.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_h_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_6.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_11.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_7.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_2.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_f_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_3.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_d_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_11.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_a_0_1.png
+- Assets/Live/exotic_r17_birds/flash/index.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_22.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_3.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_12.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_sd_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_6.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_b_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_7.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_4.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_5.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_10.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_17.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_b_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_21.png
+- Assets/Live/exotic_r17_birds/flash/manifest.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_j_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_icon_a.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_16.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_7.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_6.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_visualization.xml
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_a_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_2.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_9.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_8.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_14.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_5.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_c_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_11.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_8.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_3.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_9.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_9.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_10.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_i_0_20.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_h_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_d_0_0.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_g_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_j_0_1.png
+- Assets/Live/exotic_r17_birds/flash/exotic_r17_birds_64_e_0_8.png
+Dependencies: []

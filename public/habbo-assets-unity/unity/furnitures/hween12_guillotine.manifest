@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 805448824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5195ef959d9950126999ee987c957bee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_9.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_sd_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_11.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_b_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_14.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_assets.xml
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_visualization.xml
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_icon_a.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_a_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_10.png
+- Assets/Live/hween12_guillotine/hween12_guillotine.xml
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_logic.xml
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_13.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_3.png
+- Assets/Live/hween12_guillotine/flash/manifest.xml
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_4.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_16.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_c_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_9.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_2.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_7.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_5.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_8.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_11.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_15.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_10.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_5.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_0.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_d_0_12.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_4.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_1.png
+- Assets/Live/hween12_guillotine/flash/hween12_guillotine_64_e_0_6.png
+- Assets/Live/hween12_guillotine/flash/index.xml
+Dependencies: []

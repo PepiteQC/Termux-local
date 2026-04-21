@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 461839607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3593c68f3328bae317ae1d3b310f74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_monitor/flash/studio_monitor_assets.xml
+- Assets/Live/studio_monitor/flash/studio_monitor_logic.xml
+- Assets/Live/studio_monitor/studio_monitor.xml
+- Assets/Live/studio_monitor/flash/studio_monitor_icon_a.png
+- Assets/Live/studio_monitor/flash/manifest.xml
+- Assets/Live/studio_monitor/flash/studio_monitor_64_a_2_0.png
+- Assets/Live/studio_monitor/flash/studio_monitor_visualization.xml
+- Assets/Live/studio_monitor/flash/index.xml
+Dependencies: []

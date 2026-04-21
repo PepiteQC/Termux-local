@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1511630163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a70fe732d3c167d57412b7af5f1fbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_64_sd_0_3.png
+- Assets/Live/santorini_c17_food1/flash/manifest.xml
+- Assets/Live/santorini_c17_food1/flash/index.xml
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_icon_a.png
+- Assets/Live/santorini_c17_food1/santorini_c17_food1.xml
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_64_a_0_3.png
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_64_a_0_0.png
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_64_a_0_2.png
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_assets.xml
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_logic.xml
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_visualization.xml
+- Assets/Live/santorini_c17_food1/flash/santorini_c17_food1_64_a_0_1.png
+Dependencies: []

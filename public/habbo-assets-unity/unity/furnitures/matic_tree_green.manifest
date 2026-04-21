@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2570747795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a33e50b7e8bbee3741ec75aa85a40a98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_sd_0_0.png
+- Assets/Live/matic_tree_green/matic_tree_green.xml
+- Assets/Live/matic_tree_green/flash/matic_tree_green_logic.xml
+- Assets/Live/matic_tree_green/flash/manifest.xml
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_2.png
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_0.png
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_1.png
+- Assets/Live/matic_tree_green/flash/matic_tree_green_assets.xml
+- Assets/Live/matic_tree_green/flash/matic_tree_green_icon_a.png
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_4.png
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_3.png
+- Assets/Live/matic_tree_green/flash/index.xml
+- Assets/Live/matic_tree_green/flash/matic_tree_green_visualization.xml
+- Assets/Live/matic_tree_green/flash/matic_tree_green_64_a_0_5.png
+Dependencies: []

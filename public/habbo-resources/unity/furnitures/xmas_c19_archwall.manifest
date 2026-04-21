@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2612034342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01fddf4065c36e09e320b07ec6f09749
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_d_4_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_d_4_1.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_b_4_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_assets.xml
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_c_2_1.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_sd_2_0.png
+- Assets/Live/xmas_c19_archwall/flash/index.xml
+- Assets/Live/xmas_c19_archwall/flash/manifest.xml
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_d_2_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_icon_a.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_b_2_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_c_4_1.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_c_4_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_sd_4_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_d_2_1.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_visualization.xml
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_logic.xml
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_a_2_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_a_4_0.png
+- Assets/Live/xmas_c19_archwall/flash/xmas_c19_archwall_64_c_2_0.png
+- Assets/Live/xmas_c19_archwall/xmas_c19_archwall.xml
+Dependencies: []

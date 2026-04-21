@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3703369475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e2980f62b2cf0357e305e2123c89102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_sd_0_0.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_a_0_1.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_1.png
+- Assets/Live/crafting_jarhearts/crafting_jarhearts.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_logic.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_5.png
+- Assets/Live/crafting_jarhearts/flash/manifest.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_c_0_2.png
+- Assets/Live/crafting_jarhearts/flash/index.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_assets.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_c_0_0.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_4.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_2.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_3.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_visualization.xml
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_icon_a.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_a_0_0.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_a_0_2.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_b_0_0.png
+- Assets/Live/crafting_jarhearts/flash/crafting_jarhearts_64_c_0_1.png
+Dependencies: []

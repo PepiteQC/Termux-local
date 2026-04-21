@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1923516689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ced52e8bb75de1ffd1b1421f421791bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_pig/flash/manifest.xml
+- Assets/Live/nest_pig/flash/nest_pig_64_sd_4_0.png
+- Assets/Live/nest_pig/flash/nest_pig_icon_a.png
+- Assets/Live/nest_pig/flash/nest_pig_64_a_4_0.png
+- Assets/Live/nest_pig/flash/index.xml
+- Assets/Live/nest_pig/flash/nest_pig_assets.xml
+- Assets/Live/nest_pig/flash/nest_pig_visualization.xml
+- Assets/Live/nest_pig/nest_pig.xml
+- Assets/Live/nest_pig/flash/nest_pig_logic.xml
+Dependencies: []

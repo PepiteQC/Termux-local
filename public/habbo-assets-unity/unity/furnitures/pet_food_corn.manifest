@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 546287880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a91a6928c31f630c028868368100e323
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_food_corn/flash/index.xml
+- Assets/Live/pet_food_corn/flash/pet_food_corn_logic.xml
+- Assets/Live/pet_food_corn/flash/pet_food_corn_assets.xml
+- Assets/Live/pet_food_corn/flash/manifest.xml
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_2_1.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_0_0.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_0_2.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_0_1.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_0_4.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_0_3.png
+- Assets/Live/pet_food_corn/pet_food_corn.xml
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_2_4.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_2_0.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_icon_a.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_visualization.xml
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_2_3.png
+- Assets/Live/pet_food_corn/flash/pet_food_corn_64_a_2_2.png
+Dependencies: []

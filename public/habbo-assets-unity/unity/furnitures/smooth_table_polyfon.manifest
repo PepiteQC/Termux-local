@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1837683418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74f140b292707b2be988f97edcc390eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/smooth_table_polyfon/flash/manifest.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_64_sd_0_0.png
+- Assets/Live/smooth_table_polyfon/flash/index.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_64_sd_6_0.png
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_logic.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_assets.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_visualization.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_64_a_0_0.png
+- Assets/Live/smooth_table_polyfon/smooth_table_polyfon.xml
+- Assets/Live/smooth_table_polyfon/flash/smooth_table_polyfon_icon_a.png
+Dependencies: []

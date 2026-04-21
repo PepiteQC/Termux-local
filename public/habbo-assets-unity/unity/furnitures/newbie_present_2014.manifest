@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3568686769
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75c67d6060953817e4b650bf8cfd43e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/newbie_present_2014/flash/newbie_present_2014_visualization.xml
+- Assets/Live/newbie_present_2014/flash/index.xml
+- Assets/Live/newbie_present_2014/flash/newbie_present_2014_64_a_0_0.png
+- Assets/Live/newbie_present_2014/flash/newbie_present_2014_assets.xml
+- Assets/Live/newbie_present_2014/flash/newbie_present_2014_logic.xml
+- Assets/Live/newbie_present_2014/flash/newbie_present_2014_icon_a.png
+- Assets/Live/newbie_present_2014/flash/manifest.xml
+- Assets/Live/newbie_present_2014/newbie_present_2014.xml
+Dependencies: []

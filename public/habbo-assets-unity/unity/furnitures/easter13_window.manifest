@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3850659250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1fef0e25c6402deb25e037426ecbd63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_window/flash/easter13_window_32_2_0.png
+- Assets/Live/easter13_window/flash/easter13_window_visualization.xml
+- Assets/Live/easter13_window/flash/easter13_window_icon_a.png
+- Assets/Live/easter13_window/flash/easter13_window_assets.xml
+- Assets/Live/easter13_window/flash/easter13_window_64_2_0.png
+- Assets/Live/easter13_window/flash/manifest.xml
+- Assets/Live/easter13_window/flash/easter13_window_32_2_mask.png
+- Assets/Live/easter13_window/easter13_window.xml
+- Assets/Live/easter13_window/flash/easter13_window_64_a_2_0.png
+- Assets/Live/easter13_window/flash/easter13_window_logic.xml
+- Assets/Live/easter13_window/flash/index.xml
+- Assets/Live/easter13_window/flash/easter13_window_64_2_mask.png
+Dependencies: []

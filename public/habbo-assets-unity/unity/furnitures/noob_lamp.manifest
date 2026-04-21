@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2858005046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b97d6fb1dd1f337b7607d3bdf96b8cba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/noob_lamp/flash/noob_lamp_icon_b.png
+- Assets/Live/noob_lamp/flash/noob_lamp_64_c_0_1.png
+- Assets/Live/noob_lamp/flash/noob_lamp_assets.xml
+- Assets/Live/noob_lamp/flash/noob_lamp_64_c_0_0.png
+- Assets/Live/noob_lamp/flash/noob_lamp_64_a_0_0.png
+- Assets/Live/noob_lamp/flash/manifest.xml
+- Assets/Live/noob_lamp/flash/index.xml
+- Assets/Live/noob_lamp/flash/noob_lamp_visualization.xml
+- Assets/Live/noob_lamp/noob_lamp.xml
+- Assets/Live/noob_lamp/flash/noob_lamp_icon_a.png
+- Assets/Live/noob_lamp/flash/noob_lamp_logic.xml
+- Assets/Live/noob_lamp/flash/noob_lamp_64_b_0_0.png
+- Assets/Live/noob_lamp/flash/noob_lamp_icon_c.png
+Dependencies: []

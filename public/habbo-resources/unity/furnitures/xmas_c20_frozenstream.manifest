@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2030307196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea57a908bf69bcba70453e9f02a99241
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_b_2_0.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_a_2_0.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_a_2_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_b_2_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/index.xml
+- Assets/Live/xmas_c20_frozenstream/xmas_c20_frozenstream.xml
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_c_6_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_assets.xml
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_b_6_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_a_2_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_c_2_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_a_6_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_a_6_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_visualization.xml
+- Assets/Live/xmas_c20_frozenstream/flash/manifest.xml
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_c_6_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_c_2_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_sd_2_0.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_b_6_1.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_logic.xml
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_b_2_2.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_icon_a.png
+- Assets/Live/xmas_c20_frozenstream/flash/xmas_c20_frozenstream_64_c_2_0.png
+Dependencies: []

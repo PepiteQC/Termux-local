@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1899261697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a417e71775168aa0f054be9c58f3eb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_2_1.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_2_0.png
+- Assets/Live/hween_c16_webs/flash/manifest.xml
+- Assets/Live/hween_c16_webs/flash/index.xml
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_logic.xml
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_icon_a.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_4_0.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_assets.xml
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_0_1.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_0_0.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_64_a_4_1.png
+- Assets/Live/hween_c16_webs/flash/hween_c16_webs_visualization.xml
+- Assets/Live/hween_c16_webs/hween_c16_webs.xml
+Dependencies: []

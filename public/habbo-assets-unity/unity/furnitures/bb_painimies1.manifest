@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2422618331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97efd4625e26cfa3a3d1e5f9b9957d94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_2_3.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_4_4.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_2_2.png
+- Assets/Live/bb_painimies1/flash/index.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_4_0.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_logic.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_2_0.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_4_1.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_assets.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_4_1.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_2_1.png
+- Assets/Live/bb_painimies1/bb_painimies1.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_2_2.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_2_0.png
+- Assets/Live/bb_painimies1/flash/manifest.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_2_0.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_4_0.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_2_2.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_2_4.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_visualization.xml
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_4_2.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_4_1.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_4_0.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_a_2_1.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_icon_a.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_4_3.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_4_2.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_b_4_2.png
+- Assets/Live/bb_painimies1/flash/bb_painimies1_64_c_2_1.png
+Dependencies: []

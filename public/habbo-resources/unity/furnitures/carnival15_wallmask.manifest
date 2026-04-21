@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2127521197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a373328aa245fd63d8328f262980f01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_logic.xml
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_icon_a.png
+- Assets/Live/carnival15_wallmask/flash/index.xml
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_64_a_4_0.png
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_visualization.xml
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_64_sd_4_0.png
+- Assets/Live/carnival15_wallmask/carnival15_wallmask.xml
+- Assets/Live/carnival15_wallmask/flash/manifest.xml
+- Assets/Live/carnival15_wallmask/flash/carnival15_wallmask_assets.xml
+Dependencies: []

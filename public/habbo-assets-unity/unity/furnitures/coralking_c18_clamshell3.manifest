@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 48834065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc8320f1d28597db44ce9426b06a8f87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_icon_a.png
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_visualization.xml
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_assets.xml
+- Assets/Live/coralking_c18_clamshell3/flash/manifest.xml
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_64_sd_0_0.png
+- Assets/Live/coralking_c18_clamshell3/coralking_c18_clamshell3.xml
+- Assets/Live/coralking_c18_clamshell3/flash/index.xml
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_64_a_0_0.png
+- Assets/Live/coralking_c18_clamshell3/flash/coralking_c18_clamshell3_logic.xml
+Dependencies: []

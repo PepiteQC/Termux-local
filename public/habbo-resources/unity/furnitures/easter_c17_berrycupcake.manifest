@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1666894806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b88a061cd6312a188934b175652d5b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_icon_a.png
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_assets.xml
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_visualization.xml
+- Assets/Live/easter_c17_berrycupcake/easter_c17_berrycupcake.xml
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_logic.xml
+- Assets/Live/easter_c17_berrycupcake/flash/index.xml
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_64_sd_0_0.png
+- Assets/Live/easter_c17_berrycupcake/flash/manifest.xml
+- Assets/Live/easter_c17_berrycupcake/flash/easter_c17_berrycupcake_64_a_0_0.png
+Dependencies: []

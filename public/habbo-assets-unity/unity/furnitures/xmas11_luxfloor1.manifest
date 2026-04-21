@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3516422227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f62e975270b87af3419d09a11514eb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_luxfloor1/flash/xmas11_luxfloor1_icon_a.png
+- Assets/Live/xmas11_luxfloor1/flash/xmas11_luxfloor1_64_a_0_0.png
+- Assets/Live/xmas11_luxfloor1/flash/index.xml
+- Assets/Live/xmas11_luxfloor1/flash/manifest.xml
+- Assets/Live/xmas11_luxfloor1/flash/xmas11_luxfloor1_logic.xml
+- Assets/Live/xmas11_luxfloor1/xmas11_luxfloor1.xml
+- Assets/Live/xmas11_luxfloor1/flash/xmas11_luxfloor1_assets.xml
+- Assets/Live/xmas11_luxfloor1/flash/xmas11_luxfloor1_visualization.xml
+Dependencies: []

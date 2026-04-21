@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1168048088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c9d8829f57125c730e5ae7c358f601e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_a_0_1.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_sd_0_0.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_c_0_0.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_b_0_1.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_c_0_1.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_d_0_1.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_logic.xml
+- Assets/Live/celestial_c19_wardrobe/flash/manifest.xml
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_d_0_0.png
+- Assets/Live/celestial_c19_wardrobe/celestial_c19_wardrobe.xml
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_a_0_0.png
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_icon_a.png
+- Assets/Live/celestial_c19_wardrobe/flash/index.xml
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_visualization.xml
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_assets.xml
+- Assets/Live/celestial_c19_wardrobe/flash/celestial_c19_wardrobe_64_b_0_0.png
+Dependencies: []

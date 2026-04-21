@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1672179743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 186ebe7a3e273befeb0d6c4c5104c058
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween12_grabby/hween12_grabby.xml
+- Assets/Live/hween12_grabby/flash/hween12_grabby_assets.xml
+- Assets/Live/hween12_grabby/flash/hween12_grabby_64_b_2_0.png
+- Assets/Live/hween12_grabby/flash/hween12_grabby_icon_a.png
+- Assets/Live/hween12_grabby/flash/hween12_grabby_64_a_2_0.png
+- Assets/Live/hween12_grabby/flash/manifest.xml
+- Assets/Live/hween12_grabby/flash/hween12_grabby_visualization.xml
+- Assets/Live/hween12_grabby/flash/hween12_grabby_logic.xml
+- Assets/Live/hween12_grabby/flash/hween12_grabby_64_b_2_1.png
+- Assets/Live/hween12_grabby/flash/hween12_grabby_64_sd_2_0.png
+- Assets/Live/hween12_grabby/flash/index.xml
+Dependencies: []

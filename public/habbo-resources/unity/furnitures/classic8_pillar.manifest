@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2955689149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cdfb8e9549288b08ef108024dc48023
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_pillar/flash/classic8_pillar_icon_a.png
+- Assets/Live/classic8_pillar/flash/manifest.xml
+- Assets/Live/classic8_pillar/flash/classic8_pillar_visualization.xml
+- Assets/Live/classic8_pillar/flash/classic8_pillar_logic.xml
+- Assets/Live/classic8_pillar/flash/classic8_pillar_assets.xml
+- Assets/Live/classic8_pillar/flash/classic8_pillar_64_sd_0_0.png
+- Assets/Live/classic8_pillar/flash/index.xml
+- Assets/Live/classic8_pillar/classic8_pillar.xml
+- Assets/Live/classic8_pillar/flash/classic8_pillar_64_a_0_0.png
+Dependencies: []

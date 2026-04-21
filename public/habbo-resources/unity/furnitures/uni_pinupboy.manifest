@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2740134701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c752d4e681770526e817c060a52d183
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_logic.xml
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_64_a_4_0.png
+- Assets/Live/uni_pinupboy/flash/index.xml
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_icon_a.png
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_64_a_4_1.png
+- Assets/Live/uni_pinupboy/uni_pinupboy.xml
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_visualization.xml
+- Assets/Live/uni_pinupboy/flash/manifest.xml
+- Assets/Live/uni_pinupboy/flash/uni_pinupboy_assets.xml
+Dependencies: []

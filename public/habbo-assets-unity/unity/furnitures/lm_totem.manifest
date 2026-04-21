@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3456946623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d29093f74c7df2889b83365f1bab241
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lm_totem/flash/lm_totem_logic.xml
+- Assets/Live/lm_totem/lm_totem.xml
+- Assets/Live/lm_totem/flash/manifest.xml
+- Assets/Live/lm_totem/flash/lm_totem_64_a_0_1.png
+- Assets/Live/lm_totem/flash/lm_totem_64_a_0_2.png
+- Assets/Live/lm_totem/flash/lm_totem_visualization.xml
+- Assets/Live/lm_totem/flash/lm_totem_icon_a.png
+- Assets/Live/lm_totem/flash/index.xml
+- Assets/Live/lm_totem/flash/lm_totem_64_a_0_0.png
+- Assets/Live/lm_totem/flash/lm_totem_assets.xml
+Dependencies: []

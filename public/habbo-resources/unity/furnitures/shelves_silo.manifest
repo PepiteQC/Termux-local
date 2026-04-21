@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1705722112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17c1b6adb64d47ca64c427c8e6722d89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/shelves_silo/flash/manifest.xml
+- Assets/Live/shelves_silo/shelves_silo.xml
+- Assets/Live/shelves_silo/flash/shelves_silo_logic.xml
+- Assets/Live/shelves_silo/flash/shelves_silo_visualization.xml
+- Assets/Live/shelves_silo/flash/shelves_silo_64_a_2_0.png
+- Assets/Live/shelves_silo/flash/shelves_silo_64_b_2_0.png
+- Assets/Live/shelves_silo/flash/shelves_silo_icon_a.png
+- Assets/Live/shelves_silo/flash/shelves_silo_assets.xml
+- Assets/Live/shelves_silo/flash/shelves_silo_64_sd_2_0.png
+- Assets/Live/shelves_silo/flash/shelves_silo_64_b_2_1.png
+- Assets/Live/shelves_silo/flash/shelves_silo_64_a_2_1.png
+- Assets/Live/shelves_silo/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1167203798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e90c0ed9c323e19251c547b451f0ffed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/birdie/flash/birdie_assets.xml
+- Assets/Live/birdie/flash/birdie_visualization.xml
+- Assets/Live/birdie/birdie.xml
+- Assets/Live/birdie/flash/birdie_64_b_0_0.png
+- Assets/Live/birdie/flash/birdie_64_a_0_0.png
+- Assets/Live/birdie/flash/manifest.xml
+- Assets/Live/birdie/flash/birdie_64_b_0_1.png
+- Assets/Live/birdie/flash/birdie_logic.xml
+- Assets/Live/birdie/flash/birdie_64_b_0_3.png
+- Assets/Live/birdie/flash/birdie_64_b_0_2.png
+- Assets/Live/birdie/flash/birdie_icon_a.png
+- Assets/Live/birdie/flash/index.xml
+Dependencies: []

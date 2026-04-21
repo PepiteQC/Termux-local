@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1993116220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0e33c1ef8efd3da42eb319b376a9233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_volkswagen_poster/flash/index.xml
+- Assets/Live/ads_volkswagen_poster/flash/ads_volkswagen_poster_64_a_2_0.png
+- Assets/Live/ads_volkswagen_poster/flash/ads_volkswagen_poster_logic.xml
+- Assets/Live/ads_volkswagen_poster/flash/ads_volkswagen_poster_icon_a.png
+- Assets/Live/ads_volkswagen_poster/flash/ads_volkswagen_poster_assets.xml
+- Assets/Live/ads_volkswagen_poster/ads_volkswagen_poster.xml
+- Assets/Live/ads_volkswagen_poster/flash/manifest.xml
+- Assets/Live/ads_volkswagen_poster/flash/ads_volkswagen_poster_visualization.xml
+Dependencies: []

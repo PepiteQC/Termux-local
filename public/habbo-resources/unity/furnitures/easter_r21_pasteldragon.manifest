@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 56843159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be93fa7fddac3d1279df6acd2808e931
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_8.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_b_0_1.png
+- Assets/Live/easter_r21_pasteldragon/easter_r21_pasteldragon.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_c_0_0.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_0.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_visualization.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_2.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_d_0_2.png
+- Assets/Live/easter_r21_pasteldragon/flash/manifest.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_3.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_1.png
+- Assets/Live/easter_r21_pasteldragon/flash/index.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_4.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_c_0_1.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_d_0_3.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_9.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_b_0_0.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_b_0_2.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_sd_0_0.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_assets.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_icon_a.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_d_0_0.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_c_0_2.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_5.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_7.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_logic.xml
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_d_0_1.png
+- Assets/Live/easter_r21_pasteldragon/flash/easter_r21_pasteldragon_64_a_0_6.png
+Dependencies: []

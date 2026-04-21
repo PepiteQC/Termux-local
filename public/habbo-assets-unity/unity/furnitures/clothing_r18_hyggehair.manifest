@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4073516357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc40b73dce094057f6a376bec2dec3c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_hyggehair/flash/clothing_r18_hyggehair_icon_a.png
+- Assets/Live/clothing_r18_hyggehair/flash/clothing_r18_hyggehair_assets.xml
+- Assets/Live/clothing_r18_hyggehair/clothing_r18_hyggehair.xml
+- Assets/Live/clothing_r18_hyggehair/flash/clothing_r18_hyggehair_logic.xml
+- Assets/Live/clothing_r18_hyggehair/flash/manifest.xml
+- Assets/Live/clothing_r18_hyggehair/flash/clothing_r18_hyggehair_64_a_0_0.png
+- Assets/Live/clothing_r18_hyggehair/flash/index.xml
+- Assets/Live/clothing_r18_hyggehair/flash/clothing_r18_hyggehair_visualization.xml
+Dependencies: []

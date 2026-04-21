@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 763453782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94aa06e9ca0fb78c5ec4d9bd8b958e56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_64_sd_0_0.png
+- Assets/Live/pirate_bottle_2/flash/index.xml
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_icon_a.png
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_assets.xml
+- Assets/Live/pirate_bottle_2/pirate_bottle_2.xml
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_logic.xml
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_64_a_0_0.png
+- Assets/Live/pirate_bottle_2/flash/manifest.xml
+- Assets/Live/pirate_bottle_2/flash/pirate_bottle_2_visualization.xml
+Dependencies: []

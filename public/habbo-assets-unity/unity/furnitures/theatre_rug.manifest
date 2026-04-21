@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1791934716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 384b1782ebb6816819673896f3109ab6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_rug/theatre_rug.xml
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_2.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_3.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_10.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_7.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_0.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_11.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_9.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_6.png
+- Assets/Live/theatre_rug/flash/manifest.xml
+- Assets/Live/theatre_rug/flash/index.xml
+- Assets/Live/theatre_rug/flash/theatre_rug_icon_a.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_1.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_12.png
+- Assets/Live/theatre_rug/flash/theatre_rug_logic.xml
+- Assets/Live/theatre_rug/flash/theatre_rug_assets.xml
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_4.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_8.png
+- Assets/Live/theatre_rug/flash/theatre_rug_64_a_0_5.png
+- Assets/Live/theatre_rug/flash/theatre_rug_visualization.xml
+Dependencies: []

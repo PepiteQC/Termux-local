@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1405094771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4555ae38810ea6f3a8c111245738e24e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_64_b_4_0.png
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_visualization.xml
+- Assets/Live/anc_comfy_tree/flash/index.xml
+- Assets/Live/anc_comfy_tree/flash/manifest.xml
+- Assets/Live/anc_comfy_tree/anc_comfy_tree.xml
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_64_a_4_0.png
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_logic.xml
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_assets.xml
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_64_c_4_0.png
+- Assets/Live/anc_comfy_tree/flash/anc_comfy_tree_icon_a.png
+Dependencies: []

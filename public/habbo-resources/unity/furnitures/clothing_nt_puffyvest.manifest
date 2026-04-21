@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3481415908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22ce5a600346e6bfa7d8fe6f9ed15924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_puffyvest/flash/index.xml
+- Assets/Live/clothing_nt_puffyvest/flash/clothing_nt_puffyvest_assets.xml
+- Assets/Live/clothing_nt_puffyvest/flash/clothing_nt_puffyvest_icon_a.png
+- Assets/Live/clothing_nt_puffyvest/clothing_nt_puffyvest.xml
+- Assets/Live/clothing_nt_puffyvest/flash/clothing_nt_puffyvest_64_a_0_0.png
+- Assets/Live/clothing_nt_puffyvest/flash/clothing_nt_puffyvest_visualization.xml
+- Assets/Live/clothing_nt_puffyvest/flash/manifest.xml
+- Assets/Live/clothing_nt_puffyvest/flash/clothing_nt_puffyvest_logic.xml
+Dependencies: []

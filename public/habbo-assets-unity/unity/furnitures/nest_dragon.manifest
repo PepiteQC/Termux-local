@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 866213612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eca55d3d0019b7bfbe122bca5d28642a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_dragon/flash/nest_dragon_assets.xml
+- Assets/Live/nest_dragon/flash/nest_dragon_icon_a.png
+- Assets/Live/nest_dragon/flash/nest_dragon_visualization.xml
+- Assets/Live/nest_dragon/nest_dragon.xml
+- Assets/Live/nest_dragon/flash/index.xml
+- Assets/Live/nest_dragon/flash/manifest.xml
+- Assets/Live/nest_dragon/flash/nest_dragon_logic.xml
+- Assets/Live/nest_dragon/flash/nest_dragon_64_a_0_0.png
+Dependencies: []

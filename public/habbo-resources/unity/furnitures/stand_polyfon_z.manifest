@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 694792789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd0ebad234323b2748eae371f0dd07a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_64_a_0_0.png
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_64_sd_0_0.png
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_64_sd_2_0.png
+- Assets/Live/stand_polyfon_z/stand_polyfon_z.xml
+- Assets/Live/stand_polyfon_z/flash/manifest.xml
+- Assets/Live/stand_polyfon_z/flash/index.xml
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_visualization.xml
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_assets.xml
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_icon_a.png
+- Assets/Live/stand_polyfon_z/flash/stand_polyfon_z_logic.xml
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1938585315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8d35970b554d3a7a9f480a0d11c34bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_e_0_3.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_e_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_a_0_1.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_d_0_0.png
+- Assets/Live/habboween_crypt/habboween_crypt.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_g_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_a_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_f_0_1.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_f_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_e_0_2.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_icon_a.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_b_0_1.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_c_0_0.png
+- Assets/Live/habboween_crypt/flash/manifest.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_g_0_1.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_f_0_3.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_assets.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_sd_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_e_0_1.png
+- Assets/Live/habboween_crypt/flash/index.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_logic.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_b_0_0.png
+- Assets/Live/habboween_crypt/flash/habboween_crypt_visualization.xml
+- Assets/Live/habboween_crypt/flash/habboween_crypt_64_f_0_2.png
+Dependencies: []

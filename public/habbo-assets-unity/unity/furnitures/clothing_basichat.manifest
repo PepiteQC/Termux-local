@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3385015688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59fe1b6b4bfb64c703a26983f05d28a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_basichat/flash/clothing_basichat_icon_a.png
+- Assets/Live/clothing_basichat/flash/clothing_basichat_logic.xml
+- Assets/Live/clothing_basichat/flash/clothing_basichat_assets.xml
+- Assets/Live/clothing_basichat/flash/clothing_basichat_64_a_0_0.png
+- Assets/Live/clothing_basichat/clothing_basichat.xml
+- Assets/Live/clothing_basichat/flash/clothing_basichat_visualization.xml
+- Assets/Live/clothing_basichat/flash/manifest.xml
+- Assets/Live/clothing_basichat/flash/index.xml
+Dependencies: []

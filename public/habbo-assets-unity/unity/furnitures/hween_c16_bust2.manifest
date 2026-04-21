@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1768318937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83a64be75f2967381b35844c6e5e90bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_6.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_assets.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_2.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_0.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_logic.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_3.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_1.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_9.png
+- Assets/Live/hween_c16_bust2/hween_c16_bust2.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_a_0_0.png
+- Assets/Live/hween_c16_bust2/flash/manifest.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_4.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_5.png
+- Assets/Live/hween_c16_bust2/flash/index.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_8.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_visualization.xml
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_icon_a.png
+- Assets/Live/hween_c16_bust2/flash/hween_c16_bust2_64_b_0_7.png
+Dependencies: []

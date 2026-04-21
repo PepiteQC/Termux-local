@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4216052759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c49af2f9e6225306304b834490fb5a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_4.png
+- Assets/Live/football12_pt/flash/index.xml
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_1.png
+- Assets/Live/football12_pt/football12_pt.xml
+- Assets/Live/football12_pt/flash/manifest.xml
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_3.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_5.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_5.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_1.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_2.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_3.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_4.png
+- Assets/Live/football12_pt/flash/football12_pt_64_a_4_0.png
+- Assets/Live/football12_pt/flash/football12_pt_icon_a.png
+- Assets/Live/football12_pt/flash/football12_pt_64_b_4_0.png
+- Assets/Live/football12_pt/flash/football12_pt_64_a_2_0.png
+- Assets/Live/football12_pt/flash/football12_pt_visualization.xml
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_2.png
+- Assets/Live/football12_pt/flash/football12_pt_logic.xml
+- Assets/Live/football12_pt/flash/football12_pt_64_b_2_0.png
+- Assets/Live/football12_pt/flash/football12_pt_assets.xml
+Dependencies: []

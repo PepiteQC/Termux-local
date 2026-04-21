@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 126178482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e5d2d2204a445ed850255512f7e2e5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_monkey/flash/index.xml
+- Assets/Live/china_monkey/flash/manifest.xml
+- Assets/Live/china_monkey/flash/china_monkey_assets.xml
+- Assets/Live/china_monkey/flash/china_monkey_64_sd_0_0.png
+- Assets/Live/china_monkey/flash/china_monkey_64_a_0_0.png
+- Assets/Live/china_monkey/flash/china_monkey_icon_a.png
+- Assets/Live/china_monkey/flash/china_monkey_visualization.xml
+- Assets/Live/china_monkey/flash/china_monkey_logic.xml
+- Assets/Live/china_monkey/china_monkey.xml
+Dependencies: []

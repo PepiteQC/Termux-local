@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 52902723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58621af3a4f9be0e7d723a5cc2646dd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rope_divider/rope_divider.xml
+- Assets/Live/rope_divider/flash/rope_divider_icon_a.png
+- Assets/Live/rope_divider/flash/rope_divider_64_c_0_1.png
+- Assets/Live/rope_divider/flash/rope_divider_64_a_0_1.png
+- Assets/Live/rope_divider/flash/rope_divider_64_a_0_0.png
+- Assets/Live/rope_divider/flash/rope_divider_assets.xml
+- Assets/Live/rope_divider/flash/rope_divider_64_b_0_0.png
+- Assets/Live/rope_divider/flash/manifest.xml
+- Assets/Live/rope_divider/flash/rope_divider_visualization.xml
+- Assets/Live/rope_divider/flash/index.xml
+- Assets/Live/rope_divider/flash/rope_divider_logic.xml
+- Assets/Live/rope_divider/flash/rope_divider_64_c_0_0.png
+- Assets/Live/rope_divider/flash/rope_divider_64_b_0_1.png
+Dependencies: []

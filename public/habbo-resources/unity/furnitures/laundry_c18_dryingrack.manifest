@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1842054482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71bce3ec1f3196034e11cd2c4857d39b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_assets.xml
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_icon_a.png
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_64_sd_0_0.png
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_visualization.xml
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_64_a_0_0.png
+- Assets/Live/laundry_c18_dryingrack/laundry_c18_dryingrack.xml
+- Assets/Live/laundry_c18_dryingrack/flash/manifest.xml
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_logic.xml
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_64_a_0_2.png
+- Assets/Live/laundry_c18_dryingrack/flash/index.xml
+- Assets/Live/laundry_c18_dryingrack/flash/laundry_c18_dryingrack_64_a_0_1.png
+Dependencies: []

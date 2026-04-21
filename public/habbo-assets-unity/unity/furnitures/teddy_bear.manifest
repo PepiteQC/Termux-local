@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3295122071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 801fc566974de666a3f1af64feeeb67d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/teddy_bear/flash/teddy_bear_64_a_2_0.png
+- Assets/Live/teddy_bear/flash/teddy_bear_visualization.xml
+- Assets/Live/teddy_bear/flash/index.xml
+- Assets/Live/teddy_bear/flash/teddy_bear_logic.xml
+- Assets/Live/teddy_bear/flash/manifest.xml
+- Assets/Live/teddy_bear/flash/teddy_bear_64_sd_2_0.png
+- Assets/Live/teddy_bear/flash/teddy_bear_assets.xml
+- Assets/Live/teddy_bear/flash/teddy_bear_icon_a.png
+- Assets/Live/teddy_bear/teddy_bear.xml
+- Assets/Live/teddy_bear/flash/teddy_bear_64_a_2_1.png
+Dependencies: []

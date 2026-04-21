@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 633814932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4660a9bba5848229a3f4536edd342fb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_exit/flash/es_exit_visualization.xml
+- Assets/Live/es_exit/flash/es_exit_64_a_0_1.png
+- Assets/Live/es_exit/flash/es_exit_assets.xml
+- Assets/Live/es_exit/es_exit.xml
+- Assets/Live/es_exit/flash/es_exit_logic.xml
+- Assets/Live/es_exit/flash/es_exit_icon_a.png
+- Assets/Live/es_exit/flash/es_exit_64_a_0_0.png
+- Assets/Live/es_exit/flash/index.xml
+- Assets/Live/es_exit/flash/manifest.xml
+Dependencies: []

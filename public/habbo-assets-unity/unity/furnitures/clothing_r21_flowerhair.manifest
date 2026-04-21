@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 110728139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8621d48cb107aaf0734341b381006c76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r21_flowerhair/flash/index.xml
+- Assets/Live/clothing_r21_flowerhair/flash/clothing_r21_flowerhair_logic.xml
+- Assets/Live/clothing_r21_flowerhair/flash/clothing_r21_flowerhair_icon_a.png
+- Assets/Live/clothing_r21_flowerhair/flash/clothing_r21_flowerhair_64_a_0_0.png
+- Assets/Live/clothing_r21_flowerhair/clothing_r21_flowerhair.xml
+- Assets/Live/clothing_r21_flowerhair/flash/clothing_r21_flowerhair_visualization.xml
+- Assets/Live/clothing_r21_flowerhair/flash/manifest.xml
+- Assets/Live/clothing_r21_flowerhair/flash/clothing_r21_flowerhair_assets.xml
+Dependencies: []

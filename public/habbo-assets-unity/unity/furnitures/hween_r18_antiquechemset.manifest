@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1868593783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 943242d0abb85b564b9b776a36e03fd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_visualization.xml
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_b_2_3.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_b_2_4.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_logic.xml
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_b_2_1.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_d_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_c_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_icon_a.png
+- Assets/Live/hween_r18_antiquechemset/flash/manifest.xml
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_3.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_b_2_2.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_assets.xml
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_6.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_2.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_4.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_sd_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_5.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_d_2_1.png
+- Assets/Live/hween_r18_antiquechemset/flash/index.xml
+- Assets/Live/hween_r18_antiquechemset/hween_r18_antiquechemset.xml
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_b_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_a_2_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_a_4_0.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_e_2_1.png
+- Assets/Live/hween_r18_antiquechemset/flash/hween_r18_antiquechemset_64_d_2_2.png
+Dependencies: []

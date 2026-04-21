@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 22204366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e1686f6088e259baf5d0c212d4068e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/arabian_swords/flash/arabian_swords_logic.xml
+- Assets/Live/arabian_swords/flash/index.xml
+- Assets/Live/arabian_swords/flash/arabian_swords_icon_a.png
+- Assets/Live/arabian_swords/flash/arabian_swords_64_b_2_0.png
+- Assets/Live/arabian_swords/flash/manifest.xml
+- Assets/Live/arabian_swords/arabian_swords.xml
+- Assets/Live/arabian_swords/flash/arabian_swords_assets.xml
+- Assets/Live/arabian_swords/flash/arabian_swords_64_a_2_0.png
+- Assets/Live/arabian_swords/flash/arabian_swords_visualization.xml
+Dependencies: []

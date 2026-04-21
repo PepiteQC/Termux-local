@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1521122733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb6393e2836a1ad5688852d9c48e33ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_0_1.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_logic.xml
+- Assets/Live/wildwest_floor2/flash/manifest.xml
+- Assets/Live/wildwest_floor2/flash/index.xml
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_icon_a.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_4_1.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_2_1.png
+- Assets/Live/wildwest_floor2/wildwest_floor2.xml
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_6_1.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_0_2.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_4_2.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_2_2.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_a_0_0.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_0_0.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_c_0_1.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_visualization.xml
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_b_6_2.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_assets.xml
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_c_0_0.png
+- Assets/Live/wildwest_floor2/flash/wildwest_floor2_64_c_0_2.png
+Dependencies: []

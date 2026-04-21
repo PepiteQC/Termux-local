@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1542294352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 247cf490c87a455843eb8c3ef68ef272
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_d_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_assets.xml
+- Assets/Live/val_c19_awning/val_c19_awning.xml
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_b_2_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_sd_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_visualization.xml
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_c_2_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_logic.xml
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_a_2_0.png
+- Assets/Live/val_c19_awning/flash/manifest.xml
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_a_4_0.png
+- Assets/Live/val_c19_awning/flash/index.xml
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_c_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_d_2_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_e_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_f_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_b_4_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_icon_a.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_sd_2_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_e_2_0.png
+- Assets/Live/val_c19_awning/flash/val_c19_awning_64_f_2_0.png
+Dependencies: []

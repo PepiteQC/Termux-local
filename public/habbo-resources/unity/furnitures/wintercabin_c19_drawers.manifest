@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2724154843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be3ed14ae18e0eb7bf03c2107c5ad3c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_icon_a.png
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_logic.xml
+- Assets/Live/wintercabin_c19_drawers/flash/manifest.xml
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_assets.xml
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_64_sd_4_0.png
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_64_b_4_0.png
+- Assets/Live/wintercabin_c19_drawers/wintercabin_c19_drawers.xml
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_visualization.xml
+- Assets/Live/wintercabin_c19_drawers/flash/index.xml
+- Assets/Live/wintercabin_c19_drawers/flash/wintercabin_c19_drawers_64_a_4_0.png
+Dependencies: []

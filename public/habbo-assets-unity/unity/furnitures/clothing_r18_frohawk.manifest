@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 488070812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1014d58811a4c7b0f04b8b019b5a958
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_frohawk/flash/manifest.xml
+- Assets/Live/clothing_r18_frohawk/clothing_r18_frohawk.xml
+- Assets/Live/clothing_r18_frohawk/flash/clothing_r18_frohawk_logic.xml
+- Assets/Live/clothing_r18_frohawk/flash/clothing_r18_frohawk_assets.xml
+- Assets/Live/clothing_r18_frohawk/flash/clothing_r18_frohawk_64_a_0_0.png
+- Assets/Live/clothing_r18_frohawk/flash/index.xml
+- Assets/Live/clothing_r18_frohawk/flash/clothing_r18_frohawk_visualization.xml
+- Assets/Live/clothing_r18_frohawk/flash/clothing_r18_frohawk_icon_a.png
+Dependencies: []

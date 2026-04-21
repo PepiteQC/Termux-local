@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 188089937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7668793613f5526abc8458f0f44e976
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_visualization.xml
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_b_2_0.png
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_a_4_0.png
+- Assets/Live/wildwest_wallpaper/flash/index.xml
+- Assets/Live/wildwest_wallpaper/wildwest_wallpaper.xml
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_a_2_1.png
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_logic.xml
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_b_4_0.png
+- Assets/Live/wildwest_wallpaper/flash/manifest.xml
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_assets.xml
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_a_4_1.png
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_icon_a.png
+- Assets/Live/wildwest_wallpaper/flash/wildwest_wallpaper_64_a_2_0.png
+Dependencies: []

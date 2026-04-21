@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3273247575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 153c6792b3c4e3bd55760d3a15c26bb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_sd_2_0.png
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_assets.xml
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_logic.xml
+- Assets/Live/gothiccafe_c20_counter/flash/index.xml
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_sd_0_0.png
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_icon_a.png
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_a_2_0.png
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_a_0_0.png
+- Assets/Live/gothiccafe_c20_counter/flash/manifest.xml
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_visualization.xml
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_b_0_0.png
+- Assets/Live/gothiccafe_c20_counter/gothiccafe_c20_counter.xml
+- Assets/Live/gothiccafe_c20_counter/flash/gothiccafe_c20_counter_64_b_2_0.png
+Dependencies: []

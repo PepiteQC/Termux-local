@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2414563272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e844c323955dd9f70d4c1522413a98e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_b_2_2.png
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_a_2_2.png
+- Assets/Live/waasa_ship2/flash/waasa_ship2_logic.xml
+- Assets/Live/waasa_ship2/flash/waasa_ship2_icon_a.png
+- Assets/Live/waasa_ship2/flash/waasa_ship2_visualization.xml
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_b_2_0.png
+- Assets/Live/waasa_ship2/flash/index.xml
+- Assets/Live/waasa_ship2/flash/manifest.xml
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_a_2_1.png
+- Assets/Live/waasa_ship2/waasa_ship2.xml
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_b_2_1.png
+- Assets/Live/waasa_ship2/flash/waasa_ship2_64_a_2_0.png
+- Assets/Live/waasa_ship2/flash/waasa_ship2_assets.xml
+Dependencies: []

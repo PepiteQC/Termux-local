@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 709455183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34fbbf4c1035c38bcccaca48c3967bf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_floor/classic8_floor.xml
+- Assets/Live/classic8_floor/flash/classic8_floor_64_a_0_0.png
+- Assets/Live/classic8_floor/flash/classic8_floor_visualization.xml
+- Assets/Live/classic8_floor/flash/classic8_floor_logic.xml
+- Assets/Live/classic8_floor/flash/classic8_floor_assets.xml
+- Assets/Live/classic8_floor/flash/index.xml
+- Assets/Live/classic8_floor/flash/classic8_floor_icon_a.png
+- Assets/Live/classic8_floor/flash/manifest.xml
+Dependencies: []

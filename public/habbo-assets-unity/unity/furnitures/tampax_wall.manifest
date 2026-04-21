@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1276362901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 806125973b110e6b86fbed7da8b3ee07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tampax_wall/flash/tampax_wall_logic.xml
+- Assets/Live/tampax_wall/flash/manifest.xml
+- Assets/Live/tampax_wall/flash/tampax_wall_64_b_2_0.png
+- Assets/Live/tampax_wall/flash/tampax_wall_64_c_4_1.png
+- Assets/Live/tampax_wall/flash/tampax_wall_visualization.xml
+- Assets/Live/tampax_wall/flash/tampax_wall_64_c_2_1.png
+- Assets/Live/tampax_wall/tampax_wall.xml
+- Assets/Live/tampax_wall/flash/tampax_wall_64_a_4_0.png
+- Assets/Live/tampax_wall/flash/index.xml
+- Assets/Live/tampax_wall/flash/tampax_wall_assets.xml
+- Assets/Live/tampax_wall/flash/tampax_wall_64_b_4_0.png
+- Assets/Live/tampax_wall/flash/tampax_wall_icon_a.png
+- Assets/Live/tampax_wall/flash/tampax_wall_64_a_2_0.png
+Dependencies: []

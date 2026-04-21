@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4190018795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167795fc5fcd994197c76435374a0ebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_harempants/flash/clothing_harempants_64_a_0_1.png
+- Assets/Live/clothing_harempants/flash/clothing_harempants_64_a_0_0.png
+- Assets/Live/clothing_harempants/clothing_harempants.xml
+- Assets/Live/clothing_harempants/flash/clothing_harempants_icon_a.png
+- Assets/Live/clothing_harempants/flash/manifest.xml
+- Assets/Live/clothing_harempants/flash/clothing_harempants_visualization.xml
+- Assets/Live/clothing_harempants/flash/clothing_harempants_assets.xml
+- Assets/Live/clothing_harempants/flash/index.xml
+- Assets/Live/clothing_harempants/flash/clothing_harempants_logic.xml
+Dependencies: []

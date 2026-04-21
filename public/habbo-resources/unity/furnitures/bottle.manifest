@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1016360525
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ebb3d44a7deb109d3c9bbed521e94b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bottle/flash/bottle_64_b_0_4.png
+- Assets/Live/bottle/flash/bottle_64_b_0_7.png
+- Assets/Live/bottle/flash/bottle_64_b_0_6.png
+- Assets/Live/bottle/flash/bottle_64_b_0_3.png
+- Assets/Live/bottle/flash/bottle_64_a_0_1.png
+- Assets/Live/bottle/flash/bottle_64_a_0_4.png
+- Assets/Live/bottle/flash/bottle_visualization.xml
+- Assets/Live/bottle/flash/bottle_64_a_0_0.png
+- Assets/Live/bottle/flash/bottle_64_a_0_5.png
+- Assets/Live/bottle/flash/bottle_icon_a.png
+- Assets/Live/bottle/flash/bottle_64_b_0_0.png
+- Assets/Live/bottle/bottle.xml
+- Assets/Live/bottle/flash/bottle_assets.xml
+- Assets/Live/bottle/flash/bottle_small.png
+- Assets/Live/bottle/flash/bottle_64_a_0_7.png
+- Assets/Live/bottle/flash/bottle_64_a_0_2.png
+- Assets/Live/bottle/flash/bottle_64_a_0_3.png
+- Assets/Live/bottle/flash/manifest.xml
+- Assets/Live/bottle/flash/bottle_logic.xml
+- Assets/Live/bottle/flash/bottle_64_b_0_2.png
+- Assets/Live/bottle/flash/bottle_64_a_0_6.png
+- Assets/Live/bottle/flash/bottle_64_b_0_1.png
+- Assets/Live/bottle/flash/index.xml
+- Assets/Live/bottle/flash/bottle_64_b_0_5.png
+Dependencies: []

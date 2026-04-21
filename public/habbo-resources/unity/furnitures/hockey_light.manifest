@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3101895508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a241711f6bf658106b2e32edf4e77f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hockey_light/flash/hockey_light_64_c_0_1.png
+- Assets/Live/hockey_light/flash/hockey_light_64_c_0_4.png
+- Assets/Live/hockey_light/flash/hockey_light_64_c_0_2.png
+- Assets/Live/hockey_light/flash/hockey_light_64_c_0_3.png
+- Assets/Live/hockey_light/flash/hockey_light_64_c_0_0.png
+- Assets/Live/hockey_light/flash/hockey_light_64_a_0_0.png
+- Assets/Live/hockey_light/hockey_light.xml
+- Assets/Live/hockey_light/flash/hockey_light_logic.xml
+- Assets/Live/hockey_light/flash/hockey_light_visualization.xml
+- Assets/Live/hockey_light/flash/hockey_light_64_a_4_0.png
+- Assets/Live/hockey_light/flash/hockey_light_64_b_4_0.png
+- Assets/Live/hockey_light/flash/hockey_light_assets.xml
+- Assets/Live/hockey_light/flash/manifest.xml
+- Assets/Live/hockey_light/flash/hockey_light_icon_a.png
+- Assets/Live/hockey_light/flash/index.xml
+Dependencies: []

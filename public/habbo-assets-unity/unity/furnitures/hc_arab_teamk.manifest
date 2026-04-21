@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2320427128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a49742bcd986160f64dcc0e5caf3c5c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teammk_64_a_4_0.png
+- Assets/Live/hc_arab_teamk/flash/index.xml
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_assets.xml
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_64_sd_4_1.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_64_sd_4_0.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_64_a_4_0.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_logic.xml
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_64_a_4_1.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_icon_a.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teammk_icon_a.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teammk_64_sd_4_1.png
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teammk_64_sd_4_0.png
+- Assets/Live/hc_arab_teamk/hc_arab_teamk.xml
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teammk_64_a_4_1.png
+- Assets/Live/hc_arab_teamk/flash/manifest.xml
+- Assets/Live/hc_arab_teamk/flash/hc_arab_teamk_visualization.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1368291197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a0bc55a8ed08abee43aa32af774af33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_logic.xml
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_visualization.xml
+- Assets/Live/darkelegant_c20_walldecor/flash/index.xml
+- Assets/Live/darkelegant_c20_walldecor/flash/manifest.xml
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_64_sd_0_0.png
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_icon_a.png
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_assets.xml
+- Assets/Live/darkelegant_c20_walldecor/darkelegant_c20_walldecor.xml
+- Assets/Live/darkelegant_c20_walldecor/flash/darkelegant_c20_walldecor_64_a_0_0.png
+Dependencies: []

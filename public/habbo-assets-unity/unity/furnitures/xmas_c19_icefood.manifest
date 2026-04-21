@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 560298748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad8226cee5c1d83106fb9f1bc5d5ec53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_64_a_0_2.png
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_visualization.xml
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_64_a_0_0.png
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_64_a_0_1.png
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_icon_a.png
+- Assets/Live/xmas_c19_icefood/xmas_c19_icefood.xml
+- Assets/Live/xmas_c19_icefood/flash/index.xml
+- Assets/Live/xmas_c19_icefood/flash/manifest.xml
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_assets.xml
+- Assets/Live/xmas_c19_icefood/flash/xmas_c19_icefood_logic.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3950838565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a7196b7eecb4c3056abead2e555d5fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_newsDsk/flash/index.xml
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_logic.xml
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_visualization.xml
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_assets.xml
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_64_a_4_0.png
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_64_a_0_0.png
+- Assets/Live/ads_idol_newsDsk/flash/manifest.xml
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_icon_a.png
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_64_a_6_0.png
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_64_a_2_0.png
+- Assets/Live/ads_idol_newsDsk/flash/ads_idol_newsDsk_64_sd_0_0.png
+- Assets/Live/ads_idol_newsDsk/ads_idol_newsDsk.xml
+Dependencies: []

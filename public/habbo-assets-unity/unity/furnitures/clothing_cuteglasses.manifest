@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3945250851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfd8e3178e534eb3520a4544b48c2a90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cuteglasses/flash/clothing_cuteglasses_assets.xml
+- Assets/Live/clothing_cuteglasses/clothing_cuteglasses.xml
+- Assets/Live/clothing_cuteglasses/flash/clothing_cuteglasses_logic.xml
+- Assets/Live/clothing_cuteglasses/flash/clothing_cuteglasses_64_a_0_0.png
+- Assets/Live/clothing_cuteglasses/flash/manifest.xml
+- Assets/Live/clothing_cuteglasses/flash/index.xml
+- Assets/Live/clothing_cuteglasses/flash/clothing_cuteglasses_visualization.xml
+- Assets/Live/clothing_cuteglasses/flash/clothing_cuteglasses_icon_a.png
+Dependencies: []

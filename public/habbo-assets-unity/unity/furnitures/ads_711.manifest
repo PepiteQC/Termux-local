@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3094028546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96189b21339845a7a7bfb9b8cd34c5ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_711/flash/ads_711/ads_711_visualization.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_d_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_b_2_0.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_icon_b.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_d_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_a_4_0.png
+- Assets/Live/ads_711/flash/ads_711/index.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_d_2_0.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_icon_a.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_c_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/index.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_a_4_1.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_a_4_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_sd_0_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_c_2_0.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_a_2_1.png
+- Assets/Live/ads_711/flash/ads_711c/manifest.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_a_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_icon_b.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_a_2_1.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_visualization.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_b_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_a_4_1.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_sd_0_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_a_2_1.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_assets.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_a_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_64_sd_0_0.png
+- Assets/Live/ads_711/ads_711.xml
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_a_2_0.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_64_b_2_0.png
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_logic.xml
+- Assets/Live/ads_711/flash/ads_711/manifest.xml
+- Assets/Live/ads_711/flash/ads_711/ads_711_logic.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_32_c_2_0.png
+- Assets/Live/ads_711/flash/ads_711/ads_711_assets.xml
+- Assets/Live/ads_711/flash/ads_711c/ads_711c_icon_a.png
+Dependencies: []

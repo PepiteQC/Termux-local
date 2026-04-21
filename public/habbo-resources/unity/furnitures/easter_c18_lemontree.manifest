@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1827522341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c259d2a3551f4152d2492fdefe4229d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_lemontree/flash/manifest.xml
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_64_a_0_0.png
+- Assets/Live/easter_c18_lemontree/easter_c18_lemontree.xml
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_icon_a.png
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_64_sd_0_0.png
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_visualization.xml
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_logic.xml
+- Assets/Live/easter_c18_lemontree/flash/easter_c18_lemontree_assets.xml
+- Assets/Live/easter_c18_lemontree/flash/index.xml
+Dependencies: []

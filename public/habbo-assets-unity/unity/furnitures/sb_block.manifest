@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 771114653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7f26f0f9bedad155d8f7496738de951
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_block/flash/sb_block_assets.xml
+- Assets/Live/sb_block/flash/sb_block_64_e_0_0.png
+- Assets/Live/sb_block/flash/sb_block_64_b_0_0.png
+- Assets/Live/sb_block/flash/sb_block_logic.xml
+- Assets/Live/sb_block/flash/index.xml
+- Assets/Live/sb_block/flash/sb_block_64_a_0_0.png
+- Assets/Live/sb_block/flash/manifest.xml
+- Assets/Live/sb_block/sb_block.xml
+- Assets/Live/sb_block/flash/sb_block_64_d_0_0.png
+- Assets/Live/sb_block/flash/sb_block_visualization.xml
+- Assets/Live/sb_block/flash/sb_block_icon_a.png
+- Assets/Live/sb_block/flash/sb_block_64_c_0_0.png
+Dependencies: []

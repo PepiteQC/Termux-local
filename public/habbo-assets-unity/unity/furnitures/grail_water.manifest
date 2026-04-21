@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2376772443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 130c0c523b104562b5d9e6dfa44b6952
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grail_water/flash/grail_water_assets.xml
+- Assets/Live/grail_water/flash/grail_water_visualization.xml
+- Assets/Live/grail_water/flash/grail_water_64_a_2_2.png
+- Assets/Live/grail_water/flash/manifest.xml
+- Assets/Live/grail_water/flash/index.xml
+- Assets/Live/grail_water/flash/grail_water_64_sd_2_0.png
+- Assets/Live/grail_water/flash/grail_water_64_a_2_0.png
+- Assets/Live/grail_water/flash/grail_water_icon_a.png
+- Assets/Live/grail_water/flash/grail_water_logic.xml
+- Assets/Live/grail_water/flash/grail_water_64_a_2_3.png
+- Assets/Live/grail_water/flash/grail_water_64_a_2_5.png
+- Assets/Live/grail_water/grail_water.xml
+- Assets/Live/grail_water/flash/grail_water_64_a_2_1.png
+- Assets/Live/grail_water/flash/grail_water_64_a_2_4.png
+Dependencies: []

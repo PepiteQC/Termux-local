@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1062092551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a5f324435836eacbd17233ba235477
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_64_a_2_0.png
+- Assets/Live/ads_mtvtrophy_gold/ads_mtvtrophy_gold.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_assets.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_logic.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/index.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/s_ads_mtvtrophy_gold_graphics2.png
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_visualization.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_64_a_4_0.png
+- Assets/Live/ads_mtvtrophy_gold/flash/manifest.xml
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_icon_a.png
+- Assets/Live/ads_mtvtrophy_gold/flash/ads_mtvtrophy_gold_64_sd_0_0.png
+Dependencies: []

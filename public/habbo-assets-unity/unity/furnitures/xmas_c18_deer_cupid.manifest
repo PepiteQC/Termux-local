@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1749530699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc10c7a3be7103d4c6468f4c30899979
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_deer_cupid/flash/index.xml
+- Assets/Live/xmas_c18_deer_cupid/flash/manifest.xml
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_64_a_4_0.png
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_logic.xml
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_icon_a.png
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_assets.xml
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_64_sd_4_0.png
+- Assets/Live/xmas_c18_deer_cupid/flash/xmas_c18_deer_cupid_visualization.xml
+- Assets/Live/xmas_c18_deer_cupid/xmas_c18_deer_cupid.xml
+Dependencies: []

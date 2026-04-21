@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1263901555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d5bacda5ea557111add26897d2efa00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_logic.xml
+- Assets/Live/greek_c19_vase2/flash/manifest.xml
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_64_a_0_0 copy.png
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_64_a_0_0.png
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_visualization.xml
+- Assets/Live/greek_c19_vase2/flash/index.xml
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_icon_a.png
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_64_sd_0_0.png
+- Assets/Live/greek_c19_vase2/flash/greek_c19_vase2_assets.xml
+- Assets/Live/greek_c19_vase2/greek_c19_vase2.xml
+Dependencies: []

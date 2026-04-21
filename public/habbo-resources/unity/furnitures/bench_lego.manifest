@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1249292908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46c190f2ad30fe9a26f975fd78cd4e5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bench_lego/flash/bench_lego_64_d_2_0.png
+- Assets/Live/bench_lego/flash/bench_lego_64_a_2_0.png
+- Assets/Live/bench_lego/flash/bench_lego_64_b_2_0.png
+- Assets/Live/bench_lego/flash/manifest.xml
+- Assets/Live/bench_lego/flash/index.xml
+- Assets/Live/bench_lego/flash/bench_lego_logic.xml
+- Assets/Live/bench_lego/flash/bench_lego_visualization.xml
+- Assets/Live/bench_lego/flash/bench_lego_icon_a.png
+- Assets/Live/bench_lego/flash/bench_lego_64_sd_2_0.png
+- Assets/Live/bench_lego/flash/bench_lego_64_c_2_0.png
+- Assets/Live/bench_lego/bench_lego.xml
+- Assets/Live/bench_lego/flash/bench_lego_assets.xml
+Dependencies: []

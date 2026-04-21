@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1946191848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b48faddd2f7665773f1097b660729d00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_icon_a.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_visualization.xml
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_logic.xml
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_a_6_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_b_6_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_d_2_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_sd_6_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_assets.xml
+- Assets/Live/thai_c21_woodensofa/flash/manifest.xml
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_d_6_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_a_2_0.png
+- Assets/Live/thai_c21_woodensofa/flash/index.xml
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_c_6_0.png
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_c_2_0.png
+- Assets/Live/thai_c21_woodensofa/thai_c21_woodensofa.xml
+- Assets/Live/thai_c21_woodensofa/flash/thai_c21_woodensofa_64_b_2_0.png
+Dependencies: []

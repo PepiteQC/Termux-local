@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 245008731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0666130f7b2e0fec48e36ca2f1981a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_64_sd_0_0.png
+- Assets/Live/ads_vpiggy_santapig/flash/index.xml
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_visualization.xml
+- Assets/Live/ads_vpiggy_santapig/flash/manifest.xml
+- Assets/Live/ads_vpiggy_santapig/ads_vpiggy_santapig.xml
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_icon_a.png
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_logic.xml
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_assets.xml
+- Assets/Live/ads_vpiggy_santapig/flash/ads_vpiggy_santapig_64_a_0_0.png
+Dependencies: []

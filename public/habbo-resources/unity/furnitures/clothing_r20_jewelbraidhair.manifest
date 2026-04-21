@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3985666768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f90b7a43a6b1b8191b812782639897c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_jewelbraidhair/flash/clothing_r20_jewelbraidhair_icon_a.png
+- Assets/Live/clothing_r20_jewelbraidhair/flash/index.xml
+- Assets/Live/clothing_r20_jewelbraidhair/flash/manifest.xml
+- Assets/Live/clothing_r20_jewelbraidhair/flash/clothing_r20_jewelbraidhair_visualization.xml
+- Assets/Live/clothing_r20_jewelbraidhair/flash/clothing_r20_jewelbraidhair_64_a_0_0.png
+- Assets/Live/clothing_r20_jewelbraidhair/flash/clothing_r20_jewelbraidhair_logic.xml
+- Assets/Live/clothing_r20_jewelbraidhair/clothing_r20_jewelbraidhair.xml
+- Assets/Live/clothing_r20_jewelbraidhair/flash/clothing_r20_jewelbraidhair_assets.xml
+Dependencies: []

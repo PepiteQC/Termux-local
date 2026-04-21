@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3680064096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55dfc329f072934badbf752696ac974d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mocchamaster/flash/mocchamaster_assets.xml
+- Assets/Live/mocchamaster/flash/mocchamaster_icon_a.png
+- Assets/Live/mocchamaster/flash/mocchamaster_visualization.xml
+- Assets/Live/mocchamaster/mocchamaster.xml
+- Assets/Live/mocchamaster/flash/mocchamaster_64_a_2_0.png
+- Assets/Live/mocchamaster/flash/mocchamaster_logic.xml
+- Assets/Live/mocchamaster/flash/index.xml
+- Assets/Live/mocchamaster/flash/mocchamaster_64_sd_2_0.png
+- Assets/Live/mocchamaster/flash/manifest.xml
+- Assets/Live/mocchamaster/flash/mocchamaster_64_a_2_1.png
+Dependencies: []

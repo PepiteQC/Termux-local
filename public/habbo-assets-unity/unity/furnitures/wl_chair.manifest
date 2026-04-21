@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4187527835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f09a2fcfc4a9df85fedfdd6c23ec7725
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wl_chair/flash/wl_chair_64_a_2_0.png
+- Assets/Live/wl_chair/flash/index.xml
+- Assets/Live/wl_chair/flash/wl_chair_assets.xml
+- Assets/Live/wl_chair/flash/wl_chair_64_b_0_0.png
+- Assets/Live/wl_chair/flash/manifest.xml
+- Assets/Live/wl_chair/wl_chair.xml
+- Assets/Live/wl_chair/flash/wl_chair_64_b_2_0.png
+- Assets/Live/wl_chair/flash/wl_chair_logic.xml
+- Assets/Live/wl_chair/flash/wl_chair_visualization.xml
+- Assets/Live/wl_chair/flash/wl_chair_64_a_0_0.png
+- Assets/Live/wl_chair/flash/wl_chair_icon_a.png
+Dependencies: []

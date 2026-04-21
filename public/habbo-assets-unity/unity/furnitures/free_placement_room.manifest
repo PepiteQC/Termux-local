@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1107097767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3dab77bd708446842cbb42fa5437e26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/free_placement_room/flash/free_placement_room_64_a_0_0.png
+- Assets/Live/free_placement_room/flash/free_placement_room_assets.xml
+- Assets/Live/free_placement_room/flash/free_placement_room_logic.xml
+- Assets/Live/free_placement_room/flash/free_placement_room_icon_a.png
+- Assets/Live/free_placement_room/flash/manifest.xml
+- Assets/Live/free_placement_room/flash/index.xml
+- Assets/Live/free_placement_room/free_placement_room.xml
+- Assets/Live/free_placement_room/flash/free_placement_room_visualization.xml
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1054576256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a7d7b9476a622ead27a15e899a44f3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_a_0_1.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_a_2_1.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_b_2_0.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_b_0_0.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_sd_0_0.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_visualization.xml
+- Assets/Live/pastel_c19_stool/pastel_c19_stool.xml
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_assets.xml
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_a_2_0.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_b_0_1.png
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_logic.xml
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_icon_a.png
+- Assets/Live/pastel_c19_stool/flash/manifest.xml
+- Assets/Live/pastel_c19_stool/flash/pastel_c19_stool_64_a_0_0.png
+- Assets/Live/pastel_c19_stool/flash/index.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2553790513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00bf692aa68e5903590c346e5719097c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_petals/flash/val15_petals_visualization.xml
+- Assets/Live/val15_petals/val15_petals.xml
+- Assets/Live/val15_petals/flash/val15_petals_logic.xml
+- Assets/Live/val15_petals/flash/manifest.xml
+- Assets/Live/val15_petals/flash/val15_petals_assets.xml
+- Assets/Live/val15_petals/flash/val15_petals_icon_a.png
+- Assets/Live/val15_petals/flash/val15_petals_64_a_4_1.png
+- Assets/Live/val15_petals/flash/val15_petals_64_a_4_0.png
+- Assets/Live/val15_petals/flash/index.xml
+Dependencies: []

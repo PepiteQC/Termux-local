@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4039788102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d74f525d6e6d60557150889e0b3ddf57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_inuit/flash/manifest.xml
+- Assets/Live/clothing_r20_inuit/flash/clothing_r20_inuit_logic.xml
+- Assets/Live/clothing_r20_inuit/flash/clothing_r20_inuit_icon_a.png
+- Assets/Live/clothing_r20_inuit/clothing_r20_inuit.xml
+- Assets/Live/clothing_r20_inuit/flash/index.xml
+- Assets/Live/clothing_r20_inuit/flash/clothing_r20_inuit_visualization.xml
+- Assets/Live/clothing_r20_inuit/flash/clothing_r20_inuit_assets.xml
+- Assets/Live/clothing_r20_inuit/flash/clothing_r20_inuit_64_a_0_0.png
+Dependencies: []

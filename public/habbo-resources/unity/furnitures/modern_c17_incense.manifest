@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 653438167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 451cdee3c5350c6b026e05cdafae81e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_logic.xml
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_visualization.xml
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_icon_a.png
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_64_a_0_0.png
+- Assets/Live/modern_c17_incense/flash/index.xml
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_64_a_0_1.png
+- Assets/Live/modern_c17_incense/modern_c17_incense.xml
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_assets.xml
+- Assets/Live/modern_c17_incense/flash/modern_c17_incense_64_a_0_2.png
+- Assets/Live/modern_c17_incense/flash/manifest.xml
+Dependencies: []

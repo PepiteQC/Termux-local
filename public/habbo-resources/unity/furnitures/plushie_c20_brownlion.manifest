@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2875474552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4c2f207371e9e1be6fba8e4e06e7586
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_64_sd_0_0.png
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_icon_a.png
+- Assets/Live/plushie_c20_brownlion/plushie_c20_brownlion.xml
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_logic.xml
+- Assets/Live/plushie_c20_brownlion/flash/manifest.xml
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_visualization.xml
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_assets.xml
+- Assets/Live/plushie_c20_brownlion/flash/index.xml
+- Assets/Live/plushie_c20_brownlion/flash/plushie_c20_brownlion_64_a_0_0.png
+Dependencies: []

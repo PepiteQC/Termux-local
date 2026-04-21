@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2052227745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d24dfdf1c439b1047ea2f711b5107807
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_b_0_0.png
+- Assets/Live/usva3_lamble/flash/manifest.xml
+- Assets/Live/usva3_lamble/flash/usva3_lamble_icon_a.png
+- Assets/Live/usva3_lamble/flash/usva3_lamble_visualization.xml
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_d_0_0.png
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_c_0_1.png
+- Assets/Live/usva3_lamble/flash/usva3_lamble_assets.xml
+- Assets/Live/usva3_lamble/flash/index.xml
+- Assets/Live/usva3_lamble/flash/usva3_lamble_logic.xml
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_a_0_0.png
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_c_0_0.png
+- Assets/Live/usva3_lamble/usva3_lamble.xml
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_d_0_1.png
+- Assets/Live/usva3_lamble/flash/usva3_lamble_64_sd_0_0.png
+Dependencies: []

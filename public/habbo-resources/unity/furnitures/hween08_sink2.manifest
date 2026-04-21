@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4288706300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34aaea02c232260fa3516c1690c54030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween08_sink2/flash/hween08_sink2_logic.xml
+- Assets/Live/hween08_sink2/flash/hween08_sink2_icon_a.png
+- Assets/Live/hween08_sink2/flash/hween08_sink2_64_b_4_1.png
+- Assets/Live/hween08_sink2/hween08_sink2.xml
+- Assets/Live/hween08_sink2/flash/index.xml
+- Assets/Live/hween08_sink2/flash/hween08_sink2_64_a_4_0.png
+- Assets/Live/hween08_sink2/flash/hween08_sink2_64_sd_4_0.png
+- Assets/Live/hween08_sink2/flash/hween08_sink2_64_b_4_0.png
+- Assets/Live/hween08_sink2/flash/hween08_sink2_assets.xml
+- Assets/Live/hween08_sink2/flash/hween08_sink2_visualization.xml
+- Assets/Live/hween08_sink2/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1619565783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eb2ad63b9376883ddda0b5cae38f96d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_64_a_2_5.png
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_visualization.xml
+- Assets/Live/pet_toy_ball/pet_toy_ball.xml
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_logic.xml
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_assets.xml
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_64_a_2_4.png
+- Assets/Live/pet_toy_ball/flash/manifest.xml
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_64_a_2_0.png
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_64_sd_2_0.png
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_64_a_2_1.png
+- Assets/Live/pet_toy_ball/flash/index.xml
+- Assets/Live/pet_toy_ball/flash/pet_toy_ball_icon_a.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 87189923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d2a446e7e2aad42258b6c37af6d6f8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/band_c19_drums/flash/band_c19_drums_icon_a.png
+- Assets/Live/band_c19_drums/flash/band_c19_drums_64_c_4_0.png
+- Assets/Live/band_c19_drums/flash/band_c19_drums_logic.xml
+- Assets/Live/band_c19_drums/flash/band_c19_drums_visualization.xml
+- Assets/Live/band_c19_drums/flash/manifest.xml
+- Assets/Live/band_c19_drums/flash/band_c19_drums_assets.xml
+- Assets/Live/band_c19_drums/flash/band_c19_drums_64_a_4_0.png
+- Assets/Live/band_c19_drums/flash/index.xml
+- Assets/Live/band_c19_drums/band_c19_drums.xml
+- Assets/Live/band_c19_drums/flash/band_c19_drums_64_b_4_0.png
+- Assets/Live/band_c19_drums/flash/band_c19_drums_64_sd_4_0.png
+Dependencies: []

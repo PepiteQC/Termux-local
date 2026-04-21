@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 680392833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fec4f9ac927d8da80ec816d59aeeab6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bling11_seat1/flash/manifest.xml
+- Assets/Live/bling11_seat1/bling11_seat1.xml
+- Assets/Live/bling11_seat1/flash/bling11_seat1_icon_a.png
+- Assets/Live/bling11_seat1/flash/bling11_seat1_logic.xml
+- Assets/Live/bling11_seat1/flash/index.xml
+- Assets/Live/bling11_seat1/flash/bling11_seat1_visualization.xml
+- Assets/Live/bling11_seat1/flash/bling11_seat1_64_a_0_0.png
+- Assets/Live/bling11_seat1/flash/bling11_seat1_assets.xml
+Dependencies: []

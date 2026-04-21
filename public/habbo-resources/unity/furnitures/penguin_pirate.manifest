@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2895898311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45b463677a0330f0384004a768a2cc7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_0.png
+- Assets/Live/penguin_pirate/flash/index.xml
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_8.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_2.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_visualization.xml
+- Assets/Live/penguin_pirate/flash/manifest.xml
+- Assets/Live/penguin_pirate/flash/penguin_pirate_logic.xml
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_5.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_3.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_sd_4_0.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_assets.xml
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_7.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_6.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_icon_a.png
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_4.png
+- Assets/Live/penguin_pirate/penguin_pirate.xml
+- Assets/Live/penguin_pirate/flash/penguin_pirate_64_a_4_1.png
+Dependencies: []

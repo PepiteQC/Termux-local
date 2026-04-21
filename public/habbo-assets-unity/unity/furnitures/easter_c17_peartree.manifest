@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 716221233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ee374af717b557889e5e586e5db4085
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_peartree/flash/manifest.xml
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_icon_a.png
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_logic.xml
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_64_a_0_1.png
+- Assets/Live/easter_c17_peartree/flash/index.xml
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_64_sd_0_0.png
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_visualization.xml
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_64_a_0_0.png
+- Assets/Live/easter_c17_peartree/easter_c17_peartree.xml
+- Assets/Live/easter_c17_peartree/flash/easter_c17_peartree_assets.xml
+Dependencies: []

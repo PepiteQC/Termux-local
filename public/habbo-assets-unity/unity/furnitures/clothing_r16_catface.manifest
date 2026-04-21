@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 743866218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2652bbce9f1be6a53a53f56f00e1371
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_64_sd_0_0.png
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_visualization.xml
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_assets.xml
+- Assets/Live/clothing_r16_catface/clothing_r16_catface.xml
+- Assets/Live/clothing_r16_catface/flash/manifest.xml
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_64_a_0_0.png
+- Assets/Live/clothing_r16_catface/flash/index.xml
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_icon_a.png
+- Assets/Live/clothing_r16_catface/flash/clothing_r16_catface_logic.xml
+Dependencies: []

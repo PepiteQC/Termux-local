@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2986699116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3272434b99a38c5c82c4746b780e77d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_loyaltycrown_X/flash/manifest.xml
+- Assets/Live/clothing_loyaltycrown_X/flash/clothing_loyaltycrown_X_64_a_0_0.png
+- Assets/Live/clothing_loyaltycrown_X/clothing_loyaltycrown_X.xml
+- Assets/Live/clothing_loyaltycrown_X/flash/clothing_loyaltycrown_X_icon_a.png
+- Assets/Live/clothing_loyaltycrown_X/flash/index.xml
+- Assets/Live/clothing_loyaltycrown_X/flash/clothing_loyaltycrown_X_logic.xml
+- Assets/Live/clothing_loyaltycrown_X/flash/clothing_loyaltycrown_X_visualization.xml
+- Assets/Live/clothing_loyaltycrown_X/flash/clothing_loyaltycrown_X_assets.xml
+Dependencies: []

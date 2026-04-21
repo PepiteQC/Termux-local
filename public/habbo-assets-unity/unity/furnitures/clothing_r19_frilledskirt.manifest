@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1310947254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4922b206144085c332ee5ea4e7a20d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_frilledskirt/flash/index.xml
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_r19_frilledskirt_assets.xml
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_r19_frilledskirt_64_a_0_0.png
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_frilledskirt_64_a_0_0.png
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_r19_frilledskirt_visualization.xml
+- Assets/Live/clothing_r19_frilledskirt/clothing_r19_frilledskirt.xml
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_r19_frilledskirt_icon_a.png
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_frilledskirt_icon_a.png
+- Assets/Live/clothing_r19_frilledskirt/flash/clothing_r19_frilledskirt_logic.xml
+- Assets/Live/clothing_r19_frilledskirt/flash/manifest.xml
+Dependencies: []

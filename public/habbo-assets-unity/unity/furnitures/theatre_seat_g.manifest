@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2277470628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a664afb97a3cbbf04dadf21345b70a7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_0_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_visualization.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_4_3.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_0_3.png
+- Assets/Live/theatre_seat_g/theatre_seat_g.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_sd_4_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_4_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_0_1.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_0_4.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_logic.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_a_4_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_0_2.png
+- Assets/Live/theatre_seat_g/flash/index.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_4_2.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_c_4_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_assets.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_4_4.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_a_0_0.png
+- Assets/Live/theatre_seat_g/flash/manifest.xml
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_c_0_0.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_64_b_4_1.png
+- Assets/Live/theatre_seat_g/flash/theatre_seat_g_icon_a.png
+Dependencies: []

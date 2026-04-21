@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 525428902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f04d4843e5f303c9227143178d48e2ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter11_wall/flash/easter11_wall_64_a_2_0.png
+- Assets/Live/easter11_wall/flash/easter11_wall_icon_a.png
+- Assets/Live/easter11_wall/flash/easter11_wall_logic.xml
+- Assets/Live/easter11_wall/easter11_wall.xml
+- Assets/Live/easter11_wall/flash/index.xml
+- Assets/Live/easter11_wall/flash/easter11_wall_assets.xml
+- Assets/Live/easter11_wall/flash/easter11_wall_visualization.xml
+- Assets/Live/easter11_wall/flash/manifest.xml
+Dependencies: []

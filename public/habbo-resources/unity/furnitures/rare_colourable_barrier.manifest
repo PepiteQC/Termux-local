@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 758865805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c60373d3196ee2ca447523178e362238
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_c_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_visualization.xml
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_b_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_icon_b.png
+- Assets/Live/rare_colourable_barrier/flash/index.xml
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_a_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_logic.xml
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_e_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/manifest.xml
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_sd_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_icon_a.png
+- Assets/Live/rare_colourable_barrier/rare_colourable_barrier.xml
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_64_d_0_0.png
+- Assets/Live/rare_colourable_barrier/flash/rare_colourable_barrier_assets.xml
+Dependencies: []

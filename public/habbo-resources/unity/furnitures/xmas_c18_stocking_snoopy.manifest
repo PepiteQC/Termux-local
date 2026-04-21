@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3793166805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e45bcd76260b01ff60abc07079de898
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_logic.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_icon_a.png
+- Assets/Live/xmas_c18_stocking_snoopy/flash/manifest.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_a_0_3.png
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_sd_0_0.png
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_visualization.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_a_0_2.png
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_assets.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_a_0_1.png
+- Assets/Live/xmas_c18_stocking_snoopy/xmas_c18_stocking_snoopy.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/index.xml
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_a_0_4.png
+- Assets/Live/xmas_c18_stocking_snoopy/flash/xmas_c18_stocking_snoopy_64_a_0_0.png
+Dependencies: []

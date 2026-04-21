@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2760706374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e427e3a91c48e926c723e4224ef10b2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/js_chandelier/flash/js_chandelier_assets.xml
+- Assets/Live/js_chandelier/flash/manifest.xml
+- Assets/Live/js_chandelier/flash/js_chandelier_visualization.xml
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_1.png
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_5.png
+- Assets/Live/js_chandelier/flash/js_chandelier_logic.xml
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_4.png
+- Assets/Live/js_chandelier/flash/js_chandelier_icon_a.png
+- Assets/Live/js_chandelier/js_chandelier.xml
+- Assets/Live/js_chandelier/flash/index.xml
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_3.png
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_2.png
+- Assets/Live/js_chandelier/flash/js_chandelier_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 241521225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fda3b51eaa6b1edb011b4ba91f091ed2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_3.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_a_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_a_2_1.png
+- Assets/Live/ads_honeymonster/ads_honeymonster.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_a_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_b_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_6.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_b_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_4.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_visualization.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_assets.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_logic.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_7.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_assets.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_3.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/manifest.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_a_2_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_6.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/index.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_4.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_4.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_a_2_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_5.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_5.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_6.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_b_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_3.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_a_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_7.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_b_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_7.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_logic.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_b_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_a_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_c_4_2.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_a_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_visualization.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_icon_a.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_2.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_a_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_icon_a.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_sd_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/index.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_a_2_1.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_64_c_4_5.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_c_4_2.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster/ads_honeymonster_64_sd_4_0.png
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/manifest.xml
+- Assets/Live/ads_honeymonster/flash/ads_honeymonster_cmp/ads_honeymonster_cmp_32_sd_4_0.png
+Dependencies: []

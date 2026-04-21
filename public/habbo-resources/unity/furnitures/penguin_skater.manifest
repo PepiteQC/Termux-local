@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3463041224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b34087415e07d13698f8f4ad02366c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_5.png
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_1.png
+- Assets/Live/penguin_skater/flash/penguin_skater_logic.xml
+- Assets/Live/penguin_skater/flash/penguin_skater_icon_a.png
+- Assets/Live/penguin_skater/flash/index.xml
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_7.png
+- Assets/Live/penguin_skater/flash/penguin_skater_assets.xml
+- Assets/Live/penguin_skater/penguin_skater.xml
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_6.png
+- Assets/Live/penguin_skater/flash/penguin_skater_64_sd_4_0.png
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_3.png
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_4.png
+- Assets/Live/penguin_skater/flash/manifest.xml
+- Assets/Live/penguin_skater/flash/penguin_skater_visualization.xml
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_0.png
+- Assets/Live/penguin_skater/flash/penguin_skater_64_a_4_2.png
+Dependencies: []

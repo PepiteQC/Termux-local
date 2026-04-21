@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4153105381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1a39616f406db0b8f44b28c2127dea9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_c18_cutething/clothing_c18_cutething.xml
+- Assets/Live/clothing_c18_cutething/flash/index.xml
+- Assets/Live/clothing_c18_cutething/flash/clothing_c18_cutething_icon_a.png
+- Assets/Live/clothing_c18_cutething/flash/clothing_c18_cutething_visualization.xml
+- Assets/Live/clothing_c18_cutething/flash/manifest.xml
+- Assets/Live/clothing_c18_cutething/flash/clothing_c18_cutething_assets.xml
+- Assets/Live/clothing_c18_cutething/flash/clothing_c18_cutething_logic.xml
+- Assets/Live/clothing_c18_cutething/flash/clothing_c18_cutething_64_a_0_0.png
+Dependencies: []

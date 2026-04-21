@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1942630471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 529aedac965e4b58158d1994a344983b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/js_bling_fridge/js_bling_fridge.xml
+- Assets/Live/js_bling_fridge/flash/index.xml
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_c_4_0.png
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_c_4_1.png
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_a_4_0.png
+- Assets/Live/js_bling_fridge/flash/manifest.xml
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_b_4_1.png
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_visualization.xml
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_a_4_1.png
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_assets.xml
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_logic.xml
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_icon_a.png
+- Assets/Live/js_bling_fridge/flash/js_bling_fridge_64_b_4_0.png
+Dependencies: []

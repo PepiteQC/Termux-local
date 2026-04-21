@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 2996412955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d6590146fcf480b42812a07c3c3f29b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_3.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_0.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_1.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_0.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_6.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_7.png
+- Assets/Live/hween_c20_evilscarecrow/flash/manifest.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_0.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_2.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_3.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_4.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_5.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_4.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_9.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_6.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_6.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_12.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_logic.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_4.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_0.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_10.png
+- Assets/Live/hween_c20_evilscarecrow/flash/index.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_11.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_5.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_9.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_3.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_10.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_8.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_visualization.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_icon_a.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_1.png
+- Assets/Live/hween_c20_evilscarecrow/hween_c20_evilscarecrow.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_2.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_1.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_7.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_7.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_5.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_1.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_8.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_0.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_5.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_16.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_3.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_5.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_15.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_13.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_6.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_assets.xml
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_10.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_10.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_4.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_9.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_8.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_0_2.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_4_1.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_4.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_3.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_2.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_b_4_2.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_9.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_c_2_7.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_14.png
+- Assets/Live/hween_c20_evilscarecrow/flash/hween_c20_evilscarecrow_64_a_4_8.png
+Dependencies: []

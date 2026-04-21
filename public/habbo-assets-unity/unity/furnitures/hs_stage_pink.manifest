@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3520883179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4018483479317030a6f36d6add30a548
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_64_sd_0_0.png
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_64_b_0_0.png
+- Assets/Live/hs_stage_pink/flash/index.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_assets.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_64_a_0_2.png
+- Assets/Live/hs_stage_pink/flash/manifest.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_64_a_0_1.png
+- Assets/Live/hs_stage_pink/hs_stage_pink.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_visualization.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_logic.xml
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_64_a_0_0.png
+- Assets/Live/hs_stage_pink/flash/hs_stage_pink_icon_a.png
+Dependencies: []

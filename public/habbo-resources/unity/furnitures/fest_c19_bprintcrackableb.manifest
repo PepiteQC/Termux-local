@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3894901168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da91851b2c542cff8d421a7da16051da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_bprintcrackableb/flash/manifest.xml
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_visualization.xml
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_64_a_0_0.png
+- Assets/Live/fest_c19_bprintcrackableb/fest_c19_bprintcrackableb.xml
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_logic.xml
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_64_sd_0_0.png
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_assets.xml
+- Assets/Live/fest_c19_bprintcrackableb/flash/fest_c19_bprintcrackableb_icon_a.png
+- Assets/Live/fest_c19_bprintcrackableb/flash/index.xml
+Dependencies: []

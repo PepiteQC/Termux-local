@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2015628685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 351501207e6790f43f4b790340cc9550
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_c_0_1.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_visualization.xml
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_c_0_2.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_a_0_0.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_icon_a.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_b_0_1.png
+- Assets/Live/india_c20_capebp/india_c20_capebp.xml
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_b_0_2.png
+- Assets/Live/india_c20_capebp/flash/index.xml
+- Assets/Live/india_c20_capebp/flash/manifest.xml
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_c_0_0.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_assets.xml
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_64_b_0_0.png
+- Assets/Live/india_c20_capebp/flash/india_c20_capebp_logic.xml
+Dependencies: []

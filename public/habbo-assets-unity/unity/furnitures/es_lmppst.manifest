@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2385757107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2487afea0ba9e706a6bc812393f38a40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_lmppst/flash/es_lmppst_64_a_0_0.png
+- Assets/Live/es_lmppst/flash/index.xml
+- Assets/Live/es_lmppst/flash/es_lmppst_assets.xml
+- Assets/Live/es_lmppst/es_lmppst.xml
+- Assets/Live/es_lmppst/flash/es_lmppst_icon_a.png
+- Assets/Live/es_lmppst/flash/es_lmppst_logic.xml
+- Assets/Live/es_lmppst/flash/es_lmppst_64_b_0_1.png
+- Assets/Live/es_lmppst/flash/es_lmppst_64_b_0_0.png
+- Assets/Live/es_lmppst/flash/es_lmppst_visualization.xml
+- Assets/Live/es_lmppst/flash/manifest.xml
+Dependencies: []

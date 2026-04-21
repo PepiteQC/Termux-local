@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1911377962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca9dd7fc6adb2d797b82b9af5e3c096a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_c_4_3.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_e_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_g_4_2.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_d_4_3.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_d_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_c_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_a_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_a_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/index.xml
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_visualization.xml
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_g_4_3.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_b_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_f_4_3.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_f_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_d_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_g_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_assets.xml
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_d_4_2.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_icon_a.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_f_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_c_4_2.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_e_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_f_4_2.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_e_4_2.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_b_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/manifest.xml
+- Assets/Live/rare_r20_balloonchair/rare_r20_balloonchair.xml
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_c_4_1.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_64_g_4_0.png
+- Assets/Live/rare_r20_balloonchair/flash/rare_r20_balloonchair_logic.xml
+Dependencies: []

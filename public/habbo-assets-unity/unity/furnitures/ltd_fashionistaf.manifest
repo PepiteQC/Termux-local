@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 66438379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5462fa65f558be05e66ec634774167b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_4.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/manifest.xml
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_a_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_7.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_7.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_c_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_3.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_9.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_b_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_8.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_7.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_icon_a.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_8.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_2.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_c_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_assets.xml
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_5.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_1.png
+- Assets/Live/LTD_fashionistaf/LTD_fashionistaf.xml
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_8.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_2.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_logic.xml
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_visualization.xml
+- Assets/Live/LTD_fashionistaf/flash/index.xml
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_4.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_9.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_6.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_3.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_6.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_2.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_1.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_4.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_a_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_6.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_1.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_b_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_icon_a.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_5.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_a_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_d_4_5.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_d_4_9.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashionistaf_64_d_4_3.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_32_c_4_0.png
+- Assets/Live/LTD_fashionistaf/flash/LTD_fashoinistaf_64_b_4_0.png
+Dependencies: []

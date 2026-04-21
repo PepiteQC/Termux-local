@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4073891567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c26dc4449d4409cc023cf5f06cc106b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_bBlock/flash/index.xml
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_icon_a.png
+- Assets/Live/ktchn_bBlock/ktchn_bBlock.xml
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_64_a_2_2.png
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_64_a_2_0.png
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_64_sd_2_0.png
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_64_a_2_1.png
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_visualization.xml
+- Assets/Live/ktchn_bBlock/flash/manifest.xml
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_logic.xml
+- Assets/Live/ktchn_bBlock/flash/ktchn_bBlock_assets.xml
+Dependencies: []

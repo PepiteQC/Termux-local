@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 219734172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 470ff43bc222413899d476ad0cdedce4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_autumnfloor/flash/manifest.xml
+- Assets/Live/hween_c19_autumnfloor/flash/index.xml
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_64_a_0_0.png
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_visualization.xml
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_assets.xml
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_icon_a.png
+- Assets/Live/hween_c19_autumnfloor/hween_c19_autumnfloor.xml
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_logic.xml
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_64_d_0_0.png
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_64_c_0_0.png
+- Assets/Live/hween_c19_autumnfloor/flash/hween_c19_autumnfloor_64_b_0_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 844362730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe53af49f0891858218b27a75d2de74e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wallmirror/flash/manifest.xml
+- Assets/Live/wallmirror/flash/wallmirror_icon_a.png
+- Assets/Live/wallmirror/flash/index.xml
+- Assets/Live/wallmirror/flash/wallmirror_64_a_2_0.png
+- Assets/Live/wallmirror/wallmirror.xml
+- Assets/Live/wallmirror/flash/wallmirror_visualization.xml
+- Assets/Live/wallmirror/flash/wallmirror_logic.xml
+- Assets/Live/wallmirror/flash/wallmirror_assets.xml
+Dependencies: []

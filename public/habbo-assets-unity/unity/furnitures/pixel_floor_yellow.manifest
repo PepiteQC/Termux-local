@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2732583288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3388612b8169d6974d9076298ca15c5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_visualization.xml
+- Assets/Live/pixel_floor_yellow/pixel_floor_yellow.xml
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_logic.xml
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_64_b_0_0.png
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_64_a_0_0.png
+- Assets/Live/pixel_floor_yellow/flash/manifest.xml
+- Assets/Live/pixel_floor_yellow/flash/index.xml
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_icon_a.png
+- Assets/Live/pixel_floor_yellow/flash/pixel_floor_yellow_assets.xml
+Dependencies: []

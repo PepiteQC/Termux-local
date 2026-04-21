@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3385860852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 848059432d7c4a92f8a7319ad9147e57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_dungarees/flash/clothing_r18_dungarees_assets.xml
+- Assets/Live/clothing_r18_dungarees/clothing_r18_dungarees.xml
+- Assets/Live/clothing_r18_dungarees/flash/clothing_r18_dungarees_64_a_0_0.png
+- Assets/Live/clothing_r18_dungarees/flash/clothing_r18_dungarees_icon_a.png
+- Assets/Live/clothing_r18_dungarees/flash/manifest.xml
+- Assets/Live/clothing_r18_dungarees/flash/index.xml
+- Assets/Live/clothing_r18_dungarees/flash/clothing_r18_dungarees_logic.xml
+- Assets/Live/clothing_r18_dungarees/flash/clothing_r18_dungarees_visualization.xml
+Dependencies: []

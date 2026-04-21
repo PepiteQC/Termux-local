@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3278542158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0ab8cb29a7dd1d67997c5d55d50111b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grunge_barrel/flash/manifest.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_3.png
+- Assets/Live/grunge_barrel/grunge_barrel.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_sd_0_0.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_2.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_assets.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_5.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_visualization.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_3.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_2.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_0.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_5.png
+- Assets/Live/grunge_barrel/flash/index.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_0.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_1.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_1.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_icon_a.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_b_0_4.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_logic.xml
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_c_0_4.png
+- Assets/Live/grunge_barrel/flash/grunge_barrel_64_a_0_0.png
+Dependencies: []

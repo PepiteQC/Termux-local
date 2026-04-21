@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1581430980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5724938026e990955073888b7e6cabdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_64_a_0_0.png
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_64_a_0_1.png
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_visualization.xml
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_assets.xml
+- Assets/Live/clothing_reindeer/flash/index.xml
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_64_sd_0_0.png
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_logic.xml
+- Assets/Live/clothing_reindeer/clothing_reindeer.xml
+- Assets/Live/clothing_reindeer/flash/clothing_reindeer_icon_a.png
+- Assets/Live/clothing_reindeer/flash/manifest.xml
+Dependencies: []

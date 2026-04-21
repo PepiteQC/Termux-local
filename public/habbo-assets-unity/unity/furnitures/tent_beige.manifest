@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3774594093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c1fb8e83cd2eee9d90f5667dd697e58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tent_beige/flash/tent_beige_logic.xml
+- Assets/Live/tent_beige/flash/tent_beige_assets.xml
+- Assets/Live/tent_beige/flash/tent_beige_64_b_0_0.png
+- Assets/Live/tent_beige/tent_beige.xml
+- Assets/Live/tent_beige/flash/tent_beige_64_h_0_1.png
+- Assets/Live/tent_beige/flash/manifest.xml
+- Assets/Live/tent_beige/flash/tent_beige_64_d_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_i_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_f_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_e_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_g_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_g_0_1.png
+- Assets/Live/tent_beige/flash/index.xml
+- Assets/Live/tent_beige/flash/tent_beige_64_h_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_visualization.xml
+- Assets/Live/tent_beige/flash/tent_beige_64_i_0_1.png
+- Assets/Live/tent_beige/flash/tent_beige_64_a_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_sd_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_64_c_0_0.png
+- Assets/Live/tent_beige/flash/tent_beige_icon_a.png
+Dependencies: []

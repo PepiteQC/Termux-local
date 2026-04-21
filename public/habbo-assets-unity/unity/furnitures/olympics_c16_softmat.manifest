@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 737366376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6703a874ef69beacb3aaee12c9cd5af6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_softmat/flash/manifest.xml
+- Assets/Live/olympics_c16_softmat/flash/index.xml
+- Assets/Live/olympics_c16_softmat/olympics_c16_softmat.xml
+- Assets/Live/olympics_c16_softmat/flash/olympics_c16_softmat_icon_a.png
+- Assets/Live/olympics_c16_softmat/flash/olympics_c16_softmat_64_a_0_0.png
+- Assets/Live/olympics_c16_softmat/flash/olympics_c16_softmat_logic.xml
+- Assets/Live/olympics_c16_softmat/flash/olympics_c16_softmat_assets.xml
+- Assets/Live/olympics_c16_softmat/flash/olympics_c16_softmat_visualization.xml
+Dependencies: []

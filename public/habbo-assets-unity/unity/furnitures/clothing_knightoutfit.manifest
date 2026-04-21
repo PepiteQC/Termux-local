@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 132668608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6805d84950e150e7ebc20ee67075cc34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_knightoutfit/clothing_knightoutfit.xml
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_64_a_2_1.png
+- Assets/Live/clothing_knightoutfit/flash/index.xml
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_assets.xml
+- Assets/Live/clothing_knightoutfit/flash/manifest.xml
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_logic.xml
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_64_a_2_0.png
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_visualization.xml
+- Assets/Live/clothing_knightoutfit/flash/clothing_knightoutfit_icon_a.png
+Dependencies: []

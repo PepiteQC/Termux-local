@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 958894416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a881b49bae1bd659ae902a4be450ac4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_visualization.xml
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_c_0_1.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_logic.xml
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_c_0_0.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_a_0_1.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_b_0_1.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_d_0_0.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_a_0_0.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_icon_a.png
+- Assets/Live/thai_c21_rootedgrass/flash/manifest.xml
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_64_b_0_0.png
+- Assets/Live/thai_c21_rootedgrass/flash/thai_c21_rootedgrass_assets.xml
+- Assets/Live/thai_c21_rootedgrass/flash/index.xml
+- Assets/Live/thai_c21_rootedgrass/thai_c21_rootedgrass.xml
+Dependencies: []

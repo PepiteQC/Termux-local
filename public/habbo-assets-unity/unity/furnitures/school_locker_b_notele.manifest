@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 924791109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e27d88f1c508d0929e6c6022336d980c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_locker_b_notele/flash/manifest.xml
+- Assets/Live/school_locker_b_notele/flash/index.xml
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_assets.xml
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_logic.xml
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_64_sd_4_.png
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_64_a_4_0.png
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_icon_a.png
+- Assets/Live/school_locker_b_notele/flash/school_locker_b_notele_visualization.xml
+- Assets/Live/school_locker_b_notele/school_locker_b_notele.xml
+Dependencies: []

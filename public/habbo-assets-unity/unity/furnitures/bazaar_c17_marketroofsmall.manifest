@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1108417090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ade3e83d8590832ae18b3f8b32cfa9dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_visualization.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_c_6_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_logic.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_e_6_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/bazaar_c17_marketroofsmall.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_d_6_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_d_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_a_2_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_sd_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_a_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_a_6_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/index.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_c_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_a_6_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_e_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_c_6_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_b_6_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_b_6_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_assets.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_c_2_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_b_2_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_d_6_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_b_2_0.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/manifest.xml
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_64_d_2_1.png
+- Assets/Live/bazaar_c17_marketroofsmall/flash/bazaar_c17_marketroofsmall_icon_a.png
+Dependencies: []

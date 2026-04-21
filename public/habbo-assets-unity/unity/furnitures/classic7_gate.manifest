@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1426504334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f56e54fad88eb120a96844df580c2bad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic7_gate/flash/classic7_gate_64_b_2_0.png
+- Assets/Live/classic7_gate/flash/classic7_gate_logic.xml
+- Assets/Live/classic7_gate/flash/classic7_gate_64_a_6_1.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_b_6_0.png
+- Assets/Live/classic7_gate/flash/classic7_gate_assets.xml
+- Assets/Live/classic7_gate/flash/classic7_gate_64_a_6_0.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_a_2_1.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_a_2_0.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_b_2_1.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_b_6_1.png
+- Assets/Live/classic7_gate/flash/classic7_gate_visualization.xml
+- Assets/Live/classic7_gate/flash/classic7_gate_icon_a.png
+- Assets/Live/classic7_gate/flash/classic7_gate_64_sd_6_0.png
+- Assets/Live/classic7_gate/flash/manifest.xml
+- Assets/Live/classic7_gate/classic7_gate.xml
+- Assets/Live/classic7_gate/flash/index.xml
+- Assets/Live/classic7_gate/flash/classic7_gate_64_sd_2_0.png
+Dependencies: []

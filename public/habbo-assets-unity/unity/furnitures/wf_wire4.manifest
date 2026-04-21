@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2273500001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 193f42ba6d6f18b72620658c84f52710
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_2_3.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_2_2.png
+- Assets/Live/wf_wire4/flash/wf_wire2_icon_a.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_6_1.png
+- Assets/Live/wf_wire4/flash/manifest.xml
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_6_2.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_2_3.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_2_0.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_6_2.png
+- Assets/Live/wf_wire4/flash/wf_wire4_icon_a.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_2_1.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_6_0.png
+- Assets/Live/wf_wire4/wf_wire4.xml
+- Assets/Live/wf_wire4/flash/wf_wire4_visualization.xml
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_2_2.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_6_3.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_2_1.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_6_2.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_2_1.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_6_0.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_6_1.png
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_2_3.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_2_0.png
+- Assets/Live/wf_wire4/flash/index.xml
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_6_0.png
+- Assets/Live/wf_wire4/flash/wf_wire4_assets.xml
+- Assets/Live/wf_wire4/flash/wf_wire2_64_a_2_0.png
+- Assets/Live/wf_wire4/flash/wf_wire2_32_a_6_3.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_6_3.png
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_2_2.png
+- Assets/Live/wf_wire4/flash/wf_wire4_logic.xml
+- Assets/Live/wf_wire4/flash/wf_wire4_64_a_6_1.png
+Dependencies: []

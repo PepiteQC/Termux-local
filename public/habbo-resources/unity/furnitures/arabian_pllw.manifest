@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2366211578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 740c4a19c6283373f41c8befbf730309
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/arabian_pllw/flash/arabian_pllw_assets.xml
+- Assets/Live/arabian_pllw/flash/arabian_pllw_visualization.xml
+- Assets/Live/arabian_pllw/flash/arabian_pllw_64_a_0_0.png
+- Assets/Live/arabian_pllw/flash/manifest.xml
+- Assets/Live/arabian_pllw/flash/arabian_pllw_logic.xml
+- Assets/Live/arabian_pllw/arabian_pllw.xml
+- Assets/Live/arabian_pllw/flash/arabian_pllw_icon_a.png
+- Assets/Live/arabian_pllw/flash/arabian_pllw_64_sd_0_0.png
+- Assets/Live/arabian_pllw/flash/index.xml
+Dependencies: []

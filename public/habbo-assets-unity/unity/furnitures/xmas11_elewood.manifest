@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 65100076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc6bd2c48f9b999a4d52c82fa497bb04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_64_a_0_1.png
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_64_a_0_4.png
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_64_a_0_2.png
+- Assets/Live/xmas11_elewood/xmas11_elewood.xml
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_visualization.xml
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_icon_a.png
+- Assets/Live/xmas11_elewood/flash/index.xml
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_64_a_0_0.png
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_64_a_0_3.png
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_assets.xml
+- Assets/Live/xmas11_elewood/flash/manifest.xml
+- Assets/Live/xmas11_elewood/flash/xmas11_elewood_logic.xml
+Dependencies: []

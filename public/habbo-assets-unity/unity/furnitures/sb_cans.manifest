@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1735074682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e0100c8a3f07e44973926dd12bb88d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_cans/flash/sb_cans_logic.xml
+- Assets/Live/sb_cans/flash/sb_cans_visualization.xml
+- Assets/Live/sb_cans/sb_cans.xml
+- Assets/Live/sb_cans/flash/sb_cans_64_a_0_0.png
+- Assets/Live/sb_cans/flash/index.xml
+- Assets/Live/sb_cans/flash/sb_cans_icon_a.png
+- Assets/Live/sb_cans/flash/manifest.xml
+- Assets/Live/sb_cans/flash/sb_cans_assets.xml
+Dependencies: []

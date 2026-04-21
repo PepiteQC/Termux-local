@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 669427643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9495a5f21617747d643c185e4839a08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_vase/flash/gift_vase_64_a_0_0.png
+- Assets/Live/gift_vase/flash/manifest.xml
+- Assets/Live/gift_vase/flash/gift_vase_visualization.xml
+- Assets/Live/gift_vase/flash/index.xml
+- Assets/Live/gift_vase/flash/gift_vase_logic.xml
+- Assets/Live/gift_vase/flash/gift_vase_64_sd_0_0.png
+- Assets/Live/gift_vase/flash/gift_vase_64_a_0_1.png
+- Assets/Live/gift_vase/flash/gift_vase_assets.xml
+- Assets/Live/gift_vase/gift_vase.xml
+- Assets/Live/gift_vase/flash/gift_vase_icon_a.png
+Dependencies: []

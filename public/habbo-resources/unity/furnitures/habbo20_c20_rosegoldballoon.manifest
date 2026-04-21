@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3955964301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d842b1f9c71d23d44176dc9edc9c4cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_2_1.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_0_1.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_0_4.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_sd_2_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_2_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_0_1.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_2_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_2_4.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_0_4.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_0_3.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_2_3.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_2_3.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_sd_0_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_visualization.xml
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_2_1.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/manifest.xml
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_assets.xml
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_0_2.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_2_2.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_0_2.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/index.xml
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_2_2.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_icon_a.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_0_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_0_3.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_a_0_0.png
+- Assets/Live/habbo20_c20_rosegoldballoon/habbo20_c20_rosegoldballoon.xml
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_64_b_2_4.png
+- Assets/Live/habbo20_c20_rosegoldballoon/flash/habbo20_c20_rosegoldballoon_logic.xml
+Dependencies: []

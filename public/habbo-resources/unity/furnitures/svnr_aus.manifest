@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2679103248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7f766b3ab987aba4ed08a9195b56e1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_2_3.png
+- Assets/Live/svnr_aus/svnr_aus.xml
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_4_2.png
+- Assets/Live/svnr_aus/flash/index.xml
+- Assets/Live/svnr_aus/flash/svnr_aus_logic.xml
+- Assets/Live/svnr_aus/flash/manifest.xml
+- Assets/Live/svnr_aus/flash/svnr_aus_64_sd_4_0.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_2_1.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_2_0.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_a_4_0.png
+- Assets/Live/svnr_aus/flash/svnr_aus_icon_a.png
+- Assets/Live/svnr_aus/flash/svnr_aus_visualization.xml
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_4_3.png
+- Assets/Live/svnr_aus/flash/svnr_aus_assets.xml
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_4_0.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_a_2_0.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_4_1.png
+- Assets/Live/svnr_aus/flash/svnr_aus_64_b_2_2.png
+Dependencies: []

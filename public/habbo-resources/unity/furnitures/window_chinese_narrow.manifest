@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1847715524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d41dc28aea9c0b0b54ed2a945e82a39b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_assets.xml
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_icon_a.png
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_visualization.xml
+- Assets/Live/window_chinese_narrow/flash/index.xml
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_32_2_mask.png
+- Assets/Live/window_chinese_narrow/window_chinese_narrow.xml
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_64_a_2_0.png
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_logic.xml
+- Assets/Live/window_chinese_narrow/flash/manifest.xml
+- Assets/Live/window_chinese_narrow/flash/window_chinese_narrow_64_2_mask.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1738832778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a563981d077ed97c3295f640ad608b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cumberband/clothing_cumberband.xml
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_visualization.xml
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_assets.xml
+- Assets/Live/clothing_cumberband/flash/index.xml
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_64_a_0_0.png
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_logic.xml
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_icon_a.png
+- Assets/Live/clothing_cumberband/flash/manifest.xml
+- Assets/Live/clothing_cumberband/flash/clothing_cumberband_64_sd_0_0.png
+Dependencies: []

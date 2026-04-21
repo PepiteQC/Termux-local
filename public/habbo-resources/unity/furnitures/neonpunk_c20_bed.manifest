@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3303401385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bd2db508c027c8c60bf4b2d9ac88ce0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_64_d_2_0.png
+- Assets/Live/neonpunk_c20_bed/flash/manifest.xml
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_64_c_2_0.png
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_icon_a.png
+- Assets/Live/neonpunk_c20_bed/flash/index.xml
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_visualization.xml
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_assets.xml
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_logic.xml
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_64_a_2_0.png
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_64_sd_2_0.png
+- Assets/Live/neonpunk_c20_bed/flash/neonpunk_c20_bed_64_b_2_0.png
+- Assets/Live/neonpunk_c20_bed/neonpunk_c20_bed.xml
+Dependencies: []

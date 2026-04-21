@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1957608781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f4a32e98e6ef379b2ec73cdc79e8c71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grunge_radiator/flash/grunge_radiator_logic.xml
+- Assets/Live/grunge_radiator/flash/grunge_radiator_icon_a.png
+- Assets/Live/grunge_radiator/flash/grunge_radiator_visualization.xml
+- Assets/Live/grunge_radiator/flash/grunge_radiator_64_a_2_0.png
+- Assets/Live/grunge_radiator/flash/manifest.xml
+- Assets/Live/grunge_radiator/flash/grunge_radiator_64_sd_2_0.png
+- Assets/Live/grunge_radiator/flash/index.xml
+- Assets/Live/grunge_radiator/flash/grunge_radiator_assets.xml
+- Assets/Live/grunge_radiator/grunge_radiator.xml
+Dependencies: []

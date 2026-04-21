@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3286215242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b89734f203c63e4f70f9beee922e13dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r21_valcorset/flash/clothing_r21_valcorset_64_a_0_0.png
+- Assets/Live/clothing_r21_valcorset/flash/clothing_r21_valcorset_visualization.xml
+- Assets/Live/clothing_r21_valcorset/flash/manifest.xml
+- Assets/Live/clothing_r21_valcorset/flash/clothing_r21_valcorset_logic.xml
+- Assets/Live/clothing_r21_valcorset/clothing_r21_valcorset.xml
+- Assets/Live/clothing_r21_valcorset/flash/clothing_r21_valcorset_icon_a.png
+- Assets/Live/clothing_r21_valcorset/flash/clothing_r21_valcorset_assets.xml
+- Assets/Live/clothing_r21_valcorset/flash/index.xml
+Dependencies: []

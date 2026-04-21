@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 136157420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 545c9cc3f12e01b792ef36bfac761dc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_8.png
+- Assets/Live/thai_c21_mangrovecrab/thai_c21_mangrovecrab.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_logic.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_0.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_icon_a.png
+- Assets/Live/thai_c21_mangrovecrab/flash/manifest.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_7.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_9.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_visualization.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_1.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_assets.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/index.xml
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_3.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_sd_0_0.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_5.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_2.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_4.png
+- Assets/Live/thai_c21_mangrovecrab/flash/thai_c21_mangrovecrab_64_a_0_6.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3308386887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484ac95559ff0500d7c0f8e893937526
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_64_a_0_2.png
+- Assets/Live/wf_trg_collision/wf_trg_collision.xml
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_64_a_0_1.png
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_assets.xml
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_visualization.xml
+- Assets/Live/wf_trg_collision/flash/index.xml
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_logic.xml
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_icon_a.png
+- Assets/Live/wf_trg_collision/flash/manifest.xml
+- Assets/Live/wf_trg_collision/flash/wf_trg_collision_64_a_0_0.png
+Dependencies: []

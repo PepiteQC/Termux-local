@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1764385408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b747715a2c764674838fe01c7f066f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_assets.xml
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_a_4_0.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_b_4_1.png
+- Assets/Live/jukebox_ptv/flash/manifest.xml
+- Assets/Live/jukebox_ptv/flash/index.xml
+- Assets/Live/jukebox_ptv/jukebox_ptv.xml
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_b_4_0.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_visualization.xml
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_a_2_1.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_a_4_1.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_64_a_2_0.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_icon_a.png
+- Assets/Live/jukebox_ptv/flash/jukebox_ptv_logic.xml
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 966611830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31e9b953c3d4e85efbebe7c10f0aeba6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_b_2_1.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_logic.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_a_0_0.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_visualization.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_a_0_1.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_assets.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_b_0_2.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_b_0_1.png
+- Assets/Live/tokyo_c18_lights/flash/index.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_c_0_1.png
+- Assets/Live/tokyo_c18_lights/flash/manifest.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_b_0_0.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_icon_a.png
+- Assets/Live/tokyo_c18_lights/tokyo_c18_lights.xml
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_c_0_0.png
+- Assets/Live/tokyo_c18_lights/flash/tokyo_c18_lights_64_b_2_2.png
+Dependencies: []

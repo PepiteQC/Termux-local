@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 698850984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efee42f1a54fa1f2863affc86d49c273
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_9.png
+- Assets/Live/val14_gate/flash/val14_gate_icon_a.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_4.png
+- Assets/Live/val14_gate/flash/val14_gate_64_d_0_0.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_5.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_3.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_1.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_0.png
+- Assets/Live/val14_gate/flash/val14_gate_visualization.xml
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_1.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_0.png
+- Assets/Live/val14_gate/flash/manifest.xml
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_2.png
+- Assets/Live/val14_gate/flash/val14_gate_64_a_0_0.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_6.png
+- Assets/Live/val14_gate/flash/val14_gate_64_sd_0_0.png
+- Assets/Live/val14_gate/flash/val14_gate_logic.xml
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_8.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_9.png
+- Assets/Live/val14_gate/val14_gate.xml
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_4.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_3.png
+- Assets/Live/val14_gate/flash/index.xml
+- Assets/Live/val14_gate/flash/val14_gate_assets.xml
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_2.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_7.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_5.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_6.png
+- Assets/Live/val14_gate/flash/val14_gate_64_c_0_8.png
+- Assets/Live/val14_gate/flash/val14_gate_64_b_0_7.png
+Dependencies: []

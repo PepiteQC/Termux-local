@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 180267531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfae95d2cd043c0889b131cff4ae6d1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/index.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/manifest.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_64_sd_0_0.png
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_assets.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_icon_a.png
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_64_a_0_1.png
+- Assets/Live/xmas_c18_stocking_cinnamon/xmas_c18_stocking_cinnamon.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_logic.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_visualization.xml
+- Assets/Live/xmas_c18_stocking_cinnamon/flash/xmas_c18_stocking_cinnamon_64_a_0_0.png
+Dependencies: []

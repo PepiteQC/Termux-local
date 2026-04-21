@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3844559333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6479eccb74a59d97006eaf3423056a2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_roombg/flash/easter14_roombg_visualization.xml
+- Assets/Live/easter14_roombg/flash/easter14_roombg_64_b_0_0.png
+- Assets/Live/easter14_roombg/flash/easter14_roombg_icon_a.png
+- Assets/Live/easter14_roombg/easter14_roombg.xml
+- Assets/Live/easter14_roombg/flash/index.xml
+- Assets/Live/easter14_roombg/flash/easter14_roombg_64_a_0_0.png
+- Assets/Live/easter14_roombg/flash/easter14_roombg_logic.xml
+- Assets/Live/easter14_roombg/flash/easter14_roombg_assets.xml
+- Assets/Live/easter14_roombg/flash/manifest.xml
+Dependencies: []

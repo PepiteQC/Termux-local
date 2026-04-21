@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 986349340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e58087b56aa41acad406670b10440669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_12.png
+- Assets/Live/xmas_c19_box5/xmas_c19_box5.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_5.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_icon_a.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_1.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_2.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_11.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_6.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_4.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_visualization.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_9.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_logic.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_assets.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_8.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_3.png
+- Assets/Live/xmas_c19_box5/flash/index.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_7.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_sd_0_0.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_10.png
+- Assets/Live/xmas_c19_box5/flash/manifest.xml
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_13.png
+- Assets/Live/xmas_c19_box5/flash/xmas_c19_box5_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3053793249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff3182df4a9a854fe1586e30f0852ee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/urban_bin/flash/urban_bin_assets.xml
+- Assets/Live/urban_bin/flash/urban_bin_icon_a.png
+- Assets/Live/urban_bin/flash/manifest.xml
+- Assets/Live/urban_bin/urban_bin.xml
+- Assets/Live/urban_bin/flash/urban_bin_logic.xml
+- Assets/Live/urban_bin/flash/urban_bin_64_a_0_1.png
+- Assets/Live/urban_bin/flash/urban_bin_64_a_0_0.png
+- Assets/Live/urban_bin/flash/urban_bin_visualization.xml
+- Assets/Live/urban_bin/flash/urban_bin_64_sd_0_0.png
+- Assets/Live/urban_bin/flash/index.xml
+Dependencies: []

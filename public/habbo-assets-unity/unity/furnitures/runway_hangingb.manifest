@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4213183715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c22d56ff635a8ad3ef452b0ad47bd35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_hangingb/runway_hangingb.xml
+- Assets/Live/runway_hangingb/flash/runway_hangingb_visualization.xml
+- Assets/Live/runway_hangingb/flash/runway_hangingb_64_a_2_0.png
+- Assets/Live/runway_hangingb/flash/runway_hangingb_assets.xml
+- Assets/Live/runway_hangingb/flash/index.xml
+- Assets/Live/runway_hangingb/flash/runway_hangingb_icon_a.png
+- Assets/Live/runway_hangingb/flash/runway_hangingb_64_b_2_0.png
+- Assets/Live/runway_hangingb/flash/runway_hangingb_logic.xml
+- Assets/Live/runway_hangingb/flash/manifest.xml
+- Assets/Live/runway_hangingb/flash/runway_hangingb_64_b_2_1.png
+Dependencies: []

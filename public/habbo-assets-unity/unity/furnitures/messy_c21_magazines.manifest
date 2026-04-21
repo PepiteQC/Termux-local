@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1589704457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e356a0c06be36263226a0e3eba21e9c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_magazines/flash/manifest.xml
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_64_a_0_0.png
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_visualization.xml
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_logic.xml
+- Assets/Live/messy_c21_magazines/messy_c21_magazines.xml
+- Assets/Live/messy_c21_magazines/flash/index.xml
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_64_sd_0_0.png
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_icon_a.png
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_assets.xml
+- Assets/Live/messy_c21_magazines/flash/messy_c21_magazines_64_b_0_0.png
+Dependencies: []

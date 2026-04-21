@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3137480509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b55a73019463cb5e2707e09a87d92295
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hlympic_bear/flash/hlympic_bear_64_a_0_3.png
+- Assets/Live/hlympic_bear/flash/hlympic_bear_64_a_0_0.png
+- Assets/Live/hlympic_bear/hlympic_bear.xml
+- Assets/Live/hlympic_bear/flash/hlympic_bear_logic.xml
+- Assets/Live/hlympic_bear/flash/manifest.xml
+- Assets/Live/hlympic_bear/flash/index.xml
+- Assets/Live/hlympic_bear/flash/hlympic_bear_assets.xml
+- Assets/Live/hlympic_bear/flash/hlympic_bear_visualization.xml
+- Assets/Live/hlympic_bear/flash/hlympic_bear_64_a_0_1.png
+- Assets/Live/hlympic_bear/flash/hlympic_bear_icon_a.png
+Dependencies: []

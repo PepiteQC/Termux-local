@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3438206213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af1354dcac6019433603de41ff0096b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_icon_a.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_sd_4_0.png
+- Assets/Live/rela_nt_rock/flash/index.xml
+- Assets/Live/rela_nt_rock/rela_nt_rock.xml
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_a_0_2.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_assets.xml
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_sd_6_0.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_sd_0_0.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_a_0_0.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_visualization.xml
+- Assets/Live/rela_nt_rock/flash/manifest.xml
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_logic.xml
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_sd_2_0.png
+- Assets/Live/rela_nt_rock/flash/rela_nt_rock_64_a_0_1.png
+Dependencies: []

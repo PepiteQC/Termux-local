@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2413558560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d841a5db51271f1a139494189e39fd47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hcc_stool/flash/hcc_stool_64_sd_0_0.png
+- Assets/Live/hcc_stool/flash/index.xml
+- Assets/Live/hcc_stool/flash/hcc_stool_icon_a.png
+- Assets/Live/hcc_stool/flash/hcc_stool_assets.xml
+- Assets/Live/hcc_stool/flash/hcc_stool_64_a_0_0.png
+- Assets/Live/hcc_stool/flash/manifest.xml
+- Assets/Live/hcc_stool/hcc_stool.xml
+- Assets/Live/hcc_stool/flash/hcc_stool_visualization.xml
+- Assets/Live/hcc_stool/flash/hcc_stool_logic.xml
+Dependencies: []

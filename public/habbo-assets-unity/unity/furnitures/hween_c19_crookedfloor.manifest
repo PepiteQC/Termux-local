@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4126437193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2ea144e69b7f838b00a5769c52f3019
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_crookedfloor/flash/manifest.xml
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_visualization.xml
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_assets.xml
+- Assets/Live/hween_c19_crookedfloor/flash/index.xml
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_64_a_0_0.png
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_64_b_0_1.png
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_64_b_0_2.png
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_64_b_0_0.png
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_logic.xml
+- Assets/Live/hween_c19_crookedfloor/hween_c19_crookedfloor.xml
+- Assets/Live/hween_c19_crookedfloor/flash/hween_c19_crookedfloor_icon_a.png
+Dependencies: []

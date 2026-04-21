@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2089756243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a2d908b28cccbea356f9385df2ad423
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_sd_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_i_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_logic.xml
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_h_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_f_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_a_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_assets.xml
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_visualization.xml
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_e_2_0.png
+- Assets/Live/mystics_gthrone/flash/manifest.xml
+- Assets/Live/mystics_gthrone/flash/index.xml
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_c_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_d_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_b_2_0.png
+- Assets/Live/mystics_gthrone/mystics_gthrone.xml
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_64_g_2_0.png
+- Assets/Live/mystics_gthrone/flash/mystics_gthrone_icon_a.png
+Dependencies: []

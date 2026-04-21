@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2112658699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff88628d161380cadcf15603d09df9ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_icon_a.png
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_sd_0_0.png
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_logic.xml
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_b_2_0.png
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_visualization.xml
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_a_0_0.png
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_sd_2_0.png
+- Assets/Live/pixel_chair_pink/flash/index.xml
+- Assets/Live/pixel_chair_pink/flash/manifest.xml
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_b_0_0.png
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_assets.xml
+- Assets/Live/pixel_chair_pink/flash/pixel_chair_pink_64_a_2_0.png
+- Assets/Live/pixel_chair_pink/pixel_chair_pink.xml
+Dependencies: []

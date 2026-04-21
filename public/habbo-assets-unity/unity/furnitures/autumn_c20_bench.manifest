@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4174295912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 036a23c78104c4fe8a37a5fcb183c36c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/autumn_c20_bench/flash/manifest.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_a_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_visualization.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_assets.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_g_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_b_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_g_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_logic.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_a_4_0.png
+- Assets/Live/autumn_c20_bench/flash/index.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_i_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_sd_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_d_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_h_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_f_0_0.png
+- Assets/Live/autumn_c20_bench/autumn_c20_bench.xml
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_c_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_icon_a.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_b_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_f_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_i_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_h_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_e_4_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_c_0_0.png
+- Assets/Live/autumn_c20_bench/flash/autumn_c20_bench_64_e_0_0.png
+Dependencies: []

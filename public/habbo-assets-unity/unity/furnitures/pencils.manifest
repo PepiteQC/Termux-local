@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2152562140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c105f9790690147c26cdf8b9995e0ad5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pencils/flash/pencils_visualization.xml
+- Assets/Live/pencils/pencils.xml
+- Assets/Live/pencils/flash/pencils_icon_a.png
+- Assets/Live/pencils/flash/pencils_logic.xml
+- Assets/Live/pencils/flash/pencils_64_a_0_2.png
+- Assets/Live/pencils/flash/manifest.xml
+- Assets/Live/pencils/flash/pencils_assets.xml
+- Assets/Live/pencils/flash/pencils_64_a_0_0.png
+- Assets/Live/pencils/flash/pencils_64_a_0_1.png
+- Assets/Live/pencils/flash/index.xml
+Dependencies: []

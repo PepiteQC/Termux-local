@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2410165682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 689aacc25b8f3be5eed7cdee911b07b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_stage_2/flash/index.xml
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_e_0_0.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_d_0_0.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_f_0_0.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_a_0_0.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_e_0_1.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_logic.xml
+- Assets/Live/easter13_stage_2/easter13_stage_2.xml
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_assets.xml
+- Assets/Live/easter13_stage_2/flash/manifest.xml
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_f_0_1.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_visualization.xml
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_icon_a.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_b_0_0.png
+- Assets/Live/easter13_stage_2/flash/easter13_stage_2_64_c_0_0.png
+Dependencies: []

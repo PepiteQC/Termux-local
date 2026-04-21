@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3336628638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 476b8b6c94513c8def7502f5f6da34a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_1.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_c_2_0.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_b_2_0.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_logic.xml
+- Assets/Live/bb_gate_b/flash/index.xml
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_a_2_0.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_4.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_icon_a.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_5.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_3.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_0.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_visualization.xml
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_d_2_0.png
+- Assets/Live/bb_gate_b/flash/bb_gate_b_assets.xml
+- Assets/Live/bb_gate_b/flash/manifest.xml
+- Assets/Live/bb_gate_b/bb_gate_b.xml
+- Assets/Live/bb_gate_b/flash/bb_gate_b_64_e_2_2.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2098699398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e164a144f59b679a6dc7af46b10ef96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dng_block/flash/dng_block_visualization.xml
+- Assets/Live/dng_block/flash/dng_block_logic.xml
+- Assets/Live/dng_block/flash/manifest.xml
+- Assets/Live/dng_block/flash/dng_block_64_a_4_0.png
+- Assets/Live/dng_block/flash/index.xml
+- Assets/Live/dng_block/flash/dng_block_icon_a.png
+- Assets/Live/dng_block/flash/dng_block_64_a_2_0.png
+- Assets/Live/dng_block/flash/dng_block_assets.xml
+- Assets/Live/dng_block/dng_block.xml
+Dependencies: []

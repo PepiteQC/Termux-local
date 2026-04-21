@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 344876780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caaef0cd4fe366a4625e9340d91f8095
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/picnic_tele/flash/manifest.xml
+- Assets/Live/picnic_tele/flash/picnic_tele_icon_a.png
+- Assets/Live/picnic_tele/picnic_tele.xml
+- Assets/Live/picnic_tele/flash/picnic_tele_64_b_4_0.png
+- Assets/Live/picnic_tele/flash/picnic_tele_64_a_4_0.png
+- Assets/Live/picnic_tele/flash/picnic_tele_logic.xml
+- Assets/Live/picnic_tele/flash/picnic_tele_visualization.xml
+- Assets/Live/picnic_tele/flash/picnic_tele_assets.xml
+- Assets/Live/picnic_tele/flash/index.xml
+Dependencies: []

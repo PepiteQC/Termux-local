@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1328976329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6aa701ebfae05aa0ba716763530ded47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_64_b_0_0.png
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_visualization.xml
+- Assets/Live/pastel_c19_starlights/pastel_c19_starlights.xml
+- Assets/Live/pastel_c19_starlights/flash/manifest.xml
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_logic.xml
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_assets.xml
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_64_a_0_0.png
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_64_sd_0_0.png
+- Assets/Live/pastel_c19_starlights/flash/pastel_c19_starlights_icon_a.png
+- Assets/Live/pastel_c19_starlights/flash/index.xml
+Dependencies: []

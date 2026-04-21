@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3943476187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cba9f75b590586b707d5d29abd7fe62b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_3.png
+- Assets/Live/hween12_track/flash/hween12_track_64_sd_2_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_2.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_2.png
+- Assets/Live/hween12_track/flash/manifest.xml
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_4.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_3.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_5.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_3.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_0.png
+- Assets/Live/hween12_track/flash/index.xml
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_1.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_3.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_5.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_1.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_1.png
+- Assets/Live/hween12_track/flash/hween12_track_64_a_2_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_1.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_4.png
+- Assets/Live/hween12_track/flash/hween12_track_assets.xml
+- Assets/Live/hween12_track/flash/hween12_track_logic.xml
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_2_2.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_5.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_6_4.png
+- Assets/Live/hween12_track/flash/hween12_track_64_d_6_4.png
+- Assets/Live/hween12_track/hween12_track.xml
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_2.png
+- Assets/Live/hween12_track/flash/hween12_track_icon_a.png
+- Assets/Live/hween12_track/flash/hween12_track_visualization.xml
+- Assets/Live/hween12_track/flash/hween12_track_64_b_2_0.png
+- Assets/Live/hween12_track/flash/hween12_track_64_c_2_5.png
+Dependencies: []

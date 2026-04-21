@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3615305345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c417c295adbd0342743412f90469122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rela_candles1/flash/rela_candles1_64_d_0_0.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_b_0_4.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_d_0_2.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_d_0_1.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_b_0_3.png
+- Assets/Live/rela_candles1/flash/rela_candles1_assets.xml
+- Assets/Live/rela_candles1/flash/rela_candles1_visualization.xml
+- Assets/Live/rela_candles1/flash/rela_candles1_64_b_0_1.png
+- Assets/Live/rela_candles1/flash/manifest.xml
+- Assets/Live/rela_candles1/flash/rela_candles1_64_d_0_4.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_c_0_0.png
+- Assets/Live/rela_candles1/flash/index.xml
+- Assets/Live/rela_candles1/flash/rela_candles1_64_a_0_0.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_c_0_1.png
+- Assets/Live/rela_candles1/flash/rela_candles1_icon_a.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_b_0_0.png
+- Assets/Live/rela_candles1/flash/rela_candles1_logic.xml
+- Assets/Live/rela_candles1/rela_candles1.xml
+- Assets/Live/rela_candles1/flash/rela_candles1_64_d_0_3.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_a_sd_0_0.png
+- Assets/Live/rela_candles1/flash/rela_candles1_64_b_0_2.png
+Dependencies: []

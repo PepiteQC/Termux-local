@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2466424746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71efb422c6e8bf8c6793af1b8429bc42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_icon_a.png
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_64_sd_0_0.png
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_visualization.xml
+- Assets/Live/classic2_drinkcup/classic2_drinkcup.xml
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_64_a_0_0.png
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_64_a_0_1.png
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_assets.xml
+- Assets/Live/classic2_drinkcup/flash/classic2_drinkcup_logic.xml
+- Assets/Live/classic2_drinkcup/flash/manifest.xml
+- Assets/Live/classic2_drinkcup/flash/index.xml
+Dependencies: []

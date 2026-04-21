@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 289397241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfa657f5ea96ef9cf3cf1f0aae6ee7ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_c_6_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_assets.xml
+- Assets/Live/zengarden_c20_stonebench/flash/index.xml
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_b_6_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_a_4_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_c_4_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_visualization.xml
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_b_4_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_sd_4_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_a_6_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_logic.xml
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_icon_a.png
+- Assets/Live/zengarden_c20_stonebench/flash/zengarden_c20_stonebench_64_sd_6_0.png
+- Assets/Live/zengarden_c20_stonebench/flash/manifest.xml
+- Assets/Live/zengarden_c20_stonebench/zengarden_c20_stonebench.xml
+Dependencies: []

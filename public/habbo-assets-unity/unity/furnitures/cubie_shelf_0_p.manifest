@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1268166979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2637202ccd8228f9811ed380099ab72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_icon_a.png
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_assets.xml
+- Assets/Live/cubie_shelf_0_p/flash/manifest.xml
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_64_a_0_0.png
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_logic.xml
+- Assets/Live/cubie_shelf_0_p/flash/index.xml
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_visualization.xml
+- Assets/Live/cubie_shelf_0_p/cubie_shelf_0_p.xml
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_64_b_0_0.png
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_64_b_0_1.png
+- Assets/Live/cubie_shelf_0_p/flash/cubie_shelf_0_p_64_b_0_2.png
+Dependencies: []

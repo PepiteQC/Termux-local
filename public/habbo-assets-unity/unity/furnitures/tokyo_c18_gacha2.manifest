@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1240152705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50634131acd09b41dfed92d70f59e119
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_8.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_sd_2_0.png
+- Assets/Live/tokyo_c18_gacha2/flash/manifest.xml
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_icon_a.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_logic.xml
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_10.png
+- Assets/Live/tokyo_c18_gacha2/tokyo_c18_gacha2.xml
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_6.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_2.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_4.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_9.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_0.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_5.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_11.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_assets.xml
+- Assets/Live/tokyo_c18_gacha2/flash/index.xml
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_visualization.xml
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_3.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_7.png
+- Assets/Live/tokyo_c18_gacha2/flash/tokyo_c18_gacha2_64_a_2_1.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2061352524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fb770b9fe5bc6f9358d6eb9bd73ed79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_fruitbasket/bazaar_c17_fruitbasket.xml
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_icon_a.png
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_64_a_0_1.png
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_64_a_0_0.png
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_64_sd_0_0.png
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_logic.xml
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_assets.xml
+- Assets/Live/bazaar_c17_fruitbasket/flash/manifest.xml
+- Assets/Live/bazaar_c17_fruitbasket/flash/index.xml
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_64_a_0_2.png
+- Assets/Live/bazaar_c17_fruitbasket/flash/bazaar_c17_fruitbasket_visualization.xml
+Dependencies: []

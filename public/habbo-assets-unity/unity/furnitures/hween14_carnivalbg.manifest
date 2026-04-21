@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3804015574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc2992592ecf84604abb010181224224
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_icon_a.png
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_64_a_0_0.png
+- Assets/Live/hween14_carnivalbg/flash/index.xml
+- Assets/Live/hween14_carnivalbg/flash/manifest.xml
+- Assets/Live/hween14_carnivalbg/hween14_carnivalbg.xml
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_assets.xml
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_64_b_0_0.png
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_visualization.xml
+- Assets/Live/hween14_carnivalbg/flash/hween14_carnivalbg_logic.xml
+Dependencies: []

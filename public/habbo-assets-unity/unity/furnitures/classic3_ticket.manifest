@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3058943400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 083d2680abbe754737854380f9069902
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic3_ticket/flash/index.xml
+- Assets/Live/classic3_ticket/flash/classic3_ticket_assets.xml
+- Assets/Live/classic3_ticket/flash/classic3_ticket_64_a_0_1.png
+- Assets/Live/classic3_ticket/flash/classic3_ticket_visualization.xml
+- Assets/Live/classic3_ticket/flash/classic3_ticket_logic.xml
+- Assets/Live/classic3_ticket/flash/classic3_ticket_64_a_0_0.png
+- Assets/Live/classic3_ticket/classic3_ticket.xml
+- Assets/Live/classic3_ticket/flash/manifest.xml
+- Assets/Live/classic3_ticket/flash/classic3_ticket_icon_a.png
+Dependencies: []

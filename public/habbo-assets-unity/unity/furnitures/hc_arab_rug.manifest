@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3379382513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be72494875b8d29df5107148ee94e3b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_assets.xml
+- Assets/Live/hc_arab_rug/hc_arab_rug.xml
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_logic.xml
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_64_sd_0_0.png
+- Assets/Live/hc_arab_rug/flash/manifest.xml
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_64_a_0_1.png
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_64_a_0_0.png
+- Assets/Live/hc_arab_rug/flash/index.xml
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_visualization.xml
+- Assets/Live/hc_arab_rug/flash/hc_arab_rug_icon_a.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3537435423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9364e30d5c6df2f4e5cfd99f99d9c2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_leafearrings/flash/clothing_leafearrings_assets.xml
+- Assets/Live/clothing_leafearrings/flash/clothing_leafearrings_icon_a.png
+- Assets/Live/clothing_leafearrings/flash/clothing_leafearrings_visualization.xml
+- Assets/Live/clothing_leafearrings/flash/clothing_leafearrings_64_a_0_0.png
+- Assets/Live/clothing_leafearrings/flash/index.xml
+- Assets/Live/clothing_leafearrings/clothing_leafearrings.xml
+- Assets/Live/clothing_leafearrings/flash/manifest.xml
+- Assets/Live/clothing_leafearrings/flash/clothing_leafearrings_logic.xml
+Dependencies: []

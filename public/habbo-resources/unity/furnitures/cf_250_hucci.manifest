@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4177820805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1063c0d46a23a540ed451bb0cd5ffe97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_assets.xml
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_64_sd_0_0.png
+- Assets/Live/CF_250_Hucci/flash/manifest.xml
+- Assets/Live/CF_250_Hucci/CF_250_Hucci.xml
+- Assets/Live/CF_250_Hucci/flash/index.xml
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_visualization.xml
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_icon_a.png
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_logic.xml
+- Assets/Live/CF_250_Hucci/flash/CF_250_Hucci_64_a_0_0.png
+Dependencies: []

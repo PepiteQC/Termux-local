@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3418379348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea8b99ea3e8b68650a55353db2c964b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_assets.xml
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_visualization.xml
+- Assets/Live/snowb_mountain_wall/snowb_mountain_wall.xml
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_logic.xml
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_64_a_2_1.png
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_icon_a.png
+- Assets/Live/snowb_mountain_wall/flash/index.xml
+- Assets/Live/snowb_mountain_wall/flash/manifest.xml
+- Assets/Live/snowb_mountain_wall/flash/snowb_mountain_wall_64_a_2_0.png
+Dependencies: []

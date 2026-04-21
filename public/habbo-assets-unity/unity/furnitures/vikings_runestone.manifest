@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1201373616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4ec0a21e545158a467884c1aba9bf87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_runestone/flash/vikings_runestone_64_a_2_0.png
+- Assets/Live/vikings_runestone/vikings_runestone.xml
+- Assets/Live/vikings_runestone/flash/index.xml
+- Assets/Live/vikings_runestone/flash/vikings_runestone_icon_a.png
+- Assets/Live/vikings_runestone/flash/vikings_runestone_logic.xml
+- Assets/Live/vikings_runestone/flash/manifest.xml
+- Assets/Live/vikings_runestone/flash/vikings_runestone_assets.xml
+- Assets/Live/vikings_runestone/flash/vikings_runestone_visualization.xml
+Dependencies: []

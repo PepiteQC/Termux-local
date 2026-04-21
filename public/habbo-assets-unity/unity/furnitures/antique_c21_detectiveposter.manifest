@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2808320660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c95583740eaff7cd139335fbd889cead
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_64_sd_0_0.png
+- Assets/Live/antique_c21_detectiveposter/antique_c21_detectiveposter.xml
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_icon_a.png
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_64_a_0_0.png
+- Assets/Live/antique_c21_detectiveposter/flash/index.xml
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_logic.xml
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_assets.xml
+- Assets/Live/antique_c21_detectiveposter/flash/manifest.xml
+- Assets/Live/antique_c21_detectiveposter/flash/antique_c21_detectiveposter_visualization.xml
+Dependencies: []

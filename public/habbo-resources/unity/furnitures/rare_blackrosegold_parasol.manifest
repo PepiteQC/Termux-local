@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 987705663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f7dfdf19a832e21d1c8693de21ff931
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_logic.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_64_b_0_1.png
+- Assets/Live/rare_blackrosegold_parasol/rare_blackrosegold_parasol.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/manifest.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_icon_a.png
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_64_a_0_1.png
+- Assets/Live/rare_blackrosegold_parasol/flash/index.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_visualization.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_64_a_0_0.png
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_assets.xml
+- Assets/Live/rare_blackrosegold_parasol/flash/rare_blackrosegold_parasol_64_b_0_0.png
+Dependencies: []

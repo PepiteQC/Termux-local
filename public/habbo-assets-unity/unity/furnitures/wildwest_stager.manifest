@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1965117021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fae214157b7d22a42159d13a4bf5da8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_stager/flash/manifest.xml
+- Assets/Live/wildwest_stager/flash/wildwest_stager_64_sd_0_0.png
+- Assets/Live/wildwest_stager/flash/wildwest_stager_assets.xml
+- Assets/Live/wildwest_stager/flash/wildwest_stager_icon_a.png
+- Assets/Live/wildwest_stager/flash/wildwest_stager_64_a_0_0.png
+- Assets/Live/wildwest_stager/flash/wildwest_stager_logic.xml
+- Assets/Live/wildwest_stager/wildwest_stager.xml
+- Assets/Live/wildwest_stager/flash/index.xml
+- Assets/Live/wildwest_stager/flash/wildwest_stager_visualization.xml
+Dependencies: []

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1000494974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df5c2f5a7a967debe120d41da07dd8db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_a_2_1.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_12.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_13.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_10.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_5.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_4.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_a_2_0.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_assets.xml
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_1.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_icon_a.png
+- Assets/Live/qt_xm10_elephant/flash/manifest.xml
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_7.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_15.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_0.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_6.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_3.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_visualization.xml
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_11.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_9.png
+- Assets/Live/qt_xm10_elephant/qt_xm10_elephant.xml
+- Assets/Live/qt_xm10_elephant/flash/index.xml
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_2.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_14.png
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_logic.xml
+- Assets/Live/qt_xm10_elephant/flash/qt_xm10_elephant_64_b_2_8.png
+Dependencies: []

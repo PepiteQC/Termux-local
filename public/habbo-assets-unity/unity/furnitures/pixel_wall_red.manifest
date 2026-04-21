@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1776482991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e71572b9416bbb9baeda7ab1e0fc84c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_wall_red/pixel_wall_red.xml
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_visualization.xml
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_assets.xml
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_logic.xml
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_icon_a.png
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_64_a_2_0.png
+- Assets/Live/pixel_wall_red/flash/index.xml
+- Assets/Live/pixel_wall_red/flash/manifest.xml
+- Assets/Live/pixel_wall_red/flash/pixel_wall_red_64_b_2_0.png
+Dependencies: []

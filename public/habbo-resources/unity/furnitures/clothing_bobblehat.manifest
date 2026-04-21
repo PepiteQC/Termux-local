@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 734976458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ac351ffb8140f4ae408d0b612a5427f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bobblehat/clothing_bobblehat.xml
+- Assets/Live/clothing_bobblehat/flash/clothing_bobblehat_logic.xml
+- Assets/Live/clothing_bobblehat/flash/index.xml
+- Assets/Live/clothing_bobblehat/flash/manifest.xml
+- Assets/Live/clothing_bobblehat/flash/clothing_bobblehat_64_a_0_0.png
+- Assets/Live/clothing_bobblehat/flash/clothing_bobblehat_assets.xml
+- Assets/Live/clothing_bobblehat/flash/clothing_bobblehat_icon_a.png
+- Assets/Live/clothing_bobblehat/flash/clothing_bobblehat_visualization.xml
+Dependencies: []

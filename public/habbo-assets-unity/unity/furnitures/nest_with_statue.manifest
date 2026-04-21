@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3274212157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e17b72382e4525c5e179ffd80c434275
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_with_statue/flash/manifest.xml
+- Assets/Live/nest_with_statue/flash/index.xml
+- Assets/Live/nest_with_statue/flash/nest_with_statue_logic.xml
+- Assets/Live/nest_with_statue/flash/nest_with_statue_visualization.xml
+- Assets/Live/nest_with_statue/nest_with_statue.xml
+- Assets/Live/nest_with_statue/flash/nest_with_statue_icon_a.png
+- Assets/Live/nest_with_statue/flash/nest_with_statue_64_a_0_0.png
+- Assets/Live/nest_with_statue/flash/nest_with_statue_assets.xml
+Dependencies: []
