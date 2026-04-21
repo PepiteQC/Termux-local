@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 140" width="156" height="140">
+  <rect x="8" y="10" width="140" height="116" fill="#0f1620" stroke="#050709" stroke-width="1.5"/>
+  <rect x="8" y="10" width="140" height="116" fill="#1a2a3c" opacity="0.4"/>
+  <rect x="10" y="12" width="136" height="3" fill="#a7eaff" opacity="0.85"/>
+  <!-- shelves -->
+  <rect x="4" y="38" width="148" height="4" fill="#2a3a4a" stroke="#050709"/>
+  <rect x="4" y="74" width="148" height="4" fill="#2a3a4a" stroke="#050709"/>
+  <rect x="4" y="110" width="148" height="4" fill="#2a3a4a" stroke="#050709"/>
+  <!-- bongs and pipes -->
+  <g>
+    <!-- Percolator bong -->
+    <rect x="20" y="18" width="12" height="20" rx="4" fill="#a7eaff" opacity="0.3" stroke="#0a1620"/>
+    <circle cx="26" cy="22" r="6" fill="#a7eaff" opacity="0.25" stroke="#0a1620"/>
+    <!-- Dab rig -->
+    <path d="M48 38 L48 24 Q48 18 54 18 L58 18 L58 14 L66 14 L66 22 L60 22 L60 38 Z" fill="#ffd27a" opacity="0.45" stroke="#0a1620"/>
+    <!-- Neon bong -->
+    <rect x="80" y="18" width="10" height="20" rx="3" fill="#5fff8e" opacity="0.45" stroke="#0a1620"/>
+    <circle cx="85" cy="22" r="5" fill="#5fff8e" opacity="0.3"/>
+    <!-- Vaporizer -->
+    <rect x="104" y="22" width="8" height="16" rx="2" fill="#2a1a0e" stroke="#0a1620"/>
+    <rect x="104" y="18" width="8" height="6" fill="#ffd27a" stroke="#0a1620"/>
+    <!-- Pipe -->
+    <path d="M122 30 L140 30 L140 34 L128 34 L128 38 L122 38 Z" fill="#8b5a3c" stroke="#0a1620"/>
+  </g>
+  <!-- row 2 -->
+  <g>
+    <!-- Mini rig -->
+    <path d="M16 76 L16 58 Q16 52 22 52 L30 52 L30 76 Z" fill="#ffd27a" opacity="0.5" stroke="#0a1620"/>
+    <!-- torch -->
+    <rect x="42" y="56" width="8" height="18" fill="#1a1520" stroke="#0a1620"/>
+    <rect x="44" y="50" width="4" height="8" fill="#ff8a5c"/>
+    <!-- grinder -->
+    <circle cx="70" cy="66" r="10" fill="#2a3a4a" stroke="#0a1620"/>
+    <circle cx="70" cy="66" r="5" fill="#5fff8e" opacity="0.5"/>
+    <!-- scale -->
+    <rect x="90" y="62" width="24" height="12" rx="2" fill="#0a0a0a" stroke="#0a1620"/>
+    <rect x="94" y="64" width="16" height="4" fill="#5fff8e" opacity="0.75"/>
+    <!-- ashtray -->
+    <ellipse cx="134" cy="70" rx="12" ry="4" fill="#4a3a2a" stroke="#0a1620"/>
+    <ellipse cx="134" cy="70" rx="8" ry="2" fill="#1a0f08"/>
+  </g>
+  <!-- row 3 -->
+  <g>
+    <!-- pre roll tubes -->
+    <rect x="16" y="92" width="22" height="18" rx="2" fill="#2a1a0e" stroke="#0a1620"/>
+    <rect x="16" y="86" width="22" height="6" fill="#ffd27a" stroke="#0a1620"/>
+    <!-- papers -->
+    <rect x="46" y="96" width="16" height="14" fill="#f8efd0" stroke="#0a1620"/>
+    <!-- stash box -->
+    <rect x="70" y="90" width="30" height="20" fill="#3a2214" stroke="#0a1620"/>
+    <rect x="70" y="88" width="30" height="4" fill="#5a3a24"/>
+    <!-- travel case -->
+    <rect x="108" y="92" width="30" height="18" rx="3" fill="#1a1520" stroke="#0a1620"/>
+    <rect x="110" y="98" width="26" height="2" fill="#5fff8e" opacity="0.5"/>
+  </g>
+  <rect x="10" y="122" width="136" height="3" fill="#a7eaff" opacity="0.45"/>
+</svg>

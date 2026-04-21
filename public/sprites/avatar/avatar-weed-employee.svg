@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 112" width="84" height="112">
+  <defs>
+    <linearGradient id="empho" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#2d4a2d"/>
+      <stop offset="1" stop-color="#14250f"/>
+    </linearGradient>
+  </defs>
+  <!-- shadow -->
+  <ellipse cx="42" cy="108" rx="16" ry="3" fill="rgba(0,0,0,0.45)"/>
+  <!-- legs (black jeans) -->
+  <rect x="32" y="78" width="8" height="28" fill="#1a1a22" stroke="#050607"/>
+  <rect x="44" y="78" width="8" height="28" fill="#1a1a22" stroke="#050607"/>
+  <!-- shoes -->
+  <rect x="30" y="104" width="12" height="6" rx="1.5" fill="#0a0a0a" stroke="#050607"/>
+  <rect x="42" y="104" width="12" height="6" rx="1.5" fill="#0a0a0a" stroke="#050607"/>
+  <!-- hoodie body -->
+  <path d="M22 44 Q30 36 42 36 Q54 36 62 44 L66 84 L18 84 Z" fill="url(#empho)" stroke="#0a1208" stroke-width="1.2"/>
+  <!-- apron -->
+  <path d="M28 52 L56 52 L58 82 L26 82 Z" fill="#1a2a1a" stroke="#050f06" stroke-width="1"/>
+  <rect x="27" y="52" width="30" height="2.5" fill="#3a2214"/>
+  <!-- apron pocket -->
+  <rect x="36" y="66" width="12" height="10" rx="1.5" fill="#2d4a2d" stroke="#050f06"/>
+  <!-- leaf logo apron -->
+  <g transform="translate(42,62)" fill="#5fff8e" stroke="#1a3a1a" stroke-width="0.4">
+    <path d="M0 -4 l-3 -1 l1 2.5 l-3 -0.5 l2 2 l-2.5 1 l3 0.5 l-1 2.5 l2.5 -1 l-0.5 3 l2.5 -2 l0.5 3 l0.5 -3 l2.5 2 l-0.5 -3 l2.5 1 l-1 -2.5 l3 -0.5 l-2.5 -1 l2 -2 l-3 0.5 l1 -2.5 z"/>
+  </g>
+  <!-- arms -->
+  <rect x="14" y="46" width="8" height="30" rx="3" fill="url(#empho)" stroke="#0a1208"/>
+  <rect x="62" y="46" width="8" height="30" rx="3" fill="url(#empho)" stroke="#0a1208"/>
+  <!-- hands -->
+  <circle cx="18" cy="78" r="4" fill="#c49872" stroke="#050607"/>
+  <circle cx="66" cy="78" r="4" fill="#c49872" stroke="#050607"/>
+  <!-- neck -->
+  <rect x="38" y="30" width="8" height="8" fill="#c49872"/>
+  <!-- head -->
+  <circle cx="42" cy="22" r="12" fill="#d4a57f" stroke="#050607" stroke-width="0.8"/>
+  <!-- cap -->
+  <path d="M30 16 Q30 8 42 8 Q54 8 54 16 L54 20 L30 20 Z" fill="#1a2a1a" stroke="#050f06"/>
+  <path d="M26 20 Q26 24 34 24 L50 24 Q58 24 58 20 Z" fill="#0f1608" stroke="#050f06"/>
+  <g transform="translate(42,14)" fill="#5fff8e">
+    <path d="M0 -3 l-2.5 -1 l1 2 l-2.5 -0.5 l1.5 1.5 l-2 1 l2.5 0.5 l-1 2 l2 -1 l-0.5 2.5 l2 -1.5 l0.5 2.5 l0.5 -2.5 l2 1.5 l-0.5 -2.5 l2 1 l-1 -2 l2.5 -0.5 l-2 -1 l1.5 -1.5 l-2.5 0.5 l1 -2 z"/>
+  </g>
+  <!-- eyes -->
+  <circle cx="38" cy="23" r="1" fill="#050607"/>
+  <circle cx="46" cy="23" r="1" fill="#050607"/>
+  <!-- smile -->
+  <path d="M38 28 Q42 30 46 28" stroke="#050607" stroke-width="1" fill="none"/>
+</svg>

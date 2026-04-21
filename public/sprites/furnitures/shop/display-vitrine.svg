@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 110" width="72" height="110">
+  <defs>
+    <linearGradient id="vbase" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#3a2214"/>
+      <stop offset="1" stop-color="#1a0f08"/>
+    </linearGradient>
+  </defs>
+  <!-- base -->
+  <polygon points="4,78 36,94 68,78 68,96 36,106 4,96" fill="url(#vbase)" stroke="#050302" stroke-width="1"/>
+  <polygon points="4,78 36,66 68,78 36,94" fill="#2a1a0e" stroke="#050302" stroke-width="1"/>
+  <!-- glass cube -->
+  <polygon points="6,30 36,18 66,30 66,80 36,94 6,80" fill="#a7eaff" opacity="0.14" stroke="#7fd2f0" stroke-width="0.8"/>
+  <polygon points="6,30 36,18 66,30 36,42" fill="#cfe9ff" opacity="0.08" stroke="#7fd2f0" stroke-width="0.6"/>
+  <line x1="36" y1="42" x2="36" y2="94" stroke="#7fd2f0" stroke-width="0.5" opacity="0.6"/>
+  <line x1="6" y1="30" x2="6" y2="80" stroke="#7fd2f0" stroke-width="0.5" opacity="0.6"/>
+  <line x1="66" y1="30" x2="66" y2="80" stroke="#7fd2f0" stroke-width="0.5" opacity="0.6"/>
+  <!-- premium item inside -->
+  <ellipse cx="36" cy="74" rx="12" ry="3" fill="rgba(0,0,0,0.4)"/>
+  <rect x="28" y="52" width="16" height="22" rx="3" fill="#ffd27a" stroke="#2a1a0e"/>
+  <rect x="28" y="48" width="16" height="6" rx="2" fill="#c69a5b" stroke="#2a1a0e"/>
+  <!-- neon halo -->
+  <ellipse cx="36" cy="22" rx="18" ry="3" fill="#5fff8e" opacity="0.5"/>
+  <ellipse cx="36" cy="22" rx="26" ry="6" fill="#5fff8e" opacity="0.18"/>
+</svg>

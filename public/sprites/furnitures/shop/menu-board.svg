@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 104" width="72" height="104">
+  <rect x="4" y="4" width="64" height="90" rx="3" fill="#0a1208" stroke="#1a2a1a" stroke-width="1.5"/>
+  <rect x="6" y="6" width="60" height="14" fill="#5fff8e" opacity="0.18"/>
+  <text x="36" y="16" font-family="monospace" font-size="8" fill="#5fff8e" text-anchor="middle" font-weight="bold">MENU</text>
+  <g font-family="monospace" font-size="6" fill="#d8ffd8">
+    <text x="8" y="32">OG Kush</text>
+    <text x="60" y="32" text-anchor="end" fill="#ffd27a">12€</text>
+    <text x="8" y="42">Amnesia</text>
+    <text x="60" y="42" text-anchor="end" fill="#ffd27a">10€</text>
+    <text x="8" y="52">Live Resin</text>
+    <text x="60" y="52" text-anchor="end" fill="#ffd27a">40€</text>
+    <text x="8" y="62">Diamond</text>
+    <text x="60" y="62" text-anchor="end" fill="#ffd27a">60€</text>
+    <text x="8" y="72">Hash Rosin</text>
+    <text x="60" y="72" text-anchor="end" fill="#ffd27a">35€</text>
+    <text x="8" y="82">Pre-Roll</text>
+    <text x="60" y="82" text-anchor="end" fill="#ffd27a">8€</text>
+  </g>
+  <rect x="32" y="96" width="8" height="6" fill="#2a1a0e"/>
+</svg>

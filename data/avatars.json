@@ -29,5 +29,12 @@
     "name": "High Ponytail",
     "category": "hair",
     "path": "/sprites/avatar/hair/hair-ponytail-high.png"
+  },
+  {
+    "id": "avatar-weed-employee",
+    "name": "Weed Shop Employee",
+    "category": "player",
+    "path": "/sprites/avatar/avatar-weed-employee.svg",
+    "meta": "Vendeur Green Shop"
   }
 ]

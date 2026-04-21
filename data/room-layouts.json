@@ -114,5 +114,63 @@
       "createdAt": "2026-04-20T00:00:00.000Z",
       "updatedAt": "2026-04-20T00:00:00.000Z"
     }
+  ],
+  "weed-shop": [
+    { "id": "ws-shelf-jars-1", "type": "wall-shelf-jars", "x": 0, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-shelf-glass-1", "type": "wall-shelf-glass", "x": 2, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-neon-sign", "type": "neon-sign-green", "x": 4, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-shelf-glass-2", "type": "wall-shelf-glass", "x": 7, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-shelf-jars-2", "type": "wall-shelf-jars", "x": 9, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-neon-leaf-1", "type": "neon-leaf", "x": 11, "y": 0, "z": 0, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-menu-board", "type": "menu-board", "x": 0, "y": 0, "z": 1, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-plant-bush-1", "type": "weed-plant-bush", "x": 11, "y": 0, "z": 1, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-counter-corner-l", "type": "shop-counter-corner", "x": 2, "y": 0, "z": 2, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-counter-main", "type": "shop-counter", "x": 3, "y": 0, "z": 2, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-counter-corner-r", "type": "shop-counter-corner", "x": 6, "y": 0, "z": 2, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-cash-register", "type": "cash-register", "x": 7, "y": 0, "z": 2, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-premium-top", "type": "premium-display", "x": 9, "y": 0, "z": 2, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-rolling-tray", "type": "rolling-tray", "x": 3, "y": 0, "z": 3, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-jar-diamond", "type": "cannabis-jar-diamond", "x": 4, "y": 0, "z": 3, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-jar-live-resin", "type": "cannabis-jar-live-resin", "x": 5, "y": 0, "z": 3, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-jar-hash", "type": "cannabis-jar-hash", "x": 6, "y": 0, "z": 3, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-jar-pot", "type": "cannabis-jar-pot", "x": 7, "y": 0, "z": 3, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-poster-strain-1", "type": "poster-strain", "x": 0, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-1", "type": "display-vitrine", "x": 2, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-2", "type": "display-vitrine", "x": 4, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-3", "type": "display-vitrine", "x": 6, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-4", "type": "display-vitrine", "x": 8, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-plant-bush-2", "type": "weed-plant-bush", "x": 11, "y": 0, "z": 4, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-plant-tall-1", "type": "weed-plant-tall", "x": 0, "y": 0, "z": 5, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-5", "type": "display-vitrine", "x": 2, "y": 0, "z": 5, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-6", "type": "display-vitrine", "x": 5, "y": 0, "z": 5, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-vitrine-7", "type": "display-vitrine", "x": 8, "y": 0, "z": 5, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-plant-tall-2", "type": "weed-plant-tall", "x": 11, "y": 0, "z": 5, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-premium-left", "type": "premium-display", "x": 1, "y": 0, "z": 6, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-shop-rug-center", "type": "shop-rug", "x": 5, "y": 0, "z": 6, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-premium-right", "type": "premium-display", "x": 9, "y": 0, "z": 6, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-dab-station", "type": "dab-station", "x": 11, "y": 0, "z": 6, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-plant-bush-3", "type": "weed-plant-bush", "x": 0, "y": 0, "z": 7, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-stash-cabinet", "type": "stash-cabinet", "x": 0, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-sofa-left", "type": "chill-sofa", "x": 2, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-table-chill", "type": "table-prism", "x": 4, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-sofa-right", "type": "chill-sofa", "x": 7, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-plant-tall-3", "type": "weed-plant-tall", "x": 10, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-poster-strain-2", "type": "poster-strain", "x": 11, "y": 0, "z": 8, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-plant-bush-4", "type": "weed-plant-bush", "x": 11, "y": 0, "z": 9, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-neon-leaf-2", "type": "neon-leaf", "x": 0, "y": 0, "z": 10, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+
+    { "id": "ws-entry-mat-1", "type": "entry-mat", "x": 3, "y": 0, "z": 11, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-entry-mat-2", "type": "entry-mat", "x": 5, "y": 0, "z": 11, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" },
+    { "id": "ws-entry-mat-3", "type": "entry-mat", "x": 7, "y": 0, "z": 11, "rotation": 0, "createdAt": "2026-04-20T00:00:00.000Z", "updatedAt": "2026-04-20T00:00:00.000Z" }
   ]
 }

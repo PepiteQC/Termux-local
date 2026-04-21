@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <rect width="96" height="96" fill="#0a0a12" rx="12"/>
+  <!-- strap -->
+  <rect x="44" y="20" width="8" height="12" fill="#3a2214"/>
+  <!-- apron body -->
+  <path d="M28 34 L68 34 L74 84 L22 84 Z" fill="#1a2a1a" stroke="#050f06" stroke-width="2"/>
+  <!-- leather trim -->
+  <rect x="26" y="34" width="44" height="4" fill="#3a2214"/>
+  <!-- center pocket -->
+  <rect x="38" y="52" width="20" height="20" rx="2" fill="#2d4a2d" stroke="#050f06"/>
+  <!-- leaf -->
+  <g transform="translate(48,46)" fill="#5fff8e" stroke="#1a3a1a" stroke-width="0.5">
+    <path d="M0 -6 l-5 -2 l2 4 l-5 -1 l3 3 l-4 2 l5 1 l-2 4 l4 -2 l-1 5 l4 -3 l1 5 l1 -5 l4 3 l-1 -5 l4 2 l-2 -4 l5 -1 l-4 -2 l3 -3 l-5 1 l2 -4 z"/>
+  </g>
+  <!-- waist tie -->
+  <path d="M22 84 Q10 88 6 80" stroke="#3a2214" stroke-width="3" fill="none"/>
+  <path d="M74 84 Q86 88 90 80" stroke="#3a2214" stroke-width="3" fill="none"/>
+</svg>

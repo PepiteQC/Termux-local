@@ -6,7 +6,31 @@ export type FurnitureType =
   | "bed-obsidian"
   | "lamp-halo"
   | "crystal-ether"
-  | "neon-crown";
+  | "neon-crown"
+  // Weed Shop
+  | "shop-counter"
+  | "shop-counter-corner"
+  | "wall-shelf-jars"
+  | "wall-shelf-glass"
+  | "display-vitrine"
+  | "premium-display"
+  | "cash-register"
+  | "weed-plant-tall"
+  | "weed-plant-bush"
+  | "neon-sign-green"
+  | "neon-leaf"
+  | "dab-station"
+  | "stash-cabinet"
+  | "chill-sofa"
+  | "shop-rug"
+  | "entry-mat"
+  | "poster-strain"
+  | "rolling-tray"
+  | "menu-board"
+  | "cannabis-jar-diamond"
+  | "cannabis-jar-live-resin"
+  | "cannabis-jar-hash"
+  | "cannabis-jar-pot";
 
 export type IsoTile = {
   x: number;
@@ -24,6 +48,7 @@ export type FurnitureDefinition = {
   name: string;
   label: string;
   sprite: string;
+  spriteUrl?: string;
   storagePath: string;
   width: number;
   depth: number;

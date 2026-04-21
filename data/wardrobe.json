@@ -46,5 +46,23 @@
     "name": "Aviator Glasses",
     "category": "accessory",
     "path": "/sprites/avatar/glasses/glasses-aviator.png"
+  },
+  {
+    "id": "jacket-weed-hoodie",
+    "name": "Green Shop Hoodie",
+    "category": "outerwear",
+    "path": "/sprites/avatar/jacket/jacket-weed-hoodie.svg"
+  },
+  {
+    "id": "shirt-weed-apron",
+    "name": "Weed Shop Apron",
+    "category": "top",
+    "path": "/sprites/avatar/shirt/shirt-weed-apron.svg"
+  },
+  {
+    "id": "head-weed-cap",
+    "name": "Green Shop Cap",
+    "category": "accessory",
+    "path": "/sprites/avatar/head/head-weed-cap.svg"
   }
 ]

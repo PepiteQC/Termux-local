@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 96" width="72" height="96">
+  <rect x="6" y="6" width="60" height="84" fill="#0a1208" stroke="#1a2a1a" stroke-width="1.5"/>
+  <rect x="8" y="8" width="56" height="80" fill="#1a2a1a"/>
+  <!-- leaf -->
+  <g transform="translate(36,38)" fill="#5fff8e" stroke="#1a3a1a">
+    <path d="M0 -18 l-14 -6 l4 10 l-12 -2 l8 8 l-10 4 l14 2 l-6 10 l10 -4 l-4 12 l10 -8 l4 12 l4 -12 l10 8 l-4 -12 l10 4 l-6 -10 l14 -2 l-10 -4 l8 -8 l-12 2 l4 -10 z"/>
+  </g>
+  <text x="36" y="76" font-family="monospace" font-size="7" fill="#ffd27a" text-anchor="middle" font-weight="bold">OG KUSH</text>
+  <text x="36" y="84" font-family="monospace" font-size="4" fill="#d8ffd8" text-anchor="middle">STRAIN OF THE WEEK</text>
+</svg>

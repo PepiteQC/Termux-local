@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 132" width="140" height="132">
+  <defs>
+    <linearGradient id="cab" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#3a2214"/>
+      <stop offset="1" stop-color="#1a0f08"/>
+    </linearGradient>
+  </defs>
+  <!-- side -->
+  <polygon points="4,52 70,80 136,52 136,118 70,130 4,118" fill="url(#cab)" stroke="#050302"/>
+  <!-- top -->
+  <polygon points="4,52 70,22 136,52 70,80" fill="#2a1a0e" stroke="#050302"/>
+  <!-- doors -->
+  <polygon points="70,80 8,56 8,114 70,128" fill="#1a0f08" stroke="#050302" opacity="0.55"/>
+  <polygon points="70,80 132,56 132,114 70,128" fill="#1a0f08" stroke="#050302" opacity="0.55"/>
+  <!-- handles -->
+  <rect x="60" y="98" width="4" height="10" fill="#ffd27a" stroke="#050302"/>
+  <rect x="76" y="98" width="4" height="10" fill="#ffd27a" stroke="#050302"/>
+  <!-- stripe -->
+  <rect x="2" y="50" width="136" height="3" fill="#5fff8e" opacity="0.45"/>
+  <!-- locker plate -->
+  <rect x="62" y="88" width="16" height="8" fill="#3a2214" stroke="#050302"/>
+  <circle cx="70" cy="92" r="1.5" fill="#5fff8e"/>
+</svg>

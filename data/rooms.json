@@ -19,5 +19,12 @@
     "tagline": "Original cosmetics room with botanical glow and premium drops.",
     "theme": "Botanica",
     "occupancy": "10 users"
+  },
+  {
+    "id": "weed-shop",
+    "name": "Green Shop · Weed Boutique",
+    "tagline": "Boutique cannabis premium : vitrines, concentrés, zone chill et arrière-boutique.",
+    "theme": "Urban green",
+    "occupancy": "14 users"
   }
 ]

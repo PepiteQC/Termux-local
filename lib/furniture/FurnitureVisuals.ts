@@ -6,6 +6,7 @@ export type FurnitureParticleEffect =
   | "warm-glow"
   | "ether-sparkles"
   | "neon-pulse"
+  | "kush-smoke"
   | null;
 
 export function resolveFurnitureVisualState(
@@ -24,7 +25,14 @@ export function resolveFurnitureVisualState(
     return "active";
   }
 
-  if (furniture.type === "lamp-halo" || furniture.type === "crystal-ether" || furniture.type === "neon-crown") {
+  if (
+    furniture.type === "lamp-halo" ||
+    furniture.type === "crystal-ether" ||
+    furniture.type === "neon-crown" ||
+    furniture.type === "neon-sign-green" ||
+    furniture.type === "neon-leaf" ||
+    furniture.type === "cash-register"
+  ) {
     return "active";
   }
 
@@ -48,6 +56,23 @@ export function resolveFurnitureParticleEffect(
 
   if (furniture.type === "neon-crown") {
     return "neon-pulse";
+  }
+
+  if (
+    furniture.type === "neon-sign-green" ||
+    furniture.type === "neon-leaf" ||
+    furniture.type === "cash-register"
+  ) {
+    return "neon-pulse";
+  }
+
+  if (
+    furniture.type === "dab-station" ||
+    furniture.type === "cannabis-jar-diamond" ||
+    furniture.type === "cannabis-jar-live-resin" ||
+    furniture.type === "weed-plant-tall"
+  ) {
+    return "kush-smoke";
   }
 
   return null;

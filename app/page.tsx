@@ -1,61 +1,301 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 
-const steps = [
-  { label: "Configuration du jeu...", pct: 10 },
-  { label: "Chargement des avatars...", pct: 25 },
-  { label: "Chargement des meubles...", pct: 40 },
-  { label: "Chargement des items...", pct: 55 },
-  { label: "Chargement des chambres...", pct: 70 },
-  { label: "Initialisation du moteur...", pct: 85 },
-  { label: "Connexion à EtherWorld...", pct: 95 },
-  { label: "PRÊT !", pct: 100 },
+type Phase = "gate" | "connect" | "done";
+
+const CONNECT_STEPS = [
+  { label: "Authentification EtherWorld…", pct: 14 },
+  { label: "Chargement des avatars…", pct: 26 },
+  { label: "Chargement des meubles…", pct: 40 },
+  { label: "Chargement des items…", pct: 54 },
+  { label: "Chargement des chambres…", pct: 66 },
+  { label: "Injection du Green Shop…", pct: 78 },
+  { label: "Initialisation du moteur iso…", pct: 90 },
+  { label: "Synchronisation finale…", pct: 97 },
+  { label: "PRÊT.", pct: 100 }
+];
+
+const ROOMS_PREVIEW = [
+  { tag: "SPAWN", name: "Ether Suite Premium", color: "#4fc3f7" },
+  { tag: "CLUB", name: "Skyline Club", color: "#ff6d00" },
+  { tag: "SHOP", name: "Green Shop · Weed", color: "#5fff8e" },
+  { tag: "GARDEN", name: "Garden Boutique", color: "#c084fc" }
 ];
 
 export default function HomePage() {
   const router = useRouter();
-  const [index, setIndex] = useState(0);
+  const [phase, setPhase] = useState<Phase>("gate");
+  const [stepIndex, setStepIndex] = useState(0);
   const [progress, setProgress] = useState(0);
-  const [label, setLabel] = useState("Initialisation...");
+  const [label, setLabel] = useState("");
+  const [pseudo, setPseudo] = useState("");
+  const [faction, setFaction] = useState<string>("Citoyen");
+  const stars = useMemo(() => generateStars(70), []);
+  const canvasRef = useRef<HTMLCanvasElement | null>(null);
 
   useEffect(() => {
-    if (index >= steps.length) {
-      const timeout = setTimeout(() => {
-        router.push("/room");
-      }, 700);
+    const saved = typeof window !== "undefined" ? window.localStorage.getItem("ew_pseudo") : null;
+    if (saved) setPseudo(saved);
+  }, []);
 
-      return () => clearTimeout(timeout);
+  useEffect(() => {
+    if (phase !== "connect") return;
+
+    if (stepIndex >= CONNECT_STEPS.length) {
+      const t = window.setTimeout(() => {
+        setPhase("done");
+        router.push("/room");
+      }, 520);
+      return () => window.clearTimeout(t);
     }
 
-    const step = steps[index];
-    const timeout = setTimeout(() => {
+    const step = CONNECT_STEPS[stepIndex];
+    const delay = 360 + Math.random() * 280;
+    const t = window.setTimeout(() => {
       setProgress(step.pct);
       setLabel(step.label);
-      setIndex((prev) => prev + 1);
-    }, 500 + Math.random() * 300);
+      setStepIndex((i) => i + 1);
+    }, delay);
+    return () => window.clearTimeout(t);
+  }, [phase, router, stepIndex]);
 
-    return () => clearTimeout(timeout);
-  }, [index, router]);
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    const dpr = window.devicePixelRatio || 1;
+    let raf = 0;
+    let running = true;
+    let t0 = performance.now();
+
+    const resize = () => {
+      const rect = canvas.getBoundingClientRect();
+      canvas.width = rect.width * dpr;
+      canvas.height = rect.height * dpr;
+    };
+    resize();
+    window.addEventListener("resize", resize);
+
+    const draw = () => {
+      if (!running) return;
+      const now = performance.now();
+      const t = (now - t0) / 1000;
+      const w = canvas.width;
+      const h = canvas.height;
+
+      const grad = ctx.createLinearGradient(0, 0, 0, h);
+      grad.addColorStop(0, "#071121");
+      grad.addColorStop(0.55, "#050817");
+      grad.addColorStop(1, "#02030a");
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, w, h);
+
+      const cx = w / 2;
+      const cy = h * 0.55;
+      const tileW = Math.min(w, h) * 0.06;
+      const tileH = tileW * 0.5;
+      const pulse = 0.45 + 0.25 * Math.sin(t * 1.4);
+
+      ctx.save();
+      ctx.translate(cx, cy);
+      ctx.strokeStyle = `rgba(95, 255, 142, ${0.08 + pulse * 0.05})`;
+      ctx.lineWidth = 1 * dpr;
+      const size = 7;
+      for (let x = -size; x <= size; x++) {
+        for (let z = -size; z <= size; z++) {
+          const sx = (x - z) * (tileW / 2);
+          const sy = (x + z) * (tileH / 2);
+          ctx.beginPath();
+          ctx.moveTo(sx, sy - tileH / 2);
+          ctx.lineTo(sx + tileW / 2, sy);
+          ctx.lineTo(sx, sy + tileH / 2);
+          ctx.lineTo(sx - tileW / 2, sy);
+          ctx.closePath();
+          ctx.stroke();
+        }
+      }
+
+      const rgrad = ctx.createRadialGradient(0, 0, 0, 0, 0, tileW * 4);
+      rgrad.addColorStop(0, `rgba(79, 195, 247, ${0.18 + pulse * 0.18})`);
+      rgrad.addColorStop(1, "rgba(79, 195, 247, 0)");
+      ctx.fillStyle = rgrad;
+      ctx.fillRect(-tileW * 5, -tileW * 5, tileW * 10, tileW * 10);
+      ctx.restore();
+
+      raf = requestAnimationFrame(draw);
+    };
+    raf = requestAnimationFrame(draw);
+
+    return () => {
+      running = false;
+      cancelAnimationFrame(raf);
+      window.removeEventListener("resize", resize);
+    };
+  }, []);
+
+  const startConnect = useCallback(() => {
+    if (pseudo.trim().length > 0) {
+      try {
+        window.localStorage.setItem("ew_pseudo", pseudo.trim());
+      } catch {}
+    }
+    setPhase("connect");
+    setStepIndex(0);
+    setProgress(0);
+    setLabel(CONNECT_STEPS[0].label);
+  }, [pseudo]);
+
+  const handleKey = useCallback(
+    (e: React.KeyboardEvent<HTMLInputElement>) => {
+      if (e.key === "Enter") startConnect();
+    },
+    [startConnect]
+  );
 
   return (
-    <main className="ether-loader-page">
-      <section className="ether-loader-card">
-        <div className="ether-loader-icon">🔱</div>
-        <div className="ether-loader-logo">ETHERWORLD</div>
-        <div className="ether-loader-subtitle">HABBO-STYLE GAME ENGINE</div>
-
-        <div className="ether-loader-bar">
-          <div
-            className="ether-loader-fill"
-            style={{ width: `${progress}%` }}
+    <main className="ew-entry">
+      <canvas ref={canvasRef} className="ew-entry-canvas" />
+      <div className="ew-entry-stars" aria-hidden>
+        {stars.map((s, i) => (
+          <span
+            key={i}
+            style={{
+              left: `${s.x}%`,
+              top: `${s.y}%`,
+              width: `${s.r}px`,
+              height: `${s.r}px`,
+              opacity: s.o,
+              animationDelay: `${s.d}s`
+            }}
           />
-        </div>
+        ))}
+      </div>
+      <div className="ew-entry-glow ew-entry-glow--tl" />
+      <div className="ew-entry-glow ew-entry-glow--br" />
 
-        <div className="ether-loader-status">{label}</div>
-        <div className="ether-loader-version">v2.0.0 — Premium Chamber</div>
+      <section className="ew-entry-card">
+        <header className="ew-entry-head">
+          <div className="ew-entry-badge">
+            <span className="ew-entry-badge-dot" /> ONLINE · 142 PLAYERS
+          </div>
+          <h1 className="ew-entry-logo">
+            ETHER<span>WORLD</span>
+          </h1>
+          <p className="ew-entry-subtitle">
+            Habbo-style game engine · Premium chambers · v2.1.0
+          </p>
+        </header>
+
+        {phase === "gate" && (
+          <div className="ew-entry-form">
+            <label className="ew-entry-label">
+              <span>Pseudo</span>
+              <input
+                className="ew-entry-input"
+                type="text"
+                maxLength={24}
+                autoFocus
+                value={pseudo}
+                onChange={(e) => setPseudo(e.target.value)}
+                onKeyDown={handleKey}
+                placeholder="Ex : EtherKing420"
+              />
+            </label>
+
+            <div className="ew-entry-factions">
+              {(["Citoyen", "Green Shop", "Motard", "Vagos", "BMF", "Québec"] as const).map(
+                (f) => (
+                  <button
+                    type="button"
+                    key={f}
+                    className={`ew-entry-faction ${faction === f ? "active" : ""}`}
+                    onClick={() => setFaction(f)}
+                  >
+                    {f}
+                  </button>
+                )
+              )}
+            </div>
+
+            <button
+              type="button"
+              className="ew-entry-cta"
+              onClick={startConnect}
+              disabled={pseudo.trim().length === 0}
+            >
+              <span>ENTRER DANS ETHERWORLD</span>
+              <span className="ew-entry-cta-arrow">›</span>
+            </button>
+
+            <div className="ew-entry-rooms">
+              {ROOMS_PREVIEW.map((r) => (
+                <div className="ew-entry-room" key={r.tag} style={{ borderColor: `${r.color}55` }}>
+                  <span
+                    className="ew-entry-room-tag"
+                    style={{ color: r.color, background: `${r.color}1a` }}
+                  >
+                    {r.tag}
+                  </span>
+                  <span className="ew-entry-room-name">{r.name}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {phase !== "gate" && (
+          <div className="ew-entry-connect">
+            <div className="ew-entry-connect-title">
+              Bienvenue <strong>{pseudo || "Voyageur"}</strong>
+              <em>{faction}</em>
+            </div>
+            <div className="ew-entry-bar">
+              <div className="ew-entry-fill" style={{ width: `${progress}%` }} />
+              <div className="ew-entry-bar-shine" />
+            </div>
+            <div className="ew-entry-status">{label || "Connexion…"}</div>
+            <div className="ew-entry-log">
+              {CONNECT_STEPS.slice(0, stepIndex).map((s, i) => (
+                <div key={i} className="ew-entry-log-line">
+                  <span className="ew-entry-log-dot" />
+                  {s.label}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <footer className="ew-entry-foot">
+          <span>© EtherWorld</span>
+          <span className="ew-entry-foot-sep" />
+          <span>Built in Termux · Next.js · Canvas iso</span>
+        </footer>
       </section>
     </main>
   );
+}
+
+type Star = { x: number; y: number; r: number; o: number; d: number };
+
+function generateStars(count: number): Star[] {
+  const out: Star[] = [];
+  let seed = 1337;
+  const rand = () => {
+    seed = (seed * 1664525 + 1013904223) % 4294967296;
+    return seed / 4294967296;
+  };
+  for (let i = 0; i < count; i++) {
+    out.push({
+      x: rand() * 100,
+      y: rand() * 100,
+      r: 1 + rand() * 2,
+      o: 0.3 + rand() * 0.7,
+      d: rand() * 4
+    });
+  }
+  return out;
 }
