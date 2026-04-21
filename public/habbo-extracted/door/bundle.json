@@ -1,0 +1,229 @@
+{
+  "className": "door",
+  "assets": {
+    "door_64_a_2_0": {
+      "x": 28,
+      "y": 84,
+      "source": "door_64_a_4_0",
+      "flipH": true
+    },
+    "door_64_a_2_1": {
+      "x": 57,
+      "y": 84,
+      "source": "door_64_a_4_1",
+      "flipH": true
+    },
+    "door_64_a_4_0": {
+      "x": 28,
+      "y": 84,
+      "flipH": false
+    },
+    "door_64_a_4_1": {
+      "x": 57,
+      "y": 84,
+      "flipH": false
+    },
+    "door_64_b_2_0": {
+      "x": 30,
+      "y": 116,
+      "source": "door_64_b_4_0",
+      "flipH": true
+    },
+    "door_64_b_2_1": {
+      "x": 30,
+      "y": 116,
+      "source": "door_64_b_4_1",
+      "flipH": true
+    },
+    "door_64_b_4_0": {
+      "x": 30,
+      "y": 116,
+      "flipH": false
+    },
+    "door_64_b_4_1": {
+      "x": 30,
+      "y": 116,
+      "flipH": false
+    },
+    "door_64_c_2_0": {
+      "x": 28,
+      "y": 84,
+      "source": "door_64_a_4_0",
+      "flipH": true
+    },
+    "door_64_c_2_1": {
+      "x": 34,
+      "y": 120,
+      "source": "door_64_c_4_1",
+      "flipH": true
+    },
+    "door_64_c_4_0": {
+      "x": 28,
+      "y": 84,
+      "source": "door_64_a_4_0",
+      "flipH": false
+    },
+    "door_64_c_4_1": {
+      "x": 34,
+      "y": 120,
+      "flipH": false
+    },
+    "door_icon_a": {
+      "x": 10,
+      "y": 15,
+      "flipH": false
+    },
+    "door_32_a_2_0": {
+      "x": 16,
+      "y": 0,
+      "source": "door_32_a_4_0",
+      "flipH": true
+    },
+    "door_32_a_2_1": {
+      "x": 28,
+      "y": 42,
+      "source": "door_32_a_4_1",
+      "flipH": true
+    },
+    "door_32_a_4_0": {
+      "x": 16,
+      "y": 0,
+      "flipH": false
+    },
+    "door_32_a_4_1": {
+      "x": 28,
+      "y": 42,
+      "flipH": false
+    },
+    "door_32_b_2_0": {
+      "x": 16,
+      "y": 57,
+      "source": "door_32_b_4_0",
+      "flipH": true
+    },
+    "door_32_b_2_1": {
+      "x": 16,
+      "y": 57,
+      "source": "door_32_b_4_1",
+      "flipH": true
+    },
+    "door_32_b_4_0": {
+      "x": 16,
+      "y": 57,
+      "flipH": false
+    },
+    "door_32_b_4_1": {
+      "x": 16,
+      "y": 57,
+      "flipH": false
+    },
+    "door_32_c_2_0": {
+      "x": 16,
+      "y": 0,
+      "source": "door_32_a_4_0",
+      "flipH": true
+    },
+    "door_32_c_2_1": {
+      "x": 18,
+      "y": 59,
+      "source": "door_32_c_4_1",
+      "flipH": true
+    },
+    "door_32_c_4_0": {
+      "x": 16,
+      "y": 0,
+      "source": "door_32_a_4_0",
+      "flipH": false
+    },
+    "door_32_c_4_1": {
+      "x": 18,
+      "y": 59,
+      "flipH": false
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 3,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": -1,
+          "ignoreMouse": false
+        },
+        "1": {
+          "z": 200,
+          "ignoreMouse": false
+        },
+        "2": {
+          "z": 205,
+          "ink": "ADD",
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    },
+    "64": {
+      "layerCount": 3,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": -1,
+          "ignoreMouse": false
+        },
+        "1": {
+          "z": 200,
+          "ignoreMouse": false
+        },
+        "2": {
+          "z": 205,
+          "ink": "ADD",
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "index": {
+    "type": "door",
+    "visualization": "furniture_animated",
+    "logic": "furniture_multistate"
+  },
+  "imageList": [
+    "door_icon_a.png",
+    "door_32_a_4_0.png",
+    "door_32_c_4_1.png",
+    "door_32_a_4_1.png",
+    "door_64_a_4_0.png",
+    "door_64_c_4_1.png",
+    "door_64_a_4_1.png",
+    "door_64_b_4_1.png",
+    "door_64_b_4_0.png",
+    "door_32_b_4_1.png",
+    "door_32_b_4_0.png"
+  ]
+}

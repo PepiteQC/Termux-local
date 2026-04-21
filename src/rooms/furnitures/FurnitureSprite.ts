@@ -1,5 +1,6 @@
 import { Container, Graphics } from 'pixi.js'
 
+import { buildHabboFurniContainer } from '../../habbo/HabboFurniLoader'
 import type RoomScene from '../RoomScene'
 import TilesContainer from '../containers/tiles/TilesContainer'
 import Tile from '../tiles/Tile'
@@ -73,7 +74,57 @@ export default class FurnitureSprite extends Container {
 		this.eventMode = 'static'
 		this.cursor = 'pointer'
 
-		this.build()
+		if (item.habboClassName) {
+			this.buildHabbo().catch(() => this.build())
+		} else {
+			this.build()
+		}
+	}
+
+	private async buildHabbo(): Promise<void> {
+		const item = this.item
+		const baseHeight = Math.max(0, this.room.map.getTileHeightAt(item.x, item.y))
+		const worldOrigin = {
+			x: TilesContainer.getScreenX({ x: item.x, y: item.y, height: baseHeight }),
+			y: TilesContainer.getScreenY({ x: item.x, y: item.y, height: baseHeight })
+		}
+
+		const container = await buildHabboFurniContainer({
+			className: item.habboClassName!,
+			size: 64,
+			direction: item.habboDirection ?? 2
+		})
+		if (!container) {
+			this.build()
+			return
+		}
+
+		const shadow = new Graphics()
+		const centerX = (
+			TilesContainer.getScreenX({ x: item.x + item.width / 2, y: item.y + item.depth / 2, height: baseHeight }) -
+			worldOrigin.x
+		)
+		const centerY = (
+			TilesContainer.getScreenY({ x: item.x + item.width / 2, y: item.y + item.depth / 2, height: baseHeight }) -
+			worldOrigin.y
+		)
+		shadow
+			.ellipse(centerX, centerY + 4, Math.max(18, item.width * 20), Math.max(8, item.depth * 10))
+			.fill({ color: 0x000000, alpha: 0.22 })
+		shadow.zIndex = 0
+		this.addChild(shadow)
+
+		container.position.set(centerX, centerY)
+		container.zIndex = 1
+		this.addChild(container)
+
+		this.position.set(worldOrigin.x, worldOrigin.y)
+		this.zIndex =
+			TilesContainer.getScreenIndex({
+				x: item.x + item.width,
+				y: item.y + item.depth,
+				height: baseHeight
+			}) * 10 + 100
 	}
 
 	private build(): void {

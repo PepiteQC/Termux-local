@@ -1,0 +1,135 @@
+{
+  "className": "shelves_norja",
+  "assets": {
+    "shelves_norja_32_a_0_0": {
+      "x": 13,
+      "y": 51,
+      "flipH": false
+    },
+    "shelves_norja_32_a_2_0": {
+      "x": 13,
+      "y": 51,
+      "source": "shelves_norja_32_a_0_0",
+      "flipH": true
+    },
+    "shelves_norja_32_b_0_0": {
+      "x": 13,
+      "y": 44,
+      "flipH": false
+    },
+    "shelves_norja_32_b_2_0": {
+      "x": 13,
+      "y": 44,
+      "source": "shelves_norja_32_b_0_0",
+      "flipH": true
+    },
+    "shelves_norja_32_sd_0_0": {
+      "x": 10,
+      "y": 5,
+      "flipH": false
+    },
+    "shelves_norja_32_sd_2_0": {
+      "x": 10,
+      "y": 5,
+      "source": "shelves_norja_32_sd_0_0",
+      "flipH": true
+    },
+    "shelves_norja_64_a_0_0": {
+      "x": 22,
+      "y": 101,
+      "flipH": false
+    },
+    "shelves_norja_64_a_2_0": {
+      "x": 22,
+      "y": 101,
+      "source": "shelves_norja_64_a_0_0",
+      "flipH": true
+    },
+    "shelves_norja_64_b_0_0": {
+      "x": 21,
+      "y": 84,
+      "flipH": false
+    },
+    "shelves_norja_64_b_2_0": {
+      "x": 21,
+      "y": 84,
+      "source": "shelves_norja_64_b_0_0",
+      "flipH": true
+    },
+    "shelves_norja_64_sd_0_0": {
+      "x": 18,
+      "y": 11,
+      "flipH": false
+    },
+    "shelves_norja_64_sd_2_0": {
+      "x": 18,
+      "y": 11,
+      "source": "shelves_norja_64_sd_0_0",
+      "flipH": true
+    },
+    "shelves_norja_icon_a": {
+      "x": 7,
+      "y": 16,
+      "flipH": false
+    },
+    "shelves_norja_icon_b": {
+      "x": 5,
+      "y": 11,
+      "flipH": false
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 2,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {},
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    },
+    "64": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {},
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "index": {
+    "type": "shelves_norja",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "shelves_norja_icon_a.png",
+    "shelves_norja_64_a_0_0.png",
+    "shelves_norja_32_sd_0_0.png",
+    "shelves_norja_32_a_0_0.png",
+    "shelves_norja_64_sd_0_0.png",
+    "shelves_norja_64_b_0_0.png",
+    "shelves_norja_icon_b.png",
+    "shelves_norja_32_b_0_0.png"
+  ]
+}

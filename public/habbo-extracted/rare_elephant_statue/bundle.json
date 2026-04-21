@@ -1,0 +1,219 @@
+{
+  "className": "rare_elephant_statue",
+  "assets": {
+    "rare_elephant_statue_64_a_0_0": {
+      "x": 17,
+      "y": 41,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_a_2_0": {
+      "x": 23,
+      "y": 40,
+      "source": "rare_elephant_statue_64_a_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_64_a_4_0": {
+      "x": 23,
+      "y": 40,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_a_6_0": {
+      "x": 17,
+      "y": 41,
+      "source": "rare_elephant_statue_64_a_0_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_64_b_0_0": {
+      "x": 18,
+      "y": 42,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_b_2_0": {
+      "x": 24,
+      "y": 41,
+      "source": "rare_elephant_statue_64_b_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_64_b_4_0": {
+      "x": 24,
+      "y": 41,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_b_6_0": {
+      "x": 18,
+      "y": 42,
+      "source": "rare_elephant_statue_64_b_0_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_64_sd_0_0": {
+      "x": 19,
+      "y": 4,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_sd_2_0": {
+      "x": 19,
+      "y": 4,
+      "source": "rare_elephant_statue_64_sd_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_64_sd_4_0": {
+      "x": 19,
+      "y": 4,
+      "flipH": false
+    },
+    "rare_elephant_statue_64_sd_6_0": {
+      "x": 19,
+      "y": 4,
+      "source": "rare_elephant_statue_64_sd_0_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_icon_a": {
+      "x": 13,
+      "y": 15,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_a_0_0": {
+      "x": 9,
+      "y": 20,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_a_2_0": {
+      "x": 12,
+      "y": 19,
+      "source": "rare_elephant_statue_32_a_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_32_a_4_0": {
+      "x": 12,
+      "y": 19,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_a_6_0": {
+      "x": 9,
+      "y": 20,
+      "source": "rare_elephant_statue_32_a_0_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_32_b_0_0": {
+      "x": 10,
+      "y": 21,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_b_2_0": {
+      "x": 13,
+      "y": 20,
+      "source": "rare_elephant_statue_32_b_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_32_b_4_0": {
+      "x": 13,
+      "y": 20,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_b_6_0": {
+      "x": 10,
+      "y": 21,
+      "source": "rare_elephant_statue_32_b_0_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_32_sd_0_0": {
+      "x": 10,
+      "y": 1,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_sd_2_0": {
+      "x": 12,
+      "y": 1,
+      "source": "rare_elephant_statue_32_sd_4_0",
+      "flipH": true
+    },
+    "rare_elephant_statue_32_sd_4_0": {
+      "x": 12,
+      "y": 1,
+      "flipH": false
+    },
+    "rare_elephant_statue_32_sd_6_0": {
+      "x": 10,
+      "y": 1,
+      "source": "rare_elephant_statue_32_sd_0_0",
+      "flipH": true
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 10,
+          "ink": "ADD",
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {},
+        "4": {},
+        "6": {}
+      }
+    },
+    "64": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 10,
+          "ink": "ADD",
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {},
+        "4": {},
+        "6": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "index": {
+    "type": "rare_elephant_statue",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "rare_elephant_statue_32_sd_4_0.png",
+    "rare_elephant_statue_icon_a.png",
+    "rare_elephant_statue_64_a_0_0.png",
+    "rare_elephant_statue_64_b_4_0.png",
+    "rare_elephant_statue_32_sd_0_0.png",
+    "rare_elephant_statue_32_b_4_0.png",
+    "rare_elephant_statue_32_a_0_0.png",
+    "rare_elephant_statue_64_sd_4_0.png",
+    "rare_elephant_statue_32_b_0_0.png",
+    "rare_elephant_statue_64_sd_0_0.png",
+    "rare_elephant_statue_32_a_4_0.png",
+    "rare_elephant_statue_64_a_4_0.png",
+    "rare_elephant_statue_64_b_0_0.png"
+  ]
+}

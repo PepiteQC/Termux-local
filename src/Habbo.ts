@@ -138,6 +138,37 @@ export default class Habbo {
 		return true
 	}
 
+	public placeHabboFurni(className: string, options?: { x?: number; y?: number; width?: number; depth?: number; direction?: number; label?: string }): boolean {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return false
+		const container = (room as unknown as {
+			roomContainer?: {
+				furnituresContainer?: {
+					addFurniture?: (data: unknown) => unknown
+				}
+			}
+		}).roomContainer
+		const furnituresContainer = container?.furnituresContainer
+		if (!furnituresContainer?.addFurniture) return false
+
+		const data = {
+			id: `habbo-${className}-${Date.now()}`,
+			label: options?.label ?? className,
+			kind: 'table',
+			x: options?.x ?? 4,
+			y: options?.y ?? 4,
+			width: options?.width ?? 1,
+			depth: options?.depth ?? 1,
+			height: 1,
+			palette: 'oak',
+			walkable: false,
+			habboClassName: className,
+			habboDirection: options?.direction ?? 2
+		}
+		furnituresContainer.addFurniture(data)
+		return true
+	}
+
 	public emitSmokeAtPrimaryAvatar(tint: number = 0xd8d8e2, count: number = 18): boolean {
 		const room = this.roomManager.getCurrentRoom() as unknown as {
 			roomContainer?: {

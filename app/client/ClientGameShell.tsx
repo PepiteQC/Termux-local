@@ -68,8 +68,22 @@ type HabboLike = {
 	getCurrentRoomId: () => string | null
 	teleportAvatarTo: (x: number, y: number) => boolean
 	emitSmokeAtPrimaryAvatar: (tint?: number, count?: number) => boolean
+	placeHabboFurni: (className: string, options?: { x?: number; y?: number; direction?: number; label?: string; width?: number; depth?: number }) => boolean
 	gangState: GangStateLike
 	destroy?: () => void
+}
+
+type HabboCatalogEntry = {
+	id: number
+	className: string
+	category: string | null
+	furniline: string | null
+	xdim: number
+	ydim: number
+	name: string
+	description: string
+	hasSwf: boolean
+	icon: string | null
 }
 
 type PanelKey = "rooms" | "wardrobe" | "shop" | "inventory" | "admin" | "gangs" | "chat" | null
@@ -177,6 +191,10 @@ export default function ClientGameShell() {
 	const [interactionOpen, setInteractionOpen] = useState(false)
 	const [gangTab, setGangTab] = useState<GangTab>("crew")
 	const [chatDraft, setChatDraft] = useState("")
+	const [habboCatalog, setHabboCatalog] = useState<HabboCatalogEntry[]>([])
+	const [habboQuery, setHabboQuery] = useState("")
+	const [habboCategory, setHabboCategory] = useState<string>("all")
+	const [habboSwfOnly, setHabboSwfOnly] = useState(true)
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
@@ -188,6 +206,19 @@ export default function ClientGameShell() {
 		if (!habbo || !username) return
 		habbo.gangState.setPlayerName(username)
 	}, [habbo, username])
+
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		let cancelled = false
+		fetch("/data/habbo/catalog.json", { cache: "force-cache" })
+			.then((r) => (r.ok ? r.json() : null))
+			.then((data: { furni?: HabboCatalogEntry[] } | null) => {
+				if (cancelled || !data?.furni) return
+				setHabboCatalog(data.furni)
+			})
+			.catch(() => { /* optional */ })
+		return () => { cancelled = true }
+	}, [])
 
 	useEffect(() => {
 		if (!habbo) return
@@ -753,6 +784,89 @@ export default function ClientGameShell() {
 									<div className="ew-admin-row"><span className="ew-admin-label">Rooms totales :</span><span className="ew-admin-value">{rooms.length}</span></div>
 									<div className="ew-admin-row"><span className="ew-admin-label">Planques gang :</span><span className="ew-admin-value">{gangRooms.length}</span></div>
 									<div className="ew-admin-row"><span className="ew-admin-label">Shops :</span><span className="ew-admin-value">{shopRooms.length}</span></div>
+									<div className="ew-admin-row"><span className="ew-admin-label">Catalogue Habbo :</span><span className="ew-admin-value">{habboCatalog.length}</span></div>
+								</section>
+
+								<section className="ew-admin-block ew-habbo-catalog-block">
+									<h3>Catalogue Habbo officiel</h3>
+									<p className="ew-habbo-catalog-hint">
+										Clique sur un item pour le poser dans la room courante. Les items marqués{" "}
+										<span className="ew-habbo-badge-ok">extrait</span> sont rendus avec les sprites
+										Habbo officiels. Sinon, l’icône est placée comme référence en attendant
+										l’extraction du SWF correspondant.
+									</p>
+									<div className="ew-habbo-catalog-filters">
+										<input
+											className="ew-habbo-search"
+											placeholder="Rechercher (nom ou classname)"
+											value={habboQuery}
+											onChange={(e) => setHabboQuery(e.target.value)}
+										/>
+										<select
+											className="ew-habbo-category"
+											value={habboCategory}
+											onChange={(e) => setHabboCategory(e.target.value)}
+										>
+											<option value="all">Toutes catégories</option>
+											{Array.from(new Set(habboCatalog.map((e) => e.category || "other")))
+												.sort()
+												.slice(0, 40)
+												.map((cat) => (
+													<option key={cat} value={cat}>{cat}</option>
+												))}
+										</select>
+										<label className="ew-habbo-swf-only">
+											<input type="checkbox" checked={habboSwfOnly} onChange={(e) => setHabboSwfOnly(e.target.checked)} />
+											SWF uniquement
+										</label>
+									</div>
+									<div className="ew-habbo-catalog-grid">
+										{habboCatalog
+											.filter((e) => {
+												if (habboSwfOnly && !e.hasSwf) return false
+												if (habboCategory !== "all" && (e.category || "other") !== habboCategory) return false
+												if (habboQuery) {
+													const q = habboQuery.toLowerCase()
+													if (!e.className.toLowerCase().includes(q) && !(e.name || "").toLowerCase().includes(q)) return false
+												}
+												return true
+											})
+											.slice(0, 180)
+											.map((entry) => (
+												<button
+													key={entry.id}
+													className="ew-habbo-catalog-item"
+													title={`${entry.name || entry.className}\n${entry.description || ""}`}
+													onClick={() => {
+														if (!habbo) return
+														const ok = habbo.placeHabboFurni(entry.className, {
+															x: Number(teleportX) || 4,
+															y: Number(teleportY) || 4,
+															width: entry.xdim,
+															depth: entry.ydim,
+															label: entry.name || entry.className
+														})
+														flashStatus(ok ? `Posé : ${entry.className}` : `Impossible de poser ${entry.className}`)
+													}}
+												>
+													{entry.icon ? (
+														<img
+															src={entry.icon}
+															alt=""
+															className="ew-habbo-catalog-icon"
+															onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = "hidden" }}
+														/>
+													) : (
+														<div className="ew-habbo-catalog-icon ew-habbo-icon-fallback" />
+													)}
+													<div className="ew-habbo-catalog-name">{entry.name || entry.className}</div>
+													<div className="ew-habbo-catalog-meta">
+														<span>{entry.xdim}×{entry.ydim}</span>
+														{entry.hasSwf ? <span className="ew-habbo-badge-ok">swf</span> : null}
+													</div>
+												</button>
+											))}
+									</div>
 								</section>
 							</div>
 						) : null}

@@ -1,0 +1,217 @@
+{
+  "className": "plant_mazegate",
+  "assets": {
+    "plant_mazegate_64_a_2_0": {
+      "x": 15,
+      "y": 69,
+      "flipH": false
+    },
+    "plant_mazegate_64_a_2_1": {
+      "x": 15,
+      "y": 69,
+      "flipH": false
+    },
+    "plant_mazegate_64_a_4_0": {
+      "x": 33,
+      "y": 69,
+      "flipH": false
+    },
+    "plant_mazegate_64_a_4_1": {
+      "x": 33,
+      "y": 69,
+      "flipH": false
+    },
+    "plant_mazegate_64_b_2_0": {
+      "x": 65,
+      "y": 41,
+      "flipH": false
+    },
+    "plant_mazegate_64_b_2_1": {
+      "x": 65,
+      "y": 41,
+      "flipH": false
+    },
+    "plant_mazegate_64_b_4_0": {
+      "x": -16,
+      "y": 41,
+      "flipH": false
+    },
+    "plant_mazegate_64_b_4_1": {
+      "x": -16,
+      "y": 41,
+      "flipH": false
+    },
+    "plant_mazegate_64_sd_0_0": {
+      "x": 35,
+      "y": 17,
+      "source": "plant_mazegate_64_sd_4_0",
+      "flipH": true
+    },
+    "plant_mazegate_64_sd_2_0": {
+      "x": 67,
+      "y": 17,
+      "flipH": false
+    },
+    "plant_mazegate_64_sd_4_0": {
+      "x": 35,
+      "y": 17,
+      "flipH": false
+    },
+    "plant_mazegate_64_sd_6_0": {
+      "x": 67,
+      "y": 17,
+      "source": "plant_mazegate_64_sd_2_0",
+      "flipH": true
+    },
+    "plant_mazegate_icon_a": {
+      "x": 16,
+      "y": 16,
+      "flipH": false
+    },
+    "plant_mazegate_32_a_2_0": {
+      "x": 8,
+      "y": 35,
+      "flipH": false
+    },
+    "plant_mazegate_32_a_2_1": {
+      "x": 8,
+      "y": 35,
+      "flipH": false
+    },
+    "plant_mazegate_32_a_4_0": {
+      "x": 17,
+      "y": 34,
+      "flipH": false
+    },
+    "plant_mazegate_32_a_4_1": {
+      "x": 17,
+      "y": 34,
+      "flipH": false
+    },
+    "plant_mazegate_32_b_2_0": {
+      "x": 33,
+      "y": 20,
+      "flipH": false
+    },
+    "plant_mazegate_32_b_2_1": {
+      "x": 33,
+      "y": 20,
+      "flipH": false
+    },
+    "plant_mazegate_32_b_4_0": {
+      "x": -9,
+      "y": 21,
+      "flipH": false
+    },
+    "plant_mazegate_32_b_4_1": {
+      "x": -9,
+      "y": 21,
+      "flipH": false
+    },
+    "plant_mazegate_32_sd_0_0": {
+      "x": 17,
+      "y": 9,
+      "source": "plant_mazegate_32_sd_4_0",
+      "flipH": true
+    },
+    "plant_mazegate_32_sd_2_0": {
+      "x": 33,
+      "y": 9,
+      "flipH": false
+    },
+    "plant_mazegate_32_sd_4_0": {
+      "x": 17,
+      "y": 9,
+      "flipH": false
+    },
+    "plant_mazegate_32_sd_6_0": {
+      "x": 33,
+      "y": 9,
+      "source": "plant_mazegate_32_sd_2_0",
+      "flipH": true
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {},
+      "directions": {
+        "2": {
+          "1": {
+            "z": 1008
+          }
+        },
+        "4": {
+          "1": {
+            "z": 1008
+          }
+        }
+      }
+    },
+    "64": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {},
+      "directions": {
+        "2": {
+          "1": {
+            "z": 1008
+          }
+        },
+        "4": {
+          "1": {
+            "z": 1008
+          }
+        }
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "index": {
+    "type": "plant_mazegate",
+    "visualization": "furniture_animated",
+    "logic": "furniture_multistate"
+  },
+  "imageList": [
+    "plant_mazegate_64_b_4_1.png",
+    "plant_mazegate_32_a_4_1.png",
+    "plant_mazegate_64_a_4_0.png",
+    "plant_mazegate_32_sd_2_0.png",
+    "plant_mazegate_64_a_4_1.png",
+    "plant_mazegate_32_a_4_0.png",
+    "plant_mazegate_64_b_4_0.png",
+    "plant_mazegate_64_sd_4_0.png",
+    "plant_mazegate_64_a_2_1.png",
+    "plant_mazegate_64_a_2_0.png",
+    "plant_mazegate_32_b_2_1.png",
+    "plant_mazegate_32_b_2_0.png",
+    "plant_mazegate_icon_a.png",
+    "plant_mazegate_64_b_2_1.png",
+    "plant_mazegate_64_b_2_0.png",
+    "plant_mazegate_64_sd_2_0.png",
+    "plant_mazegate_32_sd_4_0.png",
+    "plant_mazegate_32_a_2_1.png",
+    "plant_mazegate_32_a_2_0.png",
+    "plant_mazegate_32_b_4_0.png",
+    "plant_mazegate_32_b_4_1.png"
+  ]
+}

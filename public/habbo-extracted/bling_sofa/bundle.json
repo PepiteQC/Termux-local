@@ -1,0 +1,171 @@
+{
+  "className": "bling_sofa",
+  "assets": {
+    "bling_sofa_64_a_2_0": {
+      "x": 77,
+      "y": 55,
+      "flipH": false
+    },
+    "bling_sofa_64_a_2_1": {
+      "x": 69,
+      "y": 56,
+      "flipH": false
+    },
+    "bling_sofa_64_a_4_0": {
+      "x": 77,
+      "y": 55,
+      "source": "bling_sofa_64_a_2_0",
+      "flipH": true
+    },
+    "bling_sofa_64_a_4_1": {
+      "x": 69,
+      "y": 56,
+      "source": "bling_sofa_64_a_2_1",
+      "flipH": true
+    },
+    "bling_sofa_64_b_2_0": {
+      "x": 37,
+      "y": 72,
+      "flipH": false
+    },
+    "bling_sofa_64_b_4_0": {
+      "x": 37,
+      "y": 72,
+      "source": "bling_sofa_64_b_2_0",
+      "flipH": true
+    },
+    "bling_sofa_64_sd_2_0": {
+      "x": 60,
+      "y": 20,
+      "flipH": false
+    },
+    "bling_sofa_64_sd_4_0": {
+      "x": 60,
+      "y": 20,
+      "source": "bling_sofa_64_sd_2_0",
+      "flipH": true
+    },
+    "bling_sofa_icon_a": {
+      "x": 14,
+      "y": 13,
+      "flipH": false
+    },
+    "bling_sofa_32_a_2_0": {
+      "x": 39,
+      "y": 23,
+      "flipH": false
+    },
+    "bling_sofa_32_a_2_1": {
+      "x": 36,
+      "y": 24,
+      "flipH": false
+    },
+    "bling_sofa_32_a_4_0": {
+      "x": 39,
+      "y": 23,
+      "source": "bling_sofa_32_a_2_0",
+      "flipH": true
+    },
+    "bling_sofa_32_a_4_1": {
+      "x": 36,
+      "y": 24,
+      "source": "bling_sofa_32_a_2_1",
+      "flipH": true
+    },
+    "bling_sofa_32_b_2_0": {
+      "x": 20,
+      "y": 32,
+      "flipH": false
+    },
+    "bling_sofa_32_b_4_0": {
+      "x": 20,
+      "y": 32,
+      "source": "bling_sofa_32_b_2_0",
+      "flipH": true
+    },
+    "bling_sofa_32_sd_2_0": {
+      "x": 28,
+      "y": 7,
+      "flipH": false
+    },
+    "bling_sofa_32_sd_4_0": {
+      "x": 28,
+      "y": 7,
+      "source": "bling_sofa_32_sd_2_0",
+      "flipH": true
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 1010,
+          "ignoreMouse": false
+        },
+        "1": {
+          "z": -30,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    },
+    "64": {
+      "layerCount": 2,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 1010,
+          "ignoreMouse": false
+        },
+        "1": {
+          "z": -30,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.6
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "index": {
+    "type": "bling_sofa",
+    "visualization": "furniture_animated",
+    "logic": "furniture_multistate"
+  },
+  "imageList": [
+    "bling_sofa_64_a_2_1.png",
+    "bling_sofa_64_a_2_0.png",
+    "bling_sofa_64_sd_2_0.png",
+    "bling_sofa_32_a_2_0.png",
+    "bling_sofa_32_a_2_1.png",
+    "bling_sofa_64_b_2_0.png",
+    "bling_sofa_icon_a.png",
+    "bling_sofa_32_b_2_0.png",
+    "bling_sofa_32_sd_2_0.png"
+  ]
+}

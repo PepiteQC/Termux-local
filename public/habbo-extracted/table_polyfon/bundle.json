@@ -1,0 +1,127 @@
+{
+  "className": "table_polyfon",
+  "assets": {
+    "table_polyfon_32_a_0_0": {
+      "x": 29,
+      "y": 18,
+      "flipH": false
+    },
+    "table_polyfon_32_a_2_0": {
+      "x": 29,
+      "y": 18,
+      "source": "table_polyfon_32_a_0_0",
+      "flipH": true
+    },
+    "table_polyfon_32_sd_0_0": {
+      "x": 29,
+      "y": 5,
+      "flipH": false
+    },
+    "table_polyfon_32_sd_2_0": {
+      "x": 29,
+      "y": 5,
+      "source": "table_polyfon_32_sd_0_0",
+      "flipH": false
+    },
+    "table_polyfon_32_sd_6_0": {
+      "x": 29,
+      "y": 5,
+      "source": "table_polyfon_32_sd_0_0",
+      "flipH": true
+    },
+    "table_polyfon_64_a_0_0": {
+      "x": 60,
+      "y": 37,
+      "flipH": false
+    },
+    "table_polyfon_64_a_2_0": {
+      "x": 60,
+      "y": 37,
+      "source": "table_polyfon_64_a_0_0",
+      "flipH": true
+    },
+    "table_polyfon_64_sd_0_0": {
+      "x": 59,
+      "y": 13,
+      "flipH": false
+    },
+    "table_polyfon_64_sd_2_0": {
+      "x": 59,
+      "y": 13,
+      "source": "table_polyfon_64_sd_0_0",
+      "flipH": false
+    },
+    "table_polyfon_64_sd_6_0": {
+      "x": 63,
+      "y": 13,
+      "flipH": false
+    },
+    "table_polyfon_icon_a": {
+      "x": 15,
+      "y": 11,
+      "flipH": false
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 1,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 1,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 1000,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    },
+    "64": {
+      "layerCount": 1,
+      "angle": 45,
+      "layers": {
+        "0": {
+          "z": 1000,
+          "ignoreMouse": false
+        }
+      },
+      "directions": {
+        "0": {},
+        "2": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.6
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "index": {
+    "type": "table_polyfon",
+    "visualization": "furniture_static",
+    "logic": "furniture_basic"
+  },
+  "imageList": [
+    "table_polyfon_64_a_0_0.png",
+    "table_polyfon_32_a_0_0.png",
+    "table_polyfon_64_sd_6_0.png",
+    "table_polyfon_32_sd_0_0.png",
+    "table_polyfon_icon_a.png",
+    "table_polyfon_64_sd_0_0.png"
+  ]
+}

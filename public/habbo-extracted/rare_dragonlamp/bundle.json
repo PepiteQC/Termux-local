@@ -1,0 +1,462 @@
+{
+  "className": "rare_dragonlamp",
+  "assets": {
+    "rare_dragonlamp_64_a_2_0": {
+      "x": 28,
+      "y": 13,
+      "source": "rare_dragonlamp_64_a_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_a_4_0": {
+      "x": 28,
+      "y": 13,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_b_2_0": {
+      "x": 18,
+      "y": 35,
+      "source": "rare_dragonlamp_64_b_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_b_4_0": {
+      "x": 18,
+      "y": 35,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_c_2_0": {
+      "x": 20,
+      "y": 60,
+      "source": "rare_dragonlamp_64_c_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_c_2_1": {
+      "x": 8,
+      "y": 69,
+      "source": "rare_dragonlamp_64_c_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_c_4_0": {
+      "x": 20,
+      "y": 60,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_c_4_1": {
+      "x": 8,
+      "y": 69,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_d_2_0": {
+      "x": 17,
+      "y": 34,
+      "source": "rare_dragonlamp_64_d_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_d_4_0": {
+      "x": 17,
+      "y": 34,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_e_2_0": {
+      "x": 19,
+      "y": 59,
+      "source": "rare_dragonlamp_64_e_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_e_2_1": {
+      "x": 7,
+      "y": 68,
+      "source": "rare_dragonlamp_64_e_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_e_4_0": {
+      "x": 19,
+      "y": 59,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_e_4_1": {
+      "x": 7,
+      "y": 68,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_f_2_0": {
+      "x": 28,
+      "y": -2,
+      "source": "rare_dragonlamp_64_f_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_f_2_1": {
+      "x": 3,
+      "y": 96,
+      "source": "rare_dragonlamp_64_f_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_f_2_2": {
+      "x": 5,
+      "y": 91,
+      "source": "rare_dragonlamp_64_f_4_2",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_f_2_3": {
+      "x": 7,
+      "y": 94,
+      "source": "rare_dragonlamp_64_f_4_3",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_f_2_4": {
+      "x": 8,
+      "y": 95,
+      "source": "rare_dragonlamp_64_f_4_4",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_f_4_0": {
+      "x": 28,
+      "y": -2,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_f_4_1": {
+      "x": 3,
+      "y": 96,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_f_4_2": {
+      "x": 5,
+      "y": 91,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_f_4_3": {
+      "x": 7,
+      "y": 94,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_f_4_4": {
+      "x": 8,
+      "y": 95,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_g_2_0": {
+      "x": 28,
+      "y": -2,
+      "source": "rare_dragonlamp_64_g_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_g_2_1": {
+      "x": 25,
+      "y": 114,
+      "source": "rare_dragonlamp_64_g_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_g_4_0": {
+      "x": 28,
+      "y": -2,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_g_4_1": {
+      "x": 25,
+      "y": 114,
+      "flipH": false
+    },
+    "rare_dragonlamp_64_sd_2_0": {
+      "x": 29,
+      "y": 3,
+      "source": "rare_dragonlamp_64_sd_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_64_sd_4_0": {
+      "x": 29,
+      "y": 3,
+      "flipH": false
+    },
+    "rare_dragonlamp_icon_a": {
+      "x": 13,
+      "y": 15,
+      "flipH": false
+    },
+    "rare_dragonlamp_icon_b": {
+      "x": 9,
+      "y": 15,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_a_2_0": {
+      "x": 14,
+      "y": 6,
+      "source": "rare_dragonlamp_32_a_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_a_4_0": {
+      "x": 14,
+      "y": 6,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_b_2_0": {
+      "x": 9,
+      "y": 18,
+      "source": "rare_dragonlamp_32_b_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_b_4_0": {
+      "x": 9,
+      "y": 18,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_c_2_0": {
+      "x": 11,
+      "y": 29,
+      "source": "rare_dragonlamp_32_c_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_c_2_1": {
+      "x": 4,
+      "y": 34,
+      "source": "rare_dragonlamp_32_c_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_c_4_0": {
+      "x": 11,
+      "y": 29,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_c_4_1": {
+      "x": 4,
+      "y": 34,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_d_2_0": {
+      "x": 7,
+      "y": 16,
+      "source": "rare_dragonlamp_32_d_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_d_4_0": {
+      "x": 7,
+      "y": 16,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_e_2_0": {
+      "x": 10,
+      "y": 28,
+      "source": "rare_dragonlamp_32_e_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_e_2_1": {
+      "x": 4,
+      "y": 33,
+      "source": "rare_dragonlamp_32_e_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_e_4_0": {
+      "x": 10,
+      "y": 28,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_e_4_1": {
+      "x": 4,
+      "y": 33,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_f_2_0": {
+      "x": 14,
+      "y": -2,
+      "source": "rare_dragonlamp_32_f_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_f_2_1": {
+      "x": 3,
+      "y": 46,
+      "source": "rare_dragonlamp_32_f_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_f_2_2": {
+      "x": 3,
+      "y": 44,
+      "source": "rare_dragonlamp_32_f_4_2",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_f_2_3": {
+      "x": 4,
+      "y": 45,
+      "source": "rare_dragonlamp_32_f_4_3",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_f_2_4": {
+      "x": 4,
+      "y": 46,
+      "source": "rare_dragonlamp_32_f_4_4",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_f_4_0": {
+      "x": 14,
+      "y": -2,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_f_4_1": {
+      "x": 3,
+      "y": 46,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_f_4_2": {
+      "x": 3,
+      "y": 44,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_f_4_3": {
+      "x": 4,
+      "y": 45,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_f_4_4": {
+      "x": 4,
+      "y": 46,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_g_2_0": {
+      "x": 14,
+      "y": -2,
+      "source": "rare_dragonlamp_32_g_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_g_2_1": {
+      "x": 13,
+      "y": 57,
+      "source": "rare_dragonlamp_32_g_4_1",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_g_4_0": {
+      "x": 14,
+      "y": -2,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_g_4_1": {
+      "x": 13,
+      "y": 57,
+      "flipH": false
+    },
+    "rare_dragonlamp_32_sd_2_0": {
+      "x": 15,
+      "y": 1,
+      "source": "rare_dragonlamp_32_sd_4_0",
+      "flipH": true
+    },
+    "rare_dragonlamp_32_sd_4_0": {
+      "x": 15,
+      "y": 1,
+      "flipH": false
+    }
+  },
+  "visualization": {
+    "1": {
+      "layerCount": 2,
+      "angle": 360,
+      "layers": {},
+      "directions": {
+        "0": {}
+      }
+    },
+    "32": {
+      "layerCount": 7,
+      "angle": 45,
+      "layers": {
+        "3": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "4": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "5": {
+          "z": 0,
+          "alpha": 204,
+          "ignoreMouse": false
+        },
+        "6": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": true
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    },
+    "64": {
+      "layerCount": 7,
+      "angle": 45,
+      "layers": {
+        "3": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "4": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": false
+        },
+        "5": {
+          "z": 0,
+          "alpha": 204,
+          "ignoreMouse": false
+        },
+        "6": {
+          "z": 0,
+          "ink": "ADD",
+          "ignoreMouse": true
+        }
+      },
+      "directions": {
+        "2": {},
+        "4": {}
+      }
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "index": {
+    "type": "rare_dragonlamp",
+    "visualization": "furniture_animated",
+    "logic": "furniture_multistate"
+  },
+  "imageList": [
+    "rare_dragonlamp_64_e_4_0.png",
+    "rare_dragonlamp_32_g_4_0.png",
+    "rare_dragonlamp_64_e_4_1.png",
+    "rare_dragonlamp_32_f_4_1.png",
+    "rare_dragonlamp_32_f_4_2.png",
+    "rare_dragonlamp_32_f_4_3.png",
+    "rare_dragonlamp_32_f_4_4.png",
+    "rare_dragonlamp_32_a_4_0.png",
+    "rare_dragonlamp_32_e_4_1.png",
+    "rare_dragonlamp_32_e_4_0.png",
+    "rare_dragonlamp_64_d_4_0.png",
+    "rare_dragonlamp_icon_a.png",
+    "rare_dragonlamp_icon_b.png",
+    "rare_dragonlamp_32_d_4_0.png",
+    "rare_dragonlamp_64_b_4_0.png",
+    "rare_dragonlamp_64_c_4_0.png",
+    "rare_dragonlamp_64_c_4_1.png",
+    "rare_dragonlamp_64_g_4_1.png",
+    "rare_dragonlamp_32_sd_4_0.png",
+    "rare_dragonlamp_64_f_4_1.png",
+    "rare_dragonlamp_64_f_4_2.png",
+    "rare_dragonlamp_64_f_4_3.png",
+    "rare_dragonlamp_64_f_4_4.png",
+    "rare_dragonlamp_64_a_4_0.png",
+    "rare_dragonlamp_32_b_4_0.png",
+    "rare_dragonlamp_32_c_4_1.png",
+    "rare_dragonlamp_32_c_4_0.png",
+    "rare_dragonlamp_32_g_4_1.png",
+    "rare_dragonlamp_64_sd_4_0.png"
+  ]
+}
