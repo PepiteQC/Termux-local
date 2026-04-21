@@ -1,7 +1,7 @@
 {
-  "floor": "steampunk_floor2",
-  "floorFallback": "rainyday_c20_woodenfloor",
+  "floor": "rainyday_c20_woodenfloor",
+  "floorFallback": "pixel_floor_brown",
   "rug": "gothic_carpet",
-  "wall": "paris_c15_wall",
+  "wall": "romantique_c15_wall",
   "window": "window_nt_skyscraper"
 }
