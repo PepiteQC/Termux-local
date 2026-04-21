@@ -1335,6 +1335,7 @@ body {
 @media (max-width: 520px) {
   .ew-entry-card { padding: 26px 20px 20px; }
   .ew-entry-rooms { grid-template-columns: 1fr; }
+}
 /* ═══════════════ EtherWorld Landing ═══════════════ */
 .ew-landing {
 	position: fixed;
@@ -1866,3 +1867,266 @@ body {
 	font-weight: 700;
 	font-size: 18px;
 }
+
+/* ─── Gang + Fumer interactions ─────────────────────────────────── */
+.ew-client-gang-chip {
+	margin-left: 10px;
+	padding: 2px 8px;
+	border-radius: 999px;
+	background: rgba(255, 145, 77, 0.18);
+	border: 1px solid rgba(255, 145, 77, 0.45);
+	color: #ffd6a8;
+	font-size: 11px;
+	font-weight: 800;
+	letter-spacing: 0.08em;
+}
+
+.ew-client-action-bubble {
+	position: fixed;
+	right: 20px;
+	bottom: 120px;
+	z-index: 60;
+	width: 52px;
+	height: 52px;
+	border-radius: 50%;
+	border: 1px solid rgba(255, 215, 120, 0.6);
+	background: radial-gradient(circle at 30% 30%, #3a2a4a 0%, #110a1a 100%);
+	color: #ffd6a8;
+	font-size: 26px;
+	cursor: pointer;
+	box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+	display: flex; align-items: center; justify-content: center;
+}
+.ew-client-action-bubble:hover { filter: brightness(1.15); }
+
+.ew-interaction-menu {
+	position: fixed;
+	right: 20px;
+	bottom: 180px;
+	z-index: 60;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	min-width: 240px;
+	padding: 10px;
+	border-radius: 14px;
+	background: rgba(16, 14, 28, 0.95);
+	border: 1px solid rgba(255, 215, 120, 0.22);
+	box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+}
+.ew-interaction-menu button {
+	appearance: none;
+	display: flex; align-items: center; gap: 12px;
+	padding: 8px 10px;
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.06);
+	background: rgba(24, 20, 38, 0.8);
+	color: #ecdcff;
+	text-align: left;
+	cursor: pointer;
+	font-size: 13px;
+}
+.ew-interaction-menu button:hover {
+	border-color: rgba(255, 215, 120, 0.6);
+	background: rgba(40, 30, 56, 0.95);
+}
+.ew-interaction-menu button > span:first-child { font-size: 22px; }
+.ew-interaction-title { font-weight: 800; }
+.ew-interaction-sub { font-size: 11px; color: #9d9bc5; }
+
+/* Faction rail (cards horizontales) */
+.ew-faction-rail {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+	gap: 10px;
+	margin-bottom: 18px;
+}
+.ew-faction-card {
+	appearance: none;
+	display: flex; align-items: stretch; gap: 10px;
+	padding: 10px;
+	border-radius: 14px;
+	background: rgba(16, 18, 32, 0.75);
+	border: 2px solid rgba(255, 255, 255, 0.08);
+	color: #eaeaff;
+	cursor: pointer;
+	text-align: left;
+	position: relative;
+}
+.ew-faction-card.selected { box-shadow: 0 0 0 2px rgba(255, 215, 120, 0.55); }
+.ew-faction-swatch { width: 10px; border-radius: 6px; }
+.ew-faction-info { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.ew-faction-name { font-weight: 900; font-size: 14px; }
+.ew-faction-sub { font-size: 11px; color: #9d9bc5; }
+.ew-faction-stats { display: flex; gap: 8px; font-size: 11px; color: #c9c4ff; }
+.ew-card-tag { position: absolute; top: 8px; right: 10px; font-size: 10px; letter-spacing: 0.12em; color: #ffd6a8; }
+
+/* Onglets gang */
+.ew-gang-tabs {
+	display: flex; flex-wrap: wrap; gap: 6px;
+	margin-bottom: 14px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.ew-gang-tab {
+	appearance: none;
+	padding: 8px 14px;
+	border-radius: 999px;
+	background: rgba(10, 12, 22, 0.75);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	color: #c9c4ff;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	cursor: pointer;
+}
+.ew-gang-tab.active {
+	background: rgba(255, 145, 77, 0.18);
+	border-color: rgba(255, 145, 77, 0.65);
+	color: #ffd6a8;
+}
+
+.ew-gang-tab-body { display: flex; flex-direction: column; gap: 14px; }
+
+/* Roster */
+.ew-roster { display: flex; flex-direction: column; gap: 10px; }
+.ew-roster h4 { margin: 0; font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: #ffd6a8; }
+.ew-roster ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.ew-roster li {
+	display: flex; justify-content: space-between;
+	padding: 8px 12px;
+	border-radius: 10px;
+	background: rgba(10, 12, 22, 0.7);
+	border: 1px solid rgba(255, 255, 255, 0.05);
+	font-size: 13px;
+}
+.ew-roster-role { font-size: 11px; letter-spacing: 0.12em; color: #9d9bc5; }
+.ew-roster-name { font-weight: 800; color: #f4f2ff; }
+.ew-roster-meta { display: flex; gap: 14px; font-size: 12px; color: #c9c4ff; padding: 4px 6px; }
+
+/* Stock */
+.ew-stock-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+	gap: 12px;
+}
+.ew-stock-card {
+	display: flex; flex-direction: column; gap: 6px; align-items: center;
+	padding: 12px;
+	border-radius: 14px;
+	background: rgba(10, 12, 22, 0.75);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	text-align: center;
+}
+.ew-stock-emoji { font-size: 28px; }
+.ew-stock-name { font-weight: 800; color: #f4f2ff; }
+.ew-stock-qty { font-size: 18px; color: #ffd6a8; font-weight: 900; }
+.ew-stock-price { font-size: 12px; color: #9d9bc5; }
+.ew-stock-actions { display: flex; gap: 6px; width: 100%; margin-top: 6px; }
+.ew-stock-actions button {
+	flex: 1; padding: 8px 6px;
+	border-radius: 8px;
+	border: 1px solid rgba(255, 145, 77, 0.4);
+	background: rgba(255, 145, 77, 0.1);
+	color: #ffd6a8;
+	font-weight: 800;
+	font-size: 11px;
+	cursor: pointer;
+}
+.ew-stock-actions button:hover { filter: brightness(1.15); }
+.ew-stock-actions button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+/* Deals */
+.ew-deals ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 4px; }
+.ew-deal-line {
+	display: grid;
+	grid-template-columns: 56px 120px 1fr;
+	gap: 10px;
+	padding: 8px 12px;
+	border-radius: 10px;
+	background: rgba(10, 12, 22, 0.6);
+	border-left: 3px solid rgba(255, 255, 255, 0.12);
+	font-size: 12px;
+}
+.ew-deal-line.kind-production { border-left-color: #8bff9d; }
+.ew-deal-line.kind-sale { border-left-color: #ffc96b; }
+.ew-deal-line.kind-heist { border-left-color: #ff7a7a; }
+.ew-deal-line.kind-war { border-left-color: #ff4747; }
+.ew-deal-time { color: #7d7ca0; font-variant-numeric: tabular-nums; }
+.ew-deal-faction { color: #c9c4ff; font-weight: 700; }
+.ew-deal-text { color: #ecdcff; }
+
+/* Chat */
+.ew-chat { display: flex; flex-direction: column; gap: 8px; }
+.ew-chat-log {
+	max-height: 260px;
+	overflow-y: auto;
+	display: flex; flex-direction: column; gap: 4px;
+	padding: 10px;
+	border-radius: 12px;
+	background: rgba(8, 10, 18, 0.75);
+	border: 1px solid rgba(255, 255, 255, 0.06);
+}
+.ew-chat-line { display: flex; gap: 8px; font-size: 13px; line-height: 1.4; }
+.ew-chat-time { color: #7d7ca0; font-variant-numeric: tabular-nums; }
+.ew-chat-author { color: #ffd6a8; font-weight: 800; }
+.ew-chat-text { color: #ecdcff; word-break: break-word; }
+.ew-chat-input { display: flex; gap: 8px; }
+.ew-chat-input input {
+	flex: 1;
+	padding: 10px 12px;
+	border-radius: 10px;
+	background: rgba(8, 10, 18, 0.75);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	color: #f4f2ff;
+	font-size: 13px;
+}
+.ew-chat-input button {
+	padding: 10px 18px;
+	border-radius: 10px;
+	border: none;
+	background: linear-gradient(135deg, #ffc96b 0%, #ff7a2a 100%);
+	color: #1a0b00;
+	font-weight: 900;
+	letter-spacing: 0.1em;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+/* Rivalités */
+.ew-rivalries {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 10px;
+}
+.ew-rival-card {
+	display: flex; flex-direction: column; gap: 6px;
+	padding: 12px;
+	border-radius: 12px;
+	background: rgba(10, 12, 22, 0.75);
+	border: 2px solid rgba(255, 255, 255, 0.08);
+}
+.ew-rival-card.at-war {
+	border-color: #ff4747;
+	box-shadow: 0 0 0 2px rgba(255, 71, 71, 0.25);
+}
+.ew-rival-head { display: flex; justify-content: space-between; align-items: center; }
+.ew-rival-name { font-weight: 900; font-size: 14px; color: #f4f2ff; }
+.ew-rival-war { font-size: 10px; letter-spacing: 0.16em; color: #ff7a7a; font-weight: 900; }
+.ew-rival-stats { display: flex; gap: 10px; font-size: 11px; color: #c9c4ff; }
+.ew-rival-ratio { font-size: 12px; color: #9d9bc5; }
+.ew-rival-ratio strong { color: #ffd6a8; }
+.ew-rival-attack {
+	margin-top: 4px;
+	padding: 8px 10px;
+	border-radius: 8px;
+	border: 1px solid rgba(255, 71, 71, 0.4);
+	background: rgba(255, 71, 71, 0.1);
+	color: #ffbaba;
+	font-weight: 800;
+	font-size: 11px;
+	cursor: pointer;
+}
+.ew-rival-attack:hover { filter: brightness(1.15); }
+
+.ew-panel-footer { padding: 10px 6px; font-size: 12px; color: #9d9bc5; }

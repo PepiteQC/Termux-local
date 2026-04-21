@@ -11,24 +11,78 @@ type RoomSummary = {
 	maxUsers: number
 }
 
+type DrugType = "weed" | "coke" | "ecsta" | "molly"
+type FactionId = "blonds" | "bmf" | "vagos" | "crips" | "motards" | "quebec"
+
+type GangRecord = {
+	id: FactionId
+	name: string
+	members: string[]
+	stock: Record<DrugType, number>
+	cash: number
+	respect: number
+	heat: number
+}
+
+type ChatMessage = {
+	id: string
+	factionId: FactionId
+	author: string
+	text: string
+	at: number
+}
+
+type DealLog = {
+	id: string
+	factionId: FactionId
+	kind: "production" | "sale" | "heist" | "war"
+	text: string
+	at: number
+}
+
+type GangSnapshot = {
+	gangs: Record<FactionId, GangRecord>
+	playerFaction: FactionId | null
+	playerName: string
+	chat: ChatMessage[]
+	deals: DealLog[]
+	prices: Record<DrugType, number>
+	rivalries: Record<FactionId, FactionId | null>
+}
+
+type GangStateLike = {
+	getSnapshot: () => GangSnapshot
+	subscribe: (cb: () => void) => () => void
+	setPlayerName: (name: string) => void
+	joinFaction: (id: FactionId) => void
+	produce: (id: FactionId, drug: DrugType, qty?: number) => boolean
+	sell: (id: FactionId, drug: DrugType, qty?: number) => boolean
+	attack: (attacker: FactionId, target: FactionId) => boolean
+	chat: (id: FactionId, author: string, text: string) => boolean
+	tick: () => void
+}
+
 type HabboLike = {
 	switchRoomById: (id: string) => boolean
 	listRooms: () => RoomSummary[]
 	getCurrentRoomId: () => string | null
 	teleportAvatarTo: (x: number, y: number) => boolean
+	emitSmokeAtPrimaryAvatar: (tint?: number, count?: number) => boolean
+	gangState: GangStateLike
 	destroy?: () => void
 }
 
-type PanelKey = "rooms" | "wardrobe" | "shop" | "inventory" | "admin" | "gangs" | null
+type PanelKey = "rooms" | "wardrobe" | "shop" | "inventory" | "admin" | "gangs" | "chat" | null
+type GangTab = "crew" | "stock" | "deals" | "chat" | "rivalries"
 
-const FACTIONS = [
+const FACTIONS: Array<{ id: FactionId; name: string; color: string; tagline: string }> = [
 	{ id: "blonds", name: "Les Blonds", color: "#d9a54a", tagline: "Old school · or" },
 	{ id: "bmf", name: "BMF", color: "#c8313f", tagline: "Cash · respect" },
 	{ id: "vagos", name: "Vagos", color: "#d9a02d", tagline: "Desert · bikes" },
 	{ id: "crips", name: "Crips", color: "#2f5fa6", tagline: "Blue flag" },
 	{ id: "motards", name: "Motards", color: "#232323", tagline: "Chrome · feu" },
 	{ id: "quebec", name: "Québec", color: "#4f8ba7", tagline: "Froid · QC" }
-] as const
+]
 
 const OUTFITS = [
 	{ id: "casual", name: "Casual urbain", look: { top: "#4a7fb0", bottom: "#272b33" } },
@@ -49,47 +103,91 @@ const SHOP_ITEMS = [
 	{ id: "ecsta", name: "Ecsta", tier: "Gang", price: "2 600 EW", emoji: "💗" }
 ]
 
+const DRUG_LABELS: Record<DrugType, { name: string; emoji: string; tint: number }> = {
+	weed: { name: "Weed", emoji: "🌿", tint: 0xa9ffbe },
+	coke: { name: "Cocaïne", emoji: "❄️", tint: 0xffffff },
+	ecsta: { name: "Ecsta", emoji: "💗", tint: 0xff88d4 },
+	molly: { name: "Molly", emoji: "💊", tint: 0xd7b7ff }
+}
+
+const SMOKE_TINTS = {
+	joint: 0xd8d8e2,
+	bong: 0xb4e2c5,
+	pyrex: 0xd7b7ff
+}
+
 function useHabboInstance() {
 	const [instance, setInstance] = useState<HabboLike | null>(null)
 
 	useEffect(() => {
-		const poll = () => {
+		let stopped = false
+		const check = () => {
 			const w = window as unknown as { __habbo?: HabboLike }
-			if (w.__habbo) {
-				setInstance(w.__habbo)
-				return true
-			}
-			return false
+			return w.__habbo ?? null
 		}
-		if (poll()) return
-		const id = window.setInterval(() => {
-			if (poll()) window.clearInterval(id)
-		}, 300)
-		return () => window.clearInterval(id)
+		const poll = () => {
+			if (stopped) return
+			const next = check()
+			setInstance((prev) => (prev === next ? prev : next))
+		}
+		poll()
+		const id = window.setInterval(poll, 500)
+		return () => {
+			stopped = true
+			window.clearInterval(id)
+		}
 	}, [])
 
 	return instance
 }
 
+function useGangSnapshot(habbo: HabboLike | null): GangSnapshot | null {
+	const [snapshot, setSnapshot] = useState<GangSnapshot | null>(null)
+
+	useEffect(() => {
+		if (!habbo) return
+		setSnapshot(habbo.gangState.getSnapshot())
+		const unsubscribe = habbo.gangState.subscribe(() => {
+			setSnapshot(habbo.gangState.getSnapshot())
+		})
+		return unsubscribe
+	}, [habbo])
+
+	return snapshot
+}
+
+function formatTime(at: number): string {
+	const d = new Date(at)
+	return `${d.getHours().toString().padStart(2, "0")}:${d.getMinutes().toString().padStart(2, "0")}`
+}
+
 export default function ClientGameShell() {
 	const gameRootRef = useRef<HTMLDivElement | null>(null)
 	const habbo = useHabboInstance()
+	const gangSnapshot = useGangSnapshot(habbo)
 
 	const [panel, setPanel] = useState<PanelKey>(null)
 	const [currentRoomId, setCurrentRoomId] = useState<string | null>(null)
 	const [rooms, setRooms] = useState<RoomSummary[]>([])
-	const [faction, setFaction] = useState<string>("blonds")
 	const [outfit, setOutfit] = useState<string>("casual")
 	const [username, setUsername] = useState<string>("")
 	const [teleportX, setTeleportX] = useState("2")
 	const [teleportY, setTeleportY] = useState("4")
 	const [status, setStatus] = useState<string>("")
+	const [interactionOpen, setInteractionOpen] = useState(false)
+	const [gangTab, setGangTab] = useState<GangTab>("crew")
+	const [chatDraft, setChatDraft] = useState("")
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
 		const stored = window.localStorage.getItem("ew-username")
 		if (stored) setUsername(stored)
 	}, [])
+
+	useEffect(() => {
+		if (!habbo || !username) return
+		habbo.gangState.setPlayerName(username)
+	}, [habbo, username])
 
 	useEffect(() => {
 		if (!habbo) return
@@ -172,6 +270,76 @@ export default function ClientGameShell() {
 		}
 	}, [habbo, teleportX, teleportY])
 
+	const flashStatus = useCallback((text: string) => {
+		setStatus(text)
+		setTimeout(() => setStatus(""), 1800)
+	}, [])
+
+	const handleSmoke = useCallback(
+		(source: "joint" | "bong" | "pyrex") => {
+			if (!habbo) return
+			const tint = SMOKE_TINTS[source]
+			const count = source === "pyrex" ? 28 : source === "bong" ? 22 : 14
+			habbo.emitSmokeAtPrimaryAvatar(tint, count)
+			flashStatus(
+				source === "joint"
+					? "Joint allumé · boucane 🌬️"
+					: source === "bong"
+						? "Un gros coup de bong 💨"
+						: "Pyrex bouillant 🧪"
+			)
+			setInteractionOpen(false)
+		},
+		[habbo, flashStatus]
+	)
+
+	const handleJoinFaction = useCallback(
+		(id: FactionId) => {
+			if (!habbo) return
+			habbo.gangState.joinFaction(id)
+			handleSwitchRoom(`gang-${id}`)
+			flashStatus(`Tu as rejoint ${FACTIONS.find((f) => f.id === id)?.name ?? id}.`)
+		},
+		[habbo, handleSwitchRoom, flashStatus]
+	)
+
+	const handleProduce = useCallback(
+		(drug: DrugType) => {
+			if (!habbo || !gangSnapshot?.playerFaction) return
+			habbo.gangState.produce(gangSnapshot.playerFaction, drug, 2)
+			habbo.emitSmokeAtPrimaryAvatar(DRUG_LABELS[drug].tint, 20)
+			flashStatus(`Production : +2 ${DRUG_LABELS[drug].name}`)
+		},
+		[habbo, gangSnapshot, flashStatus]
+	)
+
+	const handleSell = useCallback(
+		(drug: DrugType) => {
+			if (!habbo || !gangSnapshot?.playerFaction) return
+			if (habbo.gangState.sell(gangSnapshot.playerFaction, drug, 1)) {
+				flashStatus(`Vendu 1 ${DRUG_LABELS[drug].name} au marché noir`)
+			} else {
+				flashStatus("Stock insuffisant")
+			}
+		},
+		[habbo, gangSnapshot, flashStatus]
+	)
+
+	const handleAttack = useCallback(
+		(target: FactionId) => {
+			if (!habbo || !gangSnapshot?.playerFaction) return
+			const success = habbo.gangState.attack(gangSnapshot.playerFaction, target)
+			flashStatus(success ? "Raid réussi · cash confisqué" : "Raid raté · respect perdu")
+		},
+		[habbo, gangSnapshot, flashStatus]
+	)
+
+	const handleSendChat = useCallback(() => {
+		if (!habbo || !gangSnapshot?.playerFaction || !chatDraft.trim()) return
+		habbo.gangState.chat(gangSnapshot.playerFaction, gangSnapshot.playerName || "Anon", chatDraft.trim())
+		setChatDraft("")
+	}, [habbo, gangSnapshot, chatDraft])
+
 	const togglePanel = (key: Exclude<PanelKey, null>) => {
 		setPanel((current) => (current === key ? null : key))
 	}
@@ -179,6 +347,10 @@ export default function ClientGameShell() {
 	const gangRooms = rooms.filter((r) => r.category === "gang")
 	const shopRooms = rooms.filter((r) => r.category === "shop")
 	const mainRooms = rooms.filter((r) => r.category !== "gang" && r.category !== "shop")
+
+	const playerGang = gangSnapshot && gangSnapshot.playerFaction
+		? gangSnapshot.gangs[gangSnapshot.playerFaction]
+		: null
 
 	return (
 		<div className="ew-client-shell">
@@ -199,10 +371,59 @@ export default function ClientGameShell() {
 				<div className="ew-client-user-chip">
 					<span className="ew-client-user-avatar">👤</span>
 					<span>{username || "Invité"}</span>
+					{playerGang ? <span className="ew-client-gang-chip">{playerGang.name}</span> : null}
 				</div>
 			</div>
 
 			{status ? <div className="ew-client-status">{status}</div> : null}
+
+			<button
+				className="ew-client-action-bubble"
+				onClick={() => setInteractionOpen((v) => !v)}
+				aria-label="Ouvrir actions avatar"
+			>
+				<span>🕺</span>
+			</button>
+
+			{interactionOpen ? (
+				<div className="ew-interaction-menu">
+					<button onClick={() => handleSmoke("joint")}>
+						<span>🚬</span>
+						<div>
+							<div className="ew-interaction-title">Fumer un joint</div>
+							<div className="ew-interaction-sub">Boucane légère</div>
+						</div>
+					</button>
+					<button onClick={() => handleSmoke("bong")}>
+						<span>💨</span>
+						<div>
+							<div className="ew-interaction-title">Coup de bong</div>
+							<div className="ew-interaction-sub">Grosse bouffée verte</div>
+						</div>
+					</button>
+					<button onClick={() => handleSmoke("pyrex")}>
+						<span>🧪</span>
+						<div>
+							<div className="ew-interaction-title">Pyrex</div>
+							<div className="ew-interaction-sub">Vapeurs violettes · labo</div>
+						</div>
+					</button>
+					<button onClick={() => { flashStatus("Salut ✋"); setInteractionOpen(false) }}>
+						<span>✋</span>
+						<div>
+							<div className="ew-interaction-title">Saluer</div>
+							<div className="ew-interaction-sub">Hey crew</div>
+						</div>
+					</button>
+					<button onClick={() => { flashStatus("On danse 💃"); setInteractionOpen(false) }}>
+						<span>💃</span>
+						<div>
+							<div className="ew-interaction-title">Danser</div>
+							<div className="ew-interaction-sub">Move le crew</div>
+						</div>
+					</button>
+				</div>
+			) : null}
 
 			<div className="ew-client-toolbar">
 				<button className={`ew-tool ${panel === "rooms" ? "active" : ""}`} onClick={() => togglePanel("rooms")}>
@@ -242,8 +463,8 @@ export default function ClientGameShell() {
 						{panel === "rooms" ? (
 							<div className="ew-panel-body">
 								<RoomGroup title="Spawn" rooms={mainRooms} currentId={currentRoomId} onPick={handleSwitchRoom} />
-								<RoomGroup title="Shops" rooms={shopRooms} currentId={currentRoomId} onPick={handleSwitchRoom} />
-								<RoomGroup title="Planques de gang" rooms={gangRooms} currentId={currentRoomId} onPick={handleSwitchRoom} />
+								<RoomGroup title="Shops & publics" rooms={shopRooms} currentId={currentRoomId} onPick={handleSwitchRoom} />
+								<RoomGroup title="Planques & underground" rooms={gangRooms} currentId={currentRoomId} onPick={handleSwitchRoom} />
 							</div>
 						) : null}
 
@@ -284,32 +505,189 @@ export default function ClientGameShell() {
 
 						{panel === "inventory" ? (
 							<div className="ew-panel-body">
-								<div className="ew-empty-slot">Ton inventaire est vide. Achète du stock dans le Shop ou fais des deals dans les planques de gang.</div>
+								{playerGang ? (
+									<div className="ew-stock-grid">
+										{(Object.keys(DRUG_LABELS) as DrugType[]).map((drug) => (
+											<div key={drug} className="ew-stock-card">
+												<div className="ew-stock-emoji">{DRUG_LABELS[drug].emoji}</div>
+												<div className="ew-stock-name">{DRUG_LABELS[drug].name}</div>
+												<div className="ew-stock-qty">{playerGang.stock[drug]} u.</div>
+												<div className="ew-stock-price">
+													{gangSnapshot?.prices[drug] ?? 0}$ / u.
+												</div>
+											</div>
+										))}
+									</div>
+								) : (
+									<div className="ew-empty-slot">Rejoins une faction dans l&apos;onglet Gangs pour voir ton stock.</div>
+								)}
 							</div>
 						) : null}
 
-						{panel === "gangs" ? (
+						{panel === "gangs" && gangSnapshot ? (
 							<div className="ew-panel-body">
-								<div className="ew-panel-grid">
-									{FACTIONS.map((f) => (
+								<div className="ew-faction-rail">
+									{FACTIONS.map((f) => {
+										const record = gangSnapshot.gangs[f.id]
+										const active = gangSnapshot.playerFaction === f.id
+										return (
+											<button
+												key={f.id}
+												className={`ew-faction-card ${active ? "selected" : ""}`}
+												onClick={() => handleJoinFaction(f.id)}
+												style={{ borderColor: f.color }}
+											>
+												<div className="ew-faction-swatch" style={{ background: f.color }} />
+												<div className="ew-faction-info">
+													<div className="ew-faction-name">{f.name}</div>
+													<div className="ew-faction-sub">{f.tagline}</div>
+													<div className="ew-faction-stats">
+														<span>💰 {record.cash}$</span>
+														<span>⭐ {record.respect}</span>
+														<span>🔥 {record.heat}</span>
+													</div>
+												</div>
+												{active ? <div className="ew-card-tag">CREW</div> : null}
+											</button>
+										)
+									})}
+								</div>
+
+								<div className="ew-gang-tabs">
+									{(["crew", "stock", "deals", "chat", "rivalries"] as GangTab[]).map((t) => (
 										<button
-											key={f.id}
-											className={`ew-card ${faction === f.id ? "selected" : ""}`}
-											onClick={() => {
-												setFaction(f.id)
-												handleSwitchRoom(`gang-${f.id}`)
-											}}
+											key={t}
+											className={`ew-gang-tab ${gangTab === t ? "active" : ""}`}
+											onClick={() => setGangTab(t)}
 										>
-											<div className="ew-card-swatch" style={{ background: f.color }} />
-											<div className="ew-card-name">{f.name}</div>
-											<div className="ew-card-sub">{f.tagline}</div>
-											{faction === f.id ? <div className="ew-card-tag">CREW</div> : null}
+											{tabLabel(t)}
 										</button>
 									))}
 								</div>
-								<div className="ew-panel-footer">
-									<p>Actions disponibles dans ta planque : production, deals, ventes, rivalités. Clique une faction pour entrer.</p>
-								</div>
+
+								{!playerGang ? (
+									<div className="ew-empty-slot">
+										Choisis une faction au-dessus pour activer les mécaniques (production, ventes, chat crew, rivalités).
+									</div>
+								) : (
+									<div className="ew-gang-tab-body">
+										{gangTab === "crew" ? (
+											<div className="ew-roster">
+												<h4>Roster {playerGang.name}</h4>
+												<ul>
+													{playerGang.members.map((m, i) => (
+														<li key={m + i}>
+															<span className="ew-roster-role">{i === 0 ? "Don" : i === 1 ? "Capo" : "Soldat"}</span>
+															<span className="ew-roster-name">{m}</span>
+														</li>
+													))}
+												</ul>
+												<div className="ew-roster-meta">
+													<span>💰 {playerGang.cash}$</span>
+													<span>⭐ {playerGang.respect} respect</span>
+													<span>🔥 {playerGang.heat} heat</span>
+												</div>
+											</div>
+										) : null}
+
+										{gangTab === "stock" ? (
+											<div className="ew-stock-grid">
+												{(Object.keys(DRUG_LABELS) as DrugType[]).map((drug) => (
+													<div key={drug} className="ew-stock-card">
+														<div className="ew-stock-emoji">{DRUG_LABELS[drug].emoji}</div>
+														<div className="ew-stock-name">{DRUG_LABELS[drug].name}</div>
+														<div className="ew-stock-qty">{playerGang.stock[drug]} u.</div>
+														<div className="ew-stock-price">
+															{gangSnapshot.prices[drug]}$ / u.
+														</div>
+														<div className="ew-stock-actions">
+															<button onClick={() => handleProduce(drug)}>+2 labo</button>
+															<button onClick={() => handleSell(drug)} disabled={playerGang.stock[drug] < 1}>Vendre ×1</button>
+														</div>
+													</div>
+												))}
+											</div>
+										) : null}
+
+										{gangTab === "deals" ? (
+											<div className="ew-deals">
+												{gangSnapshot.deals.length === 0 ? (
+													<div className="ew-empty-slot">Pas encore de deal. Lance une production ou une vente.</div>
+												) : (
+													<ul>
+														{gangSnapshot.deals.slice(0, 30).map((d) => (
+															<li key={d.id} className={`ew-deal-line kind-${d.kind}`}>
+																<span className="ew-deal-time">{formatTime(d.at)}</span>
+																<span className="ew-deal-faction">{gangSnapshot.gangs[d.factionId]?.name ?? d.factionId}</span>
+																<span className="ew-deal-text">{d.text}</span>
+															</li>
+														))}
+													</ul>
+												)}
+											</div>
+										) : null}
+
+										{gangTab === "chat" ? (
+											<div className="ew-chat">
+												<div className="ew-chat-log">
+													{gangSnapshot.chat
+														.filter((m) => m.factionId === playerGang.id)
+														.slice(-40)
+														.map((m) => (
+															<div key={m.id} className="ew-chat-line">
+																<span className="ew-chat-time">{formatTime(m.at)}</span>
+																<span className="ew-chat-author">{m.author} :</span>
+																<span className="ew-chat-text">{m.text}</span>
+															</div>
+														))}
+													{gangSnapshot.chat.filter((m) => m.factionId === playerGang.id).length === 0 ? (
+														<div className="ew-empty-slot">Ouvre la discussion crew.</div>
+													) : null}
+												</div>
+												<div className="ew-chat-input">
+													<input
+														value={chatDraft}
+														onChange={(e) => setChatDraft(e.target.value)}
+														placeholder="Message pour le crew…"
+														onKeyDown={(e) => {
+															if (e.key === "Enter") handleSendChat()
+														}}
+													/>
+													<button onClick={handleSendChat}>Envoyer</button>
+												</div>
+											</div>
+										) : null}
+
+										{gangTab === "rivalries" ? (
+											<div className="ew-rivalries">
+												{FACTIONS.filter((f) => f.id !== playerGang.id).map((f) => {
+													const target = gangSnapshot.gangs[f.id]
+													const ratio = Math.round((playerGang.respect / Math.max(1, target.respect)) * 100)
+													const rival = gangSnapshot.rivalries[playerGang.id] === f.id
+													return (
+														<div key={f.id} className={`ew-rival-card ${rival ? "at-war" : ""}`} style={{ borderColor: f.color }}>
+															<div className="ew-rival-head">
+																<span className="ew-rival-name">{f.name}</span>
+																{rival ? <span className="ew-rival-war">GUERRE</span> : null}
+															</div>
+															<div className="ew-rival-stats">
+																<span>⭐ {target.respect}</span>
+																<span>🔥 {target.heat}</span>
+																<span>💰 {target.cash}$</span>
+															</div>
+															<div className="ew-rival-ratio">
+																Respect ratio : <strong>{ratio}%</strong>
+															</div>
+															<button className="ew-rival-attack" onClick={() => handleAttack(f.id)}>
+																Attaquer la planque
+															</button>
+														</div>
+													)
+												})}
+											</div>
+										) : null}
+									</div>
+								)}
 							</div>
 						) : null}
 
@@ -356,6 +734,21 @@ export default function ClientGameShell() {
 								</section>
 
 								<section className="ew-admin-block">
+									<h3>Force tick gangs</h3>
+									<div className="ew-admin-actions">
+										<button
+											className="ew-admin-chip"
+											onClick={() => {
+												habbo?.gangState.tick()
+												flashStatus("Tick gang forcé")
+											}}
+										>
+											Forcer cycle production
+										</button>
+									</div>
+								</section>
+
+								<section className="ew-admin-block">
 									<h3>Stats</h3>
 									<div className="ew-admin-row"><span className="ew-admin-label">Rooms totales :</span><span className="ew-admin-value">{rooms.length}</span></div>
 									<div className="ew-admin-row"><span className="ew-admin-label">Planques gang :</span><span className="ew-admin-value">{gangRooms.length}</span></div>
@@ -375,9 +768,20 @@ function panelTitle(panel: Exclude<PanelKey, null>): string {
 		case "rooms": return "Navigator · Rooms"
 		case "wardrobe": return "Dressing"
 		case "shop": return "Shop EtherWorld"
-		case "inventory": return "Inventaire"
-		case "gangs": return "Factions & planques"
+		case "inventory": return "Inventaire & stock"
+		case "gangs": return "Factions · production · rivalités"
+		case "chat": return "Chat crew"
 		case "admin": return "Admin panel"
+	}
+}
+
+function tabLabel(tab: GangTab): string {
+	switch (tab) {
+		case "crew": return "Crew"
+		case "stock": return "Stock"
+		case "deals": return "Deals"
+		case "chat": return "Chat"
+		case "rivalries": return "Rivalités"
 	}
 }
 

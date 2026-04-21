@@ -111,6 +111,11 @@ const weedShopRoom: RoomData = baseRoom({
 		// Lampes
 		{ id: 'ws-lamp-1', label: 'Lampe néon', kind: 'lamp', x: 3, y: 1, width: 1, depth: 1, height: 2, palette: 'emerald', accent: 0x5fff8e },
 		{ id: 'ws-lamp-2', label: 'Lampe néon', kind: 'lamp', x: 8, y: 1, width: 1, depth: 1, height: 2, palette: 'emerald', accent: 0x5fff8e },
+		// Fumerie
+		{ id: 'ws-bong-1', label: 'Bong premium', kind: 'bong', x: 5, y: 4, width: 1, depth: 1, height: 2, palette: 'emerald', accent: 0x5fff8e },
+		{ id: 'ws-bong-2', label: 'Bong Diamond', kind: 'bong', x: 6, y: 7, width: 1, depth: 1, height: 2, palette: 'emerald', accent: 0xccf2ff },
+		{ id: 'ws-ashtray-1', label: 'Cendrier', kind: 'ashtray', x: 5, y: 8, width: 1, depth: 1, height: 1, palette: 'slate', accent: 0xff7a2a },
+		{ id: 'ws-joint-1', label: 'Joint allumé', kind: 'joint', x: 8, y: 8, width: 1, depth: 1, height: 1, palette: 'hash-brown', accent: 0xff7a2a },
 		// Arrière-boutique stash
 		{ id: 'ws-shelf-1', label: 'Étagère', kind: 'shelf', x: 1, y: 9, width: 2, depth: 1, height: 2, palette: 'hash-brown' },
 		{ id: 'ws-shelf-2', label: 'Étagère', kind: 'shelf', x: 9, y: 9, width: 2, depth: 1, height: 2, palette: 'hash-brown' },
@@ -220,12 +225,79 @@ export type { GangFaction, GangFactionId }
 
 const gangRooms: RoomData[] = FACTIONS.map(gangRoom)
 
+// ─────────────── LABORATOIRE ───────────────
+const laboratoryRoom: RoomData = baseRoom({
+	id: 'lab',
+	name: 'Laboratoire Clandestin',
+	description: 'Labo underground : pyrex, hotte, produits, scale de précision.',
+	category: 'gang',
+	type: 'Lab',
+	initialZoom: 2.0,
+	map: { room: EMPTY_MAP_12 },
+	furnitures: [
+		{ id: 'lab-rug', label: 'Tapis sécurité', kind: 'rug', x: 4, y: 3, width: 4, depth: 3, height: 0, palette: 'acid-lab', accent: 0xa9ffbe, walkable: true },
+		{ id: 'lab-enseigne', label: 'LAB 42', kind: 'enseigne', x: 4, y: 0, width: 3, depth: 1, height: 3, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-hotte-1', label: 'Hotte chimique', kind: 'hotte', x: 0, y: 0, width: 2, depth: 1, height: 4, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-hotte-2', label: 'Hotte chimique', kind: 'hotte', x: 10, y: 0, width: 2, depth: 1, height: 4, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'lab-table-1', label: 'Paillasse cook', kind: 'lab-table', x: 1, y: 4, width: 3, depth: 1, height: 1, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-table-2', label: 'Paillasse chimie', kind: 'lab-table', x: 8, y: 4, width: 3, depth: 1, height: 1, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'lab-pyrex-1', label: 'Pyrex cook', kind: 'pyrex', x: 2, y: 3, width: 1, depth: 1, height: 2, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-pyrex-2', label: 'Pyrex blue', kind: 'pyrex', x: 3, y: 3, width: 1, depth: 1, height: 2, palette: 'acid-lab', accent: 0x5acbff },
+		{ id: 'lab-pyrex-3', label: 'Pyrex molly', kind: 'pyrex', x: 9, y: 3, width: 1, depth: 1, height: 2, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'lab-cabinet-1', label: 'Armoire réactifs', kind: 'lab-cabinet', x: 0, y: 7, width: 2, depth: 1, height: 3, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-cabinet-2', label: 'Armoire produits', kind: 'lab-cabinet', x: 10, y: 7, width: 2, depth: 1, height: 3, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'lab-chemical-1', label: 'Produits chimiques', kind: 'chemical', x: 4, y: 7, width: 1, depth: 1, height: 2, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-chemical-2', label: 'Produits chimiques', kind: 'chemical', x: 7, y: 7, width: 1, depth: 1, height: 2, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'lab-scale-1', label: 'Balance précision', kind: 'scale', x: 5, y: 7, width: 1, depth: 1, height: 1, palette: 'steel', accent: 0xa9ffbe },
+		{ id: 'lab-scale-2', label: 'Balance précision', kind: 'scale', x: 6, y: 7, width: 1, depth: 1, height: 1, palette: 'steel', accent: 0xd7b7ff },
+		{ id: 'lab-vent', label: 'Ventilation', kind: 'neon', x: 4, y: 1, width: 3, depth: 1, height: 3, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-safe', label: 'Coffre stock', kind: 'safe', x: 5, y: 9, width: 1, depth: 1, height: 2, palette: 'slate', accent: 0xa9ffbe },
+		{ id: 'lab-stash', label: 'Stash brut', kind: 'drug-stash', x: 6, y: 9, width: 1, depth: 1, height: 2, palette: 'hash-brown', accent: 0xd7b7ff },
+		{ id: 'lab-lamp-1', label: 'Lampe UV', kind: 'lamp', x: 3, y: 2, width: 1, depth: 1, height: 2, palette: 'acid-lab', accent: 0xa9ffbe },
+		{ id: 'lab-lamp-2', label: 'Lampe UV', kind: 'lamp', x: 8, y: 2, width: 1, depth: 1, height: 2, palette: 'violet-lab', accent: 0xd7b7ff }
+	]
+})
+
+// ─────────────── MARCHÉ NOIR ───────────────
+const blackMarketRoom: RoomData = baseRoom({
+	id: 'black-market',
+	name: 'Marché Noir',
+	description: 'Stands clandestins : armes, drogues, deals, vendeur masqué.',
+	category: 'gang',
+	type: 'Market',
+	initialZoom: 1.95,
+	map: { room: EMPTY_MAP_12 },
+	furnitures: [
+		{ id: 'bm-rug', label: 'Tapis sombre', kind: 'rug', x: 4, y: 4, width: 4, depth: 2, height: 0, palette: 'shadow', accent: 0xff3f00, walkable: true },
+		{ id: 'bm-enseigne', label: 'BLACK MARKET', kind: 'enseigne', x: 4, y: 0, width: 3, depth: 1, height: 3, palette: 'blood', accent: 0xff3f00 },
+		{ id: 'bm-stand-1', label: 'Stand drogues', kind: 'market-stand', x: 0, y: 2, width: 3, depth: 1, height: 2, palette: 'shadow', accent: 0x9affc6 },
+		{ id: 'bm-npc-1', label: 'Vendeur drogues', kind: 'npc-vendor', x: 1, y: 3, width: 1, depth: 1, height: 3, palette: 'shadow', accent: 0x9affc6 },
+		{ id: 'bm-stand-2', label: 'Stand armes', kind: 'market-stand', x: 4, y: 2, width: 3, depth: 1, height: 2, palette: 'blood', accent: 0xff5a5a },
+		{ id: 'bm-npc-2', label: 'Vendeur armes', kind: 'npc-vendor', x: 5, y: 3, width: 1, depth: 1, height: 3, palette: 'blood', accent: 0xff5a5a },
+		{ id: 'bm-stand-3', label: 'Stand faux papiers', kind: 'market-stand', x: 8, y: 2, width: 3, depth: 1, height: 2, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'bm-npc-3', label: 'Fixer', kind: 'npc-vendor', x: 9, y: 3, width: 1, depth: 1, height: 3, palette: 'violet-lab', accent: 0xd7b7ff },
+		{ id: 'bm-board-1', label: 'Prix du jour', kind: 'price-board', x: 2, y: 0, width: 2, depth: 1, height: 3, palette: 'shadow', accent: 0x9affc6 },
+		{ id: 'bm-board-2', label: 'Cours armes', kind: 'price-board', x: 8, y: 0, width: 2, depth: 1, height: 3, palette: 'blood', accent: 0xff5a5a },
+		{ id: 'bm-safe-1', label: 'Coffre cash', kind: 'safe', x: 0, y: 6, width: 1, depth: 1, height: 2, palette: 'shadow', accent: 0xff3f00 },
+		{ id: 'bm-safe-2', label: 'Coffre cash', kind: 'safe', x: 11, y: 6, width: 1, depth: 1, height: 2, palette: 'shadow', accent: 0xff3f00 },
+		{ id: 'bm-stash', label: 'Stash back-room', kind: 'drug-stash', x: 3, y: 7, width: 2, depth: 1, height: 2, palette: 'hash-brown', accent: 0x9affc6 },
+		{ id: 'bm-weapons', label: 'Râtelier arrière', kind: 'weapon-rack', x: 7, y: 7, width: 2, depth: 1, height: 3, palette: 'shadow', accent: 0xff5a5a },
+		{ id: 'bm-bar', label: 'Bar cash', kind: 'bar', x: 5, y: 7, width: 2, depth: 1, height: 1, palette: 'shadow', accent: 0xff3f00 },
+		{ id: 'bm-sofa', label: 'Canapé deal', kind: 'chill-sofa', x: 4, y: 9, width: 3, depth: 1, height: 1, palette: 'shadow', accent: 0xff5a5a },
+		{ id: 'bm-ashtray', label: 'Cendrier', kind: 'ashtray', x: 7, y: 9, width: 1, depth: 1, height: 1, palette: 'slate', accent: 0xff7a2a },
+		{ id: 'bm-lamp-1', label: 'Lampe rouge', kind: 'lamp', x: 3, y: 1, width: 1, depth: 1, height: 2, palette: 'blood', accent: 0xff5a5a },
+		{ id: 'bm-lamp-2', label: 'Lampe rouge', kind: 'lamp', x: 8, y: 1, width: 1, depth: 1, height: 2, palette: 'blood', accent: 0xff5a5a }
+	]
+})
+
 // ─────────────── REGISTRY ───────────────
 
 const ROOM_LIBRARY: RoomData[] = [
 	{ ...defaultRoomData, name: 'EtherWorld Suite', category: 'spawn' },
 	weedShopRoom,
 	depanneurRoom,
+	laboratoryRoom,
+	blackMarketRoom,
 	...gangRooms
 ]
 

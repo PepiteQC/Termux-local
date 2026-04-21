@@ -80,6 +80,10 @@ export default class AvatarSprite extends Container {
 		this.zIndex = TilesContainer.getScreenIndex(heightMapPosition) * 10 + 200
 	}
 
+	public getCurrentTile(): HeightMapPosition {
+		return this.currentTile
+	}
+
 	public setPositionFromTile(heightMapPosition: HeightMapPosition): void {
 		this.currentTile = heightMapPosition
 		const screenPosition = this.getScreenPosition(heightMapPosition)
