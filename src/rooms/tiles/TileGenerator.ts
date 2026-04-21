@@ -63,45 +63,55 @@ export default class TileGenerator {
 				.stroke({ color: palette.eastStroke, width: 1, alpha: 0.9 })
 		}
 
+		// ---- base top diamond (wood/carpet fill) ----
 		graphics
 			.poly(TILE_SURFACE_POINTS)
 			.fill({ color: palette.topColor })
-			.stroke({ color: palette.topStroke, width: 1.5 })
 
-		graphics
-			.poly([
-				halfW, 2,
-				TILE_WIDTH - 5, halfH,
-				halfW, TILE_HEIGHT - 2,
-				5, halfH
-			])
-			.stroke({ color: palette.highlight1, width: 1, alpha: 0.42 })
+		// horizontal plank separators, clipped to the diamond span at each y
+		const plankYs = [8, 16, 24]
+		for (const y of plankYs) {
+			const halfSpan = halfH - Math.abs(y - halfH)
+			const x1 = halfW - halfSpan * 2
+			const x2 = halfW + halfSpan * 2
+			graphics
+				.moveTo(x1 + 2, y)
+				.lineTo(x2 - 2, y)
+				.stroke({ color: palette.innerDetail1, width: 1, alpha: 0.55 })
+		}
 
-		graphics
-			.poly([
-				halfW, 6,
-				TILE_WIDTH - 12, halfH,
-				halfW, TILE_HEIGHT - 6,
-				12, halfH
-			])
-			.stroke({ color: palette.innerDetail1, width: 1, alpha: 0.65 })
+		// subtle grain ticks along each plank (mid-line, every 10 px)
+		for (const y of [4, 12, 20, 28]) {
+			const halfSpan = halfH - Math.abs(y - halfH)
+			const x1 = halfW - halfSpan * 2
+			const x2 = halfW + halfSpan * 2
+			const step = 10
+			for (let x = x1 + 6; x < x2 - 6; x += step) {
+				graphics
+					.rect(x, y, 2, 1)
+					.fill({ color: palette.innerDetail2, alpha: 0.55 })
+			}
+		}
 
+		// lit edge (top-left) — 1px highlight along the upper diamond edges
 		graphics
-			.poly([
-				halfW, 10,
-				TILE_WIDTH - 18, halfH,
-				halfW, TILE_HEIGHT - 10,
-				18, halfH
-			])
-			.stroke({ color: palette.innerDetail2, width: 1, alpha: 0.45 })
+			.moveTo(halfW, 0)
+			.lineTo(0, halfH)
+			.stroke({ color: palette.highlight1, width: 1, alpha: 0.9 })
+		graphics
+			.moveTo(halfW, 0)
+			.lineTo(TILE_WIDTH, halfH)
+			.stroke({ color: palette.highlight1, width: 1, alpha: 0.35 })
 
+		// shaded edge (bottom-right) — 1px dark along the lower diamond edges
 		graphics
-			.poly([
-				halfW + 1, halfH - 1,
-				TILE_WIDTH - 3, halfH + 8,
-				halfW - 1, TILE_HEIGHT - 8
-			])
-			.stroke({ color: palette.shadowAccent, width: 1, alpha: 0.28 })
+			.moveTo(0, halfH)
+			.lineTo(halfW, TILE_HEIGHT)
+			.stroke({ color: palette.topStroke, width: 1, alpha: 0.55 })
+		graphics
+			.moveTo(halfW, TILE_HEIGHT)
+			.lineTo(TILE_WIDTH, halfH)
+			.stroke({ color: palette.shadowAccent, width: 1, alpha: 0.9 })
 
 		const texture = this.room.renderer.generateTexture({
 			target: graphics,

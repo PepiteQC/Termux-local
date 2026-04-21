@@ -1,9 +1,10 @@
-import { Container, Graphics, Sprite, Text, Ticker } from 'pixi.js'
+import { Container, Graphics, Text, Ticker } from 'pixi.js'
 
 import type AvatarFigure from './AvatarFigure'
 import type { HeightMapPosition } from '../map/HeightMap'
 import TilesContainer from '../containers/tiles/TilesContainer'
 import Tile from '../tiles/Tile'
+import AvatarArt from './AvatarArt'
 
 export default class AvatarSprite extends Container {
 	private readonly figure: AvatarFigure
@@ -93,29 +94,9 @@ export default class AvatarSprite extends Container {
 	}
 
 	private buildLook(): void {
-		const spritePaths = [
-			'/sprites/avatar/avatar-ether.png',
-			this.figure.look.pants,
-			this.figure.look.shoes,
-			this.figure.look.shirt,
-			this.figure.look.jacket,
-			this.figure.look.hair,
-			this.figure.look.accessory
-		].filter(Boolean) as string[]
-
-		spritePaths.forEach((path, index) => {
-			const sprite = Sprite.from(path)
-			sprite.anchor.set(0.5, 1)
-			sprite.position.set(0, -3)
-			sprite.scale.set(1.16)
-			sprite.zIndex = index + 1
-
-			if (sprite.texture.source) {
-				sprite.texture.source.scaleMode = 'nearest'
-			}
-
-			this.layers.addChild(sprite)
-		})
+		const art = AvatarArt.buildStanding()
+		art.zIndex = 1
+		this.layers.addChild(art)
 	}
 
 	private getScreenPosition(
