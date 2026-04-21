@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1274170387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74880cfff4aaf3b397e2a060932ce558
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_assets.xml
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_sd_0_0.png
+- Assets/Live/xmas_c17_lamp/flash/index.xml
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_a_0_1.png
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_icon_a.png
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_a_0_0.png
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_a_0_2.png
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_visualization.xml
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_b_0_0.png
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_logic.xml
+- Assets/Live/xmas_c17_lamp/flash/manifest.xml
+- Assets/Live/xmas_c17_lamp/xmas_c17_lamp.xml
+- Assets/Live/xmas_c17_lamp/flash/xmas_c17_lamp_64_a_0_3.png
+Dependencies: []

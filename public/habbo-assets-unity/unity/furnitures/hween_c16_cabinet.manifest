@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2410527847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 775363838b378f79a6cb41941f9522f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_cabinet/flash/index.xml
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_assets.xml
+- Assets/Live/hween_c16_cabinet/hween_c16_cabinet.xml
+- Assets/Live/hween_c16_cabinet/flash/manifest.xml
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_icon_a.png
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_logic.xml
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_visualization.xml
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_64_sd_4_0.png
+- Assets/Live/hween_c16_cabinet/flash/hween_c16_cabinet_64_a_4_0.png
+Dependencies: []

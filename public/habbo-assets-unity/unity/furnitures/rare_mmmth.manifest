@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1557900914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85ea2e59966f23d3b513988a80cd0597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_mmmth/flash/rare_mmmth_logic.xml
+- Assets/Live/rare_mmmth/flash/rare_mmmth_64_b_4_0.png
+- Assets/Live/rare_mmmth/flash/rare_mmmth_icon_a.png
+- Assets/Live/rare_mmmth/flash/rare_mmmth_64_a_4_0.png
+- Assets/Live/rare_mmmth/flash/index.xml
+- Assets/Live/rare_mmmth/flash/manifest.xml
+- Assets/Live/rare_mmmth/rare_mmmth.xml
+- Assets/Live/rare_mmmth/flash/rare_mmmth_64_c_4_0.png
+- Assets/Live/rare_mmmth/flash/rare_mmmth_visualization.xml
+- Assets/Live/rare_mmmth/flash/rare_mmmth_assets.xml
+Dependencies: []

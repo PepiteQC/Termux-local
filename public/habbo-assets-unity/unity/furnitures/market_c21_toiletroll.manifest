@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1665267811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45da1e57610d24a8ec13d500132c54fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_assets.xml
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_visualization.xml
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_64_sd_0_0.png
+- Assets/Live/market_c21_toiletroll/market_c21_toiletroll.xml
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_icon_a.png
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_logic.xml
+- Assets/Live/market_c21_toiletroll/flash/manifest.xml
+- Assets/Live/market_c21_toiletroll/flash/market_c21_toiletroll_64_a_0_0.png
+- Assets/Live/market_c21_toiletroll/flash/index.xml
+Dependencies: []

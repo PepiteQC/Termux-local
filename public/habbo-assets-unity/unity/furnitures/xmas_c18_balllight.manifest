@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3419539773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6651560a026b16038a400ee0ea23e8e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_logic.xml
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_b_0_1.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_b_0_0.png
+- Assets/Live/xmas_c18_balllight/flash/index.xml
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_a_0_3.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_a_0_2.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_sd_0_0.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_b_0_3.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_b_0_2.png
+- Assets/Live/xmas_c18_balllight/flash/manifest.xml
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_icon_a.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_assets.xml
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_visualization.xml
+- Assets/Live/xmas_c18_balllight/xmas_c18_balllight.xml
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_a_0_0.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_b_0_4.png
+- Assets/Live/xmas_c18_balllight/flash/xmas_c18_balllight_64_a_0_1.png
+Dependencies: []

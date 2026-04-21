@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1802861973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16311be07425be3d2edbaed1940749ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothiccafe_c20_rosepainting/flash/index.xml
+- Assets/Live/gothiccafe_c20_rosepainting/gothiccafe_c20_rosepainting.xml
+- Assets/Live/gothiccafe_c20_rosepainting/flash/manifest.xml
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_64_a_0_0.png
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_assets.xml
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_64_sd_0_0.png
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_icon_a.png
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_visualization.xml
+- Assets/Live/gothiccafe_c20_rosepainting/flash/gothiccafe_c20_rosepainting_logic.xml
+Dependencies: []

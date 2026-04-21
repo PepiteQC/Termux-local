@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3197766471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a31be0c5d310ce4c79538fc485e702
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_logic.xml
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_2_2.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_3_3.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_1_2.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_visualization.xml
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_icon_a.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_2_3.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_3_1.png
+- Assets/Live/xmas_c18_snowfootball/xmas_c18_snowfootball.xml
+- Assets/Live/xmas_c18_snowfootball/flash/manifest.xml
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_1_3.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_assets.xml
+- Assets/Live/xmas_c18_snowfootball/flash/index.xml
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_sd_0_0.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_3_2.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_1_1.png
+- Assets/Live/xmas_c18_snowfootball/flash/xmas_c18_snowfootball_64_a_2_1.png
+Dependencies: []

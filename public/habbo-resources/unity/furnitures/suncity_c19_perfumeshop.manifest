@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 474742232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcc426bbed9ebf13b8480152cd77a7dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_visualization.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_a_2_0.png
+- Assets/Live/suncity_c19_perfumeshop/suncity_c19_perfumeshop.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_logic.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_a_4_0.png
+- Assets/Live/suncity_c19_perfumeshop/flash/manifest.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_b_4_0.png
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_assets.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_c_4_0.png
+- Assets/Live/suncity_c19_perfumeshop/flash/index.xml
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_icon_a.png
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_b_2_0.png
+- Assets/Live/suncity_c19_perfumeshop/flash/suncity_c19_perfumeshop_64_c_2_0.png
+Dependencies: []

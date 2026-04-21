@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2019767956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8647ef457e6d7bc58a9c4280ec037039
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_3.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_1.png
+- Assets/Live/CF_300_bricks/flash/index.xml
+- Assets/Live/CF_300_bricks/flash/manifest.xml
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_visualization.xml
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_5.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_icon_a.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_4.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_2.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_a_0_0.png
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_64_b_0_0.png
+- Assets/Live/CF_300_bricks/CF_300_bricks.xml
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_assets.xml
+- Assets/Live/CF_300_bricks/flash/CF_300_bricks_logic.xml
+Dependencies: []

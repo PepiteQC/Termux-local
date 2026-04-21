@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2539005976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88d80d692925f0aa4cab854a550968a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_7.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_12.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_11.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_1.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_10.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_icon_a.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_8.png
+- Assets/Live/thai_c21_woodcarvingset/flash/index.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_0.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_assets.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_4.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_13.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_sd_0_0.png
+- Assets/Live/thai_c21_woodcarvingset/flash/manifest.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_3.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_5.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_2.png
+- Assets/Live/thai_c21_woodcarvingset/thai_c21_woodcarvingset.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_logic.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_9.png
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_visualization.xml
+- Assets/Live/thai_c21_woodcarvingset/flash/thai_c21_woodcarvingset_64_a_0_6.png
+Dependencies: []

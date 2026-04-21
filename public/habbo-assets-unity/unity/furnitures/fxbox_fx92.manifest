@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2359099838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c79998275209e6c8a465c67e80447ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_10.png
+- Assets/Live/fxbox_fx92/flash/manifest.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_b_0_0.png
+- Assets/Live/fxbox_fx92/fxbox_fx92.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_7.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_3.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_13.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_c_0_1.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_c_0_0.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_12.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_logic.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_11.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_1.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_visualization.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_assets.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_0.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_4.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_5.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_2.png
+- Assets/Live/fxbox_fx92/flash/index.xml
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_6.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_8.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_icon_a.png
+- Assets/Live/fxbox_fx92/flash/fxbox_fx92_64_a_0_9.png
+Dependencies: []

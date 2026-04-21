@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2871418491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24f7e97a7886e4c4f06d68335db1c3f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_assets.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_4_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_0_0.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_visualization.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_0_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_4_1.png
+- Assets/Live/rainbow_c21_rainbowroad/rainbow_c21_rainbowroad.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_2_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_2_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_4_0.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_6_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_logic.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_2_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_4_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_2_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_4_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/manifest.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/index.xml
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_6_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_4_0.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_icon_a.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_6_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_0_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_a_0_0.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_0_1.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_0_2.png
+- Assets/Live/rainbow_c21_rainbowroad/flash/rainbow_c21_rainbowroad_64_b_6_1.png
+Dependencies: []

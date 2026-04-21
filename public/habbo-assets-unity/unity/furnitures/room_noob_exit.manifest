@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 963120240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19e6e0873c3a617410828dc5d17f8c06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_noob_exit/flash/room_noob_exit_assets.xml
+- Assets/Live/room_noob_exit/flash/room_noob_exit_icon_a.png
+- Assets/Live/room_noob_exit/flash/index.xml
+- Assets/Live/room_noob_exit/flash/room_noob_exit_64_a_6_0.png
+- Assets/Live/room_noob_exit/flash/room_noob_exit_visualization.xml
+- Assets/Live/room_noob_exit/flash/manifest.xml
+- Assets/Live/room_noob_exit/flash/room_noob_exit_logic.xml
+- Assets/Live/room_noob_exit/flash/room_noob_exit_64_a_4_0.png
+- Assets/Live/room_noob_exit/room_noob_exit.xml
+Dependencies: []

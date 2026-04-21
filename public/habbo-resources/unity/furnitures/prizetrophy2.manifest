@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4024207794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53be897acd6813e0391400538efb76b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy2/flash/prizetrophy2_logic.xml
+- Assets/Live/prizetrophy2/flash/prizetrophy2_64_b_0_0.png
+- Assets/Live/prizetrophy2/flash/prizetrophy2_64_a_0_0.png
+- Assets/Live/prizetrophy2/flash/prizetrophy2_visualization.xml
+- Assets/Live/prizetrophy2/flash/manifest.xml
+- Assets/Live/prizetrophy2/flash/prizetrophy2_assets.xml
+- Assets/Live/prizetrophy2/flash/prizetrophy2_icon_a.png
+- Assets/Live/prizetrophy2/flash/prizetrophy2_64_c_0_0.png
+- Assets/Live/prizetrophy2/flash/index.xml
+- Assets/Live/prizetrophy2/prizetrophy2.xml
+Dependencies: []

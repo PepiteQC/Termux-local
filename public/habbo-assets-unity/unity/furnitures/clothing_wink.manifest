@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3903511738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99fc32129b8311e02b9fd227569e26b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_wink/flash/clothing_wink_logic.xml
+- Assets/Live/clothing_wink/flash/index.xml
+- Assets/Live/clothing_wink/flash/clothing_wink_64_a_0_0.png
+- Assets/Live/clothing_wink/flash/manifest.xml
+- Assets/Live/clothing_wink/flash/clothing_wink_assets.xml
+- Assets/Live/clothing_wink/clothing_wink.xml
+- Assets/Live/clothing_wink/flash/clothing_wink_visualization.xml
+- Assets/Live/clothing_wink/flash/clothing_wink_icon_a.png
+Dependencies: []

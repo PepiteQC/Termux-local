@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 234358344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6c58ba1005451540c8997752cc4d3b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_64_sd_0_0.png
+- Assets/Live/clothing_r17_sharkmask/flash/index.xml
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_visualization.xml
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_logic.xml
+- Assets/Live/clothing_r17_sharkmask/clothing_r17_sharkmask.xml
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_icon_a.png
+- Assets/Live/clothing_r17_sharkmask/flash/manifest.xml
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_assets.xml
+- Assets/Live/clothing_r17_sharkmask/flash/clothing_r17_sharkmask_64_a_0_0.png
+Dependencies: []

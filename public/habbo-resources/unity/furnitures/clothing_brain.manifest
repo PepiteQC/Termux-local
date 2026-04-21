@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1527051760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1dfec7c0de98c1621facb6c88a91d22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_brain/flash/clothing_brain_assets.xml
+- Assets/Live/clothing_brain/flash/index.xml
+- Assets/Live/clothing_brain/flash/clothing_brain_logic.xml
+- Assets/Live/clothing_brain/flash/clothing_brain_visualization.xml
+- Assets/Live/clothing_brain/flash/manifest.xml
+- Assets/Live/clothing_brain/clothing_brain.xml
+- Assets/Live/clothing_brain/flash/clothing_brain_64_a_0_0.png
+- Assets/Live/clothing_brain/flash/clothing_brain_icon_a.png
+Dependencies: []

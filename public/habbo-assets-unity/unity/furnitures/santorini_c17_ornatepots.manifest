@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4283777883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c357f975cdbb405a72fff948652342ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_logic.xml
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_64_sd_0_0.png
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_assets.xml
+- Assets/Live/santorini_c17_ornatepots/flash/index.xml
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_icon_a.png
+- Assets/Live/santorini_c17_ornatepots/flash/manifest.xml
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_64_a_0_0.png
+- Assets/Live/santorini_c17_ornatepots/flash/santorini_c17_ornatepots_visualization.xml
+- Assets/Live/santorini_c17_ornatepots/santorini_c17_ornatepots.xml
+Dependencies: []

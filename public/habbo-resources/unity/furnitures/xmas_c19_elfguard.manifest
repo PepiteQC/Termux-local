@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1451162189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8022f125e64083a02d0ff577081fdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_elfguard/flash/index.xml
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_sd_4_0.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_5.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_visualization.xml
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_3.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_2.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_logic.xml
+- Assets/Live/xmas_c19_elfguard/xmas_c19_elfguard.xml
+- Assets/Live/xmas_c19_elfguard/flash/manifest.xml
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_7.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_4.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_6.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_8.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_icon_a.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_1.png
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_assets.xml
+- Assets/Live/xmas_c19_elfguard/flash/xmas_c19_elfguard_64_a_4_0.png
+Dependencies: []

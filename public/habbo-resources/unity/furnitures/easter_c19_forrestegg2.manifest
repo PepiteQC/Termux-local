@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3036759526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29491483784f5b944197e83c615081ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_visualization.xml
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_icon_a.png
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_logic.xml
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_64_a_0_0.png
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_assets.xml
+- Assets/Live/easter_c19_forrestegg2/flash/easter_c19_forrestegg2_64_sd_0_0.png
+- Assets/Live/easter_c19_forrestegg2/flash/index.xml
+- Assets/Live/easter_c19_forrestegg2/flash/manifest.xml
+- Assets/Live/easter_c19_forrestegg2/easter_c19_forrestegg2.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3322446341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55a5ed09aa074380dd94d20bddddbf5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bolly_phant/flash/bolly_phant_64_sd_2_0.png
+- Assets/Live/bolly_phant/flash/bolly_phant_64_a_2_0.png
+- Assets/Live/bolly_phant/flash/index.xml
+- Assets/Live/bolly_phant/bolly_phant.xml
+- Assets/Live/bolly_phant/flash/bolly_phant_logic.xml
+- Assets/Live/bolly_phant/flash/manifest.xml
+- Assets/Live/bolly_phant/flash/bolly_phant_visualization.xml
+- Assets/Live/bolly_phant/flash/bolly_phant_assets.xml
+- Assets/Live/bolly_phant/flash/bolly_phant_icon_a.png
+- Assets/Live/bolly_phant/flash/bolly_phant_64_a_2_1.png
+Dependencies: []

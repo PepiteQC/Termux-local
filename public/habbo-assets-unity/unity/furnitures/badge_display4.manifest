@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2218893469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aefc8d16ecd8078af8f01e0eae5b5e5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/badge_display4/flash/badge_display4_64_c_4_0.png
+- Assets/Live/badge_display4/flash/badge_display4_64_a_4_0.png
+- Assets/Live/badge_display4/flash/badge_display4_logic.xml
+- Assets/Live/badge_display4/badge_display4.xml
+- Assets/Live/badge_display4/flash/badge_display4_icon_a.png
+- Assets/Live/badge_display4/flash/badge_display4_assets.xml
+- Assets/Live/badge_display4/flash/index.xml
+- Assets/Live/badge_display4/flash/badge_display4_visualization.xml
+- Assets/Live/badge_display4/flash/badge_display4_64_d_4_0.png
+- Assets/Live/badge_display4/flash/manifest.xml
+- Assets/Live/badge_display4/flash/badge_display4_64_b_4_0.png
+- Assets/Live/badge_display4/flash/badge_display4_64_b_2_0.png
+Dependencies: []

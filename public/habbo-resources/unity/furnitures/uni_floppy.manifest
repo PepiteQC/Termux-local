@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1005582534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 577924df68bc782dd0adf9f52ebd02da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_4_1.png
+- Assets/Live/uni_floppy/uni_floppy.xml
+- Assets/Live/uni_floppy/flash/uni_floppy_assets.xml
+- Assets/Live/uni_floppy/flash/uni_floppy_visualization.xml
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_2_0.png
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_4_2.png
+- Assets/Live/uni_floppy/flash/uni_floppy_icon_a.png
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_4_0.png
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_2_2.png
+- Assets/Live/uni_floppy/flash/index.xml
+- Assets/Live/uni_floppy/flash/uni_floppy_64_a_2_1.png
+- Assets/Live/uni_floppy/flash/uni_floppy_logic.xml
+- Assets/Live/uni_floppy/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2969888272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 845c491b5912ac21d7b6bfa229ebe1a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_cargobox/flash/bb_cargobox_64_a_0_1.png
+- Assets/Live/bb_cargobox/flash/index.xml
+- Assets/Live/bb_cargobox/flash/bb_cargobox_icon_a.png
+- Assets/Live/bb_cargobox/bb_cargobox.xml
+- Assets/Live/bb_cargobox/flash/bb_cargobox_assets.xml
+- Assets/Live/bb_cargobox/flash/bb_cargobox_64_b_0_0.png
+- Assets/Live/bb_cargobox/flash/manifest.xml
+- Assets/Live/bb_cargobox/flash/bb_cargobox_visualization.xml
+- Assets/Live/bb_cargobox/flash/bb_cargobox_64_a_0_0.png
+- Assets/Live/bb_cargobox/flash/bb_cargobox_64_b_0_1.png
+- Assets/Live/bb_cargobox/flash/bb_cargobox_logic.xml
+Dependencies: []

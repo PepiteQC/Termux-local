@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2659836036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7e6167984d47a213aa0c4000d3d23d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_harmonyset/flash/clothing_r20_harmonyset_64_a_0_0.png
+- Assets/Live/clothing_r20_harmonyset/flash/clothing_r20_harmonyset_assets.xml
+- Assets/Live/clothing_r20_harmonyset/clothing_r20_harmonyset.xml
+- Assets/Live/clothing_r20_harmonyset/flash/clothing_r20_harmonyset_logic.xml
+- Assets/Live/clothing_r20_harmonyset/flash/clothing_r20_harmonyset_icon_a.png
+- Assets/Live/clothing_r20_harmonyset/flash/clothing_r20_harmonyset_visualization.xml
+- Assets/Live/clothing_r20_harmonyset/flash/manifest.xml
+- Assets/Live/clothing_r20_harmonyset/flash/index.xml
+Dependencies: []

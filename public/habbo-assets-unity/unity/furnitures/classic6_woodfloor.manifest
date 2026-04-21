@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 778370064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31bc84c38ce362c74a55670af73c130e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic6_woodfloor/classic6_woodfloor.xml
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_assets.xml
+- Assets/Live/classic6_woodfloor/flash/index.xml
+- Assets/Live/classic6_woodfloor/flash/manifest.xml
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_visualization.xml
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_64_a_0_0.png
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_logic.xml
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_64_b_0_0.png
+- Assets/Live/classic6_woodfloor/flash/classic6_woodfloor_icon_a.png
+Dependencies: []

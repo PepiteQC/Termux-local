@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 4202370703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 571836975a56f343b7bd035a2669d6f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_4.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_6.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_4.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_3.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_2.png
+- Assets/Live/snowb_slope/flash/snowb_slope_visualization.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_0.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_2.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_3.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_1.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_7.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_6.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_1.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_4.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_2.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_7.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_2.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_5.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_1.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_0.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_6.png
+- Assets/Live/snowb_slope/flash/index.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_0.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_7.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_7.png
+- Assets/Live/snowb_slope/flash/manifest.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_icon_a.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_5.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_5.png
+- Assets/Live/snowb_slope/snowb_slope.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_assets.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_1.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_3.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_a_4_0.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_d_4_6.png
+- Assets/Live/snowb_slope/flash/snowb_slope_logic.xml
+- Assets/Live/snowb_slope/flash/snowb_slope_64_b_4_4.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_3.png
+- Assets/Live/snowb_slope/flash/snowb_slope_64_c_4_5.png
+Dependencies: []

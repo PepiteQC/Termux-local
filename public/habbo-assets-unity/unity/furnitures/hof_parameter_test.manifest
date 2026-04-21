@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1312383530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 058cb5d571d4e260728b66c7dd6b9c43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hof_parameter_test/flash/hof_parameter_test_icon_a.png
+- Assets/Live/hof_parameter_test/flash/hof_parameter_test_logic.xml
+- Assets/Live/hof_parameter_test/flash/hof_parameter_test_visualization.xml
+- Assets/Live/hof_parameter_test/flash/hof_parameter_test_64_a_0_0.png
+- Assets/Live/hof_parameter_test/flash/hof_parameter_test_assets.xml
+- Assets/Live/hof_parameter_test/hof_parameter_test.xml
+- Assets/Live/hof_parameter_test/flash/manifest.xml
+- Assets/Live/hof_parameter_test/flash/index.xml
+Dependencies: []

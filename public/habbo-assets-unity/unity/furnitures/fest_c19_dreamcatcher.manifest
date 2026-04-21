@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3957155418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec57a09a046b1ca839dbba0ca66bae8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_assets.xml
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_visualization.xml
+- Assets/Live/fest_c19_dreamcatcher/flash/manifest.xml
+- Assets/Live/fest_c19_dreamcatcher/fest_c19_dreamcatcher.xml
+- Assets/Live/fest_c19_dreamcatcher/flash/index.xml
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_64_a_4_0.png
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_logic.xml
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_icon_a.png
+- Assets/Live/fest_c19_dreamcatcher/flash/fest_c19_dreamcatcher_64_sd_4_0.png
+Dependencies: []

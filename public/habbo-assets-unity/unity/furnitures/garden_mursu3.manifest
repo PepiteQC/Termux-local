@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2058823213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38b787dcef98f5d53abb1e4b5d6d30c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_2_2.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_2_1.png
+- Assets/Live/garden_mursu3/flash/index.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_2_0.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_2_0.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_0_1.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_2_2.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_0_1.png
+- Assets/Live/garden_mursu3/garden_mursu3.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_0_0.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_visualization.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_logic.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_0_2.png
+- Assets/Live/garden_mursu3/flash/manifest.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_2_1.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_icon_a.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_b_0_2.png
+- Assets/Live/garden_mursu3/flash/garden_mursu3_assets.xml
+- Assets/Live/garden_mursu3/flash/garden_mursu3_64_a_0_0.png
+Dependencies: []

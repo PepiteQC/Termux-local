@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3261373891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77999a62646856c00829da0d18d85208
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_giftbag/xmas_giftbag.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_logic.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_assets.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_64sd_2_0.png
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_64_a_2_0.png
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_64_a_2_1.png
+- Assets/Live/xmas_giftbag/flash/manifest.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_visualization.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_icon_a.png
+- Assets/Live/xmas_giftbag/flash/index.xml
+- Assets/Live/xmas_giftbag/flash/xmas_giftbag_64_sd_2_0.png
+Dependencies: []

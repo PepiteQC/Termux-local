@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 922964433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72067d87c581a23c14902aeaeeb37ac1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tile/flash/tile_logic.xml
+- Assets/Live/tile/flash/tile_assets.xml
+- Assets/Live/tile/flash/manifest.xml
+- Assets/Live/tile/flash/tile_visualization.xml
+- Assets/Live/tile/flash/index.xml
+- Assets/Live/tile/tile.xml
+- Assets/Live/tile/flash/tile_icon_a.png
+- Assets/Live/tile/flash/tile_64_a_0_0.png
+Dependencies: []

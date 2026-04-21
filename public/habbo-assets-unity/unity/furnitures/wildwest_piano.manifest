@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1844980537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d64faaebd575816ef2f830e8ccb6191
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_c_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_1.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_2.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_c_4_3.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_6.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_5.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_c_4_2.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_logic.xml
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_c_4_1.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_3.png
+- Assets/Live/wildwest_piano/flash/index.xml
+- Assets/Live/wildwest_piano/flash/wildwest_piano_visualization.xml
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_a_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_4.png
+- Assets/Live/wildwest_piano/flash/manifest.xml
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_4.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_icon_a.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_7.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_sd_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_5.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_b_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_f_4_2.png
+- Assets/Live/wildwest_piano/wildwest_piano.xml
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_2.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_1.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_f_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_e_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_f_4_1.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_d_4_0.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_e_4_1.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_64_g_4_3.png
+- Assets/Live/wildwest_piano/flash/wildwest_piano_assets.xml
+Dependencies: []

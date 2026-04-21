@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2688805496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8300ee93c306c5ded8d69728d62d6daa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_a_0_2.png
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_sd_0_0.png
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_a_0_3.png
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_a_0_0.png
+- Assets/Live/darkmodern_c20_pillow/darkmodern_c20_pillow.xml
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_a_0_4.png
+- Assets/Live/darkmodern_c20_pillow/flash/manifest.xml
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_visualization.xml
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_64_a_0_1.png
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_assets.xml
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_icon_a.png
+- Assets/Live/darkmodern_c20_pillow/flash/index.xml
+- Assets/Live/darkmodern_c20_pillow/flash/darkmodern_c20_pillow_logic.xml
+Dependencies: []

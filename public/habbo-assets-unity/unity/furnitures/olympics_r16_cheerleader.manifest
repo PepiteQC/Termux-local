@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3506455277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32cfa663e97ca8faa9d5f453e8232499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_4.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_4.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_sd_4_0.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_5.png
+- Assets/Live/olympics_r16_cheerleader/flash/manifest.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_6.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_5.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_10.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_8.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_3.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_sd_0_0.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_8.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_2.png
+- Assets/Live/olympics_r16_cheerleader/olympics_r16_cheerleader.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_0.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_9.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_11.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_2.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_9.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_0.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_10.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_assets.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_1.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_1.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_visualization.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_icon_a.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_11.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_3.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_4_7.png
+- Assets/Live/olympics_r16_cheerleader/flash/index.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_6.png
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_logic.xml
+- Assets/Live/olympics_r16_cheerleader/flash/olympics_r16_cheerleader_64_a_0_7.png
+Dependencies: []

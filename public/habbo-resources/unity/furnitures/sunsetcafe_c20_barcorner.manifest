@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3286332985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 734d2ebd4f0a55dd0d7890fa541e19f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_visualization.xml
+- Assets/Live/sunsetcafe_c20_barcorner/flash/index.xml
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_b_1_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_a_3_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_a_1_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_sd_7_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_logic.xml
+- Assets/Live/sunsetcafe_c20_barcorner/flash/manifest.xml
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_a_7_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_b_7_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/sunsetcafe_c20_barcorner.xml
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_sd_3_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_b_5_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_a_5_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_icon_a.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_64_b_3_0.png
+- Assets/Live/sunsetcafe_c20_barcorner/flash/sunsetcafe_c20_barcorner_assets.xml
+Dependencies: []

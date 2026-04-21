@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3495724890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2cc961bfc88e3ad83e4ab8ae0da09ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_icon_a.png
+- Assets/Live/autumn_c20_tree5/autumn_c20_tree5.xml
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_assets.xml
+- Assets/Live/autumn_c20_tree5/flash/index.xml
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_visualization.xml
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_64_a_0_0.png
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_64_sd_0_0.png
+- Assets/Live/autumn_c20_tree5/flash/manifest.xml
+- Assets/Live/autumn_c20_tree5/flash/autumn_c20_tree5_logic.xml
+Dependencies: []

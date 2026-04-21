@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4138734615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 207e2ffd65ecd84a69a7f226af326b7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_luxsofa2/xmas11_luxsofa2.xml
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_c_2_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_b_2_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_assets.xml
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_d_2_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_a_2_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_c_6_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_a_6_0.png
+- Assets/Live/xmas11_luxsofa2/flash/index.xml
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_b_6_0.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_logic.xml
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_icon_a.png
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_64_d_6_0.png
+- Assets/Live/xmas11_luxsofa2/flash/manifest.xml
+- Assets/Live/xmas11_luxsofa2/flash/xmas11_luxsofa2_visualization.xml
+Dependencies: []

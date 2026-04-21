@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 353900272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb457fc3a8eb860171d35becf0bc478e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_64_sd_0_0.png
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_visualization.xml
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_64_a_0_0.png
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_64_a_0_1.png
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_icon_a.png
+- Assets/Live/ktchn_c15_lamp_b/flash/index.xml
+- Assets/Live/ktchn_c15_lamp_b/ktchn_c15_lamp_b.xml
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_assets.xml
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_logic.xml
+- Assets/Live/ktchn_c15_lamp_b/flash/ktchn_c15_lamp_b_64_b_0_0.png
+- Assets/Live/ktchn_c15_lamp_b/flash/manifest.xml
+Dependencies: []

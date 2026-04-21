@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2499887661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4449527b7e6c44da32234843ca48650
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_visualization.xml
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_b_0_0.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_a_0_0.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_b_0_2.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_d_0_0.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_icon_a.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_sd_0_0.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_assets.xml
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_c_0_1.png
+- Assets/Live/suncity_c19_jellyfood/flash/index.xml
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_logic.xml
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_b_0_1.png
+- Assets/Live/suncity_c19_jellyfood/suncity_c19_jellyfood.xml
+- Assets/Live/suncity_c19_jellyfood/flash/manifest.xml
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_c_0_0.png
+- Assets/Live/suncity_c19_jellyfood/flash/suncity_c19_jellyfood_64_c_0_2.png
+Dependencies: []

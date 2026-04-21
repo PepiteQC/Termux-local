@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2541550378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 665eb124b11c86fd2807c2aa0b3a0c4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_bewitchedtable/hween_c19_bewitchedtable.xml
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_logic.xml
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_64_sd_0_0.png
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_icon_a.png
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_assets.xml
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_64_a_0_0.png
+- Assets/Live/hween_c19_bewitchedtable/flash/hween_c19_bewitchedtable_visualization.xml
+- Assets/Live/hween_c19_bewitchedtable/flash/manifest.xml
+- Assets/Live/hween_c19_bewitchedtable/flash/index.xml
+Dependencies: []

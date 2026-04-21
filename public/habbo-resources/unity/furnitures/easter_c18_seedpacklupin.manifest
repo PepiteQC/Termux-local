@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1413697609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4167bf9e93f5fa45c51b211db9d90320
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_64_a_2_0.png
+- Assets/Live/easter_c18_seedpacklupin/flash/manifest.xml
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_visualization.xml
+- Assets/Live/easter_c18_seedpacklupin/easter_c18_seedpacklupin.xml
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_icon_a.png
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_assets.xml
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_64_sd_2_0.png
+- Assets/Live/easter_c18_seedpacklupin/flash/index.xml
+- Assets/Live/easter_c18_seedpacklupin/flash/easter_c18_seedpacklupin_logic.xml
+Dependencies: []

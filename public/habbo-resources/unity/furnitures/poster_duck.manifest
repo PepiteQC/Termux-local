@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1370587304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d2ce8f16be3ed6d7aab143f686ecf20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/poster_duck/flash/poster_duck_icon_a.png
+- Assets/Live/poster_duck/flash/index.xml
+- Assets/Live/poster_duck/flash/poster_duck_visualization.xml
+- Assets/Live/poster_duck/flash/poster_duck_logic.xml
+- Assets/Live/poster_duck/poster_duck.xml
+- Assets/Live/poster_duck/flash/poster_duck_64_a_2_0.png
+- Assets/Live/poster_duck/flash/manifest.xml
+- Assets/Live/poster_duck/flash/poster_duck_assets.xml
+Dependencies: []

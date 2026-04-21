@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3050066565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33a213e61a0db7468737c2a797f27afe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 917e1bed46d49393a1e427c1f3c79b6a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sound_set_36/flash/sound_set_36_assets.xml
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_319.mp3
+- Assets/Live/sound_set_36/flash/sound_set_36_64_a_0_0.png
+- Assets/Live/sound_set_36/flash/manifest.xml
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_324.mp3
+- Assets/Live/sound_set_36/sound_set_36.xml
+- Assets/Live/sound_set_36/flash/index.xml
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_320.mp3
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_318.mp3
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_323.mp3
+- Assets/Live/sound_set_36/flash/sound_set_36_logic.xml
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_317.mp3
+- Assets/Live/sound_set_36/flash/sound_set_36_icon_a.png
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_322.mp3
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_316.mp3
+- Assets/Live/sound_set_36/mp3/sound_machine_sample_321.mp3
+- Assets/Live/sound_set_36/flash/sound_set_36_visualization.xml
+Dependencies: []

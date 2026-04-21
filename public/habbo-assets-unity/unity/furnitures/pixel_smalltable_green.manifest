@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 638877311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07d2570624dd6853038d98c4ec2046e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_smalltable_green/flash/manifest.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_64_sd_2_0.png
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_logic.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_64_sd_2_.png
+- Assets/Live/pixel_smalltable_green/pixel_smalltable_green.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_visualization.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_64_a_2_0.png
+- Assets/Live/pixel_smalltable_green/flash/index.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_assets.xml
+- Assets/Live/pixel_smalltable_green/flash/pixel_smalltable_green_icon_a.png
+Dependencies: []

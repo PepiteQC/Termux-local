@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1987958372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94211f502ad7e48bc128b5e5f82ce244
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_rail/flash/sb_rail_logic.xml
+- Assets/Live/sb_rail/flash/sb_rail_assets.xml
+- Assets/Live/sb_rail/flash/sb_rail_64_sd_0_0.png
+- Assets/Live/sb_rail/flash/sb_rail_icon_a.png
+- Assets/Live/sb_rail/flash/sb_rail_64_a_0_0.png
+- Assets/Live/sb_rail/flash/sb_rail_visualization.xml
+- Assets/Live/sb_rail/flash/index.xml
+- Assets/Live/sb_rail/flash/manifest.xml
+- Assets/Live/sb_rail/sb_rail.xml
+Dependencies: []

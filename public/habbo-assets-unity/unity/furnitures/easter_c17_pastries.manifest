@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1070687288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87c90b134410e7c04b72815988ab60f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_64_a_0_0.png
+- Assets/Live/easter_c17_pastries/easter_c17_pastries.xml
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_visualization.xml
+- Assets/Live/easter_c17_pastries/flash/manifest.xml
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_logic.xml
+- Assets/Live/easter_c17_pastries/flash/index.xml
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_icon_a.png
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_64_sd_0_0.png
+- Assets/Live/easter_c17_pastries/flash/easter_c17_pastries_assets.xml
+Dependencies: []

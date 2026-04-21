@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4225330378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33a4851c335441fffaab87d4301bc825
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_visualization.xml
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_icon_a.png
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_logic.xml
+- Assets/Live/xmas_c16_dresser/flash/index.xml
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_64_b_2_0.png
+- Assets/Live/xmas_c16_dresser/xmas_c16_dresser.xml
+- Assets/Live/xmas_c16_dresser/flash/manifest.xml
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_64_sd_2_0.png
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_64_a_2_0.png
+- Assets/Live/xmas_c16_dresser/flash/xmas_c16_dresser_assets.xml
+Dependencies: []

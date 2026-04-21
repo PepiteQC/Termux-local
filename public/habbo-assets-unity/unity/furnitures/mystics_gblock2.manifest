@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 249184846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0197f8a49b7fdc904d6cbf9056ca0bcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_icon_a.png
+- Assets/Live/mystics_gblock2/flash/index.xml
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_logic.xml
+- Assets/Live/mystics_gblock2/flash/manifest.xml
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_visualization.xml
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_b_2_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_a_4_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_a_6_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_b_0_0.png
+- Assets/Live/mystics_gblock2/mystics_gblock2.xml
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_a_2_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_a_0_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_b_6_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_64_b_4_0.png
+- Assets/Live/mystics_gblock2/flash/mystics_gblock2_assets.xml
+Dependencies: []

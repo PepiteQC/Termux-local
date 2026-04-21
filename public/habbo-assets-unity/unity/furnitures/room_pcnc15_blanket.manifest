@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1767370641
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c97dc884fbf063be1f405415ce052ff5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_pcnc15_blanket/flash/index.xml
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_64_sd_0_0.png
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_64_a_0_0.png
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_64_a_0_1.png
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_logic.xml
+- Assets/Live/room_pcnc15_blanket/room_pcnc15_blanket.xml
+- Assets/Live/room_pcnc15_blanket/flash/manifest.xml
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_icon_a.png
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_assets.xml
+- Assets/Live/room_pcnc15_blanket/flash/room_pcnc15_blanket_visualization.xml
+Dependencies: []

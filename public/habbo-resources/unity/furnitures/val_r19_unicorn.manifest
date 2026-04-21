@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3270243936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55db14bb84c23aa4f1e68c83e583267d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_r19_unicorn/flash/index.xml
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_64_a_0_1.png
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_64_a_0_0.png
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_64_sd_0_0.png
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_assets.xml
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_64_a_0_2.png
+- Assets/Live/val_r19_unicorn/val_r19_unicorn.xml
+- Assets/Live/val_r19_unicorn/flash/manifest.xml
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_icon_a.png
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_visualization.xml
+- Assets/Live/val_r19_unicorn/flash/val_r19_unicorn_logic.xml
+Dependencies: []

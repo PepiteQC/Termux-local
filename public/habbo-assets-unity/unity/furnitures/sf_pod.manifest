@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3021054929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02d73783abd2574fcdef9b4ff3eae4d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sf_pod/flash/sf_pod_64_e_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_h_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_d_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_g_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_assets.xml
+- Assets/Live/sf_pod/flash/sf_pod_64_h_0_1.png
+- Assets/Live/sf_pod/sf_pod.xml
+- Assets/Live/sf_pod/flash/sf_pod_64_e_0_1.png
+- Assets/Live/sf_pod/flash/manifest.xml
+- Assets/Live/sf_pod/flash/sf_pod_64_b_0_1.png
+- Assets/Live/sf_pod/flash/sf_pod_logic.xml
+- Assets/Live/sf_pod/flash/sf_pod_icon_a.png
+- Assets/Live/sf_pod/flash/sf_pod_64_c_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_f_0_1.png
+- Assets/Live/sf_pod/flash/index.xml
+- Assets/Live/sf_pod/flash/sf_pod_64_f_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_d_0_1.png
+- Assets/Live/sf_pod/flash/sf_pod_64_c_0_1.png
+- Assets/Live/sf_pod/flash/sf_pod_64_b_0_0.png
+- Assets/Live/sf_pod/flash/sf_pod_64_g_0_1.png
+- Assets/Live/sf_pod/flash/sf_pod_visualization.xml
+- Assets/Live/sf_pod/flash/sf_pod_64_a_0_1.png
+- Assets/Live/sf_pod/flash/sf_pod_64_a_0_0.png
+Dependencies: []

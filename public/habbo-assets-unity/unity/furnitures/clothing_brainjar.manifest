@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1217979015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1f309b44e84246615175cd83e0ff478
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_64_a_2_0.png
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_visualization.xml
+- Assets/Live/clothing_brainjar/flash/manifest.xml
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_logic.xml
+- Assets/Live/clothing_brainjar/clothing_brainjar.xml
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_assets.xml
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_64_sd_2_0.png
+- Assets/Live/clothing_brainjar/flash/clothing_brainjar_icon_a.png
+- Assets/Live/clothing_brainjar/flash/index.xml
+Dependencies: []

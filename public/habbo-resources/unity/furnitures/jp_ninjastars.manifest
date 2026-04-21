@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3968305086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77f5b8ef0ba565c9373890b6e75e5609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_assets.xml
+- Assets/Live/jp_ninjastars/flash/index.xml
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_logic.xml
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_64_a_2_0.png
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_icon_a.png
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_64_b_2_0.png
+- Assets/Live/jp_ninjastars/flash/manifest.xml
+- Assets/Live/jp_ninjastars/flash/jp_ninjastars_visualization.xml
+- Assets/Live/jp_ninjastars/jp_ninjastars.xml
+Dependencies: []

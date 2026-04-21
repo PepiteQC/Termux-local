@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1086919035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d050814242cf3511fd399c91bea1577
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_visualization.xml
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_c_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_j_0_1.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_assets.xml
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_g_0_0.png
+- Assets/Live/jetset_yacht_front/flash/manifest.xml
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_j_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_h_0_1.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_b_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_d_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_i_0_1.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_e_0_0.png
+- Assets/Live/jetset_yacht_front/jetset_yacht_front.xml
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_a_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_i_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_icon_a.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_h_0_0.png
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_logic.xml
+- Assets/Live/jetset_yacht_front/flash/index.xml
+- Assets/Live/jetset_yacht_front/flash/jetset_yacht_front_64_f_0_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 507043391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 598a9376ce4cde4cd298db5d98d25827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_eyecucumber/flash/clothing_eyecucumber_logic.xml
+- Assets/Live/clothing_eyecucumber/clothing_eyecucumber.xml
+- Assets/Live/clothing_eyecucumber/flash/manifest.xml
+- Assets/Live/clothing_eyecucumber/flash/clothing_eyecucumber_64_a_0_0.png
+- Assets/Live/clothing_eyecucumber/flash/clothing_eyecucumber_icon_a.png
+- Assets/Live/clothing_eyecucumber/flash/clothing_eyecucumber_visualization.xml
+- Assets/Live/clothing_eyecucumber/flash/clothing_eyecucumber_assets.xml
+- Assets/Live/clothing_eyecucumber/flash/index.xml
+Dependencies: []

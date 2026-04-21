@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 465722281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce0eee321740ea0e4b23290d4779c2da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_5.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_12.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_logic.xml
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_4.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_9.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_1.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_0.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_6.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_8.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_11.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_7.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_10.png
+- Assets/Live/easter_c20_darkrock/easter_c20_darkrock.xml
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_3.png
+- Assets/Live/easter_c20_darkrock/flash/manifest.xml
+- Assets/Live/easter_c20_darkrock/flash/index.xml
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_icon_a.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_assets.xml
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_64_a_0_2.png
+- Assets/Live/easter_c20_darkrock/flash/easter_c20_darkrock_visualization.xml
+Dependencies: []

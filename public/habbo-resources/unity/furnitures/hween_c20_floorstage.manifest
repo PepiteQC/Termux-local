@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3653471790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ebb5c7b10c2feb7fb7cb79f4278d49c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_sd_2_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_a_2_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_icon_a.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_assets.xml
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_sd_0_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_logic.xml
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_e_0_1.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_b_0_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_b_2_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_a_0_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_c_2_0.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_e_2_1.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_visualization.xml
+- Assets/Live/hween_c20_floorstage/flash/manifest.xml
+- Assets/Live/hween_c20_floorstage/flash/index.xml
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_d_0_1.png
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_d_2_1.png
+- Assets/Live/hween_c20_floorstage/hween_c20_floorstage.xml
+- Assets/Live/hween_c20_floorstage/flash/hween_c20_floorstage_64_c_0_0.png
+Dependencies: []

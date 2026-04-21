@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2974662879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 301e1c2f107f673160c63d75908ecab1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_d_2_1.png
+- Assets/Live/hween08_wndwb/flash/manifest.xml
+- Assets/Live/hween08_wndwb/hween08_wndwb.xml
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_visualization.xml
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_assets.xml
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_c_2_0.png
+- Assets/Live/hween08_wndwb/flash/index.xml
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_a_2_0.png
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_icon_a.png
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_b_2_0.png
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_logic.xml
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_2_mask.png
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_32_2_mask.png
+- Assets/Live/hween08_wndwb/flash/hween08_wndwb_64_d_2_0.png
+Dependencies: []

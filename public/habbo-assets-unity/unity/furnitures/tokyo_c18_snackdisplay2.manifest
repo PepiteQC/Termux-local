@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1771672419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba373762d08c61b3b9fed51d480d4701
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_64_a_0_0.png
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_64_a_2_0.png
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_icon_a.png
+- Assets/Live/tokyo_c18_snackdisplay2/flash/manifest.xml
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_assets.xml
+- Assets/Live/tokyo_c18_snackdisplay2/tokyo_c18_snackdisplay2.xml
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_logic.xml
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_visualization.xml
+- Assets/Live/tokyo_c18_snackdisplay2/flash/index.xml
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_64_sd_0_0.png
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_64_b_2_0.png
+- Assets/Live/tokyo_c18_snackdisplay2/flash/tokyo_c18_snackdisplay2_64_b_0_0.png
+Dependencies: []

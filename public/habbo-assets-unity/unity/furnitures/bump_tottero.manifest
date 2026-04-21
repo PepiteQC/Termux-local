@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2830998743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03807049735223d963b9c527a0e0edfd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bump_tottero/flash/bump_tottero_visualization.xml
+- Assets/Live/bump_tottero/flash/manifest.xml
+- Assets/Live/bump_tottero/flash/bump_tottero_logic.xml
+- Assets/Live/bump_tottero/flash/index.xml
+- Assets/Live/bump_tottero/bump_tottero.xml
+- Assets/Live/bump_tottero/flash/bump_tottero_assets.xml
+- Assets/Live/bump_tottero/flash/bump_tottero_64_a_0_0.png
+- Assets/Live/bump_tottero/flash/bump_tottero_icon_a.png
+Dependencies: []

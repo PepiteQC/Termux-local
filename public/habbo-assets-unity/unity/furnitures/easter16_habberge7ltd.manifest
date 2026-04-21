@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4247280043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d034ec50ddc770490fa90eb07e766ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_a_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_e_0_2.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_sd_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/index.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_d_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_f_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_e_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_f_0_2.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_e_0_3.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_b_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_e_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_b_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_f_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_g_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_d_0_2.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_b_0_4.png
+- Assets/Live/easter16_habberge7ltd/flash/manifest.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_c_0_0.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_c_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_b_0_2.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_assets.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_d_0_3.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_icon_a.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_logic.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_g_0_0.png
+- Assets/Live/easter16_habberge7ltd/easter16_habberge7ltd.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_f_0_3.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_d_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_a_0_1.png
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_visualization.xml
+- Assets/Live/easter16_habberge7ltd/flash/easter16_habberge7ltd_64_b_0_3.png
+Dependencies: []

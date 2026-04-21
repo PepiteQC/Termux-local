@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2501797656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6c394a2fecf935670aab363d6801244
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_64_a_0_0.png
+- Assets/Live/easter_c17_choc/flash/index.xml
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_visualization.xml
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_logic.xml
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_assets.xml
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_icon_a.png
+- Assets/Live/easter_c17_choc/easter_c17_choc.xml
+- Assets/Live/easter_c17_choc/flash/easter_c17_choc_64_sd_0_0.png
+- Assets/Live/easter_c17_choc/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4237807276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a054a0d0982c67de8afe106a86954dee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/laptopdesk/flash/laptopdesk_icon_a.png
+- Assets/Live/laptopdesk/flash/laptopdesk_64_a_6_0.png
+- Assets/Live/laptopdesk/flash/index.xml
+- Assets/Live/laptopdesk/flash/laptopdesk_logic.xml
+- Assets/Live/laptopdesk/flash/laptopdesk_64_a_0_0.png
+- Assets/Live/laptopdesk/flash/laptopdesk_assets.xml
+- Assets/Live/laptopdesk/flash/laptopdesk_visualization.xml
+- Assets/Live/laptopdesk/flash/laptopdesk_64_a_4_0.png
+- Assets/Live/laptopdesk/laptopdesk.xml
+- Assets/Live/laptopdesk/flash/manifest.xml
+- Assets/Live/laptopdesk/flash/laptopdesk_64_a_2_0.png
+- Assets/Live/laptopdesk/flash/laptopdesk_64_sd_0_0.png
+Dependencies: []

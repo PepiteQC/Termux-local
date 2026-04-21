@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2310141943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a1d46e992baa1a108fad6c77ed1957c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_rose/hween13_rose.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_0.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_4.png
+- Assets/Live/hween13_rose/flash/hween13_rose_logic.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_5.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_sd_0_0.png
+- Assets/Live/hween13_rose/flash/manifest.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_9.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_0.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_7.png
+- Assets/Live/hween13_rose/flash/hween13_rose_icon_a.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_8.png
+- Assets/Live/hween13_rose/flash/index.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_3.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_1.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_4.png
+- Assets/Live/hween13_rose/flash/hween13_rose_visualization.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_1.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_c_0_0.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_3.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_a_0_0.png
+- Assets/Live/hween13_rose/flash/hween13_rose_assets.xml
+- Assets/Live/hween13_rose/flash/hween13_rose_64_d_0_2.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_5.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_2.png
+- Assets/Live/hween13_rose/flash/hween13_rose_64_b_0_6.png
+Dependencies: []

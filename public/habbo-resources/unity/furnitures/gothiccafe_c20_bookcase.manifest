@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1720290716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cc1aa703fecbad32eb0f90c33f4ec81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_icon_a.png
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_64_sd_0_0.png
+- Assets/Live/gothiccafe_c20_bookcase/flash/index.xml
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_logic.xml
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_64_a_0_0.png
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_visualization.xml
+- Assets/Live/gothiccafe_c20_bookcase/flash/manifest.xml
+- Assets/Live/gothiccafe_c20_bookcase/flash/gothiccafe_c20_bookcase_assets.xml
+- Assets/Live/gothiccafe_c20_bookcase/gothiccafe_c20_bookcase.xml
+Dependencies: []

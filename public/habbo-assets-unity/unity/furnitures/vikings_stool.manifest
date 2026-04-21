@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3283688231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 050a3399e81ab7d85fca3ece09bdaa15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_stool/flash/vikings_stool_logic.xml
+- Assets/Live/vikings_stool/flash/vikings_stool_icon_a.png
+- Assets/Live/vikings_stool/flash/vikings_stool_assets.xml
+- Assets/Live/vikings_stool/flash/vikings_stool_64_a_4_0.png
+- Assets/Live/vikings_stool/flash/vikings_stool_64_sd_4_0.png
+- Assets/Live/vikings_stool/flash/vikings_stool_64_sd_2_0.png
+- Assets/Live/vikings_stool/flash/vikings_stool_64_sd_6_0.png
+- Assets/Live/vikings_stool/flash/vikings_stool_64_a_6_0.png
+- Assets/Live/vikings_stool/vikings_stool.xml
+- Assets/Live/vikings_stool/flash/vikings_stool_64_sd_0_0.png
+- Assets/Live/vikings_stool/flash/vikings_stool_64_a_2_0.png
+- Assets/Live/vikings_stool/flash/index.xml
+- Assets/Live/vikings_stool/flash/vikings_stool_visualization.xml
+- Assets/Live/vikings_stool/flash/manifest.xml
+- Assets/Live/vikings_stool/flash/vikings_stool_64_a_0_0.png
+Dependencies: []

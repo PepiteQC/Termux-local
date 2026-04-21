@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2125266101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 910cc3af7b9e9eed64121f07f5201924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/guitar_v/flash/manifest.xml
+- Assets/Live/guitar_v/flash/guitar_v_assets.xml
+- Assets/Live/guitar_v/flash/index.xml
+- Assets/Live/guitar_v/guitar_v.xml
+- Assets/Live/guitar_v/flash/guitar_v_64_b_2_0.png
+- Assets/Live/guitar_v/flash/guitar_v_logic.xml
+- Assets/Live/guitar_v/flash/guitar_v_64_a_2_0.png
+- Assets/Live/guitar_v/flash/guitar_v_visualization.xml
+- Assets/Live/guitar_v/flash/guitar_v_icon_a.png
+Dependencies: []

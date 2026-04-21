@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3597797592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef002922bf731c68a06a9f555e5acca0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_visualization.xml
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_b_2_1.png
+- Assets/Live/rare_r20_candle/flash/index.xml
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_logic.xml
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_c_2_1.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_icon_a.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_b_2_0.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_sd_2_0.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_c_2_0.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_b_2_2.png
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_a_2_0.png
+- Assets/Live/rare_r20_candle/rare_r20_candle.xml
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_assets.xml
+- Assets/Live/rare_r20_candle/flash/manifest.xml
+- Assets/Live/rare_r20_candle/flash/rare_r20_candle_64_c_2_2.png
+Dependencies: []

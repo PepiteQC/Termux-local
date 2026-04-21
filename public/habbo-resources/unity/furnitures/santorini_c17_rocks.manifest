@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 107286112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1affa606e0019990d0c5b15b1d18c200
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_logic.xml
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_64_a_0_3.png
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_64_a_0_1.png
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_64_a_0_2.png
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_64_a_0_0.png
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_64_sd_0_0.png
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_assets.xml
+- Assets/Live/santorini_c17_rocks/santorini_c17_rocks.xml
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_icon_a.png
+- Assets/Live/santorini_c17_rocks/flash/manifest.xml
+- Assets/Live/santorini_c17_rocks/flash/santorini_c17_rocks_visualization.xml
+- Assets/Live/santorini_c17_rocks/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2946675091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87050682b31a9ac66b9ac63b09a38a0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_visualization.xml
+- Assets/Live/chair_nt_polyfon/flash/manifest.xml
+- Assets/Live/chair_nt_polyfon/chair_nt_polyfon.xml
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_logic.xml
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_64_a_2_0.png
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_64_b_2_0.png
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_assets.xml
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_64_sd_0_0.png
+- Assets/Live/chair_nt_polyfon/flash/index.xml
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_64_b_0_0.png
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_icon_a.png
+- Assets/Live/chair_nt_polyfon/flash/chair_nt_polyfon_64_a_0_0.png
+Dependencies: []

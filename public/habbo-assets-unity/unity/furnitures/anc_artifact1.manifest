@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2495820694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 901b8c3b868c649d6def60a7d4478a1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_artifact1/anc_artifact1.xml
+- Assets/Live/anc_artifact1/flash/anc_artifact1_assets.xml
+- Assets/Live/anc_artifact1/flash/anc_artifact1_logic.xml
+- Assets/Live/anc_artifact1/flash/manifest.xml
+- Assets/Live/anc_artifact1/flash/index.xml
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_2.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_6.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_visualization.xml
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_sd_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_2.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_a_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_3.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_1.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_5.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_icon_a.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_b_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_e_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_3.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_6.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_c_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_4.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_f_2_7.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_4.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_1.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_d_2_0.png
+- Assets/Live/anc_artifact1/flash/anc_artifact1_64_g_2_5.png
+Dependencies: []

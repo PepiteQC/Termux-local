@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 674842832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b89f177ae9c70fed4501d711a848b13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_64_sd_0_0.png
+- Assets/Live/ads_grefu_trophy/flash/index.xml
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_visualization.xml
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_assets.xml
+- Assets/Live/ads_grefu_trophy/flash/manifest.xml
+- Assets/Live/ads_grefu_trophy/ads_grefu_trophy.xml
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_64_a_0_0.png
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_logic.xml
+- Assets/Live/ads_grefu_trophy/flash/ads_grefu_trophy_icon_a.png
+Dependencies: []

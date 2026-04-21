@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3439190059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf84ad4e29be98600139a08b844269c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_assets.xml
+- Assets/Live/gaming_c18_gameplush2/gaming_c18_gameplush2.xml
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_icon_a.png
+- Assets/Live/gaming_c18_gameplush2/flash/manifest.xml
+- Assets/Live/gaming_c18_gameplush2/flash/index.xml
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_64_sd_0_0.png
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_64_a_0_0.png
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_visualization.xml
+- Assets/Live/gaming_c18_gameplush2/flash/gaming_c18_gameplush2_logic.xml
+Dependencies: []

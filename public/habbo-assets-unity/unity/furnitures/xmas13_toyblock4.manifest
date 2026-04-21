@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2504801308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1846ddb19f959784f63d115f7eab6c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_64_a_2_0.png
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_assets.xml
+- Assets/Live/xmas13_toyblock4/flash/index.xml
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_visualization.xml
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_icon_a.png
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_logic.xml
+- Assets/Live/xmas13_toyblock4/flash/manifest.xml
+- Assets/Live/xmas13_toyblock4/flash/xmas13_toyblock4_64_a_4_0.png
+- Assets/Live/xmas13_toyblock4/xmas13_toyblock4.xml
+Dependencies: []

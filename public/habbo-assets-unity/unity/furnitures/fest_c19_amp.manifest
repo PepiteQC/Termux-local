@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1081785137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b819313ddc3bc5d803e7baa7b7cf609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_logic.xml
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_64_sd_0_0.png
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_64_a_6_0.png
+- Assets/Live/fest_c19_amp/fest_c19_amp.xml
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_64_a_4_0.png
+- Assets/Live/fest_c19_amp/flash/manifest.xml
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_icon_a.png
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_visualization.xml
+- Assets/Live/fest_c19_amp/flash/index.xml
+- Assets/Live/fest_c19_amp/flash/fest_c19_amp_assets.xml
+Dependencies: []

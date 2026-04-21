@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3921424085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d725469bc87e2e8bd2a264caa97e302e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_lanternstaff/clothing_nt_lanternstaff.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/clothing_nt_lanternstaff_assets.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/index.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/clothing_nt_lanternstaff_visualization.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/clothing_nt_lanternstaff_logic.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/clothing_nt_lanternstaff_64_a_0_0.png
+- Assets/Live/clothing_nt_lanternstaff/flash/manifest.xml
+- Assets/Live/clothing_nt_lanternstaff/flash/clothing_nt_lanternstaff_icon_a.png
+Dependencies: []

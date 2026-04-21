@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3090284509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64e6fa711fe998d4901ef13a41dc0f35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_icon_a.png
+- Assets/Live/bed_silo_two_notrd/bed_silo_two_notrd.xml
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_64_sd_0_0.png
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_logic.xml
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_assets.xml
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_64_a_0_0.png
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_visualization.xml
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_64_sd_2_0.png
+- Assets/Live/bed_silo_two_notrd/flash/manifest.xml
+- Assets/Live/bed_silo_two_notrd/flash/index.xml
+- Assets/Live/bed_silo_two_notrd/flash/bed_silo_two_notrd_64_b_0_0.png
+Dependencies: []

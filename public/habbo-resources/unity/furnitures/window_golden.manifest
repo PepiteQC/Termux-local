@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3987536276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86ab773ae2af28c95b6a63e4815dd343
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_golden/flash/window_golden_64_2_mask.png
+- Assets/Live/window_golden/flash/index.xml
+- Assets/Live/window_golden/flash/window_golden_logic.xml
+- Assets/Live/window_golden/window_golden.xml
+- Assets/Live/window_golden/flash/window_golden_visualization.xml
+- Assets/Live/window_golden/flash/window_golden_assets.xml
+- Assets/Live/window_golden/flash/window_golden_32_2_mask.png
+- Assets/Live/window_golden/flash/manifest.xml
+- Assets/Live/window_golden/flash/window_golden_icon_a.png
+- Assets/Live/window_golden/flash/window_golden_64_a_2_0.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4141757375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64617bf819bc8969077aa2f214ad87c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_visualization.xml
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_1.png
+- Assets/Live/xmas13_paintsplat4/flash/index.xml
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_0.png
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_4.png
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_5.png
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_logic.xml
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_assets.xml
+- Assets/Live/xmas13_paintsplat4/xmas13_paintsplat4.xml
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_2.png
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_icon_a.png
+- Assets/Live/xmas13_paintsplat4/flash/xmas13_paintsplat4_64_a_0_3.png
+- Assets/Live/xmas13_paintsplat4/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 567648104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a473d71076fab437ec8243f3d10b7ed3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_64_a_0_0.png
+- Assets/Live/hblooza_candyfloss/flash/index.xml
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_assets.xml
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_icon_a.png
+- Assets/Live/hblooza_candyfloss/flash/manifest.xml
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_logic.xml
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_visualization.xml
+- Assets/Live/hblooza_candyfloss/flash/hblooza_candyfloss_64_sd_0_0.png
+- Assets/Live/hblooza_candyfloss/hblooza_candyfloss.xml
+Dependencies: []

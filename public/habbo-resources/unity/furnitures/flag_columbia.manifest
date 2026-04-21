@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1379955714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62c9c3d52fa5e93d24c8643bfcb51fd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_columbia/flash/flag_columbia_logic.xml
+- Assets/Live/flag_columbia/flag_columbia.xml
+- Assets/Live/flag_columbia/flash/flag_columbia_visualization.xml
+- Assets/Live/flag_columbia/flash/manifest.xml
+- Assets/Live/flag_columbia/flash/flag_columbia_64_a_4_0.png
+- Assets/Live/flag_columbia/flash/flag_columbia_assets.xml
+- Assets/Live/flag_columbia/flash/flag_columbia_icon_a.png
+- Assets/Live/flag_columbia/flash/flag_columbia_64_a_2_0.png
+- Assets/Live/flag_columbia/flash/index.xml
+Dependencies: []

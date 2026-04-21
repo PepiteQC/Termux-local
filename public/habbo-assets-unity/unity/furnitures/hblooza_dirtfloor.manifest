@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 303496960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62b8238bcb9f3a87b0af1f95f25366c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_64_c_0_0.png
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_64_a_0_0.png
+- Assets/Live/hblooza_dirtfloor/flash/index.xml
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_assets.xml
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_64_b_0_0.png
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_visualization.xml
+- Assets/Live/hblooza_dirtfloor/hblooza_dirtfloor.xml
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_icon_a.png
+- Assets/Live/hblooza_dirtfloor/flash/hblooza_dirtfloor_logic.xml
+- Assets/Live/hblooza_dirtfloor/flash/manifest.xml
+Dependencies: []

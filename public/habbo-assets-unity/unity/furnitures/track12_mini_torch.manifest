@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2478201484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c6efaab68b96ceb99b7fc8f12e8b51f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/track12_mini_torch/track12_mini_torch.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_3.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_logic.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_3.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_5.png
+- Assets/Live/track12_mini_torch/flash/index.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_icon_a.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_6.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_4.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_5.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_1.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_assets.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_2.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_0.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_1.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_visualization.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_a_0_0.png
+- Assets/Live/track12_mini_torch/flash/manifest.xml
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_2.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_6.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_c_0_4.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_sd_0_0.png
+- Assets/Live/track12_mini_torch/flash/track12_mini_torch_64_b_0_0.png
+Dependencies: []

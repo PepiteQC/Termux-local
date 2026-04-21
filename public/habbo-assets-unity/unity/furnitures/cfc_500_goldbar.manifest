@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1189629326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 392fb561e9e279b79598e9d8479fec90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CFC_500_goldbar/flash/index.xml
+- Assets/Live/CFC_500_goldbar/flash/CFC_500_goldbar_icon_a.png
+- Assets/Live/CFC_500_goldbar/flash/CFC_500_goldbar_assets.xml
+- Assets/Live/CFC_500_goldbar/flash/CFC_500_goldbar_64_a_0_0.png
+- Assets/Live/CFC_500_goldbar/flash/CFC_500_goldbar_logic.xml
+- Assets/Live/CFC_500_goldbar/flash/manifest.xml
+- Assets/Live/CFC_500_goldbar/flash/CFC_500_goldbar_visualization.xml
+- Assets/Live/CFC_500_goldbar/CFC_500_goldbar.xml
+Dependencies: []

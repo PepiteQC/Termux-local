@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4197328761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 535ebe2fb22322f643e1ea832960bc72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_snacks/flash/uni_snacks_64_a_2_3.png
+- Assets/Live/uni_snacks/flash/uni_snacks_64_a_2_0.png
+- Assets/Live/uni_snacks/flash/uni_snacks_64_a_2_2.png
+- Assets/Live/uni_snacks/flash/uni_snacks_visualization.xml
+- Assets/Live/uni_snacks/flash/manifest.xml
+- Assets/Live/uni_snacks/flash/uni_snacks_assets.xml
+- Assets/Live/uni_snacks/uni_snacks.xml
+- Assets/Live/uni_snacks/flash/index.xml
+- Assets/Live/uni_snacks/flash/uni_snacks_64_a_2_1.png
+- Assets/Live/uni_snacks/flash/uni_snacks_icon_a.png
+- Assets/Live/uni_snacks/flash/uni_snacks_logic.xml
+Dependencies: []

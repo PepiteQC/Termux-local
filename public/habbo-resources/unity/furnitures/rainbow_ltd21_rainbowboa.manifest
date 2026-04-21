@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2120892923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 046d58ab51685b5c69f207e2bc1a315f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_8.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_9.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_sd_4_0.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_5.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_1.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_5.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_visualization.xml
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_2.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_2.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_13.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/index.xml
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_3.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_11.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_assets.xml
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_4.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_1.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_logic.xml
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_12.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_icon_a.png
+- Assets/Live/rainbow_ltd21_rainbowboa/rainbow_ltd21_rainbowboa.xml
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_7.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_6.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_0.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_0.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_10.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_7.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_6.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_b_4_4.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_3.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/rainbow_ltd21_rainbowboa_64_a_4_14.png
+- Assets/Live/rainbow_ltd21_rainbowboa/flash/manifest.xml
+Dependencies: []

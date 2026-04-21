@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1678319997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05ba19cd1f7912e15773f7844f3f3d36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CFC_10_coin_bronze/flash/CFC_10_coin_bronze_assets.xml
+- Assets/Live/CFC_10_coin_bronze/flash/index.xml
+- Assets/Live/CFC_10_coin_bronze/flash/manifest.xml
+- Assets/Live/CFC_10_coin_bronze/flash/CFC_10_coin_bronze_64_a_0_0.png
+- Assets/Live/CFC_10_coin_bronze/flash/CFC_10_coin_bronze_logic.xml
+- Assets/Live/CFC_10_coin_bronze/flash/CFC_10_coin_bronze_visualization.xml
+- Assets/Live/CFC_10_coin_bronze/flash/CFC_10_coin_bronze_icon_a.png
+- Assets/Live/CFC_10_coin_bronze/CFC_10_coin_bronze.xml
+Dependencies: []

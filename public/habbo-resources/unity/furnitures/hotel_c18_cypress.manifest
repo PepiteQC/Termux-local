@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3886924534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 717c64f8b1864d98d7c9080bc675f6a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_icon_a.png
+- Assets/Live/hotel_c18_cypress/hotel_c18_cypress.xml
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_visualization.xml
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_logic.xml
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_assets.xml
+- Assets/Live/hotel_c18_cypress/flash/manifest.xml
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_64_a_0_0.png
+- Assets/Live/hotel_c18_cypress/flash/hotel_c18_cypress_64_sd_0_0.png
+- Assets/Live/hotel_c18_cypress/flash/index.xml
+Dependencies: []

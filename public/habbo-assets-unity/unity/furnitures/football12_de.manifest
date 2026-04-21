@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1764720245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 799bbda37c136ba51a3475dd736ce5ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/football12_de/flash/football12_de_64_a_2_0.png
+- Assets/Live/football12_de/flash/football12_de_64_b_2_2.png
+- Assets/Live/football12_de/flash/football12_de_assets.xml
+- Assets/Live/football12_de/flash/football12_de_visualization.xml
+- Assets/Live/football12_de/flash/football12_de_64_b_2_4.png
+- Assets/Live/football12_de/flash/football12_de_64_b_2_5.png
+- Assets/Live/football12_de/flash/football12_de_64_b_2_1.png
+- Assets/Live/football12_de/flash/football12_de_64_b_2_3.png
+- Assets/Live/football12_de/flash/manifest.xml
+- Assets/Live/football12_de/football12_de.xml
+- Assets/Live/football12_de/flash/football12_de_64_b_2_0.png
+- Assets/Live/football12_de/flash/football12_de_logic.xml
+- Assets/Live/football12_de/flash/index.xml
+- Assets/Live/football12_de/flash/football12_de_icon_a.png
+Dependencies: []

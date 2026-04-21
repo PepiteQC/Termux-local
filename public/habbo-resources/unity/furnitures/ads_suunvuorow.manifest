@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 865472967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a368cd326b590210ed06a0dd12522ec4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_logic.xml
+- Assets/Live/ads_suunvuorow/flash/manifest.xml
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_icon_a.png
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_assets.xml
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_visualization.xml
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_64_a_4_0.png
+- Assets/Live/ads_suunvuorow/flash/ads_suunvuorow_64_a_2_0.png
+- Assets/Live/ads_suunvuorow/ads_suunvuorow.xml
+- Assets/Live/ads_suunvuorow/flash/index.xml
+Dependencies: []

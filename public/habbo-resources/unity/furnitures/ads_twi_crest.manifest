@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2990050249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77efca92f62b850b14c3d4e0cc4ef6ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_c_4_0.png
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_b_4_0.png
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_logic.xml
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_assets.xml
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_b_2_0.png
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_c_2_0.png
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_a_4_0.png
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_visualization.xml
+- Assets/Live/ads_twi_crest/ads_twi_crest.xml
+- Assets/Live/ads_twi_crest/flash/index.xml
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_64_a_2_0.png
+- Assets/Live/ads_twi_crest/flash/manifest.xml
+- Assets/Live/ads_twi_crest/flash/ads_twi_crest_icon_a.png
+Dependencies: []

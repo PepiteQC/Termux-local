@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1057070204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21c21210c4e1fdf6ad33fef2fbfe285a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_a_2_0.png
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_logic.xml
+- Assets/Live/tokyo_c21_wagashistall/flash/manifest.xml
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_a_0_0.png
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_icon_a.png
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_b_0_0.png
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_assets.xml
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_sd_2_0.png
+- Assets/Live/tokyo_c21_wagashistall/tokyo_c21_wagashistall.xml
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_b_2_0.png
+- Assets/Live/tokyo_c21_wagashistall/flash/index.xml
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_64_sd_0_0.png
+- Assets/Live/tokyo_c21_wagashistall/flash/tokyo_c21_wagashistall_visualization.xml
+Dependencies: []

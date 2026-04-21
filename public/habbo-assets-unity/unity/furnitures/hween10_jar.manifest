@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2608308594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d65e4ef0c3d808c60c1acc9b7128677c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween10_jar/flash/hween10_jar_visualization.xml
+- Assets/Live/hween10_jar/flash/hween10_jar_64_a_0_0.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_3.png
+- Assets/Live/hween10_jar/flash/hween10_jar_assets.xml
+- Assets/Live/hween10_jar/flash/hween10_jar_64_c_0_2.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_c_0_1.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_2.png
+- Assets/Live/hween10_jar/hween10_jar.xml
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_0.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_c_0_0.png
+- Assets/Live/hween10_jar/flash/hween10_jar_logic.xml
+- Assets/Live/hween10_jar/flash/hween10_jar_64_a_0_1.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_4.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_c_0_3.png
+- Assets/Live/hween10_jar/flash/hween10_jar_icon_a.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_5.png
+- Assets/Live/hween10_jar/flash/hween10_jar_64_b_0_1.png
+- Assets/Live/hween10_jar/flash/manifest.xml
+- Assets/Live/hween10_jar/flash/index.xml
+Dependencies: []

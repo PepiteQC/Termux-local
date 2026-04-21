@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 624578777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f98c8749f4bed7e6527c621aa7b3bee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_1.png
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_5.png
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_logic.xml
+- Assets/Live/xmas_c20_forestbg/flash/index.xml
+- Assets/Live/xmas_c20_forestbg/flash/manifest.xml
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_visualization.xml
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_assets.xml
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_2.png
+- Assets/Live/xmas_c20_forestbg/xmas_c20_forestbg.xml
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_icon_a.png
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_4.png
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_0.png
+- Assets/Live/xmas_c20_forestbg/flash/xmas_c20_forestbg_64_a_4_3.png
+Dependencies: []

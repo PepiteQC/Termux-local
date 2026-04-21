@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1356572435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e4785d2fbd4b1cc6d14c3e1d2ebf2c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_assets.xml
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_logic.xml
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_64_a_0_0.png
+- Assets/Live/hween_c16_roundtable/hween_c16_roundtable.xml
+- Assets/Live/hween_c16_roundtable/flash/manifest.xml
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_icon_a.png
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_visualization.xml
+- Assets/Live/hween_c16_roundtable/flash/index.xml
+- Assets/Live/hween_c16_roundtable/flash/hween_c16_roundtable_64_sd_0_0.png
+Dependencies: []

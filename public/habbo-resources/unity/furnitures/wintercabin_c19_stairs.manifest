@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 687235466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fd460bb10a0a1d9642c683188043c12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_a_0_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/manifest.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_sd_4_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/index.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_b_6_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_icon_a.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_assets.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_a_2_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_sd_0_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_a_4_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_a_6_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_b_2_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_sd_2_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_b_4_0.png
+- Assets/Live/wintercabin_c19_stairs/wintercabin_c19_stairs.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_visualization.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_logic.xml
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_b_0_0.png
+- Assets/Live/wintercabin_c19_stairs/flash/wintercabin_c19_stairs_64_sd_6_0.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4162132954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ab8e1d48bcd414688d0debc24e67a33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_rock1/flash/val15_rock1_icon_a.png
+- Assets/Live/val15_rock1/flash/val15_rock1_visualization.xml
+- Assets/Live/val15_rock1/flash/index.xml
+- Assets/Live/val15_rock1/flash/val15_rock1_64_a_2_1.png
+- Assets/Live/val15_rock1/flash/val15_rock1_64_b_2_2.png
+- Assets/Live/val15_rock1/flash/manifest.xml
+- Assets/Live/val15_rock1/flash/val15_rock1_64_b_2_0.png
+- Assets/Live/val15_rock1/flash/val15_rock1_assets.xml
+- Assets/Live/val15_rock1/flash/val15_rock1_64_a_2_0.png
+- Assets/Live/val15_rock1/flash/val15_rock1_64_b_2_1.png
+- Assets/Live/val15_rock1/val15_rock1.xml
+- Assets/Live/val15_rock1/flash/val15_rock1_logic.xml
+Dependencies: []

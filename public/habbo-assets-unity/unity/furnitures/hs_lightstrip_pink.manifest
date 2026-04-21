@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3883754669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5201e4091652596d0e23129d961a6ce7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_64_a_0_1.png
+- Assets/Live/hs_lightstrip_pink/flash/index.xml
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_logic.xml
+- Assets/Live/hs_lightstrip_pink/hs_lightstrip_pink.xml
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_assets.xml
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_visualization.xml
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_64_b_0_0.png
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_icon_a.png
+- Assets/Live/hs_lightstrip_pink/flash/manifest.xml
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_64_a_0_0.png
+- Assets/Live/hs_lightstrip_pink/flash/hs_lightstrip_pink_64_b_0_1.png
+Dependencies: []

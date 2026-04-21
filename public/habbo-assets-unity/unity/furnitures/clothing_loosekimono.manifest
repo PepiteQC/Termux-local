@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2798968829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0fba4b24148251c464042c8395b0044
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_loosekimono/flash/clothing_loosekimono_64_a_0_0.png
+- Assets/Live/clothing_loosekimono/clothing_loosekimono.xml
+- Assets/Live/clothing_loosekimono/flash/clothing_loosekimono_logic.xml
+- Assets/Live/clothing_loosekimono/flash/clothing_loosekimono_visualization.xml
+- Assets/Live/clothing_loosekimono/flash/manifest.xml
+- Assets/Live/clothing_loosekimono/flash/index.xml
+- Assets/Live/clothing_loosekimono/flash/clothing_loosekimono_assets.xml
+- Assets/Live/clothing_loosekimono/flash/clothing_loosekimono_icon_a.png
+Dependencies: []

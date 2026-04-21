@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2139965012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3955a41965e74965f09cd4b0d8143586
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_icon_a.png
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_tree_icon_a.png
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_visualization.xml
+- Assets/Live/sunsetcafe_c20_plant/sunsetcafe_c20_plant.xml
+- Assets/Live/sunsetcafe_c20_plant/flash/manifest.xml
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_tree_64_sd_0_0.png
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_tree_64_a_0_0.png
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_assets.xml
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_logic.xml
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_64_a_0_0.png
+- Assets/Live/sunsetcafe_c20_plant/flash/sunsetcafe_c20_plant_64_sd_0_0.png
+- Assets/Live/sunsetcafe_c20_plant/flash/index.xml
+Dependencies: []

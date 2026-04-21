@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3538996719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41cbed6827be89262a08d6c73fa772be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_26.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_30.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_22.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_4.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_18.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_8.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_20.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_21.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_9.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_25.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_logic.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_13.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_24.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_7.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_5.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_visualization.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_sd_0_0.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_3.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_11.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_17.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_0.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_29.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_1.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_icon_a.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_assets.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_27.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_12.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_10.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_31.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_2.png
+- Assets/Live/autumn_c20_birdfood/autumn_c20_birdfood.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_15.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_23.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_6.png
+- Assets/Live/autumn_c20_birdfood/flash/manifest.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_14.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_16.png
+- Assets/Live/autumn_c20_birdfood/flash/index.xml
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_28.png
+- Assets/Live/autumn_c20_birdfood/flash/autumn_c20_birdfood_64_a_0_19.png
+Dependencies: []

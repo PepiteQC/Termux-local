@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 778926476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 413361857e4229e87d4328f7c5dac83b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_32_a_2_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_32_a_2_0.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_visualization.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_logic.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_icon_a.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/manifest.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_64_a_2_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_64_a_2_0.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_64_a_2_0.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_logic.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/index.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_32_a_4_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_64_a_4_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_64_a_4_0.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_assets.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_64_a_4_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_64_a_2_1.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_visualization.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_icon_a.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic/index.xml
+- Assets/Live/ads_chocapic/ads_chocapic.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_assets.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic/ads_chocapic_64_a_4_0.png
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/manifest.xml
+- Assets/Live/ads_chocapic/flash/ads_chocapic_camp/ads_chocapic_camp_32_a_4_0.png
+Dependencies: []

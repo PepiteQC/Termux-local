@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1291069355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31407079912fe183f34cfdd985f1d78f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_64_c_0_0.png
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_64_c_0_1.png
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_64_c_0_2.png
+- Assets/Live/room_pcnc15_bbq/flash/manifest.xml
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_64_b_0_0.png
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_icon_a.png
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_64_a_0_0.png
+- Assets/Live/room_pcnc15_bbq/room_pcnc15_bbq.xml
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_logic.xml
+- Assets/Live/room_pcnc15_bbq/flash/index.xml
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_assets.xml
+- Assets/Live/room_pcnc15_bbq/flash/room_pcnc15_bbq_visualization.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1807551073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6cc6240cd37eac03680a4dac570adc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_eyetomato/flash/manifest.xml
+- Assets/Live/clothing_eyetomato/flash/clothing_eyetomato_64_a_0_0.png
+- Assets/Live/clothing_eyetomato/flash/index.xml
+- Assets/Live/clothing_eyetomato/flash/clothing_eyetomato_assets.xml
+- Assets/Live/clothing_eyetomato/clothing_eyetomato.xml
+- Assets/Live/clothing_eyetomato/flash/clothing_eyetomato_visualization.xml
+- Assets/Live/clothing_eyetomato/flash/clothing_eyetomato_logic.xml
+- Assets/Live/clothing_eyetomato/flash/clothing_eyetomato_icon_a.png
+Dependencies: []

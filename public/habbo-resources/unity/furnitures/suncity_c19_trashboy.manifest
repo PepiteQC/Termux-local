@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 813500569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 887880d5c510229f83fd7f0c02af152b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_5.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_assets.xml
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_0.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_6.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_1.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_10.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_icon_a.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_9.png
+- Assets/Live/suncity_c19_trashboy/suncity_c19_trashboy.xml
+- Assets/Live/suncity_c19_trashboy/flash/index.xml
+- Assets/Live/suncity_c19_trashboy/flash/manifest.xml
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_7.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_visualization.xml
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_2.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_8.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_11.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_4.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_sd_0_0.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_64_a_0_3.png
+- Assets/Live/suncity_c19_trashboy/flash/suncity_c19_trashboy_logic.xml
+Dependencies: []

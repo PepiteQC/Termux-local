@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3648547122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b29b5992249e30712aa7850166a510cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_dvdr/flash/runway_dvdr_icon_a.png
+- Assets/Live/runway_dvdr/flash/manifest.xml
+- Assets/Live/runway_dvdr/flash/runway_dvdr_visualization.xml
+- Assets/Live/runway_dvdr/flash/runway_dvdr_64_a_4_0.png
+- Assets/Live/runway_dvdr/flash/runway_dvdr_logic.xml
+- Assets/Live/runway_dvdr/flash/index.xml
+- Assets/Live/runway_dvdr/flash/runway_dvdr_64_sd_0_0.png
+- Assets/Live/runway_dvdr/flash/runway_dvdr_64_a_0_0.png
+- Assets/Live/runway_dvdr/flash/runway_dvdr_64_b_4_0.png
+- Assets/Live/runway_dvdr/flash/runway_dvdr_assets.xml
+- Assets/Live/runway_dvdr/runway_dvdr.xml
+- Assets/Live/runway_dvdr/flash/runway_dvdr_64_b_0_0.png
+Dependencies: []

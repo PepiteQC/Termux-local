@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2145397867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 675cb5d407f71f36f9c7dd0c61602037
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rudolphhat/flash/clothing_rudolphhat_assets.xml
+- Assets/Live/clothing_rudolphhat/flash/index.xml
+- Assets/Live/clothing_rudolphhat/flash/clothing_rudolphhat_logic.xml
+- Assets/Live/clothing_rudolphhat/flash/clothing_rudolphhat_icon_a.png
+- Assets/Live/clothing_rudolphhat/flash/clothing_rudolphhat_64_a_0_0.png
+- Assets/Live/clothing_rudolphhat/clothing_rudolphhat.xml
+- Assets/Live/clothing_rudolphhat/flash/manifest.xml
+- Assets/Live/clothing_rudolphhat/flash/clothing_rudolphhat_visualization.xml
+Dependencies: []

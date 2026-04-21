@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3592120390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5793c40fe0bbc90985dfe19e56263002
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_dyepink/flash/manifest.xml
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_assets.xml
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_64_a_0_0.png
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_logic.xml
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_visualization.xml
+- Assets/Live/bazaar_c17_dyepink/flash/index.xml
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_64_sd_0_0.png
+- Assets/Live/bazaar_c17_dyepink/bazaar_c17_dyepink.xml
+- Assets/Live/bazaar_c17_dyepink/flash/bazaar_c17_dyepink_icon_a.png
+Dependencies: []

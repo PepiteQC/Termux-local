@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3114057549
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ef653a5018ae3e2874967c54b274bbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/small_table_armas/flash/index.xml
+- Assets/Live/small_table_armas/flash/small_table_armas_64_a_0_0.png
+- Assets/Live/small_table_armas/small_table_armas.xml
+- Assets/Live/small_table_armas/flash/small_table_armas_icon_a.png
+- Assets/Live/small_table_armas/flash/small_table_armas_64_sd_0_0.png
+- Assets/Live/small_table_armas/flash/small_table_armas_visualization.xml
+- Assets/Live/small_table_armas/flash/small_table_armas_logic.xml
+- Assets/Live/small_table_armas/flash/small_table_armas_assets.xml
+- Assets/Live/small_table_armas/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4280286943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77b38d2222aaab0454b8423e05aa73cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_f_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_logic.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_d_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_a_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_icon_a.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_d_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_assets.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_b_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_e_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/manifest.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_icon_c.png
+- Assets/Live/noob_chair_tradeable/noob_chair_tradeable.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_icon_b.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_f_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_e_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_sd_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/index.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_visualization.xml
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_a_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_b_0_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_c_2_0.png
+- Assets/Live/noob_chair_tradeable/flash/noob_chair_tradeable_64_c_0_0.png
+Dependencies: []

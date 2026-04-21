@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1280862674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d69023123c45c64e2ecadb5e9989d3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas08_chair/flash/manifest.xml
+- Assets/Live/xmas08_chair/xmas08_chair.xml
+- Assets/Live/xmas08_chair/flash/xmas08_chair_visualization.xml
+- Assets/Live/xmas08_chair/flash/xmas08_chair_assets.xml
+- Assets/Live/xmas08_chair/flash/xmas08_chair_64_b_4_0.png
+- Assets/Live/xmas08_chair/flash/index.xml
+- Assets/Live/xmas08_chair/flash/xmas08_chair_64_b_0_0.png
+- Assets/Live/xmas08_chair/flash/xmas08_chair_logic.xml
+- Assets/Live/xmas08_chair/flash/xmas08_chair_64_a_4_0.png
+- Assets/Live/xmas08_chair/flash/xmas08_chair_64_sd_0_0.png
+- Assets/Live/xmas08_chair/flash/xmas08_chair_64_a_0_0.png
+- Assets/Live/xmas08_chair/flash/xmas08_chair_icon_a.png
+Dependencies: []

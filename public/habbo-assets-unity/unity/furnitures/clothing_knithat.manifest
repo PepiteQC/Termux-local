@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1913294369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a94e37899d42f1d1c3612d275357d03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_knithat/clothing_knithat.xml
+- Assets/Live/clothing_knithat/flash/clothing_knithat_assets.xml
+- Assets/Live/clothing_knithat/flash/clothing_knithat_logic.xml
+- Assets/Live/clothing_knithat/flash/clothing_knithat_icon_a.png
+- Assets/Live/clothing_knithat/flash/clothing_knithat_64_sd_0_0.png
+- Assets/Live/clothing_knithat/flash/clothing_knithat_visualization.xml
+- Assets/Live/clothing_knithat/flash/index.xml
+- Assets/Live/clothing_knithat/flash/clothing_knithat_64_a_0_0.png
+- Assets/Live/clothing_knithat/flash/manifest.xml
+Dependencies: []

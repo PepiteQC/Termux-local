@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1710678301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acea9737f90704afc5e9c37b90d78db0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/eco_curtains2/flash/eco_curtains2_logic.xml
+- Assets/Live/eco_curtains2/flash/manifest.xml
+- Assets/Live/eco_curtains2/flash/eco_curtains2_64_a_2_0.png
+- Assets/Live/eco_curtains2/flash/index.xml
+- Assets/Live/eco_curtains2/flash/eco_curtains2_visualization.xml
+- Assets/Live/eco_curtains2/eco_curtains2.xml
+- Assets/Live/eco_curtains2/flash/eco_curtains2_assets.xml
+- Assets/Live/eco_curtains2/flash/eco_curtains2_icon_a.png
+- Assets/Live/eco_curtains2/flash/eco_curtains2_64_a_2_1.png
+Dependencies: []

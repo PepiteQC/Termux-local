@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2569434972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c13db97bdfbc59cbafc20b98930fbf9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/br_phoenix/flash/br_phoenix_64_b_0_1.png
+- Assets/Live/br_phoenix/flash/br_phoenix_64_b_0_4.png
+- Assets/Live/br_phoenix/flash/br_phoenix_logic.xml
+- Assets/Live/br_phoenix/flash/br_phoenix_64_b_0_3.png
+- Assets/Live/br_phoenix/flash/br_phoenix_64_a_0_0.png
+- Assets/Live/br_phoenix/flash/manifest.xml
+- Assets/Live/br_phoenix/flash/index.xml
+- Assets/Live/br_phoenix/flash/br_phoenix_64_b_0_0.png
+- Assets/Live/br_phoenix/flash/br_phoenix_icon_a.png
+- Assets/Live/br_phoenix/flash/br_phoenix_visualization.xml
+- Assets/Live/br_phoenix/br_phoenix.xml
+- Assets/Live/br_phoenix/flash/br_phoenix_assets.xml
+- Assets/Live/br_phoenix/flash/br_phoenix_64_b_0_2.png
+Dependencies: []

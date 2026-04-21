@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3484789337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c926a904ba60e1505e4267ea3c01b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_archway/flash/india_c20_archway_64_a_4_0.png
+- Assets/Live/india_c20_archway/flash/india_c20_archway_logic.xml
+- Assets/Live/india_c20_archway/flash/india_c20_archway_64_b_4_0.png
+- Assets/Live/india_c20_archway/flash/manifest.xml
+- Assets/Live/india_c20_archway/flash/india_c20_archway_64_sd_4_0.png
+- Assets/Live/india_c20_archway/flash/india_c20_archway_icon_a.png
+- Assets/Live/india_c20_archway/flash/india_c20_archway_visualization.xml
+- Assets/Live/india_c20_archway/flash/india_c20_archway_assets.xml
+- Assets/Live/india_c20_archway/flash/india_c20_archway_64_c_4_0.png
+- Assets/Live/india_c20_archway/india_c20_archway.xml
+- Assets/Live/india_c20_archway/flash/index.xml
+Dependencies: []

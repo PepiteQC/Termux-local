@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 805124613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c40276f0e7e0a7634587bc0e201e83e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_64_a_0_2.png
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_icon_a.png
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_64_a_0_0.png
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_visualization.xml
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_logic.xml
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_64_a_0_4.png
+- Assets/Live/pcnc_dvdrtile/pcnc_dvdrtile.xml
+- Assets/Live/pcnc_dvdrtile/flash/index.xml
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_64_a_0_3.png
+- Assets/Live/pcnc_dvdrtile/flash/manifest.xml
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_64_a_0_1.png
+- Assets/Live/pcnc_dvdrtile/flash/pcnc_dvdrtile_assets.xml
+Dependencies: []

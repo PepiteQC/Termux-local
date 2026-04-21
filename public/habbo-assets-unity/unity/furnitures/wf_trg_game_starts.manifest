@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1537496032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8012577352f16e32c72926f9b7b9de43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_visualization.xml
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_3.png
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_assets.xml
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_icon_a.png
+- Assets/Live/wf_trg_game_starts/flash/manifest.xml
+- Assets/Live/wf_trg_game_starts/flash/index.xml
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_logic.xml
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_4.png
+- Assets/Live/wf_trg_game_starts/wf_trg_game_starts.xml
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_0.png
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_1.png
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_2.png
+- Assets/Live/wf_trg_game_starts/flash/wf_trg_game_starts_64_a_0_5.png
+Dependencies: []

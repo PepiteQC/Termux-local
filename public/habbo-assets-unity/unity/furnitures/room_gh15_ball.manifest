@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 75357229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 995c620f7290d3c7126e54888813c4fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_1.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_0.png
+- Assets/Live/room_gh15_ball/flash/manifest.xml
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_5.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_2.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_1.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_8.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_icon_a.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_assets.xml
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_4.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_logic.xml
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_7.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_3.png
+- Assets/Live/room_gh15_ball/room_gh15_ball.xml
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_sd_0_0.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_10.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_4.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_9.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_6.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_10.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_2.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_3.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_5.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_visualization.xml
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_8.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_6.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_7.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_b_0_0.png
+- Assets/Live/room_gh15_ball/flash/room_gh15_ball_64_a_0_9.png
+- Assets/Live/room_gh15_ball/flash/index.xml
+Dependencies: []

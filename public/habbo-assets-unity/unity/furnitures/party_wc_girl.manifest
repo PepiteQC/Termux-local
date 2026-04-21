@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1372541230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a3bcffa3f7638c4d45757f0b1bd6822
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/party_wc_girl/flash/party_wc_girl_icon_a.png
+- Assets/Live/party_wc_girl/party_wc_girl.xml
+- Assets/Live/party_wc_girl/flash/party_wc_girl_64_b_2_1.png
+- Assets/Live/party_wc_girl/flash/party_wc_girl_logic.xml
+- Assets/Live/party_wc_girl/flash/party_wc_girl_assets.xml
+- Assets/Live/party_wc_girl/flash/manifest.xml
+- Assets/Live/party_wc_girl/flash/party_wc_girl_64_b_2_0.png
+- Assets/Live/party_wc_girl/flash/party_wc_girl_visualization.xml
+- Assets/Live/party_wc_girl/flash/index.xml
+- Assets/Live/party_wc_girl/flash/party_wc_girl_64_a_2_0.png
+Dependencies: []

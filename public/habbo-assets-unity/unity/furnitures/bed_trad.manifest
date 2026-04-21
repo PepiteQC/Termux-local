@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 989322273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c90a5f57b94a5a99477e7b7abb69784
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_trad/flash/manifest.xml
+- Assets/Live/bed_trad/flash/bed_trad_visualization.xml
+- Assets/Live/bed_trad/flash/bed_trad_64_b_0_0.png
+- Assets/Live/bed_trad/flash/index.xml
+- Assets/Live/bed_trad/flash/bed_trad_64_a_0_0.png
+- Assets/Live/bed_trad/flash/bed_trad_assets.xml
+- Assets/Live/bed_trad/flash/bed_trad_64_sd_0_0.png
+- Assets/Live/bed_trad/flash/bed_trad_icon_a.png
+- Assets/Live/bed_trad/bed_trad.xml
+- Assets/Live/bed_trad/flash/bed_trad_64_sd_2_0.png
+- Assets/Live/bed_trad/flash/bed_trad_logic.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4225001555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3312f103f05456166c0d9c351d704202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_ditch/flash/country_ditch_logic.xml
+- Assets/Live/country_ditch/flash/country_ditch_64_b_0_0.png
+- Assets/Live/country_ditch/flash/country_ditch_icon_a.png
+- Assets/Live/country_ditch/flash/country_ditch_64_a_0_0.png
+- Assets/Live/country_ditch/flash/country_ditch_visualization.xml
+- Assets/Live/country_ditch/flash/manifest.xml
+- Assets/Live/country_ditch/flash/country_ditch_assets.xml
+- Assets/Live/country_ditch/flash/country_ditch_64_b_0_1.png
+- Assets/Live/country_ditch/country_ditch.xml
+- Assets/Live/country_ditch/flash/index.xml
+- Assets/Live/country_ditch/flash/country_ditch_64_a_0_1.png
+Dependencies: []

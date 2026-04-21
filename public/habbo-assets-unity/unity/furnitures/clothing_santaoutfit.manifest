@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 755015180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d05bfbf11ee1c06584260d0af34cab7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_64_a_2_0.png
+- Assets/Live/clothing_santaoutfit/clothing_santaoutfit.xml
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_logic.xml
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_assets.xml
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_64_a_2_1.png
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_icon_a.png
+- Assets/Live/clothing_santaoutfit/flash/clothing_santaoutfit_visualization.xml
+- Assets/Live/clothing_santaoutfit/flash/manifest.xml
+- Assets/Live/clothing_santaoutfit/flash/index.xml
+Dependencies: []

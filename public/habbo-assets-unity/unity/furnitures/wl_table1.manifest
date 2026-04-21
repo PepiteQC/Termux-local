@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1905610510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea22e6786be4ab0fef954ef4bdebfd30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wl_table1/flash/wl_table1_64_sd_0.png
+- Assets/Live/wl_table1/flash/wl_table1_32_sd_0.png
+- Assets/Live/wl_table1/flash/wl_table1_logic.xml
+- Assets/Live/wl_table1/flash/wl_table1_icon_a.png
+- Assets/Live/wl_table1/flash/wl_table1_64_a_0_2.png
+- Assets/Live/wl_table1/flash/wl_table1_visualization.xml
+- Assets/Live/wl_table1/flash/wl_table1_64_a_0_0.png
+- Assets/Live/wl_table1/flash/wl_table1_64_a_0_1.png
+- Assets/Live/wl_table1/flash/wl_table1_64_sd_0_0.png
+- Assets/Live/wl_table1/flash/wl_table1_assets.xml
+- Assets/Live/wl_table1/flash/manifest.xml
+- Assets/Live/wl_table1/wl_table1.xml
+- Assets/Live/wl_table1/flash/index.xml
+Dependencies: []

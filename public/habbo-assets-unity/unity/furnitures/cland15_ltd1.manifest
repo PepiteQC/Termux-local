@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3941116527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3461afef33083d0c49994ab8fbdd6f96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland15_ltd1/flash/cland15_ltd1_logic.xml
+- Assets/Live/cland15_ltd1/flash/cland15_ltd1_icon_a.png
+- Assets/Live/cland15_ltd1/flash/cland15_ltd1_64_a_2_0.png
+- Assets/Live/cland15_ltd1/flash/cland15_ltd1_assets.xml
+- Assets/Live/cland15_ltd1/flash/index.xml
+- Assets/Live/cland15_ltd1/cland15_ltd1.xml
+- Assets/Live/cland15_ltd1/flash/cland15_ltd1_visualization.xml
+- Assets/Live/cland15_ltd1/flash/manifest.xml
+Dependencies: []

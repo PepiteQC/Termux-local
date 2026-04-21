@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2214336836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 496c844150d913db1379f8ae0c7b231d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/waasa_table2/flash/waasa_table2_64_b_2_0.png
+- Assets/Live/waasa_table2/flash/waasa_table2_assets.xml
+- Assets/Live/waasa_table2/flash/waasa_table2_64_b_0_0.png
+- Assets/Live/waasa_table2/flash/waasa_table2_64_sd_0_0.png
+- Assets/Live/waasa_table2/flash/waasa_table2_64_a_2_0.png
+- Assets/Live/waasa_table2/flash/waasa_table2_64_sd_2_0.png
+- Assets/Live/waasa_table2/flash/waasa_table2_logic.xml
+- Assets/Live/waasa_table2/flash/waasa_table2_icon_a.png
+- Assets/Live/waasa_table2/flash/manifest.xml
+- Assets/Live/waasa_table2/flash/waasa_table2_visualization.xml
+- Assets/Live/waasa_table2/flash/waasa_table2_64_a_0_0.png
+- Assets/Live/waasa_table2/waasa_table2.xml
+- Assets/Live/waasa_table2/flash/index.xml
+Dependencies: []

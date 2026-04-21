@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3187706794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 162fe9d4cba98c893dd7127bf693dc11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_visualization.xml
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_b_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_e_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_c_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_sd_0_0.png
+- Assets/Live/bonusrare18_4/flash/manifest.xml
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_f_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_logic.xml
+- Assets/Live/bonusrare18_4/bonusrare18_4.xml
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_d_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_icon_d.png
+- Assets/Live/bonusrare18_4/flash/index.xml
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_icon_a.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_64_a_0_0.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_assets.xml
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_icon_c.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_icon_e.png
+- Assets/Live/bonusrare18_4/flash/bonusrare18_4_icon_b.png
+Dependencies: []

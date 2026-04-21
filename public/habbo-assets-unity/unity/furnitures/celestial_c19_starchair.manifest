@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 501184423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caf84685c9314e4b3393bb149bf2b9f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/celestial_c19_starchair/celestial_c19_starchair.xml
+- Assets/Live/celestial_c19_starchair/flash/manifest.xml
+- Assets/Live/celestial_c19_starchair/flash/index.xml
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_logic.xml
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_64_sd_0_0.png
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_assets.xml
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_icon_a.png
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_64_a_0_0.png
+- Assets/Live/celestial_c19_starchair/flash/celestial_c19_starchair_visualization.xml
+Dependencies: []

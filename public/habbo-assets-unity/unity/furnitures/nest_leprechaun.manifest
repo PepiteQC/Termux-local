@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3083032755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d3f4aa161628aa3806781ae52fd0c9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_icon_a.png
+- Assets/Live/nest_leprechaun/flash/manifest.xml
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_64_a_0_0.png
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_visualization.xml
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_assets.xml
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_64_d_0_0.png
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_logic.xml
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_64_c_0_0.png
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_64_b_0_0.png
+- Assets/Live/nest_leprechaun/nest_leprechaun.xml
+- Assets/Live/nest_leprechaun/flash/nest_leprechaun_64_sd_0_0.png
+- Assets/Live/nest_leprechaun/flash/index.xml
+Dependencies: []

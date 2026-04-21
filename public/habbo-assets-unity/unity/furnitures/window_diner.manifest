@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4187325299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8717c8c4975d19910ef2e4049caacf51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_diner/window_diner.xml
+- Assets/Live/window_diner/flash/index.xml
+- Assets/Live/window_diner/flash/window_diner_64_a_2_1.png
+- Assets/Live/window_diner/flash/window_diner_64_a_4_1.png
+- Assets/Live/window_diner/flash/manifest.xml
+- Assets/Live/window_diner/flash/window_diner_assets.xml
+- Assets/Live/window_diner/flash/window_diner_32_2_mask.png
+- Assets/Live/window_diner/flash/window_diner_visualization.xml
+- Assets/Live/window_diner/flash/window_diner_64_2_mask.png
+- Assets/Live/window_diner/flash/window_diner_64_a_2_0.png
+- Assets/Live/window_diner/flash/window_diner_icon_a.png
+- Assets/Live/window_diner/flash/window_diner_logic.xml
+Dependencies: []

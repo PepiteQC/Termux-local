@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1286056990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 652644bf435df2af3efd88ed95b5be88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_64_sd_2_0.png
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_64_a_2_0.png
+- Assets/Live/mall_r17_coffeem/flash/index.xml
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_visualization.xml
+- Assets/Live/mall_r17_coffeem/flash/manifest.xml
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_64_a_2_1.png
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_64_c_2_0.png
+- Assets/Live/mall_r17_coffeem/mall_r17_coffeem.xml
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_assets.xml
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_logic.xml
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_64_b_2_0.png
+- Assets/Live/mall_r17_coffeem/flash/mall_r17_coffeem_icon_a.png
+Dependencies: []

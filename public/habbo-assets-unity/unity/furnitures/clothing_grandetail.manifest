@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 672366011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6644ca8243ea9404930bfea5dd628ce9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_grandetail/flash/index.xml
+- Assets/Live/clothing_grandetail/flash/clothing_grandetail_64_a_0_0.png
+- Assets/Live/clothing_grandetail/flash/clothing_grandetail_assets.xml
+- Assets/Live/clothing_grandetail/flash/manifest.xml
+- Assets/Live/clothing_grandetail/flash/clothing_grandetail_visualization.xml
+- Assets/Live/clothing_grandetail/clothing_grandetail.xml
+- Assets/Live/clothing_grandetail/flash/clothing_grandetail_icon_a.png
+- Assets/Live/clothing_grandetail/flash/clothing_grandetail_logic.xml
+Dependencies: []

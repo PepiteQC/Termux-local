@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1220079969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de1d719ec943df442142cd24da5bd0da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_walldeco/flash/pixel_walldeco_visualization.xml
+- Assets/Live/pixel_walldeco/pixel_walldeco.xml
+- Assets/Live/pixel_walldeco/flash/pixel_walldeco_logic.xml
+- Assets/Live/pixel_walldeco/flash/pixel_walldeco_assets.xml
+- Assets/Live/pixel_walldeco/flash/pixel_walldeco_icon_a.png
+- Assets/Live/pixel_walldeco/flash/pixel_walldeco_64_a_2_0.png
+- Assets/Live/pixel_walldeco/flash/manifest.xml
+- Assets/Live/pixel_walldeco/flash/index.xml
+Dependencies: []

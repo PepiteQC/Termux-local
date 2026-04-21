@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 53448456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d2db11d3a78bc86db2eeea1736f4b3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_mat/flash/jungle_c16_mat_logic.xml
+- Assets/Live/jungle_c16_mat/flash/jungle_c16_mat_64_a_0_0.png
+- Assets/Live/jungle_c16_mat/flash/jungle_c16_mat_visualization.xml
+- Assets/Live/jungle_c16_mat/flash/index.xml
+- Assets/Live/jungle_c16_mat/flash/manifest.xml
+- Assets/Live/jungle_c16_mat/jungle_c16_mat.xml
+- Assets/Live/jungle_c16_mat/flash/jungle_c16_mat_icon_a.png
+- Assets/Live/jungle_c16_mat/flash/jungle_c16_mat_assets.xml
+Dependencies: []

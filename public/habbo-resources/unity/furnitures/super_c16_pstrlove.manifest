@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3144235952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fcebfba86fa7fb3c95bd2e200c1ed61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/super_c16_pstrlove/super_c16_pstrlove.xml
+- Assets/Live/super_c16_pstrlove/flash/index.xml
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_64_b_2_0.png
+- Assets/Live/super_c16_pstrlove/flash/manifest.xml
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_64_c_2_0.png
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_visualization.xml
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_64_a_2_0.png
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_logic.xml
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_assets.xml
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_icon_a.png
+- Assets/Live/super_c16_pstrlove/flash/super_c16_pstrlove_64_c_2_1.png
+Dependencies: []

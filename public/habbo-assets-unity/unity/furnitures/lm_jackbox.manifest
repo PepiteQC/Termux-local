@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2705745403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59efdee85da426165a0a792e78721196
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lm_jackbox/flash/lm_jackbox_icon_a.png
+- Assets/Live/lm_jackbox/lm_jackbox.xml
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_3.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_1.png
+- Assets/Live/lm_jackbox/flash/manifest.xml
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_6.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_4.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_logic.xml
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_7.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_0.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_8.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_5.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_64_a_2_2.png
+- Assets/Live/lm_jackbox/flash/lm_jackbox_visualization.xml
+- Assets/Live/lm_jackbox/flash/index.xml
+- Assets/Live/lm_jackbox/flash/lm_jackbox_assets.xml
+Dependencies: []

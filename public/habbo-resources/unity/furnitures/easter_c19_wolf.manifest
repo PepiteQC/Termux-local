@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4290135306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19d2545b0b750736d5e4a7aa818425c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_9.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_3.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_7.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_logic.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_8.png
+- Assets/Live/easter_c19_wolf/easter_c19_wolf.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_5.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_7.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_10.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_6.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_3.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_assets.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_1.png
+- Assets/Live/easter_c19_wolf/flash/manifest.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_0.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_5.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_4.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_4.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_8.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_2.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_11.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_icon_a.png
+- Assets/Live/easter_c19_wolf/flash/index.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_sd_0_0.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_6.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_0.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_visualization.xml
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_b_0_1.png
+- Assets/Live/easter_c19_wolf/flash/easter_c19_wolf_64_a_0_2.png
+Dependencies: []

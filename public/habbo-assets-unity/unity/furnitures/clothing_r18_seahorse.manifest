@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 902354384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f96e89be514bb13742957c46284f91f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_seahorse/flash/clothing_r18_seahorse_assets.xml
+- Assets/Live/clothing_r18_seahorse/flash/clothing_r18_seahorse_64_a_0_0.png
+- Assets/Live/clothing_r18_seahorse/flash/index.xml
+- Assets/Live/clothing_r18_seahorse/flash/clothing_r18_seahorse_visualization.xml
+- Assets/Live/clothing_r18_seahorse/clothing_r18_seahorse.xml
+- Assets/Live/clothing_r18_seahorse/flash/clothing_r18_seahorse_logic.xml
+- Assets/Live/clothing_r18_seahorse/flash/clothing_r18_seahorse_icon_a.png
+- Assets/Live/clothing_r18_seahorse/flash/manifest.xml
+Dependencies: []

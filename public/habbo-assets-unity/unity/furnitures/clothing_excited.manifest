@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3735438809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00b64908558e71f5925f5380ea247fd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_excited/flash/index.xml
+- Assets/Live/clothing_excited/flash/clothing_excited_icon_a.png
+- Assets/Live/clothing_excited/flash/clothing_excited_assets.xml
+- Assets/Live/clothing_excited/flash/manifest.xml
+- Assets/Live/clothing_excited/flash/clothing_excited_logic.xml
+- Assets/Live/clothing_excited/flash/clothing_excited_64_a_0_0.png
+- Assets/Live/clothing_excited/flash/clothing_excited_visualization.xml
+- Assets/Live/clothing_excited/clothing_excited.xml
+Dependencies: []

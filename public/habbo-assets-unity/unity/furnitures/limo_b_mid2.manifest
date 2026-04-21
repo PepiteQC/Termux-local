@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 477772261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9b6f46b88aabb07c365fc3f314a25d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_64_b_2_0.png
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_64_c_2_0.png
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_64_a_2_0.png
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_visualization.xml
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_assets.xml
+- Assets/Live/limo_b_mid2/flash/index.xml
+- Assets/Live/limo_b_mid2/flash/manifest.xml
+- Assets/Live/limo_b_mid2/limo_b_mid2.xml
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_64_sd_2_0.png
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_icon_a.png
+- Assets/Live/limo_b_mid2/flash/limo_b_mid2_logic.xml
+Dependencies: []

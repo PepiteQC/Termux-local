@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4246948663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48c8d36324bc51833b7e538e186b2388
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_2_1.png
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_visualization.xml
+- Assets/Live/byesw_loadscreen/flash/manifest.xml
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_2_2.png
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_4_0.png
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_2_0.png
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_logic.xml
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_4_2.png
+- Assets/Live/byesw_loadscreen/flash/index.xml
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_assets.xml
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_icon_a.png
+- Assets/Live/byesw_loadscreen/byesw_loadscreen.xml
+- Assets/Live/byesw_loadscreen/flash/byesw_loadscreen_64_a_4_1.png
+Dependencies: []

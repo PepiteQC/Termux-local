@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 682594402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04bb182bb8d8790c6000bc16fa21c0c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_love/flash/index.xml
+- Assets/Live/clothing_love/flash/clothing_love_assets.xml
+- Assets/Live/clothing_love/flash/clothing_love_64_a_0_0.png
+- Assets/Live/clothing_love/flash/clothing_love_64_sd_0_0.png
+- Assets/Live/clothing_love/flash/manifest.xml
+- Assets/Live/clothing_love/clothing_love.xml
+- Assets/Live/clothing_love/flash/clothing_love_logic.xml
+- Assets/Live/clothing_love/flash/clothing_love_icon_a.png
+- Assets/Live/clothing_love/flash/clothing_love_visualization.xml
+Dependencies: []

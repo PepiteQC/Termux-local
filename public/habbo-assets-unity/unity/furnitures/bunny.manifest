@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3627116556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e1faf6ab61dec80b6bbe3c43197f938
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bunny/flash/bunny_icon_a.png
+- Assets/Live/bunny/bunny.xml
+- Assets/Live/bunny/flash/bunny_64_a_4_0.png
+- Assets/Live/bunny/flash/bunny_logic.xml
+- Assets/Live/bunny/flash/manifest.xml
+- Assets/Live/bunny/flash/bunny_64_sd_4_0.png
+- Assets/Live/bunny/flash/bunny_64_sd_6_0.png
+- Assets/Live/bunny/flash/bunny_assets.xml
+- Assets/Live/bunny/flash/index.xml
+- Assets/Live/bunny/flash/bunny_visualization.xml
+- Assets/Live/bunny/flash/bunny_64_a_6_0.png
+Dependencies: []

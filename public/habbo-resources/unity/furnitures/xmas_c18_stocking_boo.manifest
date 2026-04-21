@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2070349921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4cded6d0b43a385f6f4579ef13a4fd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_logic.xml
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_a_0_2.png
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_visualization.xml
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_a_0_1.png
+- Assets/Live/xmas_c18_stocking_boo/xmas_c18_stocking_boo.xml
+- Assets/Live/xmas_c18_stocking_boo/flash/manifest.xml
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_a_0_3.png
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_a_0_4.png
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_icon_a.png
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_a_0_0.png
+- Assets/Live/xmas_c18_stocking_boo/flash/index.xml
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_64_sd_0_0.png
+- Assets/Live/xmas_c18_stocking_boo/flash/xmas_c18_stocking_boo_assets.xml
+Dependencies: []

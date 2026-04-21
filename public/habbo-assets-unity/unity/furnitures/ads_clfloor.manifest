@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2863367567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4a452b3eed06dfb90836387c5b82cb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_clfloor/flash/manifest.xml
+- Assets/Live/ads_clfloor/flash/ads_clfloor_64_a_2_0.png
+- Assets/Live/ads_clfloor/flash/ads_clfloor_assets.xml
+- Assets/Live/ads_clfloor/flash/ads_clfloor_icon_a.png
+- Assets/Live/ads_clfloor/flash/index.xml
+- Assets/Live/ads_clfloor/flash/ads_clfloor_logic.xml
+- Assets/Live/ads_clfloor/ads_clfloor.xml
+- Assets/Live/ads_clfloor/flash/ads_clfloor_64_a_0_0.png
+- Assets/Live/ads_clfloor/flash/ads_clfloor_visualization.xml
+Dependencies: []

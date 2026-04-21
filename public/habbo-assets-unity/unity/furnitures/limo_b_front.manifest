@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3097688118
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff917f9cda68588f449c5c7975f82440
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/limo_b_front/flash/limo_b_front_visualization.xml
+- Assets/Live/limo_b_front/limo_b_front.xml
+- Assets/Live/limo_b_front/flash/limo_b_front_64_a_6_0.png
+- Assets/Live/limo_b_front/flash/manifest.xml
+- Assets/Live/limo_b_front/flash/limo_b_front_assets.xml
+- Assets/Live/limo_b_front/flash/limo_b_front_64_sd_6_0.png
+- Assets/Live/limo_b_front/flash/index.xml
+- Assets/Live/limo_b_front/flash/limo_b_front_64_a_2_0.png
+- Assets/Live/limo_b_front/flash/limo_b_front_icon_a.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_c_2_1.png
+- Assets/Live/limo_b_front/flash/limo_b_front_logic.xml
+- Assets/Live/limo_b_front/flash/limo_b_front_64_c_2_0.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_b_6_0.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_c_6_1.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_sd_2_0.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_c_6_0.png
+- Assets/Live/limo_b_front/flash/limo_b_front_64_b_2_0.png
+Dependencies: []

@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 2208815116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efea0477754bb47ac5d72a3fad05e148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_4.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_30.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_2.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_5.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_1.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_5.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_2.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_1.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_16.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_23.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_13.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_9.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_visualization.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_4.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_icon_a.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_6.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_5.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_38.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_3.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_14.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_24.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_25.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_33.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_12.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_0.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_3.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_12.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_34.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_13.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_14.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_13.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_18.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_6.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_10.png
+- Assets/Live/hween_c20_duckgoddess/hween_c20_duckgoddess.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_0.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_7.png
+- Assets/Live/hween_c20_duckgoddess/flash/index.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_8.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_12.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_10.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_14.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_3.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_15.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_6.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_8.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_22.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_1.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_19.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_31.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_0.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_1.png
+- Assets/Live/hween_c20_duckgoddess/flash/manifest.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_36.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_21.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_7.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_3.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_0.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_11.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_10.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_27.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_35.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_9.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_assets.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_4.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_29.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_6.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_5.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_9.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_2_4.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_9.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_sd_0_0.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_26.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_37.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_28.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_20.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_39.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_7.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_logic.xml
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_7.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_8.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_8.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_32.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_b_0_11.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_11.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_c_0_2.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_2.png
+- Assets/Live/hween_c20_duckgoddess/flash/hween_c20_duckgoddess_64_a_0_17.png
+Dependencies: []

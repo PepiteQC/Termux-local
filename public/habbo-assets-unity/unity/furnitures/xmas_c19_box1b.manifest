@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 625584607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6380e358f83a163a862bec4674f77e18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_box1b/flash/index.xml
+- Assets/Live/xmas_c19_box1b/flash/manifest.xml
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_64_a_0_0.png
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_visualization.xml
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_assets.xml
+- Assets/Live/xmas_c19_box1b/xmas_c19_box1b.xml
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_64_sd_0_0.png
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_logic.xml
+- Assets/Live/xmas_c19_box1b/flash/xmas_c19_box1b_icon_a.png
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2706643770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8350cd89a7c881d5584b2f8bb91abb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_shrine/flash/index.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_d_0_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_visualization.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_b_0_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_c_0_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_a_0_0.png
+- Assets/Live/xmas_c20_shrine/flash/manifest.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_c_6_0.png
+- Assets/Live/xmas_c20_shrine/xmas_c20_shrine.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_e_0_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_d_6_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_e_6_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_logic.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_icon_a.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_assets.xml
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_a_6_0.png
+- Assets/Live/xmas_c20_shrine/flash/xmas_c20_shrine_64_b_6_0.png
+Dependencies: []

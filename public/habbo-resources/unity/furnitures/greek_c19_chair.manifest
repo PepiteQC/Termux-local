@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1977994997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a532b523e7ec5ea687c41bcb3b2e74ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_icon_a.png
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_assets.xml
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_64_a_0_0.png
+- Assets/Live/greek_c19_chair/flash/manifest.xml
+- Assets/Live/greek_c19_chair/greek_c19_chair.xml
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_logic.xml
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_64_sd_0_0.png
+- Assets/Live/greek_c19_chair/flash/index.xml
+- Assets/Live/greek_c19_chair/flash/greek_c19_chair_visualization.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2202599270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a9aa70d303c201a7c5f7e6f64a86166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_logic.xml
+- Assets/Live/garden_stonesteps/garden_stonesteps.xml
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_64_a_0_0.png
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_assets.xml
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_icon_a.png
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_64_a_0_1.png
+- Assets/Live/garden_stonesteps/flash/manifest.xml
+- Assets/Live/garden_stonesteps/flash/index.xml
+- Assets/Live/garden_stonesteps/flash/garden_stonesteps_visualization.xml
+Dependencies: []

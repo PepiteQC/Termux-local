@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3395781615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17411598f24349bc2d974002179660fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_demoncloak/flash/clothing_demoncloak_icon_a.png
+- Assets/Live/clothing_demoncloak/flash/index.xml
+- Assets/Live/clothing_demoncloak/flash/clothing_demoncloak_visualization.xml
+- Assets/Live/clothing_demoncloak/clothing_demoncloak.xml
+- Assets/Live/clothing_demoncloak/flash/clothing_demoncloak_64_a_0_0.png
+- Assets/Live/clothing_demoncloak/flash/manifest.xml
+- Assets/Live/clothing_demoncloak/flash/clothing_demoncloak_assets.xml
+- Assets/Live/clothing_demoncloak/flash/clothing_demoncloak_logic.xml
+Dependencies: []

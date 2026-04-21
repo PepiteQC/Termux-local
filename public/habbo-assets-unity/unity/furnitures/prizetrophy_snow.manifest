@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1109848442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3380f6323b64860a1825355e434e292
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_snow/flash/index.xml
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_visualization.xml
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_64_a_0_0.png
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_logic.xml
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_64_c_0_0.png
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_icon_a.png
+- Assets/Live/prizetrophy_snow/flash/manifest.xml
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_64_b_0_0.png
+- Assets/Live/prizetrophy_snow/flash/prizetrophy_snow_assets.xml
+- Assets/Live/prizetrophy_snow/prizetrophy_snow.xml
+Dependencies: []

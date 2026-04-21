@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 277313691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a86e73b13d3663694cd97290fc7eb6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_bff_a/flash/index.xml
+- Assets/Live/gift_bff_a/flash/gift_bff_a_64_sd_4_0.png
+- Assets/Live/gift_bff_a/flash/gift_bff_a_logic.xml
+- Assets/Live/gift_bff_a/flash/gift_bff_a_visualization.xml
+- Assets/Live/gift_bff_a/flash/gift_bff_a_icon_a.png
+- Assets/Live/gift_bff_a/gift_bff_a.xml
+- Assets/Live/gift_bff_a/flash/gift_bff_a_assets.xml
+- Assets/Live/gift_bff_a/flash/manifest.xml
+- Assets/Live/gift_bff_a/flash/gift_bff_a_64_a_4_0.png
+Dependencies: []

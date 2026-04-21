@@ -112,6 +112,36 @@ export const DEFAULT_THEME: RoomTheme = {
 export function getRoomTheme(roomId: string): RoomTheme {
   return ROOM_THEMES[roomId] ?? DEFAULT_THEME;
 }
+export type AvatarDirection = "north" | "south" | "east" | "west";
+
+export type AvatarSpriteRange = [number, number];
+
+export type AvatarSpriteSheetConfig = {
+  sheetPath?: string;
+  frameWidth: number;
+  frameHeight: number;
+  totalFrames?: number;
+  fps?: number;
+  scale?: number;
+  offsetX?: number;
+  offsetY?: number;
+  rows?: number;
+  columns?: number;
+  animations?: Record<string, { frames: number[]; speed: number }>;
+  defaultAnimation?: string;
+  directions: Record<
+    AvatarDirection,
+    {
+      idle: AvatarSpriteRange;
+      walk: AvatarSpriteRange;
+    }
+  >;
+};
+
+export type AvatarRenderLayer = {
+  path: string;
+  spriteSheet?: AvatarSpriteSheetConfig;
+};
 
 export function getFurnitureDepth(furniture: FurniturePlacement) {
   return furniture.x + furniture.z + furniture.y;
@@ -146,9 +176,15 @@ export async function loadFurnitureSprites(
 }
 
 export async function loadAvatarLayerSprites(
-  layerPaths: string[]
+  layers: AvatarRenderLayer[]
 ): Promise<Record<string, HTMLImageElement>> {
-  const unique = Array.from(new Set(layerPaths.filter(Boolean)));
+  const unique = Array.from(
+    new Set(
+      layers.flatMap((layer) =>
+        [layer.path, layer.spriteSheet?.sheetPath].filter(Boolean) as string[]
+      )
+    )
+  );
   const entries = await Promise.all(
     unique.map(
       (path) =>
@@ -495,38 +531,125 @@ export function drawAvatarSprite(
   ctx: CanvasRenderingContext2D,
   projection: ProjectionConfig,
   tile: IsoTile,
-  layerPaths: string[],
+  layers: AvatarRenderLayer[],
   images: Record<string, HTMLImageElement>,
-  highlight = false
+  highlight = false,
+  options?: {
+    direction?: AvatarDirection;
+    walking?: boolean;
+    tick?: number;
+  }
 ) {
   const anchor = isoToScreen(tile.x + 0.5, tile.y, tile.z + 0.5, projection);
-  const drawWidth = 84;
-  const drawHeight = 112;
-  const drawX = anchor.x - drawWidth / 2;
-  const drawY = anchor.y - drawHeight + 6;
+  const direction = options?.direction ?? "south";
+  const tick = options?.tick ?? 0;
+  const walking = Boolean(options?.walking);
+  const bob = walking ? Math.sin(tick * 0.8) * 3 : 0;
+  const sway = direction === "east" ? 2 : direction === "west" ? -2 : 0;
+  const baseSpriteSheet = layers.find((layer) => layer.spriteSheet)?.spriteSheet;
+  const baseScale = baseSpriteSheet?.scale ?? 1.75;
+  const drawWidth = baseSpriteSheet ? baseSpriteSheet.frameWidth * baseScale : 84;
+  const drawHeight = baseSpriteSheet ? baseSpriteSheet.frameHeight * baseScale : 112;
+  const scale = walking ? 1 + Math.abs(Math.cos(tick * 0.8)) * 0.03 : 1;
+  const scaledWidth = drawWidth * scale;
+  const scaledHeight = drawHeight * scale;
+  const mirrored = direction === "west";
+  const facingAlpha = direction === "north" ? 0.92 : 1;
 
   ctx.save();
   ctx.fillStyle = "rgba(0,0,0,0.28)";
   ctx.beginPath();
-  ctx.ellipse(anchor.x, anchor.y + 7, 16, 9, 0, 0, Math.PI * 2);
+  ctx.ellipse(anchor.x + sway * 0.4, anchor.y + 7, walking ? 18 : 16, walking ? 8 : 9, 0, 0, Math.PI * 2);
   ctx.fill();
 
   ctx.imageSmoothingEnabled = false;
   let drewLayer = false;
 
-  layerPaths.forEach((path) => {
-    const image = images[path];
+  layers.forEach((layer) => {
+    const spriteSheetImage = layer.spriteSheet?.sheetPath
+      ? images[layer.spriteSheet.sheetPath]
+      : undefined;
+    const image = spriteSheetImage ?? images[layer.path];
     if (!image) {
       return;
     }
     drewLayer = true;
-    ctx.drawImage(image, drawX, drawY, drawWidth, drawHeight);
+    const layerScale = layer.spriteSheet?.scale ?? baseScale;
+    const layerWidth = (layer.spriteSheet?.frameWidth ?? (baseSpriteSheet?.frameWidth ?? 48)) * layerScale * scale;
+    const layerHeight = (layer.spriteSheet?.frameHeight ?? (baseSpriteSheet?.frameHeight ?? 64)) * layerScale * scale;
+    const drawX =
+      anchor.x -
+      layerWidth / 2 +
+      sway +
+      (layer.spriteSheet?.offsetX ?? baseSpriteSheet?.offsetX ?? 0);
+    const drawY =
+      anchor.y -
+      layerHeight +
+      6 -
+      bob +
+      (layer.spriteSheet?.offsetY ?? baseSpriteSheet?.offsetY ?? 0);
+    ctx.save();
+    ctx.globalAlpha = facingAlpha;
+    if (layer.spriteSheet && spriteSheetImage) {
+      const frame = getAvatarFrameIndex(layer.spriteSheet, direction, walking, tick);
+      const columns = layer.spriteSheet.columns ?? Math.max(1, Math.floor(image.width / layer.spriteSheet.frameWidth));
+      const sourceX = (frame % columns) * layer.spriteSheet.frameWidth;
+      const sourceY = Math.floor(frame / columns) * layer.spriteSheet.frameHeight;
+
+      if (mirrored) {
+        ctx.translate(drawX + scaledWidth / 2, 0);
+        ctx.scale(-1, 1);
+        ctx.drawImage(
+          image,
+          sourceX,
+          sourceY,
+          layer.spriteSheet.frameWidth,
+          layer.spriteSheet.frameHeight,
+          -layerWidth / 2,
+          drawY,
+          layerWidth,
+          layerHeight
+        );
+      } else {
+        ctx.drawImage(
+          image,
+          sourceX,
+          sourceY,
+          layer.spriteSheet.frameWidth,
+          layer.spriteSheet.frameHeight,
+          drawX,
+          drawY,
+          layerWidth,
+          layerHeight
+        );
+      }
+    } else if (mirrored) {
+      ctx.translate(drawX + layerWidth / 2, 0);
+      ctx.scale(-1, 1);
+      ctx.drawImage(image, -layerWidth / 2, drawY, layerWidth, layerHeight);
+    } else {
+      ctx.drawImage(image, drawX, drawY, layerWidth, layerHeight);
+    }
+    ctx.restore();
   });
 
   if (highlight) {
     ctx.strokeStyle = "rgba(95, 255, 142, 0.9)";
     ctx.lineWidth = 2;
-    ctx.strokeRect(drawX - 3, drawY - 3, drawWidth + 6, drawHeight + 6);
+    const outlineX =
+      anchor.x - scaledWidth / 2 + sway + (baseSpriteSheet?.offsetX ?? 0);
+    const outlineY =
+      anchor.y - scaledHeight + 6 - bob + (baseSpriteSheet?.offsetY ?? 0);
+    ctx.strokeRect(outlineX - 3, outlineY - 3, scaledWidth + 6, scaledHeight + 6);
+  }
+
+  if (walking) {
+    ctx.fillStyle = "rgba(79, 195, 247, 0.18)";
+    const outlineX =
+      anchor.x - scaledWidth / 2 + sway + (baseSpriteSheet?.offsetX ?? 0);
+    const outlineY =
+      anchor.y - scaledHeight + 6 - bob + (baseSpriteSheet?.offsetY ?? 0);
+    ctx.fillRect(outlineX + 10, outlineY + scaledHeight - 20, scaledWidth - 20, 6);
   }
 
   ctx.restore();
@@ -534,4 +657,25 @@ export function drawAvatarSprite(
   if (!drewLayer) {
     drawAvatarPlaceholder(ctx, projection, tile.x + 1, tile.z + 1);
   }
+}
+
+function getAvatarFrameIndex(
+  config: AvatarSpriteSheetConfig,
+  direction: AvatarDirection,
+  walking: boolean,
+  tick: number
+) {
+  const animationKey = `${direction}_${walking ? "walk" : "idle"}`;
+  const explicitAnimation = config.animations?.[animationKey];
+  if (explicitAnimation) {
+    const speed = explicitAnimation.speed || config.fps || 8;
+    const divisor = Math.max(1, Math.round(12 / speed));
+    return explicitAnimation.frames[Math.floor(tick / divisor) % explicitAnimation.frames.length] ?? explicitAnimation.frames[0] ?? 0;
+  }
+
+  const directionFrames = config.directions[direction];
+  const [start, end] = walking ? directionFrames.walk : directionFrames.idle;
+  const count = Math.max(1, end - start + 1);
+  const fps = config.fps ?? 8;
+  return start + (Math.floor(tick / Math.max(1, Math.round(10 / fps))) % count);
 }

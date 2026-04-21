@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1300254848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba38cd5d04fb29963b5b9b8d8cd798c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_64_sd_0_0.png
+- Assets/Live/messy_c21_trashbags/flash/manifest.xml
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_assets.xml
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_64_a_0_2.png
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_64_a_0_1.png
+- Assets/Live/messy_c21_trashbags/messy_c21_trashbags.xml
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_icon_a.png
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_visualization.xml
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_64_a_0_0.png
+- Assets/Live/messy_c21_trashbags/flash/messy_c21_trashbags_logic.xml
+- Assets/Live/messy_c21_trashbags/flash/index.xml
+Dependencies: []

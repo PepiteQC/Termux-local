@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3205142046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3f378206c8ced3acd2b26d582682896
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_waypointrocks/easter_c20_waypointrocks.xml
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_64_a_0_1.png
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_assets.xml
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_icon_a.png
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_logic.xml
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_visualization.xml
+- Assets/Live/easter_c20_waypointrocks/flash/index.xml
+- Assets/Live/easter_c20_waypointrocks/flash/easter_c20_waypointrocks_64_a_0_0.png
+- Assets/Live/easter_c20_waypointrocks/flash/manifest.xml
+Dependencies: []

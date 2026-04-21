@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1417931135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 779e7720ec663d4eaaddc7eb71cdf93a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_knitband/flash/clothing_knitband_visualization.xml
+- Assets/Live/clothing_knitband/flash/manifest.xml
+- Assets/Live/clothing_knitband/clothing_knitband.xml
+- Assets/Live/clothing_knitband/flash/clothing_knitband_64_sd_0_0.png
+- Assets/Live/clothing_knitband/flash/index.xml
+- Assets/Live/clothing_knitband/flash/clothing_knitband_logic.xml
+- Assets/Live/clothing_knitband/flash/clothing_knitband_64_a_0_0.png
+- Assets/Live/clothing_knitband/flash/clothing_knitband_icon_a.png
+- Assets/Live/clothing_knitband/flash/clothing_knitband_assets.xml
+Dependencies: []

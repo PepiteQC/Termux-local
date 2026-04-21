@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3421617550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09d00403061b8e7a7dbb459035cb2070
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_icon_a.png
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_a_4_1.png
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_visualization.xml
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_a_2_1.png
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_a_4_0.png
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_sd_2_0.png
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_logic.xml
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_sd_4_0.png
+- Assets/Live/ads_dtlrare_gold2/flash/index.xml
+- Assets/Live/ads_dtlrare_gold2/flash/manifest.xml
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_assets.xml
+- Assets/Live/ads_dtlrare_gold2/flash/ads_dtlrare_gold2_64_a_2_0.png
+- Assets/Live/ads_dtlrare_gold2/ads_dtlrare_gold2.xml
+Dependencies: []

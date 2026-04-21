@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2106947811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83f089151c9543cd7cae28001375b82c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bling11_statue1/flash/bling11_statue1_64_sd_0_0.png
+- Assets/Live/bling11_statue1/flash/bling11_statue1_64_a_0_0.png
+- Assets/Live/bling11_statue1/flash/bling11_statue1_visualization.xml
+- Assets/Live/bling11_statue1/flash/bling11_statue1_icon_a.png
+- Assets/Live/bling11_statue1/flash/bling11_statue1_assets.xml
+- Assets/Live/bling11_statue1/bling11_statue1.xml
+- Assets/Live/bling11_statue1/flash/bling11_statue1_logic.xml
+- Assets/Live/bling11_statue1/flash/manifest.xml
+- Assets/Live/bling11_statue1/flash/index.xml
+Dependencies: []

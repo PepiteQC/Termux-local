@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4159138727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82f78dd458b0a7f9dc29ad9fd8296a92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_smallrunestones/xmas_c20_smallrunestones.xml
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_assets.xml
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_64_a_0_0.png
+- Assets/Live/xmas_c20_smallrunestones/flash/manifest.xml
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_logic.xml
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_icon_a.png
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_64_sd_0_0.png
+- Assets/Live/xmas_c20_smallrunestones/flash/xmas_c20_smallrunestones_visualization.xml
+- Assets/Live/xmas_c20_smallrunestones/flash/index.xml
+Dependencies: []

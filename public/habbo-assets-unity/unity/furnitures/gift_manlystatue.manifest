@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1793630258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 327fd8cc6b2154ae9b48b03da49b2759
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_icon_a.png
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_visualization.xml
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_logic.xml
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_64_sd_0_0.png
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_64_a_0_0.png
+- Assets/Live/gift_manlystatue/flash/manifest.xml
+- Assets/Live/gift_manlystatue/flash/index.xml
+- Assets/Live/gift_manlystatue/gift_manlystatue.xml
+- Assets/Live/gift_manlystatue/flash/gift_manlystatue_assets.xml
+Dependencies: []

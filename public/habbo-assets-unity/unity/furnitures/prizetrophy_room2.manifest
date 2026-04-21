@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2034427776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dbcd8a234a8005c00ff38b97eb7c808
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_assets.xml
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_logic.xml
+- Assets/Live/prizetrophy_room2/prizetrophy_room2.xml
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_icon_b.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_b_0_0.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_d_0_1.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_d_0_0.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_visualization.xml
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_a_0_0.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_c_0_0.png
+- Assets/Live/prizetrophy_room2/flash/index.xml
+- Assets/Live/prizetrophy_room2/flash/manifest.xml
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_64_d_0_2.png
+- Assets/Live/prizetrophy_room2/flash/prizetrophy_room2_icon_a.png
+Dependencies: []

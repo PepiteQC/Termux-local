@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2062357797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a145b840ee25418a121677084e49ee1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/queue_tile1/flash/manifest.xml
+- Assets/Live/queue_tile1/flash/queue_tile1_assets.xml
+- Assets/Live/queue_tile1/queue_tile1.xml
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_0_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_c_4_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_icon_a.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_4_2.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_0_1.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_b_4_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_sd_0_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_0_2.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_b_0_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_4_1.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_a_0_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_64_d_4_0.png
+- Assets/Live/queue_tile1/flash/queue_tile1_logic.xml
+- Assets/Live/queue_tile1/flash/queue_tile1_icon_b.png
+- Assets/Live/queue_tile1/flash/queue_tile1_visualization.xml
+- Assets/Live/queue_tile1/flash/queue_tile1_64_c_0_0.png
+- Assets/Live/queue_tile1/flash/index.xml
+Dependencies: []

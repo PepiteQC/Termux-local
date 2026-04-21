@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 417934735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36981744e00abcc036fdc1e9c461dd2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_visualization.xml
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_icon_a.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_b_0_0.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_assets.xml
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_b_0_4.png
+- Assets/Live/xmas_c20_runerockred/flash/index.xml
+- Assets/Live/xmas_c20_runerockred/xmas_c20_runerockred.xml
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_b_0_1.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_a_0_0.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_b_0_2.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_b_0_3.png
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_logic.xml
+- Assets/Live/xmas_c20_runerockred/flash/manifest.xml
+- Assets/Live/xmas_c20_runerockred/flash/xmas_c20_runerockred_64_sd_0_0.png
+Dependencies: []

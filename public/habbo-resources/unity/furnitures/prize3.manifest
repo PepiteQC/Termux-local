@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2009618459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ce6851b5115b3bfd3224eb607049cc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prize3/flash/prize3_64_a_0_0.png
+- Assets/Live/prize3/flash/prize3_logic.xml
+- Assets/Live/prize3/prize3.xml
+- Assets/Live/prize3/flash/prize3_assets.xml
+- Assets/Live/prize3/flash/prize3_icon_a.png
+- Assets/Live/prize3/flash/prize3_visualization.xml
+- Assets/Live/prize3/flash/manifest.xml
+- Assets/Live/prize3/flash/index.xml
+Dependencies: []

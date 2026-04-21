@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2454625022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2c313ec07d6540d3aaa37184124117b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_e_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/manifest.xml
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_e_4_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_a_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_a_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_b_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_c_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_b_4_20.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_icon_a.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_d_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_assets.xml
+- Assets/Live/hween_c16_balcony2/flash/index.xml
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_logic.xml
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_visualization.xml
+- Assets/Live/hween_c16_balcony2/hween_c16_balcony2.xml
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_c_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_c_2_17.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_g_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_f_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_b_2_20.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_f_4_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_e_2_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_d_2_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_g_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_f_2_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_f_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_h_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_c_4_17.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_sd_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_d_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_b_2_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_h_4_0.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_d_4_1.png
+- Assets/Live/hween_c16_balcony2/flash/hween_c16_balcony2_64_e_2_0.png
+Dependencies: []

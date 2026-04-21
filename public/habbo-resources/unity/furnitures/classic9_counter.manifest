@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3256776152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14860c3b9b42d7a5dde30ea104d8b945
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_0_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_2_1.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_0_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_logic.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_assets.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_0_1.png
+- Assets/Live/classic9_counter/flash/manifest.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_64_c_6_1.png
+- Assets/Live/classic9_counter/classic9_counter.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_4_1.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_6_1.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_a_4_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_c_0_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_4_1.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_c_4_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_4_0.png
+- Assets/Live/classic9_counter/flash/classic9_counter_icon_a.png
+- Assets/Live/classic9_counter/flash/classic9_counter_visualization.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_0_1.png
+- Assets/Live/classic9_counter/flash/index.xml
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_2_1.png
+- Assets/Live/classic9_counter/flash/classic9_counter_64_b_6_1.png
+Dependencies: []

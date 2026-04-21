@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 878817581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f7a41002db0c48cb4a7d24e02f55f55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_kilt/flash/clothing_kilt_logic.xml
+- Assets/Live/clothing_kilt/flash/clothing_kilt_assets.xml
+- Assets/Live/clothing_kilt/flash/manifest.xml
+- Assets/Live/clothing_kilt/clothing_kilt.xml
+- Assets/Live/clothing_kilt/flash/index.xml
+- Assets/Live/clothing_kilt/flash/clothing_kilt_visualization.xml
+- Assets/Live/clothing_kilt/flash/clothing_kilt_64_a_0_0.png
+- Assets/Live/clothing_kilt/flash/clothing_kilt_icon_a.png
+Dependencies: []

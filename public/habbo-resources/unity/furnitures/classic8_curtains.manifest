@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4035743777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 114d445b01a8c82fb09257f09dc21d59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_curtains/flash/classic8_curtains_visualization.xml
+- Assets/Live/classic8_curtains/flash/classic8_curtains_logic.xml
+- Assets/Live/classic8_curtains/classic8_curtains.xml
+- Assets/Live/classic8_curtains/flash/classic8_curtains_assets.xml
+- Assets/Live/classic8_curtains/flash/classic8_curtains_icon_a.png
+- Assets/Live/classic8_curtains/flash/classic8_curtains_64_a_6_0.png
+- Assets/Live/classic8_curtains/flash/manifest.xml
+- Assets/Live/classic8_curtains/flash/classic8_curtains_64_a_2_0.png
+- Assets/Live/classic8_curtains/flash/index.xml
+Dependencies: []

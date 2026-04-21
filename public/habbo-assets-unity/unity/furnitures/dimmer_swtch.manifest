@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3923119841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9669b892027f2fdc46d1f01e4aef966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_assets.xml
+- Assets/Live/dimmer_swtch/flash/manifest.xml
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_64_b_2_0.png
+- Assets/Live/dimmer_swtch/flash/index.xml
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_64_a_2_0.png
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_icon_a.png
+- Assets/Live/dimmer_swtch/dimmer_swtch.xml
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_logic.xml
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_visualization.xml
+- Assets/Live/dimmer_swtch/flash/dimmer_swtch_64_a_2_1.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1718035468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddb45d2f862e8d87c993bc19b911bb5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_goldfish/flash/manifest.xml
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_icon_a.png
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_assets.xml
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_64_sd_0_0.png
+- Assets/Live/clothing_r18_goldfish/clothing_r18_goldfish.xml
+- Assets/Live/clothing_r18_goldfish/flash/index.xml
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_visualization.xml
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_logic.xml
+- Assets/Live/clothing_r18_goldfish/flash/clothing_r18_goldfish_64_a_0_0.png
+Dependencies: []

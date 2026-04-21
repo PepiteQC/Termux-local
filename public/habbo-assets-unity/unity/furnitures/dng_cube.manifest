@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1347794673
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cab79c8a1f0eb0b8009fbe281ff2a56b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dng_cube/flash/dng_cube_icon_a.png
+- Assets/Live/dng_cube/flash/dng_cube_logic.xml
+- Assets/Live/dng_cube/dng_cube.xml
+- Assets/Live/dng_cube/flash/dng_cube_64_a_0_0.png
+- Assets/Live/dng_cube/flash/dng_cube_64_a_2_0.png
+- Assets/Live/dng_cube/flash/dng_cube_assets.xml
+- Assets/Live/dng_cube/flash/dng_cube_64_a_4_0.png
+- Assets/Live/dng_cube/flash/dng_cube_64_a_6_0.png
+- Assets/Live/dng_cube/flash/dng_cube_visualization.xml
+- Assets/Live/dng_cube/flash/index.xml
+- Assets/Live/dng_cube/flash/manifest.xml
+Dependencies: []

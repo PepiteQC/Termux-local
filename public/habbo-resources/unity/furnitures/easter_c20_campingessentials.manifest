@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4129228576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7bda60aae0527e376cf5d9f345bc8b9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_a_0_0.png
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_3.png
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_4.png
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_assets.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_1.png
+- Assets/Live/easter_c20_campingessentials/easter_c20_campingessentials.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_visualization.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_sd_0_0.png
+- Assets/Live/easter_c20_campingessentials/flash/manifest.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_logic.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_icon_a.png
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_0.png
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_2.png
+- Assets/Live/easter_c20_campingessentials/flash/index.xml
+- Assets/Live/easter_c20_campingessentials/flash/easter_c20_campingessentials_64_b_0_5.png
+Dependencies: []

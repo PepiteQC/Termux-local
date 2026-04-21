@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2197741818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61468439437923050f817d6fe6bb0f70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plant_maze/flash/manifest.xml
+- Assets/Live/plant_maze/flash/plant_maze_assets.xml
+- Assets/Live/plant_maze/flash/plant_maze_64_sd_4_0.png
+- Assets/Live/plant_maze/flash/plant_maze_64_b_2_0.png
+- Assets/Live/plant_maze/flash/plant_maze_visualization.xml
+- Assets/Live/plant_maze/flash/plant_maze_logic.xml
+- Assets/Live/plant_maze/flash/plant_maze_64_sd_2_0.png
+- Assets/Live/plant_maze/flash/index.xml
+- Assets/Live/plant_maze/flash/plant_maze_64_a_2_0.png
+- Assets/Live/plant_maze/flash/plant_maze_64_b_4_0.png
+- Assets/Live/plant_maze/flash/plant_maze_icon_a.png
+- Assets/Live/plant_maze/plant_maze.xml
+- Assets/Live/plant_maze/flash/plant_maze_64_a_4_0.png
+Dependencies: []

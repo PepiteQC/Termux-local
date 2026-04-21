@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3274358675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73480cee810ad8e82b6cbdd7477b2059
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_visualization.xml
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_64_sd_4_0.png
+- Assets/Live/xmas_c19_hamsterplushie/xmas_c19_hamsterplushie.xml
+- Assets/Live/xmas_c19_hamsterplushie/flash/index.xml
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_icon_a.png
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_64_a_4_0.png
+- Assets/Live/xmas_c19_hamsterplushie/flash/manifest.xml
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_assets.xml
+- Assets/Live/xmas_c19_hamsterplushie/flash/xmas_c19_hamsterplushie_logic.xml
+Dependencies: []

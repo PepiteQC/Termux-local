@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 287184821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f20edce126b1618735ed9883fffdc68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_assets.xml
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_visualization.xml
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_64_a_0_0.png
+- Assets/Live/room_hall_trophy2/room_hall_trophy2.xml
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_icon_a.png
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_logic.xml
+- Assets/Live/room_hall_trophy2/flash/manifest.xml
+- Assets/Live/room_hall_trophy2/flash/index.xml
+- Assets/Live/room_hall_trophy2/flash/room_hall_trophy2_64_b_0_0.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2398734204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fda7377495edf3cb3dd8d9d3307f4ad9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_64_a_2_1.png
+- Assets/Live/hblooza14_flag_p/flash/index.xml
+- Assets/Live/hblooza14_flag_p/hblooza14_flag_p.xml
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_64_a_2_3.png
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_64_a_2_2.png
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_logic.xml
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_icon_a.png
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_64_a_2_0.png
+- Assets/Live/hblooza14_flag_p/flash/manifest.xml
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_visualization.xml
+- Assets/Live/hblooza14_flag_p/flash/hblooza14_flag_p_assets.xml
+Dependencies: []

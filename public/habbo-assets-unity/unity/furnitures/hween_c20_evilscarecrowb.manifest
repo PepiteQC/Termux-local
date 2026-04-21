@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1546442886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1750fe267b1b1bb7f4136d0d357ee8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_1.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_6.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_assets.xml
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_logic.xml
+- Assets/Live/hween_c20_evilscarecrowb/hween_c20_evilscarecrowb.xml
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_9.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_4.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_visualization.xml
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_10.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_0.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_11.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_icon_a.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/manifest.xml
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_2.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_7.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_3.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/index.xml
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_8.png
+- Assets/Live/hween_c20_evilscarecrowb/flash/hween_c20_evilscarecrowb_64_a_4_5.png
+Dependencies: []

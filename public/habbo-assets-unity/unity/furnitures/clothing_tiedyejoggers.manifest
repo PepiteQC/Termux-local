@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2450030319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c530c05db4e2aff688cf837c25993968
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_tiedyejoggers/flash/clothing_tiedyejoggers_icon_a.png
+- Assets/Live/clothing_tiedyejoggers/flash/clothing_tiedyejoggers_visualization.xml
+- Assets/Live/clothing_tiedyejoggers/flash/manifest.xml
+- Assets/Live/clothing_tiedyejoggers/flash/index.xml
+- Assets/Live/clothing_tiedyejoggers/flash/clothing_tiedyejoggers_64_a_0_0.png
+- Assets/Live/clothing_tiedyejoggers/flash/clothing_tiedyejoggers_logic.xml
+- Assets/Live/clothing_tiedyejoggers/clothing_tiedyejoggers.xml
+- Assets/Live/clothing_tiedyejoggers/flash/clothing_tiedyejoggers_assets.xml
+Dependencies: []

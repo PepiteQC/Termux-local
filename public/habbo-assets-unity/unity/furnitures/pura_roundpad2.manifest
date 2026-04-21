@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4128079421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 560a1f2071425ab623fe82898e4fdd4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pura_roundpad2/flash/manifest.xml
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_visualization.xml
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_64_a_4_0.png
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_64_a_2_0.png
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_icon_a.png
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_64_a_0_0.png
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_logic.xml
+- Assets/Live/pura_roundpad2/pura_roundpad2.xml
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_64_a_6_0.png
+- Assets/Live/pura_roundpad2/flash/pura_roundpad2_assets.xml
+- Assets/Live/pura_roundpad2/flash/index.xml
+Dependencies: []

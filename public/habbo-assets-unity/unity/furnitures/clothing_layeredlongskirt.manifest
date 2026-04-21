@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2955811284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74ae7051650bbe7f64c58594106d23f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_layeredlongskirt/flash/index.xml
+- Assets/Live/clothing_layeredlongskirt/flash/clothing_layeredlongskirt_visualization.xml
+- Assets/Live/clothing_layeredlongskirt/flash/clothing_layeredlongskirt_icon_a.png
+- Assets/Live/clothing_layeredlongskirt/flash/clothing_layeredlongskirt_64_a_0_0.png
+- Assets/Live/clothing_layeredlongskirt/flash/clothing_layeredlongskirt_assets.xml
+- Assets/Live/clothing_layeredlongskirt/clothing_layeredlongskirt.xml
+- Assets/Live/clothing_layeredlongskirt/flash/clothing_layeredlongskirt_logic.xml
+- Assets/Live/clothing_layeredlongskirt/flash/manifest.xml
+Dependencies: []

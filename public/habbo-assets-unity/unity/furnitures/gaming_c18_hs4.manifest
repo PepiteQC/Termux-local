@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2346864912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6dcfbb9e7cef986fd751c4f94c674aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gaming_c18_hs4/gaming_c18_hs4.xml
+- Assets/Live/gaming_c18_hs4/flash/manifest.xml
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_icon_a.png
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_64_b_0_1.png
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_logic.xml
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_assets.xml
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_64_sd_0_0.png
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_visualization.xml
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_64_b_0_0.png
+- Assets/Live/gaming_c18_hs4/flash/gaming_c18_hs4_64_a_0_0.png
+- Assets/Live/gaming_c18_hs4/flash/index.xml
+Dependencies: []

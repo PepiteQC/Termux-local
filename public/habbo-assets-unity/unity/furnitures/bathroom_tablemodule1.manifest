@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3478313675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea48cd65174bfbc16fedf49e0c62ee11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_visualization.xml
+- Assets/Live/bathroom_tablemodule1/flash/manifest.xml
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_icon_a.png
+- Assets/Live/bathroom_tablemodule1/bathroom_tablemodule1.xml
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_assets.xml
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_4_2.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_4_1.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_sd_4_0.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_2_1.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_2_2.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_2_0.png
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_64_a_4_0.png
+- Assets/Live/bathroom_tablemodule1/flash/index.xml
+- Assets/Live/bathroom_tablemodule1/flash/bathroom_tablemodule1_logic.xml
+Dependencies: []

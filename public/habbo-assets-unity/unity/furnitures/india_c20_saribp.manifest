@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3860600616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39bc3f085a6331443b07d2715996ac2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_assets.xml
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_a_0_0.png
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_logic.xml
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_c_0_1.png
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_b_0_0.png
+- Assets/Live/india_c20_saribp/flash/index.xml
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_c_0_0.png
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_c_0_2.png
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_visualization.xml
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_b_0_2.png
+- Assets/Live/india_c20_saribp/india_c20_saribp.xml
+- Assets/Live/india_c20_saribp/flash/manifest.xml
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_64_b_0_1.png
+- Assets/Live/india_c20_saribp/flash/india_c20_saribp_icon_a.png
+Dependencies: []

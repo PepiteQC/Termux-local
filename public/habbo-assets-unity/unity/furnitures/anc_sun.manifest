@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1304520083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 964c9e48049382755cd7e5a56d169eb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_sun/flash/manifest.xml
+- Assets/Live/anc_sun/flash/anc_sun_64_d_2_0.png
+- Assets/Live/anc_sun/flash/index.xml
+- Assets/Live/anc_sun/flash/anc_sun_64_a_2_2.png
+- Assets/Live/anc_sun/flash/anc_sun_64_b_2_1.png
+- Assets/Live/anc_sun/flash/anc_sun_64_b_2_0.png
+- Assets/Live/anc_sun/flash/anc_sun_64_d_2_1.png
+- Assets/Live/anc_sun/flash/anc_sun_64_a_2_1.png
+- Assets/Live/anc_sun/flash/anc_sun_64_b_2_2.png
+- Assets/Live/anc_sun/flash/anc_sun_64_c_2_0.png
+- Assets/Live/anc_sun/anc_sun.xml
+- Assets/Live/anc_sun/flash/anc_sun_assets.xml
+- Assets/Live/anc_sun/flash/anc_sun_icon_a.png
+- Assets/Live/anc_sun/flash/anc_sun_64_a_2_0.png
+- Assets/Live/anc_sun/flash/anc_sun_logic.xml
+- Assets/Live/anc_sun/flash/anc_sun_visualization.xml
+- Assets/Live/anc_sun/flash/anc_sun_64_d_2_2.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 47426521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 656b0681c1f2de495ba62498134035f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_icon_a.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_icon_b.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_sd_0_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_b_2_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_c_2_0.png
+- Assets/Live/icedblk_c16_sofachair/icedblk_c16_sofachair.xml
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_a_6_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_logic.xml
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_c_6_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/manifest.xml
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_a_2_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_sd_2_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_64_b_6_0.png
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_visualization.xml
+- Assets/Live/icedblk_c16_sofachair/flash/index.xml
+- Assets/Live/icedblk_c16_sofachair/flash/icedblk_c16_sofachair_assets.xml
+Dependencies: []

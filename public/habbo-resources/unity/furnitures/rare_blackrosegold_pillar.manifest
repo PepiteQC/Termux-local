@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2479465793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fe5161d48d692eda9a90439c4ea1826
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_64_sd_0_0.png
+- Assets/Live/rare_blackrosegold_pillar/flash/manifest.xml
+- Assets/Live/rare_blackrosegold_pillar/flash/index.xml
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_64_a_0_0.png
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_visualization.xml
+- Assets/Live/rare_blackrosegold_pillar/rare_blackrosegold_pillar.xml
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_logic.xml
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_icon_a.png
+- Assets/Live/rare_blackrosegold_pillar/flash/rare_blackrosegold_pillar_assets.xml
+Dependencies: []

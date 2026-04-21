@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2608458610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fc0749c4356d39b540e90d91357ee20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/urban_wall_china/flash/manifest.xml
+- Assets/Live/urban_wall_china/flash/urban_wall_china_64_b_2_0.png
+- Assets/Live/urban_wall_china/flash/urban_wall_china_64_b_2_1.png
+- Assets/Live/urban_wall_china/flash/urban_wall_china_visualization.xml
+- Assets/Live/urban_wall_china/urban_wall_china.xml
+- Assets/Live/urban_wall_china/flash/urban_wall_china_64_a_2_1.png
+- Assets/Live/urban_wall_china/flash/urban_wall_china_icon_a.png
+- Assets/Live/urban_wall_china/flash/urban_wall_china_64_a_2_0.png
+- Assets/Live/urban_wall_china/flash/urban_wall_china_assets.xml
+- Assets/Live/urban_wall_china/flash/index.xml
+- Assets/Live/urban_wall_china/flash/urban_wall_china_logic.xml
+- Assets/Live/urban_wall_china/flash/urban_wall_china_64_a_2_2.png
+Dependencies: []

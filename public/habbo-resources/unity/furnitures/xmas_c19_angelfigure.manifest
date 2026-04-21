@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2360542972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a61136be54c8451ddf434f1d3affd34b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_angelfigure/flash/index.xml
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_icon_a.png
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_64_a_0_0.png
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_assets.xml
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_visualization.xml
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_logic.xml
+- Assets/Live/xmas_c19_angelfigure/xmas_c19_angelfigure.xml
+- Assets/Live/xmas_c19_angelfigure/flash/manifest.xml
+- Assets/Live/xmas_c19_angelfigure/flash/xmas_c19_angelfigure_64_sd_0_0.png
+Dependencies: []

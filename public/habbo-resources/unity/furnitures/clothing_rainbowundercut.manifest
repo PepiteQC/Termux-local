@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3378270254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0816b59632fb0f4882a7a7c65e55031c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rainbowundercut/clothing_rainbowundercut.xml
+- Assets/Live/clothing_rainbowundercut/flash/manifest.xml
+- Assets/Live/clothing_rainbowundercut/flash/clothing_rainbowundercut_assets.xml
+- Assets/Live/clothing_rainbowundercut/flash/index.xml
+- Assets/Live/clothing_rainbowundercut/flash/clothing_rainbowundercut_visualization.xml
+- Assets/Live/clothing_rainbowundercut/flash/clothing_rainbowundercut_64_a_0_0.png
+- Assets/Live/clothing_rainbowundercut/flash/clothing_rainbowundercut_logic.xml
+- Assets/Live/clothing_rainbowundercut/flash/clothing_rainbowundercut_icon_a.png
+Dependencies: []

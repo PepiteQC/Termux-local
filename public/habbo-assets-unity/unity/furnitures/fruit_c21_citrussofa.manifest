@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1893763408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72b8e08796fd203b88fc0470465abca8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_d_2_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_c_6_0.png
+- Assets/Live/fruit_c21_citrussofa/fruit_c21_citrussofa.xml
+- Assets/Live/fruit_c21_citrussofa/flash/index.xml
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_d_6_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_assets.xml
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_c_2_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_b_6_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_b_2_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_visualization.xml
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_a_6_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_a_2_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/manifest.xml
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_logic.xml
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_64_sd_6_0.png
+- Assets/Live/fruit_c21_citrussofa/flash/fruit_c21_citrussofa_icon_a.png
+Dependencies: []

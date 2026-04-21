@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1930363621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0bf39ba3c0d6bbf7d72e62d941e284e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_treepartyhat/flash/clothing_treepartyhat_64_a_0_0.png
+- Assets/Live/clothing_treepartyhat/flash/manifest.xml
+- Assets/Live/clothing_treepartyhat/flash/clothing_treepartyhat_logic.xml
+- Assets/Live/clothing_treepartyhat/flash/index.xml
+- Assets/Live/clothing_treepartyhat/flash/clothing_treepartyhat_visualization.xml
+- Assets/Live/clothing_treepartyhat/clothing_treepartyhat.xml
+- Assets/Live/clothing_treepartyhat/flash/clothing_treepartyhat_icon_a.png
+- Assets/Live/clothing_treepartyhat/flash/clothing_treepartyhat_assets.xml
+Dependencies: []

@@ -274,6 +274,40 @@ export default function HomePage() {
           <span className="ew-entry-foot-sep" />
           <span>Built in Termux · Next.js · Canvas iso</span>
         </footer>
+    return () => clearTimeout(timeout);
+  }, [index, router, isLoading]);
+
+  return (
+    <main className="ether-loader-page">
+      <section className="ether-loader-card">
+        <div className="ether-loader-icon">🔱</div>
+        <div className="ether-loader-logo">ETHERWORLD</div>
+        <div className="ether-loader-subtitle">HABBO-STYLE GAME ENGINE</div>
+
+        {!isLoading ? (
+          <div className="ether-login-section">
+            <button
+              onClick={handleConnect}
+              className="ether-connect-button"
+            >
+              CONNEXION
+            </button>
+            <div className="ether-login-info">Cliquez pour entrer dans EtherWorld</div>
+          </div>
+        ) : (
+          <>
+            <div className="ether-loader-bar">
+              <div
+                className="ether-loader-fill"
+                style={{ width: `${progress}%` }}
+              />
+            </div>
+
+            <div className="ether-loader-status">{label}</div>
+          </>
+        )}
+
+        <div className="ether-loader-version">v2.0.0 — Premium Chamber</div>
       </section>
     </main>
   );

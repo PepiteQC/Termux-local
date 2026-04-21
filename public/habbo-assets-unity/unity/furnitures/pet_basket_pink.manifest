@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3180986905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d3869f85beeed8c99d63331a92f9fe4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_logic.xml
+- Assets/Live/pet_basket_pink/flash/manifest.xml
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_visualization.xml
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_64_a_2_0.png
+- Assets/Live/pet_basket_pink/flash/index.xml
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_64_b_2_0.png
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_icon_a.png
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_assets.xml
+- Assets/Live/pet_basket_pink/pet_basket_pink.xml
+- Assets/Live/pet_basket_pink/flash/pet_basket_pink_64_sd_2_0.png
+Dependencies: []

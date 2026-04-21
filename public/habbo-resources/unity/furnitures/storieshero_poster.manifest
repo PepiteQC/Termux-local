@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2580425331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f84e97916b536ccca4d3be7e839ad98b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/storieshero_poster/flash/storieshero_poster_logic.xml
+- Assets/Live/storieshero_poster/storieshero_poster.xml
+- Assets/Live/storieshero_poster/flash/storieshero_poster_64_a_4_0.png
+- Assets/Live/storieshero_poster/flash/storieshero_poster_visualization.xml
+- Assets/Live/storieshero_poster/flash/storieshero_poster_icon_a.png
+- Assets/Live/storieshero_poster/flash/index.xml
+- Assets/Live/storieshero_poster/flash/manifest.xml
+- Assets/Live/storieshero_poster/flash/storieshero_poster_assets.xml
+- Assets/Live/storieshero_poster/flash/storieshero_poster_icon_a_0.png
+Dependencies: []

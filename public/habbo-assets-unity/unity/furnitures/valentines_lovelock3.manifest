@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 148646324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ffe7434efdb453a0c26f8b67cf4d4d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/valentines_lovelock3/flash/index.xml
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_visualization.xml
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_64_a_2_1.png
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_icon_a.png
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_64_sd_2_1.png
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_64_a_2_0.png
+- Assets/Live/valentines_lovelock3/valentines_lovelock3.xml
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_logic.xml
+- Assets/Live/valentines_lovelock3/flash/manifest.xml
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_64_sd_2_0.png
+- Assets/Live/valentines_lovelock3/flash/valentines_lovelock3_assets.xml
+Dependencies: []

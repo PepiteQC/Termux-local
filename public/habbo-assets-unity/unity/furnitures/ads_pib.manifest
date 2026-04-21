@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1935370204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0f2efb2b8fd13f5e5d531b793d5a8a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_pib/flash/ads_pib_logic.xml
+- Assets/Live/ads_pib/flash/ads_pib_64_b_4_0.png
+- Assets/Live/ads_pib/flash/index.xml
+- Assets/Live/ads_pib/flash/ads_pib_64_sd_4_0.png
+- Assets/Live/ads_pib/flash/ads_pib_64_a_4_0.png
+- Assets/Live/ads_pib/flash/manifest.xml
+- Assets/Live/ads_pib/flash/ads_pib_assets.xml
+- Assets/Live/ads_pib/flash/ads_pib_visualization.xml
+- Assets/Live/ads_pib/ads_pib.xml
+- Assets/Live/ads_pib/flash/ads_pib_icon_a.png
+Dependencies: []

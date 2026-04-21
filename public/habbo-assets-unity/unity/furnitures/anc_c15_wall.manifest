@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2992749751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ffe1442996006dcc80ffb4a96e6ae8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_c15_wall/flash/manifest.xml
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_logic.xml
+- Assets/Live/anc_c15_wall/anc_c15_wall.xml
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_visualization.xml
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_64_a_2_0.png
+- Assets/Live/anc_c15_wall/flash/index.xml
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_icon_a.png
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_64_a_2_2.png
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_assets.xml
+- Assets/Live/anc_c15_wall/flash/anc_c15_wall_64_a_2_1.png
+Dependencies: []

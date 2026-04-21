@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2741716832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bc7276df22996b051768b8c89697ea6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_c_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_logic.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_a_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_64_c_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_64_a_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_e_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/manifest.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_f_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_e_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_d_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_logic.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_e_2_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_d_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_b_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_c_2_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_c_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_a_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_assets.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_visualization.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_d_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_icon_a.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/index.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_f_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_b_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_64_a_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_c_2_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_a_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_f_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_e_2_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_e_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_b_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/index.xml
+- Assets/Live/ads_calip_tele/ads_calip_tele.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_b_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_visualization.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_c_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_f_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_assets.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_e_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_64_b_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_e_2_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_icon_a.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_32_c_4_1.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_d_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_a_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_tele/ads_calip_tele_64_b_4_0.png
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/manifest.xml
+- Assets/Live/ads_calip_tele/flash/ads_calip_telecmp/ads_calip_telecmp_64_e_4_1.png
+Dependencies: []

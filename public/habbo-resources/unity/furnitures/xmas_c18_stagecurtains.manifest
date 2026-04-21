@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2498936829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d7047bf2cf04f5912d811c78fcab2c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_logic.xml
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_64_a_2_1.png
+- Assets/Live/xmas_c18_stagecurtains/xmas_c18_stagecurtains.xml
+- Assets/Live/xmas_c18_stagecurtains/flash/manifest.xml
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_assets.xml
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_64_sd_2_0.png
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_64_a_2_2.png
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_64_a_2_3.png
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_64_a_2_0.png
+- Assets/Live/xmas_c18_stagecurtains/flash/index.xml
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_icon_a.png
+- Assets/Live/xmas_c18_stagecurtains/flash/xmas_c18_stagecurtains_visualization.xml
+Dependencies: []

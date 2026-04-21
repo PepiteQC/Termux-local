@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3652961091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 761c4c79bb8b8d660bc2ae3fbb3c0b00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_flag_un/flash/ads_flag_un_64_a_2_0.png
+- Assets/Live/ads_flag_un/flash/ads_flag_un_logic.xml
+- Assets/Live/ads_flag_un/flash/manifest.xml
+- Assets/Live/ads_flag_un/flash/ads_flag_un_icon_a.png
+- Assets/Live/ads_flag_un/flash/ads_flag_un_assets.xml
+- Assets/Live/ads_flag_un/ads_flag_un.xml
+- Assets/Live/ads_flag_un/flash/ads_flag_un_64_a_4_0.png
+- Assets/Live/ads_flag_un/flash/ads_flag_un_visualization.xml
+- Assets/Live/ads_flag_un/flash/index.xml
+Dependencies: []

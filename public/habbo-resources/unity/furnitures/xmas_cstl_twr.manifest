@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 955549851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aa67c842db551d26f1e5a3a8e293cb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_cstl_twr/flash/xmas_cstl_twr_logic.xml
+- Assets/Live/xmas_cstl_twr/flash/xmas_cstl_twr_icon_a.png
+- Assets/Live/xmas_cstl_twr/flash/index.xml
+- Assets/Live/xmas_cstl_twr/flash/xmas_cstl_twr_64_a_0_0.png
+- Assets/Live/xmas_cstl_twr/flash/xmas_cstl_twr_visualization.xml
+- Assets/Live/xmas_cstl_twr/xmas_cstl_twr.xml
+- Assets/Live/xmas_cstl_twr/flash/xmas_cstl_twr_assets.xml
+- Assets/Live/xmas_cstl_twr/flash/manifest.xml
+Dependencies: []

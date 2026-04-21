@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2694692987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03f70a3a89eb52d1c8b48f7a13790abf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_sparklywaist5/clothing_r19_sparklywaist5.xml
+- Assets/Live/clothing_r19_sparklywaist5/flash/clothing_r19_sparklywaist5_visualization.xml
+- Assets/Live/clothing_r19_sparklywaist5/flash/clothing_r19_sparklywaist5_64_a_0_0.png
+- Assets/Live/clothing_r19_sparklywaist5/flash/manifest.xml
+- Assets/Live/clothing_r19_sparklywaist5/flash/clothing_r19_sparklywaist5_assets.xml
+- Assets/Live/clothing_r19_sparklywaist5/flash/clothing_r19_sparklywaist5_logic.xml
+- Assets/Live/clothing_r19_sparklywaist5/flash/clothing_r19_sparklywaist5_icon_a.png
+- Assets/Live/clothing_r19_sparklywaist5/flash/index.xml
+Dependencies: []

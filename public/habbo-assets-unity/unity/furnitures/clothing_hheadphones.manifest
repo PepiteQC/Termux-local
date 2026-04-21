@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2098451831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48dcb27ab8c1b541b11d06e95e1e1076
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_5.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_2.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_logic.xml
+- Assets/Live/clothing_hheadphones/flash/manifest.xml
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_1.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_3.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_assets.xml
+- Assets/Live/clothing_hheadphones/flash/index.xml
+- Assets/Live/clothing_hheadphones/clothing_hheadphones.xml
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_0.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_visualization.xml
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_64_a_0_4.png
+- Assets/Live/clothing_hheadphones/flash/clothing_hheadphones_icon_a.png
+Dependencies: []

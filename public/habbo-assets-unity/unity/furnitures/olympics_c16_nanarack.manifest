@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1066653463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bb8d51e593fd96f601f50e5ddf475a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_nanarack/flash/manifest.xml
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_visualization.xml
+- Assets/Live/olympics_c16_nanarack/flash/index.xml
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_assets.xml
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_icon_a.png
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_64_sd_2_0.png
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_logic.xml
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_64_a_2_0.png
+- Assets/Live/olympics_c16_nanarack/olympics_c16_nanarack.xml
+- Assets/Live/olympics_c16_nanarack/flash/olympics_c16_nanarack_64_a_2_1.png
+Dependencies: []

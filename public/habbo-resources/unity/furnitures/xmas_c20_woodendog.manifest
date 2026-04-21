@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 228386601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b23d12dd09832d6c0b9b6dbc388a40b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_64_sd_0_0.png
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_assets.xml
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_logic.xml
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_64_a_0_2.png
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_64_a_0_1.png
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_64_a_0_0.png
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_icon_a.png
+- Assets/Live/xmas_c20_woodendog/xmas_c20_woodendog.xml
+- Assets/Live/xmas_c20_woodendog/flash/index.xml
+- Assets/Live/xmas_c20_woodendog/flash/xmas_c20_woodendog_visualization.xml
+- Assets/Live/xmas_c20_woodendog/flash/manifest.xml
+Dependencies: []

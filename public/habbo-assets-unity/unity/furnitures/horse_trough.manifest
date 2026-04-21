@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3006567869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67e0db143f5150bfe43aaad46a4dec81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_5.png
+- Assets/Live/horse_trough/flash/horse_trough_visualization.xml
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_4.png
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_2.png
+- Assets/Live/horse_trough/flash/manifest.xml
+- Assets/Live/horse_trough/flash/horse_trough_assets.xml
+- Assets/Live/horse_trough/flash/horse_trough_icon_a.png
+- Assets/Live/horse_trough/horse_trough.xml
+- Assets/Live/horse_trough/flash/petfood26_64_sd_2_0.png
+- Assets/Live/horse_trough/flash/petfood26_32_a_2_0.png
+- Assets/Live/horse_trough/flash/petfood26_icon_a.png
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_3.png
+- Assets/Live/horse_trough/flash/petfood26_32_sd_2_0.png
+- Assets/Live/horse_trough/flash/index.xml
+- Assets/Live/horse_trough/flash/petfood26_64_a_2_0.png
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_1.png
+- Assets/Live/horse_trough/flash/horse_trough_logic.xml
+- Assets/Live/horse_trough/flash/horse_trough_64_a_2_0.png
+- Assets/Live/horse_trough/flash/horse_trough_64_sd_2_0.png
+Dependencies: []

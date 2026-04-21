@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3039951083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 371c609ea65e407f62cbebc6f9f6fb81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_guardcub/army_c15_guardcub.xml
+- Assets/Live/army_c15_guardcub/flash/index.xml
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_logic.xml
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_64_b_4_0.png
+- Assets/Live/army_c15_guardcub/flash/manifest.xml
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_64_a_4_0.png
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_64_b_4_1.png
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_icon_a.png
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_visualization.xml
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_assets.xml
+- Assets/Live/army_c15_guardcub/flash/army_c15_guardcub_64_c_4_0.png
+Dependencies: []

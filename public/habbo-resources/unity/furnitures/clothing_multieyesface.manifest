@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 929383268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28d4d449cb0fac652655c3cb0e1d411f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_multieyesface/clothing_multieyesface.xml
+- Assets/Live/clothing_multieyesface/flash/clothing_multieyesface_visualization.xml
+- Assets/Live/clothing_multieyesface/flash/clothing_multieyesface_logic.xml
+- Assets/Live/clothing_multieyesface/flash/clothing_multieyesface_icon_a.png
+- Assets/Live/clothing_multieyesface/flash/manifest.xml
+- Assets/Live/clothing_multieyesface/flash/index.xml
+- Assets/Live/clothing_multieyesface/flash/clothing_multieyesface_64_a_0_0.png
+- Assets/Live/clothing_multieyesface/flash/clothing_multieyesface_assets.xml
+Dependencies: []

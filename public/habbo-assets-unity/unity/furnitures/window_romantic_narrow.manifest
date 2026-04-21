@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 708381428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8ba77cd018742f4bead3bdc6ea9ca64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_64_a_2_0.png
+- Assets/Live/window_romantic_narrow/window_romantic_narrow.xml
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_logic.xml
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_64_b_2_0.png
+- Assets/Live/window_romantic_narrow/flash/manifest.xml
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_64_b_2_1.png
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_icon_a.png
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_visualization.xml
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_32_2_mask.png
+- Assets/Live/window_romantic_narrow/flash/index.xml
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_64_2_mask.png
+- Assets/Live/window_romantic_narrow/flash/window_romantic_narrow_assets.xml
+Dependencies: []

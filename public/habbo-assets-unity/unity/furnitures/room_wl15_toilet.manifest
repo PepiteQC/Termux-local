@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1390308299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 010818e7cd320e559770a5eb3e4f416c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_assets.xml
+- Assets/Live/room_wl15_toilet/flash/manifest.xml
+- Assets/Live/room_wl15_toilet/flash/index.xml
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_sd_2_0.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_logic.xml
+- Assets/Live/room_wl15_toilet/room_wl15_toilet.xml
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_a_2_0.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_icon_a.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_visualization.xml
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_b_2_0.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_c_2_0.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_c_2_1.png
+- Assets/Live/room_wl15_toilet/flash/room_wl15_toilet_64_b_2_1.png
+Dependencies: []

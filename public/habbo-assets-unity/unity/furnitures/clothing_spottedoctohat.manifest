@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2178366749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d154d734c66fff701613be16d5630bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_icon_a.png
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_visualization.xml
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_assets.xml
+- Assets/Live/clothing_spottedoctohat/clothing_spottedoctohat.xml
+- Assets/Live/clothing_spottedoctohat/flash/manifest.xml
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_logic.xml
+- Assets/Live/clothing_spottedoctohat/flash/index.xml
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_64_sd_0_0.png
+- Assets/Live/clothing_spottedoctohat/flash/clothing_spottedoctohat_64_a_0_0.png
+Dependencies: []

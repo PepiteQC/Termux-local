@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3745592188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2722da478b47f3cc664869842aed01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_64_a_4_0.png
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_logic.xml
+- Assets/Live/st_uni_dnamodel/flash/index.xml
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_icon_a.png
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_assets.xml
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_visualization.xml
+- Assets/Live/st_uni_dnamodel/st_uni_dnamodel.xml
+- Assets/Live/st_uni_dnamodel/flash/manifest.xml
+- Assets/Live/st_uni_dnamodel/flash/st_uni_dnamodel_64_sd_4_0.png
+Dependencies: []

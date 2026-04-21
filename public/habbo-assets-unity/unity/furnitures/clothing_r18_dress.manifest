@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 101680205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dcfdbcc48c08d3e3f25a92393368ec3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_icon_a.png
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_visualization.xml
+- Assets/Live/clothing_r18_dress/flash/manifest.xml
+- Assets/Live/clothing_r18_dress/flash/index.xml
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_64_sd_0_0.png
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_64_a_0_0.png
+- Assets/Live/clothing_r18_dress/clothing_r18_dress.xml
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_assets.xml
+- Assets/Live/clothing_r18_dress/flash/clothing_r18_dress_logic.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3312235664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c966161c2942bc97c527dd3b5ba9d0ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_assets.xml
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_64_a_0_0.png
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_visualization.xml
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_logic.xml
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_icon_a.png
+- Assets/Live/xmas_c19_jarofgold/xmas_c19_jarofgold.xml
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_64_b_0_0.png
+- Assets/Live/xmas_c19_jarofgold/flash/manifest.xml
+- Assets/Live/xmas_c19_jarofgold/flash/index.xml
+- Assets/Live/xmas_c19_jarofgold/flash/xmas_c19_jarofgold_64_sd_0_0.png
+Dependencies: []

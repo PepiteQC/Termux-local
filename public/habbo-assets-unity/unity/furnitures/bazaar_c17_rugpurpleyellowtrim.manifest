@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 373584791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8db3d04e09bc82225929f9726c280d52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/index.xml
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/bazaar_c17_rugpurpleyellowtrim_assets.xml
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/bazaar_c17_rugpurpleyellowtrim_logic.xml
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/bazaar_c17_rugpurpleyellowtrim_icon_a.png
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/bazaar_c17_rugpurpleyellowtrim_64_a_0_0.png
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/bazaar_c17_rugpurpleyellowtrim.xml
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/bazaar_c17_rugpurpleyellowtrim_visualization.xml
+- Assets/Live/bazaar_c17_rugpurpleyellowtrim/flash/manifest.xml
+Dependencies: []

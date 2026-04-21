@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 669843462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61345b51509c57401590465e2cd31415
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_logic.xml
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_64_a_2_0.png
+- Assets/Live/pixel_clock_black/pixel_clock_black.xml
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_64_sd_2_0.png
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_assets.xml
+- Assets/Live/pixel_clock_black/flash/index.xml
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_icon_a.png
+- Assets/Live/pixel_clock_black/flash/pixel_clock_black_visualization.xml
+- Assets/Live/pixel_clock_black/flash/manifest.xml
+Dependencies: []

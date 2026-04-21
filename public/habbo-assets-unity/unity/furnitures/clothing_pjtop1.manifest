@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 58784155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c0136eb8d64f8a6c777b3db0a4a2001
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_icon_a.png
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_assets.xml
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_visualization.xml
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_64_sd_2_0.png
+- Assets/Live/clothing_pjtop1/flash/manifest.xml
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_64_a_2_0.png
+- Assets/Live/clothing_pjtop1/flash/clothing_pjtop1_logic.xml
+- Assets/Live/clothing_pjtop1/clothing_pjtop1.xml
+- Assets/Live/clothing_pjtop1/flash/index.xml
+Dependencies: []

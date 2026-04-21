@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1646711914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dafb4fd583ecca7ce0a8d0b3afa0986f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/kuurna_red_lamp/kuurna_red_lamp.xml
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_icon_a.png
+- Assets/Live/kuurna_red_lamp/flash/index.xml
+- Assets/Live/kuurna_red_lamp/flash/manifest.xml
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_64_b_0_1.png
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_64_a_0_0.png
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_64_a_0_1.png
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_assets.xml
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_visualization.xml
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_logic.xml
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_64_b_0_0.png
+- Assets/Live/kuurna_red_lamp/flash/kuurna_red_lamp_64_sd_0_0.png
+Dependencies: []

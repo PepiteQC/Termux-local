@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1238141510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b5715ed367ed4ecab28c1e15846a41e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_heather/flash/manifest.xml
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_assets.xml
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_1.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_logic.xml
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_4.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_6.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_3.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_visualization.xml
+- Assets/Live/easter_c20_heather/flash/index.xml
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_0.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_5.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_2.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_icon_a.png
+- Assets/Live/easter_c20_heather/flash/easter_c20_heather_64_a_0_7.png
+- Assets/Live/easter_c20_heather/easter_c20_heather.xml
+Dependencies: []

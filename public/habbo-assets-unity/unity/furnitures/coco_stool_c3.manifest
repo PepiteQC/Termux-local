@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1004408727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e3da4e959ff18261ce9c087c0b17ad9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coco_stool_c3/flash/index.xml
+- Assets/Live/coco_stool_c3/flash/coco_stool_c3_64_a_0_0.png
+- Assets/Live/coco_stool_c3/flash/coco_stool_c3_logic.xml
+- Assets/Live/coco_stool_c3/flash/coco_stool_c3_assets.xml
+- Assets/Live/coco_stool_c3/flash/manifest.xml
+- Assets/Live/coco_stool_c3/coco_stool_c3.xml
+- Assets/Live/coco_stool_c3/flash/coco_stool_c3_visualization.xml
+- Assets/Live/coco_stool_c3/flash/coco_stool_c3_icon_a.png
+Dependencies: []

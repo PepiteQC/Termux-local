@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1681917553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18239967366bc23834af80a2d09a3268
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_icon_a.png
+- Assets/Live/gift_c18_cookiejar/gift_c18_cookiejar.xml
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_logic.xml
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_visualization.xml
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_64_a_0_0.png
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_64_a_0_1.png
+- Assets/Live/gift_c18_cookiejar/flash/index.xml
+- Assets/Live/gift_c18_cookiejar/flash/manifest.xml
+- Assets/Live/gift_c18_cookiejar/flash/gift_c18_cookiejar_assets.xml
+Dependencies: []

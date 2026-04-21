@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1981817183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79ea898cc4a060f8966ccdefff4c473b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_assets.xml
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_64_sd_4_0.png
+- Assets/Live/qt_sum11_ictrolley/flash/manifest.xml
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_visualization.xml
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_icon_a.png
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_64_a_4_1.png
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_logic.xml
+- Assets/Live/qt_sum11_ictrolley/flash/index.xml
+- Assets/Live/qt_sum11_ictrolley/flash/qt_sum11_ictrolley_64_a_4_0.png
+- Assets/Live/qt_sum11_ictrolley/qt_sum11_ictrolley.xml
+Dependencies: []

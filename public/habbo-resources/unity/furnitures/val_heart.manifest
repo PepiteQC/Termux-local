@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1547452885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6eb883068b8fcf028b761b146bd9d21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_heart/flash/val_heart_visualization.xml
+- Assets/Live/val_heart/flash/val_heart_64_a_2_1.png
+- Assets/Live/val_heart/flash/val_heart_assets.xml
+- Assets/Live/val_heart/flash/val_heart_64_b_2_1.png
+- Assets/Live/val_heart/flash/index.xml
+- Assets/Live/val_heart/flash/manifest.xml
+- Assets/Live/val_heart/flash/val_heart_logic.xml
+- Assets/Live/val_heart/val_heart.xml
+- Assets/Live/val_heart/flash/val_heart_64_b_2_0.png
+- Assets/Live/val_heart/flash/val_heart_64_a_2_0.png
+- Assets/Live/val_heart/flash/val_heart_icon_a.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1783909466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7ffe1b3ced1d25694440169834252b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_icon_a.png
+- Assets/Live/messy_c21_messycloset/flash/index.xml
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_64_sd_0_0.png
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_visualization.xml
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_assets.xml
+- Assets/Live/messy_c21_messycloset/messy_c21_messycloset.xml
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_64_a_0_0.png
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_logic.xml
+- Assets/Live/messy_c21_messycloset/flash/messy_c21_messycloset_64_a_0_1.png
+- Assets/Live/messy_c21_messycloset/flash/manifest.xml
+Dependencies: []

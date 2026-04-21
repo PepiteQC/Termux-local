@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3840507714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2633aee5b5405d1bdea29b809e7a9802
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_4_1.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_assets.xml
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_4_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/manifest.xml
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_sd_0_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_0_1.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_icon_a.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_visualization.xml
+- Assets/Live/gothiccafe_c20_vase/flash/index.xml
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_2_1.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_sd_4_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_6_1.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_2_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_6_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_sd_6_0.png
+- Assets/Live/gothiccafe_c20_vase/gothiccafe_c20_vase.xml
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_logic.xml
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_sd_2_0.png
+- Assets/Live/gothiccafe_c20_vase/flash/gothiccafe_c20_vase_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 786375682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dfd41df34a47ce9032aed6ed5266da5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_flowerlight/flash/manifest.xml
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_b_0_1.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_a_0_0.png
+- Assets/Live/hblooza14_flowerlight/hblooza14_flowerlight.xml
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_c_0_0.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_assets.xml
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_logic.xml
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_a_0_1.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_sd_0_0.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_b_0_0.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_64_c_0_1.png
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_icon_a.png
+- Assets/Live/hblooza14_flowerlight/flash/index.xml
+- Assets/Live/hblooza14_flowerlight/flash/hblooza14_flowerlight_visualization.xml
+Dependencies: []

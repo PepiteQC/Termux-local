@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3484128851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b34d0f09d45182b91bace69625c5822
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easterduck/flash/easterduck_64_sd_2_0.png
+- Assets/Live/easterduck/easterduck.xml
+- Assets/Live/easterduck/flash/easterduck_assets.xml
+- Assets/Live/easterduck/flash/easterduck_icon_a.png
+- Assets/Live/easterduck/flash/index.xml
+- Assets/Live/easterduck/flash/easterduck_64_a_2_0.png
+- Assets/Live/easterduck/flash/manifest.xml
+- Assets/Live/easterduck/flash/easterduck_logic.xml
+- Assets/Live/easterduck/flash/easterduck_visualization.xml
+Dependencies: []

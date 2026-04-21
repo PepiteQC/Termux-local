@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 922712700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad3d6a923234903f7182366c9ee95677
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/throne/flash/throne_64_b_0_0.png
+- Assets/Live/throne/flash/throne_64_b_2_0.png
+- Assets/Live/throne/throne.xml
+- Assets/Live/throne/flash/throne_64_a_0_0.png
+- Assets/Live/throne/flash/throne_64_a_2_0.png
+- Assets/Live/throne/flash/index.xml
+- Assets/Live/throne/flash/throne_logic.xml
+- Assets/Live/throne/flash/throne_visualization.xml
+- Assets/Live/throne/flash/throne_64_sd_2_0.png
+- Assets/Live/throne/flash/throne_icon_a.png
+- Assets/Live/throne/flash/manifest.xml
+- Assets/Live/throne/flash/throne_assets.xml
+Dependencies: []

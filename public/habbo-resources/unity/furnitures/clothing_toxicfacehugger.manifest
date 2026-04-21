@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2918208399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ac1ca3c173d6cefcbe10cf3357e2f8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_visualization.xml
+- Assets/Live/clothing_toxicfacehugger/flash/index.xml
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_logic.xml
+- Assets/Live/clothing_toxicfacehugger/clothing_toxicfacehugger.xml
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_64_sd_0_0.png
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_assets.xml
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_64_a_0_0.png
+- Assets/Live/clothing_toxicfacehugger/flash/clothing_toxicfacehugger_icon_a.png
+- Assets/Live/clothing_toxicfacehugger/flash/manifest.xml
+Dependencies: []

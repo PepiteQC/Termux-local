@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 3470592281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec3dc90e5f4ecb959f2f527e1c040d34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_17.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_24.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_20.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_26.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_1.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_21.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_13.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_g_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_visualization.xml
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_b_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_10.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_a_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_18.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_29.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_28.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_23.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_assets.xml
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_7.png
+- Assets/Live/wintercabin_c19_window/flash/manifest.xml
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_3.png
+- Assets/Live/wintercabin_c19_window/flash/index.xml
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_9.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_5.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_logic.xml
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_12.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_4.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_31.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_f_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_sd_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_icon_a.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_27.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_30.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_19.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_11.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_c_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_14.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_22.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_b_4_1.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_d_4_0.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_15.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_25.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_a_4_1.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_6.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_8.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_2.png
+- Assets/Live/wintercabin_c19_window/flash/wintercabin_c19_window_64_e_4_16.png
+- Assets/Live/wintercabin_c19_window/wintercabin_c19_window.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1236147113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4674aec722fb2ad2c0f609b58523c34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bearmuffs/flash/clothing_bearmuffs_icon_a.png
+- Assets/Live/clothing_bearmuffs/flash/clothing_bearmuffs_64_a_0_0.png
+- Assets/Live/clothing_bearmuffs/flash/manifest.xml
+- Assets/Live/clothing_bearmuffs/flash/clothing_bearmuffs_assets.xml
+- Assets/Live/clothing_bearmuffs/flash/index.xml
+- Assets/Live/clothing_bearmuffs/clothing_bearmuffs.xml
+- Assets/Live/clothing_bearmuffs/flash/clothing_bearmuffs_visualization.xml
+- Assets/Live/clothing_bearmuffs/flash/clothing_bearmuffs_logic.xml
+Dependencies: []

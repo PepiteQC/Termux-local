@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 3629530259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97d798e314fbc75b1ca086f9e66f5cb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_logic.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_visualization.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/index.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_0_3.png
+- Assets/Live/darkmodern_c20_tubelights/darkmodern_c20_tubelights.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_2_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_assets.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_5.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_icon_a.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_0_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_3.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_4_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_a_6_1.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_6_6.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_0.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_4.png
+- Assets/Live/darkmodern_c20_tubelights/flash/manifest.xml
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_2_2.png
+- Assets/Live/darkmodern_c20_tubelights/flash/darkmodern_c20_tubelights_64_b_4_2.png
+Dependencies: []

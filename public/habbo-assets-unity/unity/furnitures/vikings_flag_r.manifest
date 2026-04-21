@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 692257217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1521c22ff8f9eb6ceb1f0d845bc976c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_flag_r/vikings_flag_r.xml
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_visualization.xml
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_assets.xml
+- Assets/Live/vikings_flag_r/flash/index.xml
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_logic.xml
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_64_sd_0_0.png
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_icon_a.png
+- Assets/Live/vikings_flag_r/flash/vikings_flag_r_64_a_0_0.png
+- Assets/Live/vikings_flag_r/flash/manifest.xml
+Dependencies: []

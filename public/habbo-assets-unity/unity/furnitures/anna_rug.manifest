@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3563846891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5266280576149fe3fd2005ccd084de5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anna_rug/anna_rug.xml
+- Assets/Live/anna_rug/flash/anna_rug_assets.xml
+- Assets/Live/anna_rug/flash/anna_rug_64_b_6_2.png
+- Assets/Live/anna_rug/flash/anna_rug_64_b_2_2.png
+- Assets/Live/anna_rug/flash/manifest.xml
+- Assets/Live/anna_rug/flash/anna_rug_icon_a.png
+- Assets/Live/anna_rug/flash/anna_rug_64_a_0_0.png
+- Assets/Live/anna_rug/flash/anna_rug_64_b_0_2.png
+- Assets/Live/anna_rug/flash/index.xml
+- Assets/Live/anna_rug/flash/anna_rug_logic.xml
+- Assets/Live/anna_rug/flash/anna_rug_64_b_0_1.png
+- Assets/Live/anna_rug/flash/anna_rug_visualization.xml
+- Assets/Live/anna_rug/flash/anna_rug_64_b_4_2.png
+- Assets/Live/anna_rug/flash/anna_rug_64_b_0_0.png
+- Assets/Live/anna_rug/flash/anna_rug_64_a_0_1.png
+- Assets/Live/anna_rug/flash/anna_rug_64_b_2_1.png
+- Assets/Live/anna_rug/flash/anna_rug_64_b_0_3.png
+Dependencies: []

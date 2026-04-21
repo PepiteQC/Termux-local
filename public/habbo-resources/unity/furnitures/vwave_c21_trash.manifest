@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2423397246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53ea5da2be1fa4e9c77bf3beea4490a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_c_0_3.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_icon_a.png
+- Assets/Live/vwave_c21_trash/flash/manifest.xml
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_d_0_0.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_c_0_0.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_visualization.xml
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_b_0_0.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_a_0_1.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_logic.xml
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_b_0_2.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_b_0_3.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_a_0_2.png
+- Assets/Live/vwave_c21_trash/flash/index.xml
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_assets.xml
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_c_0_1.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_b_0_1.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_a_0_3.png
+- Assets/Live/vwave_c21_trash/flash/vwave_c21_trash_64_a_0_0.png
+- Assets/Live/vwave_c21_trash/vwave_c21_trash.xml
+Dependencies: []

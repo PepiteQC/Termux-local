@@ -1,0 +1,28 @@
+{
+  "walls": [
+    "paris_c15_wall",
+    "anc_c15_wall",
+    "tiki_c15_wall",
+    "bling_c15_wall",
+    "exe_c15_wall",
+    "romantique_c15_wall",
+    "gold_c15_arc_icewall"
+  ],
+  "floors": [
+    "pixel_floor_brown",
+    "rainyday_c20_woodenfloor",
+    "steampunk_floor2",
+    "suncity_c19_floor",
+    "val14_largetile",
+    "gothic_carpet",
+    "hs_carpet_blk",
+    "tiki_junglerug",
+    "env_grass"
+  ],
+  "windows": [
+    "window_nt_skyscraper",
+    "window_nt_diner2",
+    "art_c20_window",
+    "lodge_c15_window"
+  ]
+}

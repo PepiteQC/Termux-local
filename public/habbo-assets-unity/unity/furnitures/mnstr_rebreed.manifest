@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 560224208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbb9928becac2e8e95f1271e004f0a2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_64_sd_0_0.png
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_64_a_0_0.png
+- Assets/Live/mnstr_rebreed/flash/index.xml
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_icon_a.png
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_assets.xml
+- Assets/Live/mnstr_rebreed/mnstr_rebreed.xml
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_visualization.xml
+- Assets/Live/mnstr_rebreed/flash/manifest.xml
+- Assets/Live/mnstr_rebreed/flash/mnstr_rebreed_logic.xml
+Dependencies: []

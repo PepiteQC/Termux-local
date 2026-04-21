@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 128404014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83ac772a65baf5bd746e2a828fdee735
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grunge_shelf/flash/grunge_shelf_64_a_2_0.png
+- Assets/Live/grunge_shelf/flash/index.xml
+- Assets/Live/grunge_shelf/flash/manifest.xml
+- Assets/Live/grunge_shelf/flash/grunge_shelf_64_sd_2_0.png
+- Assets/Live/grunge_shelf/flash/grunge_shelf_logic.xml
+- Assets/Live/grunge_shelf/flash/grunge_shelf_assets.xml
+- Assets/Live/grunge_shelf/flash/grunge_shelf_visualization.xml
+- Assets/Live/grunge_shelf/flash/grunge_shelf_64_b_2_0.png
+- Assets/Live/grunge_shelf/flash/grunge_shelf_icon_a.png
+- Assets/Live/grunge_shelf/flash/grunge_shelf_64_c_2_0.png
+- Assets/Live/grunge_shelf/grunge_shelf.xml
+Dependencies: []

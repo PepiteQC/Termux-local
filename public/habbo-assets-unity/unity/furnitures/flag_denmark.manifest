@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1717430617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cd2e4184292cb1f18463f1a1012c498
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_denmark/flash/manifest.xml
+- Assets/Live/flag_denmark/flash/flag_denmark_logic.xml
+- Assets/Live/flag_denmark/flash/flag_denmark_visualization.xml
+- Assets/Live/flag_denmark/flash/flag_denmark_64_a_2_0.png
+- Assets/Live/flag_denmark/flash/flag_denmark_icon_a.png
+- Assets/Live/flag_denmark/flash/flag_denmark_assets.xml
+- Assets/Live/flag_denmark/flag_denmark.xml
+- Assets/Live/flag_denmark/flash/index.xml
+- Assets/Live/flag_denmark/flash/flag_denmark_64_a_4_0.png
+Dependencies: []

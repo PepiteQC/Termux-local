@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 208208308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abce22bf36e8fdf9d72cb8361b345eca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkelegant_c20_lionstatue/flash/manifest.xml
+- Assets/Live/darkelegant_c20_lionstatue/darkelegant_c20_lionstatue.xml
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_visualization.xml
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_logic.xml
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_icon_a.png
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_64_a_0_0.png
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_64_sd_0_0.png
+- Assets/Live/darkelegant_c20_lionstatue/flash/darkelegant_c20_lionstatue_assets.xml
+- Assets/Live/darkelegant_c20_lionstatue/flash/index.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 728194492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 926186ebe47e6d042792c3d01cc2eee3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_moonrug/flash/rare_moonrug_64_c_0_0.png
+- Assets/Live/rare_moonrug/flash/rare_moonrug_visualization.xml
+- Assets/Live/rare_moonrug/flash/rare_moonrug_64_a_0_0.png
+- Assets/Live/rare_moonrug/rare_moonrug.xml
+- Assets/Live/rare_moonrug/flash/manifest.xml
+- Assets/Live/rare_moonrug/flash/index.xml
+- Assets/Live/rare_moonrug/flash/rare_moonrug_64_b_0_0.png
+- Assets/Live/rare_moonrug/flash/rare_moonrug_assets.xml
+- Assets/Live/rare_moonrug/flash/rare_moonrug_64_sd_0_0.png
+- Assets/Live/rare_moonrug/flash/rare_moonrug_icon_a.png
+- Assets/Live/rare_moonrug/flash/rare_moonrug_logic.xml
+Dependencies: []

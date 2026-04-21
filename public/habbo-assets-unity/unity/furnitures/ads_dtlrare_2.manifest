@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3249881868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47bad16d1dbc64d8618a57a14baf9629
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_dtlrare_2/ads_dtlrare_2.xml
+- Assets/Live/ads_dtlrare_2/flash/index.xml
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_a_2_1.png
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_logic.xml
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_a_2_0.png
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_assets.xml
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_a_4_1.png
+- Assets/Live/ads_dtlrare_2/flash/manifest.xml
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_sd_2_0.png
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_visualization.xml
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_a_4_0.png
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_icon_a.png
+- Assets/Live/ads_dtlrare_2/flash/ads_dtlrare_2_64_sd_4_0.png
+Dependencies: []

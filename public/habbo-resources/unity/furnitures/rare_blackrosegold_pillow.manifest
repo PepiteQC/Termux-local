@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2391853457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6b4df035a65da25f8c235c19176a918
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_blackrosegold_pillow/rare_blackrosegold_pillow.xml
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_icon_a.png
+- Assets/Live/rare_blackrosegold_pillow/flash/manifest.xml
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_visualization.xml
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_logic.xml
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_64_sd_0_0.png
+- Assets/Live/rare_blackrosegold_pillow/flash/index.xml
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_64_a_0_0.png
+- Assets/Live/rare_blackrosegold_pillow/flash/rare_blackrosegold_pillow_assets.xml
+Dependencies: []

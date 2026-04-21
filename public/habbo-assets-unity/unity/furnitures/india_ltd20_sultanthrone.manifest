@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1951762512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6db43fe5116b63af1e5af52645dc0d16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_logic.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/manifest.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/index.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_visualization.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_b_6_1.png
+- Assets/Live/india_ltd20_sultanthrone/india_ltd20_sultanthrone.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_b_2_1.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_a_6_0.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_a_2_1.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_b_2_0.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_a_2_0.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_assets.xml
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_icon_a.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_b_6_0.png
+- Assets/Live/india_ltd20_sultanthrone/flash/india_ltd20_sultanthrone_64_sd_6_0.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 562324209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ced07086c4983a0abc9f8e180bcf724e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_9.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_4.png
+- Assets/Live/cpunk15_robosheep/cpunk15_robosheep.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_3.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_2.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_7.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_0.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_1.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_5.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_visualization.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_sd_4_0.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_assets.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_8.png
+- Assets/Live/cpunk15_robosheep/flash/index.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_11.png
+- Assets/Live/cpunk15_robosheep/flash/manifest.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_10.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_64_a_4_6.png
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_logic.xml
+- Assets/Live/cpunk15_robosheep/flash/cpunk15_robosheep_icon_a.png
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4077377813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b6987ec4027df4111d5b6104bd1e191
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_2_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_assets.xml
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_2_1.png
+- Assets/Live/ads_idol_audChr/flash/manifest.xml
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_6_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_sd_6_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_b_0_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_sd_2_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_4_1.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_6_1.png
+- Assets/Live/ads_idol_audChr/flash/index.xml
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_sd_0_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_0_1.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_4_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_b_2_0.png
+- Assets/Live/ads_idol_audChr/ads_idol_audChr.xml
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_b_6_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_sd_4_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_icon_a.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_b_4_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_64_a_0_0.png
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_visualization.xml
+- Assets/Live/ads_idol_audChr/flash/ads_idol_audChr_logic.xml
+Dependencies: []

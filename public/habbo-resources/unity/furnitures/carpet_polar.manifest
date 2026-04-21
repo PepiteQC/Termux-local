@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1711049542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00867f69f3ac822667493021a5403ec2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/carpet_polar/flash/carpet_polar_visualization.xml
+- Assets/Live/carpet_polar/flash/carpet_polar_assets.xml
+- Assets/Live/carpet_polar/carpet_polar.xml
+- Assets/Live/carpet_polar/flash/manifest.xml
+- Assets/Live/carpet_polar/flash/index.xml
+- Assets/Live/carpet_polar/flash/carpet_polar_64_a_2_0.png
+- Assets/Live/carpet_polar/flash/carpet_polar_logic.xml
+- Assets/Live/carpet_polar/flash/carpet_polar_icon_a.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2962491830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 963fdb35626571c7e06526abc36ed951
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothic_carpet/flash/manifest.xml
+- Assets/Live/gothic_carpet/flash/index.xml
+- Assets/Live/gothic_carpet/flash/gothic_carpet_logic.xml
+- Assets/Live/gothic_carpet/flash/gothic_carpet_assets.xml
+- Assets/Live/gothic_carpet/flash/gothic_carpet_visualization.xml
+- Assets/Live/gothic_carpet/flash/gothic_carpet_icon_a.png
+- Assets/Live/gothic_carpet/flash/gothic_carpet_64_a_0_0.png
+- Assets/Live/gothic_carpet/gothic_carpet.xml
+Dependencies: []

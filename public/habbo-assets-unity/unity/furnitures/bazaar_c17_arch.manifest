@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1326917689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cbac94f18e7183f8b2f8e5e5204ae8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_arch/flash/manifest.xml
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_64_b_4_0.png
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_logic.xml
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_64_sd_2_0.png
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_assets.xml
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_64_a_4_0.png
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_icon_a.png
+- Assets/Live/bazaar_c17_arch/bazaar_c17_arch.xml
+- Assets/Live/bazaar_c17_arch/flash/index.xml
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_64_b_2_0.png
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_64_a_2_0.png
+- Assets/Live/bazaar_c17_arch/flash/bazaar_c17_arch_visualization.xml
+Dependencies: []

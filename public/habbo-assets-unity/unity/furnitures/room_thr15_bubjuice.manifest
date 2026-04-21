@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4080197548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e028f9b2b14e99443d2257217338e44b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_icon_a.png
+- Assets/Live/room_thr15_bubjuice/flash/manifest.xml
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_visualization.xml
+- Assets/Live/room_thr15_bubjuice/flash/index.xml
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_logic.xml
+- Assets/Live/room_thr15_bubjuice/room_thr15_bubjuice.xml
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_64_a_2_0.png
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_assets.xml
+- Assets/Live/room_thr15_bubjuice/flash/room_thr15_bubjuice_64_a_6_0.png
+Dependencies: []

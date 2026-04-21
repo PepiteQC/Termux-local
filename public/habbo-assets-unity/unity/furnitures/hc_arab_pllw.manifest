@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1704753267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55a6eba7f08a363b89787d76c5fee619
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_pllw/hc_arab_pllw.xml
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_logic.xml
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_64_sd_0_0.png
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_64_a_0_0.png
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_assets.xml
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_64_a_0_1.png
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_icon_a.png
+- Assets/Live/hc_arab_pllw/flash/hc_arab_pllw_visualization.xml
+- Assets/Live/hc_arab_pllw/flash/index.xml
+- Assets/Live/hc_arab_pllw/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3017452530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 383472e635b142109f58020a7785f7cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/shome_keys/flash/shome_keys_visualization.xml
+- Assets/Live/shome_keys/flash/index.xml
+- Assets/Live/shome_keys/flash/shome_keys_assets.xml
+- Assets/Live/shome_keys/flash/shome_keys_icon_a.png
+- Assets/Live/shome_keys/shome_keys.xml
+- Assets/Live/shome_keys/flash/manifest.xml
+- Assets/Live/shome_keys/flash/shome_keys_64_sd_0_0.png
+- Assets/Live/shome_keys/flash/shome_keys_64_a_0_0.png
+- Assets/Live/shome_keys/flash/shome_keys_logic.xml
+Dependencies: []

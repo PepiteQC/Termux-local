@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4116625400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d36989cc8579b4312afc3f22f2d7b05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_alpha1_w/flash/index.xml
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_logic.xml
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_a_0_0.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_b_0_0.png
+- Assets/Live/bc_alpha1_w/bc_alpha1_w.xml
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_icon_b.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_assets.xml
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_sd_0_0.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_a_2_0.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_b_2_0.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_64_sd_2_0.png
+- Assets/Live/bc_alpha1_w/flash/manifest.xml
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_icon_a.png
+- Assets/Live/bc_alpha1_w/flash/bc_alpha1_w_visualization.xml
+Dependencies: []

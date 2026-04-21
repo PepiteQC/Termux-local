@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 796802150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 899bc6aaa027036ea3a9b0e89d1210e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_assets.xml
+- Assets/Live/bling15_pooltable/flash/index.xml
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_19.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_b_4_0.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_23.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_d_4_0.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_16.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_1.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_12.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_visualization.xml
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_logic.xml
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_2.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_14.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_icon_a.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_d_4_1.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_8.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_10.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_3.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_17.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_6.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_5.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_24.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_11.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_18.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_e_4_1.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_d_4_2.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_4.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_e_4_2.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_15.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_0.png
+- Assets/Live/bling15_pooltable/flash/manifest.xml
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_22.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_9.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_e_4_0.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_sd_4_0.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_a_4_0.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_7.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_25.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_20.png
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_13.png
+- Assets/Live/bling15_pooltable/bling15_pooltable.xml
+- Assets/Live/bling15_pooltable/flash/bling15_pooltable_64_c_4_21.png
+Dependencies: []

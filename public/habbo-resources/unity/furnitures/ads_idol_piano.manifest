@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2564132710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8371370a5b2cf0c96de25ecf1b91310a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_piano/ads_idol_piano.xml
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_0_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_2_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_4_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_4_1.png
+- Assets/Live/ads_idol_piano/flash/index.xml
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_2_1.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_icon_a.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_logic.xml
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_visualization.xml
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_6_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_6_1.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_sd_4_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_sd_2_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_a_0_1.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_sd_6_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_64_sd_0_0.png
+- Assets/Live/ads_idol_piano/flash/ads_idol_piano_assets.xml
+- Assets/Live/ads_idol_piano/flash/manifest.xml
+Dependencies: []

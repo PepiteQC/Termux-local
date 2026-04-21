@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2158604660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae60d3a0944ed6deecf2180d4e53ad8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_64_sd_0_0.png
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_64_a_0_0.png
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_logic.xml
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_icon_a.png
+- Assets/Live/CF_500_vikings/flash/index.xml
+- Assets/Live/CF_500_vikings/CF_500_vikings.xml
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_assets.xml
+- Assets/Live/CF_500_vikings/flash/manifest.xml
+- Assets/Live/CF_500_vikings/flash/CF_500_vikings_visualization.xml
+Dependencies: []

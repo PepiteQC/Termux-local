@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 411061387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baaf7fed9ff0e02a8da60142b6fd5ab1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/doormat_plain/flash/index.xml
+- Assets/Live/doormat_plain/flash/doormat_plain_icon_a.png
+- Assets/Live/doormat_plain/flash/doormat_plain_assets.xml
+- Assets/Live/doormat_plain/flash/doormat_plain_64_a_0_0.png
+- Assets/Live/doormat_plain/doormat_plain.xml
+- Assets/Live/doormat_plain/flash/manifest.xml
+- Assets/Live/doormat_plain/flash/doormat_plain_visualization.xml
+- Assets/Live/doormat_plain/flash/doormat_plain_logic.xml
+Dependencies: []

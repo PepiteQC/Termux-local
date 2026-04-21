@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1273914601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30e24b39d2bdca786ca2605087685b26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_rllr/flash/manifest.xml
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_2_2.png
+- Assets/Live/hc_rllr/flash/index.xml
+- Assets/Live/hc_rllr/flash/hc_rllr_logic.xml
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_0_0.png
+- Assets/Live/hc_rllr/flash/hc_rllr_assets.xml
+- Assets/Live/hc_rllr/flash/hc_rllr_icon_a.png
+- Assets/Live/hc_rllr/hc_rllr.xml
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_2_0.png
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_0_1.png
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_2_1.png
+- Assets/Live/hc_rllr/flash/hc_rllr_64_a_0_2.png
+- Assets/Live/hc_rllr/flash/hc_rllr_visualization.xml
+Dependencies: []

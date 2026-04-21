@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1542256434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65f875d0d686664dc943ae4e6b39c78e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_grandsherwani/flash/index.xml
+- Assets/Live/clothing_grandsherwani/flash/clothing_grandsherwani_64_a_0_0.png
+- Assets/Live/clothing_grandsherwani/flash/clothing_grandsherwani_icon_a.png
+- Assets/Live/clothing_grandsherwani/flash/clothing_grandsherwani_visualization.xml
+- Assets/Live/clothing_grandsherwani/flash/clothing_grandsherwani_assets.xml
+- Assets/Live/clothing_grandsherwani/flash/clothing_grandsherwani_logic.xml
+- Assets/Live/clothing_grandsherwani/flash/manifest.xml
+- Assets/Live/clothing_grandsherwani/clothing_grandsherwani.xml
+Dependencies: []

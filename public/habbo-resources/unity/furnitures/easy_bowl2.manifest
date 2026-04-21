@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3864371889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f89f81191636dd0fe56a0cbeb7c0592
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_visualization.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/manifest.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_64_a_0_0.png
+- Assets/Live/easy_bowl2/flash/easy_bowl/index.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_assets.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_32_sd_0_0.png
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_logic.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_64_a_0_0.png
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_assets.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_logic.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_icon_a.png
+- Assets/Live/easy_bowl2/flash/easy_bowl2/easy_bowl2_64_sd_0_0.png
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_icon_a.png
+- Assets/Live/easy_bowl2/flash/easy_bowl2/index.xml
+- Assets/Live/easy_bowl2/easy_bowl2.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_visualization.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl2/manifest.xml
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_64_sd_0_0.png
+- Assets/Live/easy_bowl2/flash/easy_bowl/easy_bowl_32_a_0_0.png
+Dependencies: []

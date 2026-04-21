@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4156253388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b5bcf36970fcb883a5e82d611bfe2b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_icon_a.png
+- Assets/Live/xmas_c17_fencecorner/flash/manifest.xml
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_assets.xml
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_logic.xml
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_64_a_0_0.png
+- Assets/Live/xmas_c17_fencecorner/flash/index.xml
+- Assets/Live/xmas_c17_fencecorner/xmas_c17_fencecorner.xml
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_64_a_0_1.png
+- Assets/Live/xmas_c17_fencecorner/flash/xmas_c17_fencecorner_visualization.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3384729130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d2dc7ac6fbd1760ab96040a8aa0cc4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_wavy3/flash/clothing_wavy3_visualization.xml
+- Assets/Live/clothing_wavy3/flash/index.xml
+- Assets/Live/clothing_wavy3/flash/clothing_wavy3_assets.xml
+- Assets/Live/clothing_wavy3/clothing_wavy3.xml
+- Assets/Live/clothing_wavy3/flash/clothing_wavy3_64_a_0_0.png
+- Assets/Live/clothing_wavy3/flash/manifest.xml
+- Assets/Live/clothing_wavy3/flash/clothing_wavy3_icon_a.png
+- Assets/Live/clothing_wavy3/flash/clothing_wavy3_logic.xml
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1576552908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9838b25f9f6b3e9ad3814b0451473cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_d_4_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_assets.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_c_4_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_d_4_1.png
+- Assets/Live/ads_mall_tele/flash/index.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_d_6_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_logic.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_b_6_1.png
+- Assets/Live/ads_mall_tele/flash/manifest.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_a_6_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_c_6_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_a_4_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_a_6_1.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_icon_a.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_a_4_1.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_b_4_1.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_c_6_1.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_b_4_0.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_c_4_1.png
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_b_6_0.png
+- Assets/Live/ads_mall_tele/ads_mall_tele.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_visualization.xml
+- Assets/Live/ads_mall_tele/flash/ads_mall_tele_64_d_6_1.png
+Dependencies: []

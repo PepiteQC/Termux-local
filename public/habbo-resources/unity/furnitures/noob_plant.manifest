@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1694306165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 545ceb9b75812912e5f3bdd4f6a10787
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/noob_plant/flash/noob_plant_icon_a.png
+- Assets/Live/noob_plant/flash/noob_plant_64_a_0_0.png
+- Assets/Live/noob_plant/flash/noob_plant_logic.xml
+- Assets/Live/noob_plant/flash/noob_plant_visualization.xml
+- Assets/Live/noob_plant/flash/noob_plant_64_sd_0_0.png
+- Assets/Live/noob_plant/flash/manifest.xml
+- Assets/Live/noob_plant/flash/index.xml
+- Assets/Live/noob_plant/flash/noob_plant_assets.xml
+- Assets/Live/noob_plant/noob_plant.xml
+Dependencies: []

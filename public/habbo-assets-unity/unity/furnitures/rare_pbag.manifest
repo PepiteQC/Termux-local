@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2699297407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cbe56ab636848f58a1132fbb759aff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_pbag/flash/rare_pbag_visualization.xml
+- Assets/Live/rare_pbag/flash/rare_pbag_64_sd_0_0.png
+- Assets/Live/rare_pbag/flash/rare_pbag_64_b_0_0.png
+- Assets/Live/rare_pbag/flash/rare_pbag_icon_c.png
+- Assets/Live/rare_pbag/flash/index.xml
+- Assets/Live/rare_pbag/flash/rare_pbag_64_a_0_0.png
+- Assets/Live/rare_pbag/flash/rare_pbag_assets.xml
+- Assets/Live/rare_pbag/flash/manifest.xml
+- Assets/Live/rare_pbag/flash/rare_pbag_64_c_0_0.png
+- Assets/Live/rare_pbag/rare_pbag.xml
+- Assets/Live/rare_pbag/flash/rare_pbag_icon_a.png
+- Assets/Live/rare_pbag/flash/rare_pbag_64_c_0_1.png
+- Assets/Live/rare_pbag/flash/rare_pbag_icon_b.png
+- Assets/Live/rare_pbag/flash/rare_pbag_logic.xml
+Dependencies: []

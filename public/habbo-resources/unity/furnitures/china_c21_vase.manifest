@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1067404630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01d146a60231f583a57d2a044cb1e5f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_c21_vase/flash/china_c21_vase_icon_a.png
+- Assets/Live/china_c21_vase/flash/china_c21_vase_visualization.xml
+- Assets/Live/china_c21_vase/flash/china_c21_vase_64_sd_0_0.png
+- Assets/Live/china_c21_vase/flash/index.xml
+- Assets/Live/china_c21_vase/flash/china_c21_vase_64_b_0_1.png
+- Assets/Live/china_c21_vase/china_c21_vase.xml
+- Assets/Live/china_c21_vase/flash/china_c21_vase_64_a_0_0.png
+- Assets/Live/china_c21_vase/flash/manifest.xml
+- Assets/Live/china_c21_vase/flash/china_c21_vase_logic.xml
+- Assets/Live/china_c21_vase/flash/china_c21_vase_assets.xml
+Dependencies: []

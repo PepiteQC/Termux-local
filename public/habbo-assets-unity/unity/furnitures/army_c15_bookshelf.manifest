@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3674824196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c8d99c3f79cc209e622012e46ee7397
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_c_4_2.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_b_4_2.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_assets.xml
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_a_4_2.png
+- Assets/Live/army_c15_bookshelf/flash/index.xml
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_d_4_2.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_a_4_1.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_a_4_0.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_b_4_3.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_c_4_0.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_d_4_1.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_a_b_1.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_c_4_1.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_logic.xml
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_b_4_1.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_a_4_3.png
+- Assets/Live/army_c15_bookshelf/flash/manifest.xml
+- Assets/Live/army_c15_bookshelf/army_c15_bookshelf.xml
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_icon_a.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_visualization.xml
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_b_4_0.png
+- Assets/Live/army_c15_bookshelf/flash/army_c15_bookshelf_64_d_4_0.png
+Dependencies: []

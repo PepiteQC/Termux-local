@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2688761340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1558eb1b312f4616dc2d1417e17e3a17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_pjoutfit2/flash/manifest.xml
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_logic.xml
+- Assets/Live/clothing_pjoutfit2/clothing_pjoutfit2.xml
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_assets.xml
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_64_sd_0_0.png
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_64_a_0_0.png
+- Assets/Live/clothing_pjoutfit2/flash/index.xml
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_64_a_0_1.png
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_visualization.xml
+- Assets/Live/clothing_pjoutfit2/flash/clothing_pjoutfit2_icon_a.png
+Dependencies: []

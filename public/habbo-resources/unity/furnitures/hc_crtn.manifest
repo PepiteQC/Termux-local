@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3237090812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dc70890533cad054721836f4558fa4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_crtn/flash/hc_crtn_visualization.xml
+- Assets/Live/hc_crtn/hc_crtn.xml
+- Assets/Live/hc_crtn/flash/hc_crtn_64_b_0_0.png
+- Assets/Live/hc_crtn/flash/manifest.xml
+- Assets/Live/hc_crtn/flash/hc_crtn_icon_a.png
+- Assets/Live/hc_crtn/flash/hc_crtn_assets.xml
+- Assets/Live/hc_crtn/flash/hc_crtn_64_c_0_1.png
+- Assets/Live/hc_crtn/flash/hc_crtn_64_d_0_1.png
+- Assets/Live/hc_crtn/flash/hc_crtn_64_d_0_0.png
+- Assets/Live/hc_crtn/flash/hc_crtn_64_a_0_0.png
+- Assets/Live/hc_crtn/flash/hc_crtn_64_sd_0_0.png
+- Assets/Live/hc_crtn/flash/index.xml
+- Assets/Live/hc_crtn/flash/hc_crtn_64_c_0_0.png
+- Assets/Live/hc_crtn/flash/hc_crtn_logic.xml
+Dependencies: []

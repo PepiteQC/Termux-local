@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3476436543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6a675408291abf2febfaf2f47771b98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_bewitchedskull/flash/index.xml
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_icon_a.png
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_visualization.xml
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_64_sd_0_0.png
+- Assets/Live/hween_c19_bewitchedskull/flash/manifest.xml
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_assets.xml
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_64_a_0_0.png
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_logic.xml
+- Assets/Live/hween_c19_bewitchedskull/flash/hween_c19_bewitchedskull_64_a_0_1.png
+- Assets/Live/hween_c19_bewitchedskull/hween_c19_bewitchedskull.xml
+Dependencies: []

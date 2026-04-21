@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 659160636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f686fb41650a8294002bf448b1860c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_bobbatea/flash/index.xml
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_assets.xml
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_64_a_0_0.png
+- Assets/Live/fest_c19_bobbatea/flash/manifest.xml
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_icon_a.png
+- Assets/Live/fest_c19_bobbatea/fest_c19_bobbatea.xml
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_visualization.xml
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_64_sd_0_0.png
+- Assets/Live/fest_c19_bobbatea/flash/fest_c19_bobbatea_logic.xml
+Dependencies: []

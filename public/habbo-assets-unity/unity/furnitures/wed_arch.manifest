@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1576095142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f8155906ea46df23edb5bf02aa993a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wed_arch/wed_arch.xml
+- Assets/Live/wed_arch/flash/wed_arch_logic.xml
+- Assets/Live/wed_arch/flash/wed_arch_icon_a.png
+- Assets/Live/wed_arch/flash/wed_arch_64_d_0_0.png
+- Assets/Live/wed_arch/flash/index.xml
+- Assets/Live/wed_arch/flash/wed_arch_visualization.xml
+- Assets/Live/wed_arch/flash/wed_arch_64_a_0_0.png
+- Assets/Live/wed_arch/flash/wed_arch_64_c_0_0.png
+- Assets/Live/wed_arch/flash/wed_arch_64_b_0_0.png
+- Assets/Live/wed_arch/flash/manifest.xml
+- Assets/Live/wed_arch/flash/wed_arch_assets.xml
+- Assets/Live/wed_arch/flash/wed_arch_64_sd_0_0.png
+Dependencies: []

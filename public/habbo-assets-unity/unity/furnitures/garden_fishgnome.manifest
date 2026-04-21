@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 704222550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3d1c64c1a51ec007c8888f1f46b044a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_fishgnome/garden_fishgnome.xml
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_visualization.xml
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_logic.xml
+- Assets/Live/garden_fishgnome/flash/index.xml
+- Assets/Live/garden_fishgnome/flash/manifest.xml
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_64_a_0_0.png
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_assets.xml
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_64_sd_0_0.png
+- Assets/Live/garden_fishgnome/flash/garden_fishgnome_icon_a.png
+Dependencies: []

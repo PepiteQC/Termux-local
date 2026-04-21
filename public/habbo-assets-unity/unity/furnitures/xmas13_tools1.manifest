@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3340379430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 728572259afddf59b6be25b39e396ce3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_tools1/flash/index.xml
+- Assets/Live/xmas13_tools1/xmas13_tools1.xml
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_visualization.xml
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_64_a_0_0.png
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_icon_a.png
+- Assets/Live/xmas13_tools1/flash/manifest.xml
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_logic.xml
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_assets.xml
+- Assets/Live/xmas13_tools1/flash/xmas13_tools1_64_sd_0_0.png
+Dependencies: []

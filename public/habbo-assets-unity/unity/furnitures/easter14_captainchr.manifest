@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2719387527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46f623ebd1e4396164df46366d9d95d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_0.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_0.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_2.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_4.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_1.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_5.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_1.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_6.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_0.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_3.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_5.png
+- Assets/Live/easter14_captainchr/flash/manifest.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_3.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_6.png
+- Assets/Live/easter14_captainchr/easter14_captainchr.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_2.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_6.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_2.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_visualization.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_4.png
+- Assets/Live/easter14_captainchr/flash/index.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_4.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_1.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_1.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_icon_a.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_logic.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_2.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_5.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_0.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_3.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_4_3.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_b_0_6.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_0_5.png
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_assets.xml
+- Assets/Live/easter14_captainchr/flash/easter14_captainchr_64_a_4_4.png
+Dependencies: []

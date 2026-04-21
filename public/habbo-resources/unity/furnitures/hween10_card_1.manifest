@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3584342802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c66ac51173278ace4947c09187d7ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween10_card_1/flash/hween10_card_1_icon_a.png
+- Assets/Live/hween10_card_1/hween10_card_1.xml
+- Assets/Live/hween10_card_1/flash/index.xml
+- Assets/Live/hween10_card_1/flash/hween10_card_1_assets.xml
+- Assets/Live/hween10_card_1/flash/hween10_card_1_logic.xml
+- Assets/Live/hween10_card_1/flash/hween10_card_1_64_sd_4_0.png
+- Assets/Live/hween10_card_1/flash/manifest.xml
+- Assets/Live/hween10_card_1/flash/hween10_card_1_visualization.xml
+- Assets/Live/hween10_card_1/flash/hween10_card_1_64_a_4_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4144973454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92c5ab9063de7bfb62be0f5df6875331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_cof15_espresso/flash/room_cof15_espresso_assets.xml
+- Assets/Live/room_cof15_espresso/flash/index.xml
+- Assets/Live/room_cof15_espresso/flash/room_cof15_espresso_visualization.xml
+- Assets/Live/room_cof15_espresso/flash/room_cof15_espresso_logic.xml
+- Assets/Live/room_cof15_espresso/flash/room_cof15_espresso_64_a_0_0.png
+- Assets/Live/room_cof15_espresso/room_cof15_espresso.xml
+- Assets/Live/room_cof15_espresso/flash/room_cof15_espresso_icon_a.png
+- Assets/Live/room_cof15_espresso/flash/manifest.xml
+Dependencies: []

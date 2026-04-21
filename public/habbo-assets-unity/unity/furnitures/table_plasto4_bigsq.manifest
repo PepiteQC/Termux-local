@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1206280823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31532efa89b8f96bf0167e21c308ecf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/table_plasto4_bigsq/table_plasto4_bigsq.xml
+- Assets/Live/table_plasto4_bigsq/flash/index.xml
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_64_c_0_0.png
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_assets.xml
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_64_b_0_0.png
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_icon_a.png
+- Assets/Live/table_plasto4_bigsq/flash/manifest.xml
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_64_a_0_0.png
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_visualization.xml
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_logic.xml
+- Assets/Live/table_plasto4_bigsq/flash/table_plasto4_bigsq_64_sd_0_.png
+Dependencies: []

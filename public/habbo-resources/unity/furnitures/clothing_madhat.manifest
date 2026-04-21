@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2966114765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77684e35e8b96738b08433e7a2851420
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_madhat/flash/clothing_madhat_visualization.xml
+- Assets/Live/clothing_madhat/flash/index.xml
+- Assets/Live/clothing_madhat/flash/manifest.xml
+- Assets/Live/clothing_madhat/flash/clothing_madhat_assets.xml
+- Assets/Live/clothing_madhat/clothing_madhat.xml
+- Assets/Live/clothing_madhat/flash/clothing_madhat_logic.xml
+- Assets/Live/clothing_madhat/flash/clothing_madhat_64_a_0_0.png
+- Assets/Live/clothing_madhat/flash/clothing_madhat_icon_a.png
+Dependencies: []

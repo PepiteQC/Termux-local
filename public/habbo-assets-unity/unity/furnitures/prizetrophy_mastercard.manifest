@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 967771919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95ca9ab342ee9c8b4b5114c6405d8616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_mastercard/flash/index.xml
+- Assets/Live/prizetrophy_mastercard/flash/prizetrophy_mastercard_visualization.xml
+- Assets/Live/prizetrophy_mastercard/flash/manifest.xml
+- Assets/Live/prizetrophy_mastercard/flash/prizetrophy_mastercard_assets.xml
+- Assets/Live/prizetrophy_mastercard/prizetrophy_mastercard.xml
+- Assets/Live/prizetrophy_mastercard/flash/prizetrophy_mastercard_logic.xml
+- Assets/Live/prizetrophy_mastercard/flash/prizetrophy_mastercard_64_a_0_0.png
+- Assets/Live/prizetrophy_mastercard/flash/prizetrophy_mastercard_icon_a.png
+Dependencies: []

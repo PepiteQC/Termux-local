@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 860982275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e538652f8dc3d56f5d04b3568a81464
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_logic.xml
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_64_b_2_1.png
+- Assets/Live/cubie_decal_1_p/flash/manifest.xml
+- Assets/Live/cubie_decal_1_p/cubie_decal_1_p.xml
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_64_a_2_0.png
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_visualization.xml
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_icon_a.png
+- Assets/Live/cubie_decal_1_p/flash/index.xml
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_64_b_2_0.png
+- Assets/Live/cubie_decal_1_p/flash/cubie_decal_1_p_assets.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1022778777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbe771b0ae145f5a4eee91c9dcd47de2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_mysticrobes/flash/clothing_mysticrobes_logic.xml
+- Assets/Live/clothing_mysticrobes/flash/clothing_mysticrobes_64_a_0_0.png
+- Assets/Live/clothing_mysticrobes/flash/clothing_mysticrobes_visualization.xml
+- Assets/Live/clothing_mysticrobes/flash/clothing_mysticrobes_icon_a.png
+- Assets/Live/clothing_mysticrobes/flash/index.xml
+- Assets/Live/clothing_mysticrobes/flash/manifest.xml
+- Assets/Live/clothing_mysticrobes/clothing_mysticrobes.xml
+- Assets/Live/clothing_mysticrobes/flash/clothing_mysticrobes_assets.xml
+Dependencies: []

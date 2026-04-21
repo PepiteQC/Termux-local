@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2569031036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1f051d16d13278e0bd9d0c6f3afeafe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/yarn/yarn.xml
+- Assets/Live/yarn/flash/yarn_logic.xml
+- Assets/Live/yarn/flash/yarn_64_icon_a.png
+- Assets/Live/yarn/flash/yarn_64_a_3_2.png
+- Assets/Live/yarn/flash/yarn_64_sd_0_0.png
+- Assets/Live/yarn/flash/manifest.xml
+- Assets/Live/yarn/flash/yarn_visualization.xml
+- Assets/Live/yarn/flash/yarn_64_a_3_3.png
+- Assets/Live/yarn/flash/yarn_assets.xml
+- Assets/Live/yarn/flash/yarn_64_a_3_1.png
+- Assets/Live/yarn/flash/index.xml
+- Assets/Live/yarn/flash/yarn_64_a_2_2.png
+- Assets/Live/yarn/flash/yarn_64_a_1_2.png
+- Assets/Live/yarn/flash/yarn_64_a_2_3.png
+- Assets/Live/yarn/flash/yarn_icon_a.png
+- Assets/Live/yarn/flash/yarn_64_a_1_3.png
+- Assets/Live/yarn/flash/yarn_64_a_1_1.png
+- Assets/Live/yarn/flash/yarn_64_a_2_1.png
+Dependencies: []

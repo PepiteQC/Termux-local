@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 863977650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77c7a0561e1c213e99a713c687c162d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_mascot/flash/fball_mascot_64_a_2_0.png
+- Assets/Live/fball_mascot/flash/fball_mascot_64_b_2_2.png
+- Assets/Live/fball_mascot/fball_mascot.xml
+- Assets/Live/fball_mascot/flash/fball_mascot_logic.xml
+- Assets/Live/fball_mascot/flash/fball_mascot_64_b_2_0.png
+- Assets/Live/fball_mascot/flash/fball_mascot_visualization.xml
+- Assets/Live/fball_mascot/flash/fball_mascot_assets.xml
+- Assets/Live/fball_mascot/flash/manifest.xml
+- Assets/Live/fball_mascot/flash/fball_mascot_64_b_2_1.png
+- Assets/Live/fball_mascot/flash/fball_mascot_icon_a.png
+- Assets/Live/fball_mascot/flash/fball_mascot_64_b_2_3.png
+- Assets/Live/fball_mascot/flash/fball_mascot_64_b_2_4.png
+- Assets/Live/fball_mascot/flash/index.xml
+Dependencies: []

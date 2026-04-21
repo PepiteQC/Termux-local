@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 177251658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ae09ad80c354d7a7e0ac3411fee0c96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_b_6_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_b_6_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_b_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_a_4_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_sd_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/manifest.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_assets.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_a_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_assets.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_a_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_a_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/index.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_b_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_sd_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_a_4_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_sd_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/manifest.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_sd_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_icon_a.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_sd_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_visualization.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_b_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_b_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/index.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_icon_a.png
+- Assets/Live/ads_capri_chair/ads_capri_chair.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_a_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_a_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_visualization.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_logic.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_a_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_32_sd_2_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_logic.xml
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair_camp/ads_capri_chair_camp_64_b_0_0.png
+- Assets/Live/ads_capri_chair/flash/ads_capri_chair/ads_capri_chair_64_b_2_0.png
+Dependencies: []

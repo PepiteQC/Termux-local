@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3262578730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae4890b1e9418bb6687cdbd580cc95f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_visualization.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_logic.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_32_a_4_1.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_64_a_4_1.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_logic.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/index.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_32_a_4_0.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_64_a_4_0.png
+- Assets/Live/ads_hh_safe/ads_hh_safe.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/index.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/manifest.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_64_sd_4_0.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_32_sd_4_0.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/manifest.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_assets.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_64_sd_4_0.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_64_a_4_0.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_64_a_4_1.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_icon_a.png
+- Assets/Live/ads_hh_safe/flash/ads_hh_safecmp/ads_hh_safecmp_visualization.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_assets.xml
+- Assets/Live/ads_hh_safe/flash/ads_hh_safe/ads_hh_safe_icon_a.png
+Dependencies: []

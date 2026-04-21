@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 778829161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d5e3886c21db68679d8a371f5a3c8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_nt_rbw/country_nt_rbw.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_64_a_0_0.png
+- Assets/Live/country_nt_rbw/flash/manifest.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_assets.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_visualization.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_logic.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_icon_a.png
+- Assets/Live/country_nt_rbw/flash/index.xml
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_64_c_0_0.png
+- Assets/Live/country_nt_rbw/flash/country_nt_rbw_64_b_0_0.png
+Dependencies: []

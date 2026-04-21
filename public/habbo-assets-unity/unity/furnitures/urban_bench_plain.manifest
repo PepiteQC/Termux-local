@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3580260819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daac6b1d35e7c5517e7304a247169a0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_icon_a.png
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_64_b_2_0.png
+- Assets/Live/urban_bench_plain/urban_bench_plain.xml
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_64_b_4_0.png
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_visualization.xml
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_64_a_4_0.png
+- Assets/Live/urban_bench_plain/flash/index.xml
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_assets.xml
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_logic.xml
+- Assets/Live/urban_bench_plain/flash/manifest.xml
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_64_sd_2_0.png
+- Assets/Live/urban_bench_plain/flash/urban_bench_plain_64_a_2_0.png
+Dependencies: []

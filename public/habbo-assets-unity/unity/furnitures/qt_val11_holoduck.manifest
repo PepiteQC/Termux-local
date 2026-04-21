@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 178260637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 849fc5b2afc8c00d9fb6939f92ced2a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_logic.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_a_0_1.png
+- Assets/Live/qt_val11_holoduck/flash/manifest.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_5.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_0.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_assets.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_c_0_0.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_2.png
+- Assets/Live/qt_val11_holoduck/flash/index.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_7.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_6.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_icon_a.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_8.png
+- Assets/Live/qt_val11_holoduck/qt_val11_holoduck.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_c_0_1.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_visualization.xml
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_3.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_4.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_b_0_1.png
+- Assets/Live/qt_val11_holoduck/flash/qt_val11_holoduck_64_a_0_0.png
+Dependencies: []

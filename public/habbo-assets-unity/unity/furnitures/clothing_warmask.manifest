@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1450527029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e88060b9f25bca47b5f15657c524701a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_1.png
+- Assets/Live/clothing_warmask/flash/index.xml
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_sd_0_0.png
+- Assets/Live/clothing_warmask/flash/clothing_warmask_visualization.xml
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_4.png
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_5.png
+- Assets/Live/clothing_warmask/flash/clothing_warmask_icon_a.png
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_3.png
+- Assets/Live/clothing_warmask/flash/clothing_warmask_logic.xml
+- Assets/Live/clothing_warmask/clothing_warmask.xml
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_0.png
+- Assets/Live/clothing_warmask/flash/manifest.xml
+- Assets/Live/clothing_warmask/flash/clothing_warmask_assets.xml
+- Assets/Live/clothing_warmask/flash/clothing_warmask_64_a_0_2.png
+Dependencies: []

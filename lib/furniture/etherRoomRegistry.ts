@@ -1,0 +1,615 @@
+export type EtherRoomFurnitureDefinition = {
+  label: string;
+  category: string;
+  width: number;
+  depth: number;
+  height: number;
+  drawWidth: number;
+  drawHeight: number;
+  glow?: string | null;
+  walkable?: boolean;
+  stackable?: boolean;
+  surface?: boolean;
+  seat?: boolean;
+};
+
+export const ETHER_ROOM_FURNITURE_ORDER = [
+  "window-city-wide",
+  "window-city-wide-gold",
+  "tv-wall-black",
+  "media-console-black",
+  "sectional-sofa-dark",
+  "sectional-sofa-dark-corner",
+  "rug-gray-large",
+  "coffee-table-glass",
+  "desk-l-modern",
+  "monitor-flat-27",
+  "office-chair-black",
+  "wall-shelf-minimal",
+  "floor-lamp-white",
+  "plant-tall-modern",
+  "fridge-steel",
+  "cabinet-dark-low",
+  "kitchen-line-dark",
+
+  "chandelier-grand-gold",
+  "bed-royal-red",
+  "nightstand-gold",
+  "grand-piano-black",
+  "fireplace-classic",
+  "sofa-ivory",
+  "lounge-chair-ivory",
+  "coffee-table-gold",
+  "bar-marble-black",
+  "bar-stool-gold",
+  "jacuzzi-round-gold",
+  "statue-gold",
+  "rug-royal-red",
+  "shelf-luxury-backbar",
+
+  "waterfall-wall",
+  "bed-tiki-canopy",
+  "bar-tiki-bamboo",
+  "stool-tiki",
+  "pool-plunge-stone",
+  "firepit-stone",
+  "chair-wicker",
+  "table-tiki-low",
+  "hammock-cream",
+  "surfboard-yellow",
+  "palm-tree-tall",
+  "torch-tiki",
+  "sofa-tiki-lounge",
+  "rug-sand-warm",
+  "shelf-tiki-drinks"
+] as const;
+
+export const ETHER_ROOM_FURNITURE_REGISTRY: Record<string, EtherRoomFurnitureDefinition> = {
+  "window-city-wide": {
+    label: "Fenêtre Ville Large",
+    category: "structure",
+    width: 2,
+    depth: 1,
+    height: 3,
+    drawWidth: 164,
+    drawHeight: 132,
+    glow: "#8bd4ff",
+    walkable: false,
+    stackable: false
+  },
+  "window-city-wide-gold": {
+    label: "Fenêtre Ville Gold",
+    category: "structure",
+    width: 2,
+    depth: 1,
+    height: 3,
+    drawWidth: 170,
+    drawHeight: 138,
+    glow: "#ffd27a",
+    walkable: false,
+    stackable: false
+  },
+  "tv-wall-black": {
+    label: "TV Murale Noire",
+    category: "electronics",
+    width: 2,
+    depth: 1,
+    height: 2,
+    drawWidth: 98,
+    drawHeight: 84,
+    glow: "#7fc8ff",
+    walkable: false,
+    stackable: false
+  },
+  "media-console-black": {
+    label: "Console Média Noire",
+    category: "electronics",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 92,
+    drawHeight: 48,
+    walkable: false,
+    stackable: true,
+    surface: true
+  },
+  "sectional-sofa-dark": {
+    label: "Canapé Sectionnel Dark",
+    category: "seating",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 92,
+    drawHeight: 62,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "sectional-sofa-dark-corner": {
+    label: "Coin Canapé Dark",
+    category: "seating",
+    width: 2,
+    depth: 2,
+    height: 1,
+    drawWidth: 104,
+    drawHeight: 74,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "rug-gray-large": {
+    label: "Tapis Gris Large",
+    category: "decor",
+    width: 3,
+    depth: 2,
+    height: 0,
+    drawWidth: 148,
+    drawHeight: 58,
+    walkable: true,
+    stackable: false
+  },
+  "coffee-table-glass": {
+    label: "Table Basse Verre",
+    category: "table",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 78,
+    drawHeight: 48,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "desk-l-modern": {
+    label: "Bureau L Moderne",
+    category: "office",
+    width: 3,
+    depth: 2,
+    height: 1,
+    drawWidth: 138,
+    drawHeight: 84,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "monitor-flat-27": {
+    label: "Écran 27 Plat",
+    category: "electronics",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 42,
+    drawHeight: 44,
+    glow: "#7ed8ff",
+    walkable: false,
+    stackable: false
+  },
+  "office-chair-black": {
+    label: "Chaise Bureau Noire",
+    category: "seating",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 46,
+    drawHeight: 58,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "wall-shelf-minimal": {
+    label: "Étagère Murale Minimal",
+    category: "decor",
+    width: 2,
+    depth: 1,
+    height: 2,
+    drawWidth: 88,
+    drawHeight: 58,
+    walkable: false,
+    stackable: false
+  },
+  "floor-lamp-white": {
+    label: "Lampe Sol Blanche",
+    category: "lighting",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 42,
+    drawHeight: 76,
+    glow: "#ffe6b8",
+    walkable: false,
+    stackable: false
+  },
+  "plant-tall-modern": {
+    label: "Grande Plante Moderne",
+    category: "decor",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 52,
+    drawHeight: 74,
+    walkable: false,
+    stackable: false
+  },
+  "fridge-steel": {
+    label: "Frigo Acier",
+    category: "kitchen",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 54,
+    drawHeight: 88,
+    walkable: false,
+    stackable: false
+  },
+  "cabinet-dark-low": {
+    label: "Cabinet Bas Dark",
+    category: "storage",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 90,
+    drawHeight: 54,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "kitchen-line-dark": {
+    label: "Cuisine Linéaire Dark",
+    category: "kitchen",
+    width: 3,
+    depth: 1,
+    height: 2,
+    drawWidth: 138,
+    drawHeight: 86,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+
+  "chandelier-grand-gold": {
+    label: "Grand Lustre Gold",
+    category: "lighting",
+    width: 2,
+    depth: 2,
+    height: 3,
+    drawWidth: 110,
+    drawHeight: 140,
+    glow: "#ffd978",
+    walkable: false,
+    stackable: false
+  },
+  "bed-royal-red": {
+    label: "Lit Royal Rouge",
+    category: "bed",
+    width: 3,
+    depth: 2,
+    height: 1,
+    drawWidth: 154,
+    drawHeight: 102,
+    glow: "#ffbf72",
+    walkable: false,
+    stackable: false
+  },
+  "nightstand-gold": {
+    label: "Table de Nuit Gold",
+    category: "bedroom",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 44,
+    drawHeight: 52,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "grand-piano-black": {
+    label: "Piano à Queue Noir",
+    category: "luxury",
+    width: 2,
+    depth: 3,
+    height: 1,
+    drawWidth: 126,
+    drawHeight: 98,
+    walkable: false,
+    stackable: false
+  },
+  "fireplace-classic": {
+    label: "Cheminée Classique",
+    category: "luxury",
+    width: 2,
+    depth: 1,
+    height: 2,
+    drawWidth: 82,
+    drawHeight: 88,
+    glow: "#ffb25a",
+    walkable: false,
+    stackable: false
+  },
+  "sofa-ivory": {
+    label: "Canapé Ivoire",
+    category: "seating",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 88,
+    drawHeight: 60,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "lounge-chair-ivory": {
+    label: "Fauteuil Ivoire",
+    category: "seating",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 54,
+    drawHeight: 62,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "coffee-table-gold": {
+    label: "Table Basse Gold",
+    category: "table",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 82,
+    drawHeight: 50,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "bar-marble-black": {
+    label: "Bar Marbre Noir",
+    category: "luxury",
+    width: 3,
+    depth: 1,
+    height: 1,
+    drawWidth: 132,
+    drawHeight: 74,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "bar-stool-gold": {
+    label: "Tabouret Gold",
+    category: "seating",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 42,
+    drawHeight: 50,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "jacuzzi-round-gold": {
+    label: "Jacuzzi Rond Gold",
+    category: "luxury",
+    width: 2,
+    depth: 2,
+    height: 1,
+    drawWidth: 110,
+    drawHeight: 76,
+    glow: "#88deff",
+    walkable: false,
+    stackable: false
+  },
+  "statue-gold": {
+    label: "Statue Gold",
+    category: "luxury",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 46,
+    drawHeight: 88,
+    glow: "#ffd87f",
+    walkable: false,
+    stackable: false
+  },
+  "rug-royal-red": {
+    label: "Tapis Royal Rouge",
+    category: "decor",
+    width: 3,
+    depth: 2,
+    height: 0,
+    drawWidth: 150,
+    drawHeight: 60,
+    walkable: true,
+    stackable: false
+  },
+  "shelf-luxury-backbar": {
+    label: "Étagère Backbar Luxe",
+    category: "luxury",
+    width: 3,
+    depth: 1,
+    height: 2,
+    drawWidth: 136,
+    drawHeight: 92,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+
+  "waterfall-wall": {
+    label: "Mur Cascade",
+    category: "tiki",
+    width: 2,
+    depth: 1,
+    height: 3,
+    drawWidth: 116,
+    drawHeight: 130,
+    glow: "#8ce9ff",
+    walkable: false,
+    stackable: false
+  },
+  "bed-tiki-canopy": {
+    label: "Lit Tiki Canopée",
+    category: "bed",
+    width: 3,
+    depth: 2,
+    height: 2,
+    drawWidth: 154,
+    drawHeight: 108,
+    walkable: false,
+    stackable: false
+  },
+  "bar-tiki-bamboo": {
+    label: "Bar Tiki Bambou",
+    category: "tiki",
+    width: 3,
+    depth: 1,
+    height: 2,
+    drawWidth: 136,
+    drawHeight: 94,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "stool-tiki": {
+    label: "Tabouret Tiki",
+    category: "seating",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 38,
+    drawHeight: 44,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "pool-plunge-stone": {
+    label: "Piscine Pierre",
+    category: "tiki",
+    width: 3,
+    depth: 2,
+    height: 0,
+    drawWidth: 146,
+    drawHeight: 78,
+    glow: "#84e5ff",
+    walkable: false,
+    stackable: false
+  },
+  "firepit-stone": {
+    label: "Feu de Camp Pierre",
+    category: "tiki",
+    width: 2,
+    depth: 2,
+    height: 1,
+    drawWidth: 84,
+    drawHeight: 64,
+    glow: "#ffb85f",
+    walkable: false,
+    stackable: false
+  },
+  "chair-wicker": {
+    label: "Chaise Osier",
+    category: "seating",
+    width: 1,
+    depth: 1,
+    height: 1,
+    drawWidth: 46,
+    drawHeight: 54,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "table-tiki-low": {
+    label: "Table Tiki Basse",
+    category: "table",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 74,
+    drawHeight: 42,
+    walkable: false,
+    stackable: false,
+    surface: true
+  },
+  "hammock-cream": {
+    label: "Hamac Crème",
+    category: "tiki",
+    width: 2,
+    depth: 1,
+    height: 2,
+    drawWidth: 104,
+    drawHeight: 64,
+    walkable: false,
+    stackable: false
+  },
+  "surfboard-yellow": {
+    label: "Surf Jaune",
+    category: "tiki",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 32,
+    drawHeight: 82,
+    walkable: false,
+    stackable: false
+  },
+  "palm-tree-tall": {
+    label: "Palmier Haut",
+    category: "tiki",
+    width: 1,
+    depth: 1,
+    height: 3,
+    drawWidth: 74,
+    drawHeight: 124,
+    walkable: false,
+    stackable: false
+  },
+  "torch-tiki": {
+    label: "Torche Tiki",
+    category: "lighting",
+    width: 1,
+    depth: 1,
+    height: 2,
+    drawWidth: 30,
+    drawHeight: 74,
+    glow: "#ffbf6c",
+    walkable: false,
+    stackable: false
+  },
+  "sofa-tiki-lounge": {
+    label: "Lounge Tiki",
+    category: "seating",
+    width: 2,
+    depth: 1,
+    height: 1,
+    drawWidth: 92,
+    drawHeight: 58,
+    seat: true,
+    walkable: false,
+    stackable: false
+  },
+  "rug-sand-warm": {
+    label: "Tapis Sable",
+    category: "decor",
+    width: 2,
+    depth: 2,
+    height: 0,
+    drawWidth: 110,
+    drawHeight: 52,
+    walkable: true,
+    stackable: false
+  },
+  "shelf-tiki-drinks": {
+    label: "Étagère Tiki Drinks",
+    category: "tiki",
+    width: 2,
+    depth: 1,
+    height: 2,
+    drawWidth: 96,
+    drawHeight: 84,
+    walkable: false,
+    stackable: false,
+    surface: true
+  }
+};
+
+export function getEtherRoomFurnitureDefinition(type: string) {
+  return ETHER_ROOM_FURNITURE_REGISTRY[type] ?? null;
+}

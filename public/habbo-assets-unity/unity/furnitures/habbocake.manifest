@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2166483613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d285d75b50e1cb56a728d271a5e1e28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbocake/flash/habbocake_64_b_0_4.png
+- Assets/Live/habbocake/flash/habbocake_icon_a.png
+- Assets/Live/habbocake/flash/index.xml
+- Assets/Live/habbocake/flash/manifest.xml
+- Assets/Live/habbocake/flash/habbocake_64_b_0_1.png
+- Assets/Live/habbocake/habbocake.xml
+- Assets/Live/habbocake/flash/habbocake_64_a_0_0.png
+- Assets/Live/habbocake/flash/habbocake_64_b_0_0.png
+- Assets/Live/habbocake/flash/habbocake_64_c_0_1.png
+- Assets/Live/habbocake/flash/habbocake_64_b_0_3.png
+- Assets/Live/habbocake/flash/habbocake_64_b_0_2.png
+- Assets/Live/habbocake/flash/habbocake_64_c_0_0.png
+- Assets/Live/habbocake/flash/habbocake_64_sd_0_0.png
+- Assets/Live/habbocake/flash/habbocake_logic.xml
+- Assets/Live/habbocake/flash/habbocake_visualization.xml
+- Assets/Live/habbocake/flash/habbocake_assets.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3095226755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18363a6e73bd286aa7744e3ca6dc5950
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_gate/flash/jp_gate_64_b_0_0.png
+- Assets/Live/jp_gate/jp_gate.xml
+- Assets/Live/jp_gate/flash/jp_gate_assets.xml
+- Assets/Live/jp_gate/flash/jp_gate_64_c_0_0.png
+- Assets/Live/jp_gate/flash/jp_gate_visualization.xml
+- Assets/Live/jp_gate/flash/jp_gate_64_c_0_1.png
+- Assets/Live/jp_gate/flash/index.xml
+- Assets/Live/jp_gate/flash/manifest.xml
+- Assets/Live/jp_gate/flash/jp_gate_64_b_0_1.png
+- Assets/Live/jp_gate/flash/jp_gate_logic.xml
+- Assets/Live/jp_gate/flash/jp_gate_64_a_0_0.png
+- Assets/Live/jp_gate/flash/jp_gate_icon_a.png
+Dependencies: []

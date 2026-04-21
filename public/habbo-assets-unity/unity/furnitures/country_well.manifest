@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2437345107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f14f865935d9a296474b1ec9b3fe2e55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_well/flash/index.xml
+- Assets/Live/country_well/flash/country_well_assets.xml
+- Assets/Live/country_well/flash/country_well_icon_a.png
+- Assets/Live/country_well/flash/manifest.xml
+- Assets/Live/country_well/flash/country_well_64_a_2_1.png
+- Assets/Live/country_well/flash/country_well_visualization.xml
+- Assets/Live/country_well/flash/country_well_64_a_2_0.png
+- Assets/Live/country_well/flash/country_well_logic.xml
+- Assets/Live/country_well/flash/country_well_64_sd_2_0.png
+- Assets/Live/country_well/country_well.xml
+Dependencies: []

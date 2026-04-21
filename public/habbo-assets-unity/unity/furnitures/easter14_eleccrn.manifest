@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 334794667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4770e1e01754536cc1c265a3db7f243
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_4_4.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_0_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_6_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_6_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_2_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_6_4.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_2_3.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_4_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_0_2.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_4_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_visualization.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_0_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_0_4.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_logic.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_6_3.png
+- Assets/Live/easter14_eleccrn/easter14_eleccrn.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_6_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_6_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_2_4.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_2_0.png
+- Assets/Live/easter14_eleccrn/flash/index.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_2_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_0_1.png
+- Assets/Live/easter14_eleccrn/flash/manifest.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_4_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_4_2.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_icon_a.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_2_1.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_a_0_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_0_3.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_assets.xml
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_4_0.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_6_2.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_4_3.png
+- Assets/Live/easter14_eleccrn/flash/easter14_eleccrn_64_b_2_2.png
+Dependencies: []

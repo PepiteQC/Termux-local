@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1515620488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0d9753e9dca4185a67d531ba9560957
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_64_a_0_0.png
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_64_a_0_1.png
+- Assets/Live/bathroom_toiletroll/bathroom_toiletroll.xml
+- Assets/Live/bathroom_toiletroll/flash/index.xml
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_icon_a.png
+- Assets/Live/bathroom_toiletroll/flash/manifest.xml
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_64_sd_0_0.png
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_visualization.xml
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_logic.xml
+- Assets/Live/bathroom_toiletroll/flash/bathroom_toiletroll_assets.xml
+Dependencies: []

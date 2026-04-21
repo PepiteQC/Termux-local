@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3844858155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6340003bd58a530226af9394b540448
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_mittens/flash/clothing_mittens_visualization.xml
+- Assets/Live/clothing_mittens/clothing_mittens.xml
+- Assets/Live/clothing_mittens/flash/clothing_mittens_64_a_0_0.png
+- Assets/Live/clothing_mittens/flash/index.xml
+- Assets/Live/clothing_mittens/flash/clothing_mittens_icon_a.png
+- Assets/Live/clothing_mittens/flash/clothing_mittens_logic.xml
+- Assets/Live/clothing_mittens/flash/manifest.xml
+- Assets/Live/clothing_mittens/flash/clothing_mittens_assets.xml
+Dependencies: []

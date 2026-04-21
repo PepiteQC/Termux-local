@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3031241652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0f1c8e170fce1330f9440c81643c490
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_grandsari/flash/index.xml
+- Assets/Live/clothing_grandsari/flash/clothing_grandsari_assets.xml
+- Assets/Live/clothing_grandsari/flash/clothing_grandsari_logic.xml
+- Assets/Live/clothing_grandsari/flash/clothing_grandsari_64_a_0_0.png
+- Assets/Live/clothing_grandsari/flash/manifest.xml
+- Assets/Live/clothing_grandsari/flash/clothing_grandsari_visualization.xml
+- Assets/Live/clothing_grandsari/flash/clothing_grandsari_icon_a.png
+- Assets/Live/clothing_grandsari/clothing_grandsari.xml
+Dependencies: []

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1927419207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7042c9450564f23261834d69108e429a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_charts/flash/school_charts_64_b_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_4_0.png
+- Assets/Live/school_charts/flash/school_charts_logic.xml
+- Assets/Live/school_charts/flash/school_charts_64_a_school-charts_icon_a.png
+- Assets/Live/school_charts/flash/school_charts_64_b_2_1.png
+- Assets/Live/school_charts/flash/school_charts_icon_a.png
+- Assets/Live/school_charts/flash/school_charts_visualization.xml
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_a_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_b_4_2.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_2_1.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_4_2.png
+- Assets/Live/school_charts/flash/school_charts_64_a_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_2_2.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_4_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_4_1.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_4_2.png
+- Assets/Live/school_charts/school_charts.xml
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_a_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_b_2_2.png
+- Assets/Live/school_charts/flash/school_charts_64_b_2_2.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_2_1.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_a_4_0.png
+- Assets/Live/school_charts/flash/school_charts_64_b_4_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_4_0.png
+- Assets/Live/school_charts/flash/index.xml
+- Assets/Live/school_charts/flash/school_charts_assets.xml
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_2_0.png
+- Assets/Live/school_charts/flash/school_charts_64_a_64_school-charts_64_b_4_1.png
+- Assets/Live/school_charts/flash/school_charts_64_b_4_1.png
+- Assets/Live/school_charts/flash/manifest.xml
+- Assets/Live/school_charts/flash/school_charts_64_a_32_school-charts_32_a_4_0.png
+Dependencies: []

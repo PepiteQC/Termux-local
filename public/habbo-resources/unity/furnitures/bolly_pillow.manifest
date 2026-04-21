@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 740905636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afe94c5fbca403a821f96be36a8922da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bolly_pillow/flash/bolly_pillow_64_sd_0_0.png
+- Assets/Live/bolly_pillow/flash/bolly_pillow_visualization.xml
+- Assets/Live/bolly_pillow/flash/bolly_pillow_assets.xml
+- Assets/Live/bolly_pillow/bolly_pillow.xml
+- Assets/Live/bolly_pillow/flash/index.xml
+- Assets/Live/bolly_pillow/flash/bolly_pillow_64_a_0_0.png
+- Assets/Live/bolly_pillow/flash/bolly_pillow_icon_a.png
+- Assets/Live/bolly_pillow/flash/manifest.xml
+- Assets/Live/bolly_pillow/flash/bolly_pillow_logic.xml
+Dependencies: []

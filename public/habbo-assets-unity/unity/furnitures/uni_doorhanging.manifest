@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1774409372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2f3d2e2253ab39e96e24c4d5e04db0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_0_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_2_3.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_icon_a.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_0_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_0_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_visualization.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_6_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_6_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_6_3.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_4_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_2_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_4_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_sd_0_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_0_0.png
+- Assets/Live/uni_doorhanging/uni_doorhanging.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_sd_4_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_4_3.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_2_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_0_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_4_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_6_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_sd_2_0.png
+- Assets/Live/uni_doorhanging/flash/index.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_4_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_4_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_6_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_6_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_0_3.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_4_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_2_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_4_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_0_2.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_6_2.png
+- Assets/Live/uni_doorhanging/flash/manifest.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_6_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_logic.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_2_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_assets.xml
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_2_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_6_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_a_0_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_2_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_0_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_2_1.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_b_2_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_sd_6_0.png
+- Assets/Live/uni_doorhanging/flash/uni_doorhanging_64_c_4_1.png
+Dependencies: []

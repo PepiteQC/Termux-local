@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1086474703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 011a76f8aa3e7dfe9668c7eff68f8f62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter11_basket/flash/easter11_basket_64_a_0_1.png
+- Assets/Live/easter11_basket/flash/easter11_basket_logic.xml
+- Assets/Live/easter11_basket/flash/easter11_basket_64_sd_0_0.png
+- Assets/Live/easter11_basket/flash/index.xml
+- Assets/Live/easter11_basket/flash/manifest.xml
+- Assets/Live/easter11_basket/flash/easter11_basket_visualization.xml
+- Assets/Live/easter11_basket/easter11_basket.xml
+- Assets/Live/easter11_basket/flash/easter11_basket_64_a_0_0.png
+- Assets/Live/easter11_basket/flash/easter11_basket_icon_a.png
+- Assets/Live/easter11_basket/flash/easter11_basket_assets.xml
+Dependencies: []

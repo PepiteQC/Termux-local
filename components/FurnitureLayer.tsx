@@ -7,8 +7,10 @@ import { FurniturePreview } from "./FurniturePreview";
 import { TouchButton } from "./ui/TouchButton";
 import { canPlaceFurniture } from "../lib/furniture/FurnitureCollision";
 import { FurnitureEngine } from "../lib/furniture/FurnitureEngine";
-import { getFurnitureDefinition, FURNITURE_ORDER } from "../lib/furniture/FurnitureRegistry";
+import { FURNITURE_ORDER, getFurnitureDefinition } from "../lib/furniture/FurnitureRegistry";
 import {
+  type AvatarDirection,
+  type AvatarRenderLayer,
   drawAvatarSprite,
   drawFloorGrid,
   drawFurnitureItem,
@@ -33,30 +35,54 @@ import {
   removeFurniture,
   subscribeToRoomFurnitures
 } from "../lib/firebase/firestore";
-import { OptimizedIsoEngine } from "../lib/iso/OptimizedIsoEngine";
-import { isoToScreen, type ProjectionConfig } from "../lib/iso/isoToScreen";
-import { buildPathCollisionMap, findPath } from "../lib/iso/pathfinding";
 import {
   resolveFurnitureParticleEffect,
   resolveFurnitureVisualState
 } from "../lib/furniture/FurnitureVisuals";
+import { OptimizedIsoEngine } from "../lib/iso/OptimizedIsoEngine";
+import { isoToScreen, type ProjectionConfig } from "../lib/iso/isoToScreen";
+import { buildPathCollisionMap, findPath } from "../lib/iso/pathfinding";
+
+type InventoryItem = {
+  id: string;
+  name: string;
+  path: string;
+  category: string;
+  meta?: string;
+};
 
 type FurnitureLayerProps = {
   roomId: string;
   roomName: string;
-  avatarLayers?: string[];
+  avatarLayers?: AvatarRenderLayer[];
+  inventoryItems?: InventoryItem[];
   onAvatarInteract?: () => void;
+  onInventorySelect?: (itemId: string) => void;
 };
 
 const ROOM_WIDTH = 12;
 const ROOM_DEPTH = 12;
 const DEFAULT_AVATAR_TILE = { x: 9, y: 0, z: 9 };
 
+function isFurnitureType(value: string): value is FurnitureType {
+  return FURNITURE_ORDER.includes(value as FurnitureType);
+}
+
+function resolveAvatarDirection(dx: number, dz: number): AvatarDirection {
+  if (Math.abs(dx) >= Math.abs(dz)) {
+    return dx >= 0 ? "east" : "west";
+  }
+
+  return dz >= 0 ? "south" : "north";
+}
+
 export function FurnitureLayer({
   roomId,
   roomName,
-  avatarLayers = ["/sprites/avatar/avatar-ether.png"],
-  onAvatarInteract
+  avatarLayers = [{ path: "/sprites/avatar/avatar-ether.png" }],
+  inventoryItems = [],
+  onAvatarInteract,
+  onInventorySelect
 }: FurnitureLayerProps) {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const pointerStartRef = useRef<{ x: number; y: number } | null>(null);
@@ -73,7 +99,9 @@ export function FurnitureLayer({
   const [avatarImages, setAvatarImages] = useState<Record<string, HTMLImageElement>>({});
   const [avatarTile, setAvatarTile] = useState(DEFAULT_AVATAR_TILE);
   const [avatarPath, setAvatarPath] = useState<Array<{ x: number; z: number }>>([]);
+  const [avatarDirection, setAvatarDirection] = useState<AvatarDirection>("south");
   const [avatarFocus, setAvatarFocus] = useState(false);
+  const [dragInventoryType, setDragInventoryType] = useState<FurnitureType | null>(null);
   const [renderTick, setRenderTick] = useState(0);
   const [isPending, startTransition] = useTransition();
   const engineRef = useRef<FurnitureEngine | null>(null);
@@ -89,6 +117,13 @@ export function FurnitureLayer({
   );
 
   const selectedFurniture = furnitures.find((item) => item.id === selectedId) ?? null;
+  const inventoryCatalog = useMemo(
+    () =>
+      inventoryItems.filter(
+        (item): item is InventoryItem & { id: FurnitureType } => isFurnitureType(item.id)
+      ),
+    [inventoryItems]
+  );
 
   useEffect(() => {
     void loadFurnitureSprites(FURNITURE_ORDER).then(setImages);
@@ -101,7 +136,9 @@ export function FurnitureLayer({
   useEffect(() => {
     setAvatarTile(DEFAULT_AVATAR_TILE);
     setAvatarPath([]);
+    setAvatarDirection("south");
     setAvatarFocus(false);
+    setDragInventoryType(null);
   }, [roomId]);
 
   useEffect(() => {
@@ -120,11 +157,14 @@ export function FurnitureLayer({
 
     const timeout = window.setTimeout(() => {
       const [next, ...rest] = avatarPath;
-      setAvatarTile((current) => ({
-        ...current,
-        x: next.x,
-        z: next.z
-      }));
+      setAvatarTile((current) => {
+        setAvatarDirection(resolveAvatarDirection(next.x - current.x, next.z - current.z));
+        return {
+          ...current,
+          x: next.x,
+          z: next.z
+        };
+      });
       setAvatarPath(rest);
       setSyncState(rest.length === 0 ? "arrived" : "walking");
     }, 110);
@@ -246,11 +286,17 @@ export function FurnitureLayer({
       );
     });
 
-    drawAvatarSprite(ctx, projection, avatarTile, avatarLayers, avatarImages, avatarFocus);
+    drawAvatarSprite(ctx, projection, avatarTile, avatarLayers, avatarImages, avatarFocus, {
+      direction: avatarDirection,
+      walking: avatarPath.length > 0,
+      tick: renderTick
+    });
   }, [
+    avatarDirection,
     avatarFocus,
     avatarImages,
     avatarLayers,
+    avatarPath.length,
     avatarTile,
     canvasSize.height,
     canvasSize.width,
@@ -280,6 +326,199 @@ export function FurnitureLayer({
       setPreview(null);
     }
   }, [buildMode, furnitures, hoveredId, hoverTile, selectedId, selectedType]);
+
+  const handleDelete = async (id: string) => {
+    startTransition(() => {
+      void removeFurniture(roomId, id)
+        .then(() => {
+          setSelectedId(null);
+          setSyncState("deleted");
+        })
+        .catch(() => setSyncState("error"));
+    });
+  };
+
+  const handleRotatePreview = () => {
+    const current = engineRef.current;
+    if (!current) {
+      return;
+    }
+
+    current.rotateClockwise();
+    if (hoverTile) {
+      setPreview(current.buildPreview({ x: hoverTile.x, y: 0, z: hoverTile.z }, furnitures));
+    }
+  };
+
+  const handleRotateSelected = async () => {
+    if (!selectedFurniture) {
+      return;
+    }
+
+    const rotated: FurniturePlacement = {
+      ...selectedFurniture,
+      rotation: ((selectedFurniture.rotation + 1) % 4) as FurnitureRotation,
+      updatedAt: new Date().toISOString()
+    };
+    const validation = canPlaceFurniture(
+      rotated,
+      furnitures,
+      ROOM_WIDTH,
+      ROOM_DEPTH,
+      selectedFurniture.id
+    );
+
+    if (!validation.valid) {
+      setSyncState(validation.reason ?? "blocked");
+      return;
+    }
+
+    startTransition(() => {
+      void persistFurniture({ roomId, furniture: rotated })
+        .then(() => setSyncState("rotated"))
+        .catch(() => setSyncState("error"));
+    });
+  };
+
+  const armInventoryType = (type: FurnitureType) => {
+    setSelectedType(type);
+    setSelectedId(null);
+    setBuildMode(true);
+    setSyncState(`build-${type}`);
+    onInventorySelect?.(type);
+  };
+
+  const refreshPreviewAt = (localX: number, localY: number) => {
+    const current = engineRef.current;
+    if (!current) {
+      return;
+    }
+
+    const tile = current.screenToTile({ x: localX, y: localY });
+    setHoverTile({ x: tile.x, z: tile.z });
+
+    const picked = current.pickFurnitureAtPoint({ x: localX, y: localY }, furnitures, projection);
+    setHoveredId(picked?.id ?? null);
+
+    if (buildMode) {
+      setPreview(current.buildPreview(tile, furnitures));
+    }
+  };
+
+  const placeFurnitureTypeAtTile = (type: FurnitureType, tile: { x: number; z: number }) => {
+    const current = engineRef.current;
+    if (!current) {
+      return;
+    }
+
+    armInventoryType(type);
+    current.setSelectedType(type);
+    const placement = current.createPlacement(crypto.randomUUID(), { x: tile.x, y: 0, z: tile.z });
+    if (!placement) {
+      return;
+    }
+
+    const validation = canPlaceFurniture(placement, furnitures, ROOM_WIDTH, ROOM_DEPTH);
+    if (!validation.valid) {
+      setPreview({
+        type: placement.type,
+        tile: { x: tile.x, y: 0, z: tile.z },
+        rotation: placement.rotation,
+        valid: false,
+        reason: validation.reason
+      });
+      setSyncState(validation.reason ?? "blocked");
+      return;
+    }
+
+    startTransition(() => {
+      void persistFurniture({ roomId, furniture: placement })
+        .then((saved) => {
+          setSelectedId(saved.id);
+          setSyncState("saved");
+        })
+        .catch(() => setSyncState("error"));
+    });
+  };
+
+  const moveAvatarToTile = (targetX: number, targetZ: number) => {
+    const collisionMap = buildPathCollisionMap(furnitures);
+    if (!collisionMap.isWalkable(targetX, targetZ)) {
+      setSyncState("tile-blocked");
+      return;
+    }
+
+    const start =
+      avatarPath.length > 0 ? avatarPath[avatarPath.length - 1] : { x: avatarTile.x, z: avatarTile.z };
+    const path = findPath(
+      { x: start.x, y: start.z },
+      { x: targetX, y: targetZ },
+      collisionMap
+    );
+
+    if (path.length === 0) {
+      if (targetX === avatarTile.x && targetZ === avatarTile.z) {
+        setAvatarFocus(true);
+      } else {
+        setSyncState("no-path");
+      }
+      return;
+    }
+
+    setSelectedId(null);
+    setBuildMode(false);
+    setAvatarPath(path.map((step) => ({ x: step.x, z: step.y })));
+    setSyncState("walking");
+  };
+
+  const handleStepMove = (dx: number, dz: number) => {
+    const base =
+      avatarPath.length > 0 ? avatarPath[avatarPath.length - 1] : { x: avatarTile.x, z: avatarTile.z };
+    setAvatarDirection(resolveAvatarDirection(dx, dz));
+    moveAvatarToTile(base.x + dx, base.z + dz);
+  };
+
+  const isAvatarHit = (localX: number, localY: number) => {
+    const anchor = isoToScreen(avatarTile.x + 0.5, avatarTile.y, avatarTile.z + 0.5, projection);
+    const drawWidth = 84;
+    const drawHeight = 112;
+    const left = anchor.x - drawWidth / 2;
+    const top = anchor.y - drawHeight + 6;
+    return localX >= left && localX <= left + drawWidth && localY >= top && localY <= top + drawHeight;
+  };
+
+  const handleCanvasActivate = async (localX: number, localY: number) => {
+    const current = engineRef.current;
+    if (!current) {
+      return;
+    }
+
+    const point = { x: localX, y: localY };
+
+    if (isAvatarHit(localX, localY)) {
+      setAvatarFocus(true);
+      setBuildMode(false);
+      setSelectedId(null);
+      onAvatarInteract?.();
+      return;
+    }
+
+    const picked = current.pickFurnitureAtPoint(point, furnitures, projection);
+    if (picked) {
+      setSelectedId(picked.id);
+      setBuildMode(false);
+      return;
+    }
+
+    const tile = current.screenToTile(point);
+
+    if (!buildMode || !selectedType) {
+      moveAvatarToTile(tile.x, tile.z);
+      return;
+    }
+
+    placeFurnitureTypeAtTile(selectedType, { x: tile.x, z: tile.z });
+  };
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -314,177 +553,7 @@ export function FurnitureLayer({
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [selectedFurniture, selectedId, selectedType, furnitures, avatarTile, avatarPath]);
-
-  const isAvatarHit = (localX: number, localY: number) => {
-    const anchor = isoToScreen(avatarTile.x + 0.5, avatarTile.y, avatarTile.z + 0.5, projection);
-    const drawWidth = 84;
-    const drawHeight = 112;
-    const left = anchor.x - drawWidth / 2;
-    const top = anchor.y - drawHeight + 6;
-    return localX >= left && localX <= left + drawWidth && localY >= top && localY <= top + drawHeight;
-  };
-
-  const refreshPreviewAt = (localX: number, localY: number) => {
-    const current = engineRef.current;
-    if (!current) {
-      return;
-    }
-
-    const tile = current.screenToTile({ x: localX, y: localY });
-    setHoverTile({ x: tile.x, z: tile.z });
-
-    const picked = current.pickFurnitureAtPoint({ x: localX, y: localY }, furnitures, projection);
-    setHoveredId(picked?.id ?? null);
-
-    if (buildMode) {
-      setPreview(current.buildPreview(tile, furnitures));
-    }
-  };
-
-  const moveAvatarToTile = (targetX: number, targetZ: number) => {
-    const collisionMap = buildPathCollisionMap(furnitures);
-    if (!collisionMap.isWalkable(targetX, targetZ)) {
-      setSyncState("tile-blocked");
-      return;
-    }
-
-    const start = avatarPath.length > 0 ? avatarPath[avatarPath.length - 1] : { x: avatarTile.x, z: avatarTile.z };
-    const path = findPath(
-      { x: start.x, y: start.z },
-      { x: targetX, y: targetZ },
-      collisionMap
-    );
-
-    if (path.length === 0) {
-      if (targetX === avatarTile.x && targetZ === avatarTile.z) {
-        setAvatarFocus(true);
-      } else {
-        setSyncState("no-path");
-      }
-      return;
-    }
-
-    setSelectedId(null);
-    setBuildMode(false);
-    setAvatarPath(path.map((step) => ({ x: step.x, z: step.y })));
-    setSyncState("walking");
-  };
-
-  const handleCanvasActivate = async (localX: number, localY: number) => {
-    const current = engineRef.current;
-    if (!current) {
-      return;
-    }
-
-    const point = { x: localX, y: localY };
-
-    if (isAvatarHit(localX, localY)) {
-      setAvatarFocus(true);
-      setBuildMode(false);
-      setSelectedId(null);
-      onAvatarInteract?.();
-      return;
-    }
-
-    const picked = current.pickFurnitureAtPoint(point, furnitures, projection);
-    if (picked) {
-      setSelectedId(picked.id);
-      setBuildMode(false);
-      return;
-    }
-
-    const tile = current.screenToTile(point);
-
-    if (!buildMode || !selectedType) {
-      moveAvatarToTile(tile.x, tile.z);
-      return;
-    }
-
-    const placement = current.createPlacement(crypto.randomUUID(), tile);
-    if (!placement) {
-      return;
-    }
-
-    const validation = canPlaceFurniture(placement, furnitures, ROOM_WIDTH, ROOM_DEPTH);
-    if (!validation.valid) {
-      setPreview({
-        type: placement.type,
-        tile,
-        rotation: placement.rotation,
-        valid: false,
-        reason: validation.reason
-      });
-      return;
-    }
-
-    startTransition(() => {
-      void persistFurniture({ roomId, furniture: placement })
-        .then((saved) => {
-          setSelectedId(saved.id);
-          setSyncState("saved");
-        })
-        .catch(() => setSyncState("error"));
-    });
-  };
-
-  const handleDelete = async (id: string) => {
-    startTransition(() => {
-      void removeFurniture(roomId, id)
-        .then(() => {
-          setSelectedId(null);
-          setSyncState("deleted");
-        })
-        .catch(() => setSyncState("error"));
-    });
-  };
-
-  const handleRotateSelected = async () => {
-    if (!selectedFurniture) {
-      return;
-    }
-
-    const rotated: FurniturePlacement = {
-      ...selectedFurniture,
-      rotation: ((selectedFurniture.rotation + 1) % 4) as FurnitureRotation,
-      updatedAt: new Date().toISOString()
-    };
-    const validation = canPlaceFurniture(
-      rotated,
-      furnitures,
-      ROOM_WIDTH,
-      ROOM_DEPTH,
-      selectedFurniture.id
-    );
-
-    if (!validation.valid) {
-      setSyncState(validation.reason ?? "blocked");
-      return;
-    }
-
-    startTransition(() => {
-      void persistFurniture({ roomId, furniture: rotated })
-        .then(() => setSyncState("rotated"))
-        .catch(() => setSyncState("error"));
-    });
-  };
-
-  const handleRotatePreview = () => {
-    const current = engineRef.current;
-    if (!current) {
-      return;
-    }
-
-    current.rotateClockwise();
-    if (hoverTile) {
-      setPreview(current.buildPreview({ x: hoverTile.x, y: 0, z: hoverTile.z }, furnitures));
-    }
-  };
-
-  const handleStepMove = (dx: number, dz: number) => {
-    const base = avatarPath.length > 0 ? avatarPath[avatarPath.length - 1] : { x: avatarTile.x, z: avatarTile.z };
-    moveAvatarToTile(base.x + dx, base.z + dz);
-  };
+  }, [avatarPath, avatarTile, selectedFurniture, selectedId, selectedType]);
 
   return (
     <>
@@ -507,6 +576,32 @@ export function FurnitureLayer({
             if (id) {
               void handleDelete(id);
             }
+          }}
+          onDragOver={(event) => {
+            event.preventDefault();
+            const rect = event.currentTarget.getBoundingClientRect();
+            const localX = event.clientX - rect.left;
+            const localY = event.clientY - rect.top;
+            refreshPreviewAt(localX, localY);
+          }}
+          onDrop={(event) => {
+            event.preventDefault();
+            const typeId = event.dataTransfer.getData("application/etherworld-furniture");
+            setDragInventoryType(null);
+            if (!isFurnitureType(typeId)) {
+              return;
+            }
+
+            const rect = event.currentTarget.getBoundingClientRect();
+            const localX = event.clientX - rect.left;
+            const localY = event.clientY - rect.top;
+            const current = engineRef.current;
+            if (!current) {
+              return;
+            }
+
+            const tile = current.screenToTile({ x: localX, y: localY });
+            placeFurnitureTypeAtTile(typeId, { x: tile.x, z: tile.z });
           }}
           onPointerDown={(event) => {
             const rect = event.currentTarget.getBoundingClientRect();
@@ -551,8 +646,9 @@ export function FurnitureLayer({
           <div className="stat-pill">
             Avatar {avatarTile.x},{avatarTile.z}
           </div>
+          <div className="stat-pill">Facing {avatarDirection}</div>
           <div className="stat-pill">
-            Selection {selectedFurniture ? getFurnitureDefinition(selectedFurniture.type).label : "none"}
+            Selection {selectedFurniture ? getFurnitureDefinition(selectedFurniture.type).label : selectedType ?? "none"}
           </div>
           <TouchButton
             onClick={() => setBuildMode((current) => !current)}
@@ -601,6 +697,38 @@ export function FurnitureLayer({
             <div />
           </div>
         </div>
+
+        <div className="ew-inventory-dock glass-panel">
+          <div className="ew-inventory-head">
+            <span className="badge mono">In-room inventory</span>
+            <span className="muted">Drag on desktop, tap then place on mobile.</span>
+          </div>
+          <div className="ew-inventory-strip">
+            {inventoryCatalog.map((item) => {
+              const active = selectedType === item.id || dragInventoryType === item.id;
+              return (
+                <button
+                  key={item.id}
+                  type="button"
+                  draggable
+                  className={`ew-inventory-card ${active ? "active" : ""}`}
+                  onClick={() => armInventoryType(item.id)}
+                  onDragStart={(event) => {
+                    setDragInventoryType(item.id);
+                    armInventoryType(item.id);
+                    event.dataTransfer.effectAllowed = "copy";
+                    event.dataTransfer.setData("application/etherworld-furniture", item.id);
+                  }}
+                  onDragEnd={() => setDragInventoryType(null)}
+                >
+                  <img src={item.path} alt={item.name} />
+                  <strong>{item.name}</strong>
+                  <span>{item.meta ?? item.category}</span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
       </section>
 
       <FurnitureControls
@@ -615,6 +743,9 @@ export function FurnitureLayer({
           setSelectedType(type);
           setBuildMode(Boolean(type));
           setSelectedId(null);
+          if (type) {
+            onInventorySelect?.(type);
+          }
         }}
         onToggleBuildMode={() => setBuildMode((current) => !current)}
       />

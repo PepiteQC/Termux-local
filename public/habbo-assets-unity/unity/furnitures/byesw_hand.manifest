@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1683663865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9bb52442e769799f93906ae1eef94ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/byesw_hand/flash/byesw_hand_64_a_4_0.png
+- Assets/Live/byesw_hand/flash/index.xml
+- Assets/Live/byesw_hand/flash/byesw_hand_64_b_4_1.png
+- Assets/Live/byesw_hand/flash/byesw_hand_64_b_4_0.png
+- Assets/Live/byesw_hand/flash/byesw_hand_64_a_0_1.png
+- Assets/Live/byesw_hand/flash/byesw_hand_64_b_0_0.png
+- Assets/Live/byesw_hand/flash/byesw_hand_icon_a.png
+- Assets/Live/byesw_hand/flash/byesw_hand_64_a_0_0.png
+- Assets/Live/byesw_hand/flash/byesw_hand_logic.xml
+- Assets/Live/byesw_hand/flash/byesw_hand_64_a_4_1.png
+- Assets/Live/byesw_hand/flash/byesw_hand_64_b_0_1.png
+- Assets/Live/byesw_hand/byesw_hand.xml
+- Assets/Live/byesw_hand/flash/byesw_hand_assets.xml
+- Assets/Live/byesw_hand/flash/byesw_hand_64_sd_0_0.png
+- Assets/Live/byesw_hand/flash/byesw_hand_visualization.xml
+- Assets/Live/byesw_hand/flash/manifest.xml
+Dependencies: []

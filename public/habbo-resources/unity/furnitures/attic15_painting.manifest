@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4009604864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 481d035684ffec8e794cfb4af64a3a12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_painting/flash/attic15_painting_visualization.xml
+- Assets/Live/attic15_painting/flash/attic15_painting_icon_a.png
+- Assets/Live/attic15_painting/attic15_painting.xml
+- Assets/Live/attic15_painting/flash/index.xml
+- Assets/Live/attic15_painting/flash/attic15_painting_logic.xml
+- Assets/Live/attic15_painting/flash/manifest.xml
+- Assets/Live/attic15_painting/flash/attic15_painting_64_a_2_0.png
+- Assets/Live/attic15_painting/flash/attic15_painting_assets.xml
+Dependencies: []

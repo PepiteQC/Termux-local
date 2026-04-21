@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1798926133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d8130c4e6be4d5069b13b8fe2e3c59b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_assets.xml
+- Assets/Live/dimmer_fuse2/flash/index.xml
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_logic.xml
+- Assets/Live/dimmer_fuse2/dimmer_fuse2.xml
+- Assets/Live/dimmer_fuse2/flash/manifest.xml
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_64_a_2_1.png
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_icon_a.png
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_64_b_2_0.png
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_64_a_2_0.png
+- Assets/Live/dimmer_fuse2/flash/dimmer_fuse2_visualization.xml
+Dependencies: []

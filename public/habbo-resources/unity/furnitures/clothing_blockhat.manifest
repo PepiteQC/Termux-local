@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3404112882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bb351a7fa37c3827f427f5260169ebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_blockhat/flash/manifest.xml
+- Assets/Live/clothing_blockhat/clothing_blockhat.xml
+- Assets/Live/clothing_blockhat/flash/clothing_blockhat_64_a_0_0.png
+- Assets/Live/clothing_blockhat/flash/index.xml
+- Assets/Live/clothing_blockhat/flash/clothing_blockhat_icon_a.png
+- Assets/Live/clothing_blockhat/flash/clothing_blockhat_visualization.xml
+- Assets/Live/clothing_blockhat/flash/clothing_blockhat_logic.xml
+- Assets/Live/clothing_blockhat/flash/clothing_blockhat_assets.xml
+Dependencies: []

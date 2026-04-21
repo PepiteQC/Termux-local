@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3175640392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e57e6233117a928299b0d0d2ea84729
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_puppyacc/flash/clothing_r19_puppyacc_visualization.xml
+- Assets/Live/clothing_r19_puppyacc/flash/manifest.xml
+- Assets/Live/clothing_r19_puppyacc/flash/clothing_r19_puppyacc_logic.xml
+- Assets/Live/clothing_r19_puppyacc/flash/clothing_r19_puppyacc_icon_a.png
+- Assets/Live/clothing_r19_puppyacc/clothing_r19_puppyacc.xml
+- Assets/Live/clothing_r19_puppyacc/flash/clothing_r19_puppyacc_assets.xml
+- Assets/Live/clothing_r19_puppyacc/flash/clothing_r19_puppyacc_64_a_0_0.png
+- Assets/Live/clothing_r19_puppyacc/flash/index.xml
+Dependencies: []

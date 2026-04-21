@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3254233057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c7efb4202ec7da0453754a91e026419
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_64_sd_0_0.png
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_visualization.xml
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_assets.xml
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_icon_a.png
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_logic.xml
+- Assets/Live/spa_c20_crackable2B/flash/index.xml
+- Assets/Live/spa_c20_crackable2B/flash/spa_c20_crackable2B_64_a_0_0.png
+- Assets/Live/spa_c20_crackable2B/flash/manifest.xml
+- Assets/Live/spa_c20_crackable2B/spa_c20_crackable2B.xml
+Dependencies: []

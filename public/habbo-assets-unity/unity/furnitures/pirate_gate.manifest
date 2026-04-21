@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2902451341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b79a0097399ebe8935dbda5f3484204
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_gate/flash/pirate_gate_64_b_4_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_6_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_d_6_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_b_0_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_6_1.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_a_0_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_4_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_0_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_assets.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_d_4_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_4_1.png
+- Assets/Live/pirate_gate/flash/pirate_gate_logic.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_d_2_0.png
+- Assets/Live/pirate_gate/flash/manifest.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_2_1.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_d_0_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_c_2_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_c_0_0.png
+- Assets/Live/pirate_gate/flash/index.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_b_6_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_icon_a.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_0_1.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_b_2_0.png
+- Assets/Live/pirate_gate/pirate_gate.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_e_2_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_64_c_4_0.png
+- Assets/Live/pirate_gate/flash/pirate_gate_visualization.xml
+- Assets/Live/pirate_gate/flash/pirate_gate_64_c_6_0.png
+Dependencies: []

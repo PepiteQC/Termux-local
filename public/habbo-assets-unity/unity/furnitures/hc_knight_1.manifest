@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2073042499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3212f17c2cc02f9f64fc5919e6d5ed62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_knight_1/flash/manifest.xml
+- Assets/Live/hc_knight_1/flash/hc_knight_1_64_a_0_0.png
+- Assets/Live/hc_knight_1/flash/hc_knight_1_visualization.xml
+- Assets/Live/hc_knight_1/flash/hc_knight_1_assets.xml
+- Assets/Live/hc_knight_1/flash/index.xml
+- Assets/Live/hc_knight_1/flash/hc_knight_1_icon_a.png
+- Assets/Live/hc_knight_1/flash/hc_knight_1_logic.xml
+- Assets/Live/hc_knight_1/hc_knight_1.xml
+- Assets/Live/hc_knight_1/flash/hc_knight_1_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4166809389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7db40c65c2ad89205ac797c448a2ee2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_icon_a.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_d_0_1.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_d_0_0.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_d_0_2.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_c_0_0.png
+- Assets/Live/lostc_merdragon/flash/index.xml
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_d_0_3.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_d_0_4.png
+- Assets/Live/lostc_merdragon/flash/manifest.xml
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_assets.xml
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_logic.xml
+- Assets/Live/lostc_merdragon/lostc_merdragon.xml
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_sd_0_0.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_a_0_0.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_64_b_0_0.png
+- Assets/Live/lostc_merdragon/flash/lostc_merdragon_visualization.xml
+Dependencies: []

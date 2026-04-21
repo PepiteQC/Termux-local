@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2674657801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72fb01c33d0bab6450c82c44dc421d90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_logic.xml
+- Assets/Live/pixel_plantpink/flash/manifest.xml
+- Assets/Live/pixel_plantpink/pixel_plantpink.xml
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_64_sd_0_0.png
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_64_a_0_0.png
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_assets.xml
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_visualization.xml
+- Assets/Live/pixel_plantpink/flash/index.xml
+- Assets/Live/pixel_plantpink/flash/pixel_plantpink_icon_a.png
+Dependencies: []

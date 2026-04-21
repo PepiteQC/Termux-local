@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1893668892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2c009028882142ad434617b170f75b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_flour/flash/easter_c17_flour_logic.xml
+- Assets/Live/easter_c17_flour/flash/easter_c17_flour_assets.xml
+- Assets/Live/easter_c17_flour/flash/manifest.xml
+- Assets/Live/easter_c17_flour/easter_c17_flour.xml
+- Assets/Live/easter_c17_flour/flash/index.xml
+- Assets/Live/easter_c17_flour/flash/easter_c17_flour_64_a_0_0.png
+- Assets/Live/easter_c17_flour/flash/easter_c17_flour_icon_a.png
+- Assets/Live/easter_c17_flour/flash/easter_c17_flour_visualization.xml
+Dependencies: []

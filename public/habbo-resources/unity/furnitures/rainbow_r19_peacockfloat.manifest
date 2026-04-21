@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 137343379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cd63928008c8dcfab12d9d770d3669b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_d_4_1.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_a_4_0.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_c_0_1.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_b_0_0.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_assets.xml
+- Assets/Live/rainbow_r19_peacockfloat/rainbow_r19_peacockfloat.xml
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_a_0_0.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_d_0_1.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/manifest.xml
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_b_4_0.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/index.xml
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_logic.xml
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_visualization.xml
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_64_c_4_1.png
+- Assets/Live/rainbow_r19_peacockfloat/flash/rainbow_r19_peacockfloat_icon_a.png
+Dependencies: []

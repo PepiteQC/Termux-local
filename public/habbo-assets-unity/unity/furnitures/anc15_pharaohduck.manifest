@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2274382918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbfd523abc569496fe0b2fe032f2417c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc15_pharaohduck/flash/manifest.xml
+- Assets/Live/anc15_pharaohduck/anc15_pharaohduck.xml
+- Assets/Live/anc15_pharaohduck/flash/index.xml
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_64_a_4_0.png
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_visualization.xml
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_icon_a.png
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_64_a_6_0.png
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_assets.xml
+- Assets/Live/anc15_pharaohduck/flash/anc15_pharaohduck_logic.xml
+Dependencies: []

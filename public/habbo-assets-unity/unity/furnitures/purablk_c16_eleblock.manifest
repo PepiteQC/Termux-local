@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 71958514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0c6bc51feb4292abe0910a71cb77f0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_icon_a.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_b_0_4.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_a_0_1.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_b_0_0.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_icon_b.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_logic.xml
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_visualization.xml
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_a_0_0.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_assets.xml
+- Assets/Live/purablk_c16_eleblock/flash/index.xml
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_b_0_2.png
+- Assets/Live/purablk_c16_eleblock/flash/manifest.xml
+- Assets/Live/purablk_c16_eleblock/purablk_c16_eleblock.xml
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_b_0_1.png
+- Assets/Live/purablk_c16_eleblock/flash/purablk_c16_eleblock_64_b_0_3.png
+Dependencies: []

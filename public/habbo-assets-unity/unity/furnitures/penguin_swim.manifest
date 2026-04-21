@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4129253149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c75e5d577a36226b781ec619ea69276
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_5.png
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_7.png
+- Assets/Live/penguin_swim/flash/penguin_swim_logic.xml
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_6.png
+- Assets/Live/penguin_swim/flash/penguin_swim_assets.xml
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_2.png
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_0.png
+- Assets/Live/penguin_swim/flash/penguin_swim_icon_a.png
+- Assets/Live/penguin_swim/flash/manifest.xml
+- Assets/Live/penguin_swim/flash/penguin_swim_visualization.xml
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_1.png
+- Assets/Live/penguin_swim/flash/penguin_swim_64_sd_4_0.png
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_3.png
+- Assets/Live/penguin_swim/penguin_swim.xml
+- Assets/Live/penguin_swim/flash/index.xml
+- Assets/Live/penguin_swim/flash/penguin_swim_64_a_4_4.png
+Dependencies: []

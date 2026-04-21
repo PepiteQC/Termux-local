@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3554688933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 899e3ec37ff21fb2574b2c74c0988067
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bohobackpack/flash/clothing_ruggedbackpack_icon_a.png
+- Assets/Live/clothing_bohobackpack/flash/clothing_bohobackpack_logic.xml
+- Assets/Live/clothing_bohobackpack/flash/clothing_bohobackpack_visualization.xml
+- Assets/Live/clothing_bohobackpack/flash/clothing_bohobackpack_assets.xml
+- Assets/Live/clothing_bohobackpack/clothing_bohobackpack.xml
+- Assets/Live/clothing_bohobackpack/flash/manifest.xml
+- Assets/Live/clothing_bohobackpack/flash/clothing_bohobackpack_64_a_0_0.png
+- Assets/Live/clothing_bohobackpack/flash/index.xml
+- Assets/Live/clothing_bohobackpack/flash/clothing_bohobackpack_icon_a.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 664034829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2f8ed3759b4c2ec9e02cd84319a9578
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cowbox_gold/flash/cowbox_gold_icon_a.png
+- Assets/Live/cowbox_gold/flash/cowbox_gold_logic.xml
+- Assets/Live/cowbox_gold/flash/cowbox_gold_visualization.xml
+- Assets/Live/cowbox_gold/flash/manifest.xml
+- Assets/Live/cowbox_gold/flash/cowbox_gold_64_sd_0_0.png
+- Assets/Live/cowbox_gold/flash/index.xml
+- Assets/Live/cowbox_gold/flash/cowbox_gold_assets.xml
+- Assets/Live/cowbox_gold/flash/cowbox_gold_64_a_0_0.png
+- Assets/Live/cowbox_gold/cowbox_gold.xml
+Dependencies: []

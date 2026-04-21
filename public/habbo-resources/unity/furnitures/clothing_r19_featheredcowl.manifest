@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3241773372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca144c491eb410b6b565b9eb35606457
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_featheredcowl/flash/clothing_r19_featheredcowl_assets.xml
+- Assets/Live/clothing_r19_featheredcowl/flash/manifest.xml
+- Assets/Live/clothing_r19_featheredcowl/flash/index.xml
+- Assets/Live/clothing_r19_featheredcowl/flash/clothing_r19_featheredcowl_visualization.xml
+- Assets/Live/clothing_r19_featheredcowl/flash/clothing_r19_featheredcowl_64_a_0_0.png
+- Assets/Live/clothing_r19_featheredcowl/flash/clothing_r19_featheredcowl_icon_a.png
+- Assets/Live/clothing_r19_featheredcowl/flash/clothing_r19_featheredcowl_logic.xml
+- Assets/Live/clothing_r19_featheredcowl/clothing_r19_featheredcowl.xml
+Dependencies: []

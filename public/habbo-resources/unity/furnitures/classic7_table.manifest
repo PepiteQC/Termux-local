@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2595430453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f544393a0ea93fadc007ef0eedcfb29c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic7_table/flash/manifest.xml
+- Assets/Live/classic7_table/flash/classic7_table_64_sd_0_0.png
+- Assets/Live/classic7_table/flash/classic7_table_64_a_0_0.png
+- Assets/Live/classic7_table/flash/classic7_table_assets.xml
+- Assets/Live/classic7_table/flash/classic7_table_logic.xml
+- Assets/Live/classic7_table/classic7_table.xml
+- Assets/Live/classic7_table/flash/index.xml
+- Assets/Live/classic7_table/flash/classic7_table_visualization.xml
+- Assets/Live/classic7_table/flash/classic7_table_icon_a.png
+Dependencies: []

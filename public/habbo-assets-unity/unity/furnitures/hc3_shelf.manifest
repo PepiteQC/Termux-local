@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2360412411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b166b640b1cb9b27e1b773799e9b2dd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc3_shelf/flash/hc3_shelf_assets.xml
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_b_0_1.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_c_0_1.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_visualization.xml
+- Assets/Live/hc3_shelf/hc3_shelf.xml
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_a_0_0.png
+- Assets/Live/hc3_shelf/flash/manifest.xml
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_c_0_0.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_a_0_1.png
+- Assets/Live/hc3_shelf/flash/index.xml
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_b_0_0.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_64_sd_0_0.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_icon_a.png
+- Assets/Live/hc3_shelf/flash/hc3_shelf_logic.xml
+Dependencies: []

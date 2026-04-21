@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2928728922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3eb3e69dc7205eb51a04cd5cd2e46eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_c_0_0.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_c_0_1.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_icon_a.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_visualization.xml
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_a_0_0.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_logic.xml
+- Assets/Live/rainyday_c20_raindropwall/flash/manifest.xml
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_sd_0_0.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_b_0_0.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_64_b_0_1.png
+- Assets/Live/rainyday_c20_raindropwall/flash/rainyday_c20_raindropwall_assets.xml
+- Assets/Live/rainyday_c20_raindropwall/flash/index.xml
+- Assets/Live/rainyday_c20_raindropwall/rainyday_c20_raindropwall.xml
+Dependencies: []

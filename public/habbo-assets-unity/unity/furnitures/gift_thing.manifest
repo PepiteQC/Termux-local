@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3133672248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a605a92e6411b9f241ffe1696bf2634
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_thing/flash/gift_thing_64_a_0_0.png
+- Assets/Live/gift_thing/gift_thing.xml
+- Assets/Live/gift_thing/flash/gift_thing_assets.xml
+- Assets/Live/gift_thing/flash/manifest.xml
+- Assets/Live/gift_thing/flash/gift_thing_visualization.xml
+- Assets/Live/gift_thing/flash/gift_thing_64_a_0_2.png
+- Assets/Live/gift_thing/flash/gift_thing_logic.xml
+- Assets/Live/gift_thing/flash/index.xml
+- Assets/Live/gift_thing/flash/gift_thing_icon_a.png
+- Assets/Live/gift_thing/flash/gift_thing_64_sd_0_0.png
+- Assets/Live/gift_thing/flash/gift_thing_64_a_0_1.png
+Dependencies: []

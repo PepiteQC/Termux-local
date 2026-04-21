@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1512391328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8ea2ea41ba0d05ce7d34e1083a8bcf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_assets.xml
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_logic.xml
+- Assets/Live/boutique_clrack1/boutique_clrack1.xml
+- Assets/Live/boutique_clrack1/flash/index.xml
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_icon_a.png
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_64_a_2_0.png
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_64_a_2_1.png
+- Assets/Live/boutique_clrack1/flash/boutique_clrack1_visualization.xml
+- Assets/Live/boutique_clrack1/flash/manifest.xml
+Dependencies: []

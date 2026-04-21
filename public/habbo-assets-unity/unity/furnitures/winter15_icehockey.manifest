@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2394754484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffafbf4d82ed5f98714a2f5aa7a2382e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_2.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_0.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_icon_a.png
+- Assets/Live/winter15_icehockey/flash/index.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_a_4_0.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_4.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_5.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_2.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_3.png
+- Assets/Live/winter15_icehockey/winter15_icehockey.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_1.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_2.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_5.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_logic.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_4.png
+- Assets/Live/winter15_icehockey/flash/manifest.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_visualization.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_3.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_c_4_1.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_0.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_4.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_0.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_5.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_assets.xml
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_b_4_1.png
+- Assets/Live/winter15_icehockey/flash/winter15_icehockey_64_d_4_3.png
+Dependencies: []

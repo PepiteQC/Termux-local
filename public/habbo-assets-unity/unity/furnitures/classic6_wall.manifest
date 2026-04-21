@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2496266986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32366a57a4f2ac35322fece5d727a8ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic6_wall/flash/classic6_wall_64_e_0_2.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_f_0_0.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_b_0_0.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_c_0_0.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_f_0_2.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_e_0_0.png
+- Assets/Live/classic6_wall/flash/index.xml
+- Assets/Live/classic6_wall/flash/classic6_wall_64_e_0_1.png
+- Assets/Live/classic6_wall/flash/classic6_wall_icon_a.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_c_0_1.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_f_0_1.png
+- Assets/Live/classic6_wall/flash/classic6_wall_64_d_0_1.png
+- Assets/Live/classic6_wall/flash/classic6_wall_visualization.xml
+- Assets/Live/classic6_wall/flash/classic6_wall_64_a_0_0.png
+- Assets/Live/classic6_wall/flash/classic6_wall_assets.xml
+- Assets/Live/classic6_wall/flash/classic6_wall_64_d_0_0.png
+- Assets/Live/classic6_wall/flash/classic6_wall_logic.xml
+- Assets/Live/classic6_wall/classic6_wall.xml
+- Assets/Live/classic6_wall/flash/manifest.xml
+Dependencies: []

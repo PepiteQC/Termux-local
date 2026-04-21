@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2427628458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe624a4fbbcc24daf47b438b1e9703b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_b_3_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/manifest.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_b_5_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_sd_1_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/sunsetcafe_c20_benchcornerconcave.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_sd_3_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/index.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_a_7_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_logic.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_b_7_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_a_5_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_sd_5_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_visualization.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_icon_a.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_b_1_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_sd_7_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_a_3_0.png
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_assets.xml
+- Assets/Live/sunsetcafe_c20_benchcornerconcave/flash/sunsetcafe_c20_benchcornerconcave_64_a_1_0.png
+Dependencies: []

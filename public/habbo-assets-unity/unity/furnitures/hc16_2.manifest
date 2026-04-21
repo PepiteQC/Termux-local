@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3487746214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9b2b21f8d2966059db8cdca1c8cb98b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc16_2/flash/hc16_2_visualization.xml
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_1.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_5.png
+- Assets/Live/hc16_2/flash/index.xml
+- Assets/Live/hc16_2/flash/hc16_2_icon_a.png
+- Assets/Live/hc16_2/flash/hc16_2_64_b_0_12.png
+- Assets/Live/hc16_2/flash/hc16_2_logic.xml
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_9.png
+- Assets/Live/hc16_2/hc16_2.xml
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_10.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_6.png
+- Assets/Live/hc16_2/flash/hc16_2_64_sd_0_0.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_7.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_0.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_2.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_11.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_4.png
+- Assets/Live/hc16_2/flash/hc16_2_assets.xml
+- Assets/Live/hc16_2/flash/manifest.xml
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_8.png
+- Assets/Live/hc16_2/flash/hc16_2_64_a_0_3.png
+- Assets/Live/hc16_2/flash/hc16_2_64_b_0_0.png
+Dependencies: []

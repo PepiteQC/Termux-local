@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2136632482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1236b313d6ab9b5762a30c0369dbb496
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_wndw/flash/index.xml
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_64_a_2_0.png
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_visualization.xml
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_64_a_2_1.png
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_logic.xml
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_icon_a.png
+- Assets/Live/hc_arab_wndw/flash/hc_arab_wndw_assets.xml
+- Assets/Live/hc_arab_wndw/hc_arab_wndw.xml
+- Assets/Live/hc_arab_wndw/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2867312337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7220d24580b897bc19940470558e370
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_visualization.xml
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_icon_a.png
+- Assets/Live/easter_c18_chiaplants/flash/manifest.xml
+- Assets/Live/easter_c18_chiaplants/flash/index.xml
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_64_sd_0_0.png
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_64_a_0_1.png
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_logic.xml
+- Assets/Live/easter_c18_chiaplants/easter_c18_chiaplants.xml
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_assets.xml
+- Assets/Live/easter_c18_chiaplants/flash/easter_c18_chiaplants_64_a_0_0.png
+Dependencies: []

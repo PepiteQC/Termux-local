@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4086361960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58c4e2e219f2987deac1c4fc7edc3c41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_32_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_c_4_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_assets.xml
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_e_4_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_visualization.xml
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_icon_a.png
+- Assets/Live/wildwest_wagon/flash/index.xml
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_d_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_e_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_logic.xml
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_a_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_d_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_e_4_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_c_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_b_4_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_b_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_d_4_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_b_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_32_0_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_b_4_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_a_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_d_4_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_e_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_c_4_1.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_a_4_1.png
+- Assets/Live/wildwest_wagon/wildwest_wagon.xml
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_a_4_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_c_0_0.png
+- Assets/Live/wildwest_wagon/flash/wildwest_wagon_64_sd_4_0.png
+- Assets/Live/wildwest_wagon/flash/manifest.xml
+Dependencies: []

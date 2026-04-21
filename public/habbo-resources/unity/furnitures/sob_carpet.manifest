@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 201421480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bd0cb8445d3c5cdde024075de9675ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sob_carpet/flash/sob_carpet_icon_a.png
+- Assets/Live/sob_carpet/flash/sob_carpet_visualization.xml
+- Assets/Live/sob_carpet/flash/manifest.xml
+- Assets/Live/sob_carpet/flash/sob_carpet_logic.xml
+- Assets/Live/sob_carpet/sob_carpet.xml
+- Assets/Live/sob_carpet/flash/sob_carpet_assets.xml
+- Assets/Live/sob_carpet/flash/index.xml
+- Assets/Live/sob_carpet/flash/sob_carpet_64_a_0_0.png
+Dependencies: []

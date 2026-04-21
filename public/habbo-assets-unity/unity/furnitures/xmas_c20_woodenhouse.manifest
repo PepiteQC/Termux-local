@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 932492418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49180ab53bfba98f6d43804cea2d552c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_woodenhouse/xmas_c20_woodenhouse.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_assets.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_64_a_0_0.png
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_icon_a.png
+- Assets/Live/xmas_c20_woodenhouse/flash/manifest.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_visualization.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_logic.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_64_a_0_2.png
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_64_sd_0_0.png
+- Assets/Live/xmas_c20_woodenhouse/flash/index.xml
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_64_a_0_3.png
+- Assets/Live/xmas_c20_woodenhouse/flash/xmas_c20_woodenhouse_64_a_0_1.png
+Dependencies: []

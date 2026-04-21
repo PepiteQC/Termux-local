@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3250004646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58b0e3a44bb0d1013b27ac88163c0358
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_5.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_1.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_assets.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_logic.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_5.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_3.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_sd_a_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_visualization.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_8.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_4.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_7.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_c_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_3.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_2.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_6.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_5.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_3.png
+- Assets/Live/xmas_r20_icefountain/flash/manifest.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_2.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_1.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_icon_a.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_1.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/index.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_4.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_5.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_b_0_4.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_3.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_a_0_0.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_e_0_2.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_1.png
+- Assets/Live/xmas_r20_icefountain/xmas_r20_icefountain.xml
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_d_0_2.png
+- Assets/Live/xmas_r20_icefountain/flash/xmas_r20_icefountain_64_f_0_4.png
+Dependencies: []

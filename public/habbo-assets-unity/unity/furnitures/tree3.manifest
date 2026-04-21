@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3186912622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c2b3d7fa55cea06651b30151f29a61e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tree3/flash/tree3_visualization.xml
+- Assets/Live/tree3/flash/tree3_logic.xml
+- Assets/Live/tree3/flash/tree3_64_sd_0_0.png
+- Assets/Live/tree3/flash/tree3_icon_a.png
+- Assets/Live/tree3/flash/index.xml
+- Assets/Live/tree3/flash/manifest.xml
+- Assets/Live/tree3/flash/tree3_assets.xml
+- Assets/Live/tree3/tree3.xml
+- Assets/Live/tree3/flash/tree3_64_a_0_0.png
+Dependencies: []

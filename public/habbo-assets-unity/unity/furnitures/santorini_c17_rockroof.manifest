@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4010934349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27629b13093fa94c3e93e96a242c5c28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_rockroof/santorini_c17_rockroof.xml
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_assets.xml
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_logic.xml
+- Assets/Live/santorini_c17_rockroof/flash/manifest.xml
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_64_a_0_0.png
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_visualization.xml
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_icon_a.png
+- Assets/Live/santorini_c17_rockroof/flash/santorini_c17_rockroof_64_sd_0_0.png
+- Assets/Live/santorini_c17_rockroof/flash/index.xml
+Dependencies: []

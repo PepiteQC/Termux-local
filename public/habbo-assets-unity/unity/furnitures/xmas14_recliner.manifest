@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1590645202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea90f11d6ab32aea12d814c4222d7fec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_b_0_0.png
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_a_0_0.png
+- Assets/Live/xmas14_recliner/flash/index.xml
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_icon_a.png
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_visualization.xml
+- Assets/Live/xmas14_recliner/xmas14_recliner.xml
+- Assets/Live/xmas14_recliner/flash/manifest.xml
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_sd_0_0.png
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_logic.xml
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_d_0_0.png
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_a_0_1.png
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_assets.xml
+- Assets/Live/xmas14_recliner/flash/xmas14_recliner_64_c_0_0.png
+Dependencies: []

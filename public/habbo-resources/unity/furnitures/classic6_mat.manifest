@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3279459149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 486d50d384f95d3af7175177019ac446
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic6_mat/flash/classic6_mat_icon_a.png
+- Assets/Live/classic6_mat/flash/classic6_mat_visualization.xml
+- Assets/Live/classic6_mat/flash/classic6_mat_assets.xml
+- Assets/Live/classic6_mat/flash/manifest.xml
+- Assets/Live/classic6_mat/flash/classic6_mat_logic.xml
+- Assets/Live/classic6_mat/flash/classic6_mat_64_a_0_0.png
+- Assets/Live/classic6_mat/classic6_mat.xml
+- Assets/Live/classic6_mat/flash/index.xml
+Dependencies: []

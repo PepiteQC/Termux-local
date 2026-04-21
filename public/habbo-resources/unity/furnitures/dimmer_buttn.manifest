@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3833908671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 676165c223681cb7bf0e781672a42263
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_icon_a.png
+- Assets/Live/dimmer_buttn/flash/index.xml
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_logic.xml
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_64_a_2_0.png
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_64_a_2_1.png
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_assets.xml
+- Assets/Live/dimmer_buttn/dimmer_buttn.xml
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_64_b_2_0.png
+- Assets/Live/dimmer_buttn/flash/manifest.xml
+- Assets/Live/dimmer_buttn/flash/dimmer_buttn_visualization.xml
+Dependencies: []

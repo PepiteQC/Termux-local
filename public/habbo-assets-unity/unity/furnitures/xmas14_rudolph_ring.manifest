@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4279337621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb45a0a9c2c6eb3b5e271f2b84b4b202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_icon_a.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_a_0_0.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_b_0_0.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_assets.xml
+- Assets/Live/xmas14_rudolph_ring/flash/index.xml
+- Assets/Live/xmas14_rudolph_ring/xmas14_rudolph_ring.xml
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_b_4_0.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_a_0_1.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_b_0_1.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_sd_4_0.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_a_4_0.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_b_4_1.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_a_4_1.png
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_visualization.xml
+- Assets/Live/xmas14_rudolph_ring/flash/manifest.xml
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_logic.xml
+- Assets/Live/xmas14_rudolph_ring/flash/xmas14_rudolph_ring_64_sd_0_0.png
+Dependencies: []

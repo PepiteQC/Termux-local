@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3467872860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e4c1fa451929fd6dfe8afc27e4e1fae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spyro/flash/spyro_visualization.xml
+- Assets/Live/spyro/spyro.xml
+- Assets/Live/spyro/flash/spyro_assets.xml
+- Assets/Live/spyro/flash/spyro_64_a_0_0.png
+- Assets/Live/spyro/flash/spyro_logic.xml
+- Assets/Live/spyro/flash/manifest.xml
+- Assets/Live/spyro/flash/index.xml
+- Assets/Live/spyro/flash/spyro_icon_a.png
+Dependencies: []

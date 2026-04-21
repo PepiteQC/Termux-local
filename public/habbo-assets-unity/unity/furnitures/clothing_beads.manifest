@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4235928210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a367b5fcaae8b6d39890a8cfabbdc82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_beads/flash/clothing_beads_icon_a.png
+- Assets/Live/clothing_beads/clothing_beads.xml
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_3.png
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_1.png
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_0.png
+- Assets/Live/clothing_beads/flash/clothing_beads_visualization.xml
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_5.png
+- Assets/Live/clothing_beads/flash/manifest.xml
+- Assets/Live/clothing_beads/flash/clothing_beads_assets.xml
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_4.png
+- Assets/Live/clothing_beads/flash/clothing_beads_64_a_0_2.png
+- Assets/Live/clothing_beads/flash/clothing_beads_logic.xml
+- Assets/Live/clothing_beads/flash/clothing_beads_64_sd_0_0.png
+- Assets/Live/clothing_beads/flash/index.xml
+Dependencies: []

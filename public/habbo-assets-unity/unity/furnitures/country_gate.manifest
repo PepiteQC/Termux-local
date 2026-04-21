@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1580176468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fdb571eec559a0ace84c827ccdba4e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_gate/country_gate.xml
+- Assets/Live/country_gate/flash/country_gate_64_a_0_0.png
+- Assets/Live/country_gate/flash/country_gate_logic.xml
+- Assets/Live/country_gate/flash/country_gate_64_d_0_0.png
+- Assets/Live/country_gate/flash/country_gate_64_b_0_1.png
+- Assets/Live/country_gate/flash/country_gate_64_c_0_1.png
+- Assets/Live/country_gate/flash/country_gate_64_b_0_0.png
+- Assets/Live/country_gate/flash/index.xml
+- Assets/Live/country_gate/flash/country_gate_64_c_0_0.png
+- Assets/Live/country_gate/flash/country_gate_icon_a.png
+- Assets/Live/country_gate/flash/country_gate_assets.xml
+- Assets/Live/country_gate/flash/manifest.xml
+- Assets/Live/country_gate/flash/country_gate_visualization.xml
+Dependencies: []

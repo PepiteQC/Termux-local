@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3532826394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70c678065445ba0d2dd583e15c1bd581
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_c_0_0.png
+- Assets/Live/xmas_c17_pillar/flash/manifest.xml
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_icon_a.png
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_visualization.xml
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_c_0_2.png
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_b_0_1.png
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_b_0_0.png
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_a_0_0.png
+- Assets/Live/xmas_c17_pillar/flash/index.xml
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_logic.xml
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_64_c_0_1.png
+- Assets/Live/xmas_c17_pillar/xmas_c17_pillar.xml
+- Assets/Live/xmas_c17_pillar/flash/xmas_c17_pillar_assets.xml
+Dependencies: []

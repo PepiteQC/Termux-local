@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3277080937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee24d12f027289d14b06ae816850ca2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_64_a_2_0.png
+- Assets/Live/stories_oldmusic_vinyl/flash/manifest.xml
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_64_sd_2_0.png
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_assets.xml
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_visualization.xml
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_icon_a.png
+- Assets/Live/stories_oldmusic_vinyl/flash/stories_oldmusic_vinyl_logic.xml
+- Assets/Live/stories_oldmusic_vinyl/flash/index.xml
+- Assets/Live/stories_oldmusic_vinyl/stories_oldmusic_vinyl.xml
+Dependencies: []

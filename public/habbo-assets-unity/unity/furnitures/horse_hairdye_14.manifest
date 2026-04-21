@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1909363705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f0611e2ff9fb08e0fe25b64fbefb116
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_assets.xml
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_logic.xml
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_icon_a.png
+- Assets/Live/horse_hairdye_14/flash/manifest.xml
+- Assets/Live/horse_hairdye_14/flash/index.xml
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_icon_b.png
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_64_b_0_0.png
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_64_a_0_0.png
+- Assets/Live/horse_hairdye_14/horse_hairdye_14.xml
+- Assets/Live/horse_hairdye_14/flash/horse_hairdye_14_visualization.xml
+Dependencies: []

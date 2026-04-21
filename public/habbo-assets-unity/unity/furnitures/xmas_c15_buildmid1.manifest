@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2086634648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eccb06f1d4f7db439875a24d5d91d858
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_buildmid1/flash/manifest.xml
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_a_0_0.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_e_0_0.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_e_0_1.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_assets.xml
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_logic.xml
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_icon_a.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_c_0_0.png
+- Assets/Live/xmas_c15_buildmid1/xmas_c15_buildmid1.xml
+- Assets/Live/xmas_c15_buildmid1/flash/index.xml
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_d_0_1.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_d_0_0.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_sd_0_0.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_c_0_1.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_b_0_1.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_a_0_1.png
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_visualization.xml
+- Assets/Live/xmas_c15_buildmid1/flash/xmas_c15_buildmid1_64_b_0_0.png
+Dependencies: []

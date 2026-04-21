@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2407378918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb64f477b3875e3eb2a5ce5b6425642c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_16.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_6.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_0.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_assets.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_4.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_sd_0_0.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_7.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_13.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_2.png
+- Assets/Live/xmas_c18_doll4/xmas_c18_doll4.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_14.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_9.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_12.png
+- Assets/Live/xmas_c18_doll4/flash/manifest.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_10.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_15.png
+- Assets/Live/xmas_c18_doll4/flash/index.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_3.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_visualization.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_8.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_logic.xml
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_11.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_1.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_icon_a.png
+- Assets/Live/xmas_c18_doll4/flash/xmas_c18_doll4_64_a_0_5.png
+Dependencies: []

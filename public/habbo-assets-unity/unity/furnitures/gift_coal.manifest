@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3090118677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dd0cf0c66f5fd20ca7d08e070e434fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_coal/gift_coal.xml
+- Assets/Live/gift_coal/flash/gift_coal_logic.xml
+- Assets/Live/gift_coal/flash/manifest.xml
+- Assets/Live/gift_coal/flash/index.xml
+- Assets/Live/gift_coal/flash/gift_coal_assets.xml
+- Assets/Live/gift_coal/flash/gift_coal_64_a_0_2.png
+- Assets/Live/gift_coal/flash/gift_coal_64_a_0_0.png
+- Assets/Live/gift_coal/flash/gift_coal_visualization.xml
+- Assets/Live/gift_coal/flash/gift_coal_64_a_0_1.png
+- Assets/Live/gift_coal/flash/gift_coal_icon_a.png
+Dependencies: []

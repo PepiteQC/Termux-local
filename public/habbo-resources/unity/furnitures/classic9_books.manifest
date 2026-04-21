@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1068957275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e11152ce0f3f1b82fd37b995fede6bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic9_books/flash/classic9_books_64_a_0_1.png
+- Assets/Live/classic9_books/flash/classic9_books_logic.xml
+- Assets/Live/classic9_books/flash/index.xml
+- Assets/Live/classic9_books/flash/classic9_books_64_a_0_2.png
+- Assets/Live/classic9_books/classic9_books.xml
+- Assets/Live/classic9_books/flash/classic9_books_assets.xml
+- Assets/Live/classic9_books/flash/classic9_books_64_a_0_3.png
+- Assets/Live/classic9_books/flash/classic9_books_64_a_0_4.png
+- Assets/Live/classic9_books/flash/manifest.xml
+- Assets/Live/classic9_books/flash/classic9_books_visualization.xml
+- Assets/Live/classic9_books/flash/classic9_books_64_a_0_0.png
+- Assets/Live/classic9_books/flash/classic9_books_icon_a.png
+Dependencies: []

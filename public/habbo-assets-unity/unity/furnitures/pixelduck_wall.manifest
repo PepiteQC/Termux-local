@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1970327771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e84f2e7fe0b49cc962622305739d79b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixelduck_wall/flash/pixelduck_wall_logic.xml
+- Assets/Live/pixelduck_wall/flash/pixelduck_wall_icon_a.png
+- Assets/Live/pixelduck_wall/flash/index.xml
+- Assets/Live/pixelduck_wall/flash/pixelduck_wall_64_a_2_0.png
+- Assets/Live/pixelduck_wall/flash/pixelduck_wall_visualization.xml
+- Assets/Live/pixelduck_wall/flash/pixelduck_wall_assets.xml
+- Assets/Live/pixelduck_wall/flash/manifest.xml
+- Assets/Live/pixelduck_wall/pixelduck_wall.xml
+Dependencies: []

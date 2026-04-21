@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1505440422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3df9818a0fd5745c0a955b1502e460c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic9_carpet/flash/classic9_carpet_assets.xml
+- Assets/Live/classic9_carpet/flash/classic9_carpet_logic.xml
+- Assets/Live/classic9_carpet/flash/classic9_carpet_icon_a.png
+- Assets/Live/classic9_carpet/classic9_carpet.xml
+- Assets/Live/classic9_carpet/flash/index.xml
+- Assets/Live/classic9_carpet/flash/classic9_carpet_64_a_0_0.png
+- Assets/Live/classic9_carpet/flash/manifest.xml
+- Assets/Live/classic9_carpet/flash/classic9_carpet_visualization.xml
+Dependencies: []

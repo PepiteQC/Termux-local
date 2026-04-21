@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2076319736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59411b28e0aadb9776768c479e62b691
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/teddy_pink/flash/teddy_pink_64_a_2_1.png
+- Assets/Live/teddy_pink/teddy_pink.xml
+- Assets/Live/teddy_pink/flash/teddy_pink_64_a_2_0.png
+- Assets/Live/teddy_pink/flash/index.xml
+- Assets/Live/teddy_pink/flash/manifest.xml
+- Assets/Live/teddy_pink/flash/teddy_pink_assets.xml
+- Assets/Live/teddy_pink/flash/teddy_pink_logic.xml
+- Assets/Live/teddy_pink/flash/teddy_pink_icon_a.png
+- Assets/Live/teddy_pink/flash/teddy_pink_64_sd_2_0.png
+- Assets/Live/teddy_pink/flash/teddy_pink_visualization.xml
+Dependencies: []

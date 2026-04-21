@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4137761604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d8a50afad6b26d9f762e8a0d2f58b09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_silly/flash/clothing_silly_visualization.xml
+- Assets/Live/clothing_silly/flash/clothing_silly_icon_a.png
+- Assets/Live/clothing_silly/flash/clothing_silly_assets.xml
+- Assets/Live/clothing_silly/flash/clothing_silly_64_sd_0_0.png
+- Assets/Live/clothing_silly/flash/clothing_silly_64_a_0_0.png
+- Assets/Live/clothing_silly/clothing_silly.xml
+- Assets/Live/clothing_silly/flash/clothing_silly_logic.xml
+- Assets/Live/clothing_silly/flash/index.xml
+- Assets/Live/clothing_silly/flash/manifest.xml
+Dependencies: []

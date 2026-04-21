@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2311725268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59c4527f6ebcf172f89ba77e07675598
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_messyrug/flash/messy_c21_messyrug_logic.xml
+- Assets/Live/messy_c21_messyrug/messy_c21_messyrug.xml
+- Assets/Live/messy_c21_messyrug/flash/messy_c21_messyrug_visualization.xml
+- Assets/Live/messy_c21_messyrug/flash/messy_c21_messyrug_icon_a.png
+- Assets/Live/messy_c21_messyrug/flash/messy_c21_messyrug_64_a_0_0.png
+- Assets/Live/messy_c21_messyrug/flash/index.xml
+- Assets/Live/messy_c21_messyrug/flash/messy_c21_messyrug_assets.xml
+- Assets/Live/messy_c21_messyrug/flash/manifest.xml
+Dependencies: []

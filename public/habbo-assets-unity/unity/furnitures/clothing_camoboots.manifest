@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 638784405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84535883463d0e90777d6fb65b05909b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_3.png
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_5.png
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_logic.xml
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_4.png
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_0.png
+- Assets/Live/clothing_camoboots/clothing_camoboots.xml
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_visualization.xml
+- Assets/Live/clothing_camoboots/flash/index.xml
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_assets.xml
+- Assets/Live/clothing_camoboots/flash/manifest.xml
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_icon_a.png
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_1.png
+- Assets/Live/clothing_camoboots/flash/clothing_camoboots_64_a_0_2.png
+Dependencies: []

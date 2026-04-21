@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1657152365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae31039c596a92e53da5921016b66e52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_roof/flash/manifest.xml
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_64_a_0_0.png
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_64_b_0_0.png
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_64_sd_0_0.png
+- Assets/Live/jungle_c16_roof/jungle_c16_roof.xml
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_icon_a.png
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_visualization.xml
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_assets.xml
+- Assets/Live/jungle_c16_roof/flash/index.xml
+- Assets/Live/jungle_c16_roof/flash/jungle_c16_roof_logic.xml
+Dependencies: []

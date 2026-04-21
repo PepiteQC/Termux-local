@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2376645035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3bf9745b3d0a88c28f8079362ea3c0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_10.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_0.png
+- Assets/Live/cpunk_c15_neond/flash/manifest.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_d_4_4.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_8.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_7.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_logic.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_13.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_0.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_c_4_0.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_d_4_2.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_d_4_0.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_5.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_2.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_12.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_assets.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_1.png
+- Assets/Live/cpunk_c15_neond/flash/index.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_3.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_6.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_14.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_15.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_9.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_3.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_4.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_d_4_3.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_icon_a.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_b_4_5.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_11.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_2.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_4.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_d_4_1.png
+- Assets/Live/cpunk_c15_neond/cpunk_c15_neond.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_6.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_visualization.xml
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neon_64_b_4_2.png
+- Assets/Live/cpunk_c15_neond/flash/cpunk_c15_neond_64_a_4_1.png
+Dependencies: []

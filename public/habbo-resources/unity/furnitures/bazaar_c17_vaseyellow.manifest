@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1503036281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167163ffb25e94bf352a3b61b1085fe3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_vaseyellow/flash/index.xml
+- Assets/Live/bazaar_c17_vaseyellow/bazaar_c17_vaseyellow.xml
+- Assets/Live/bazaar_c17_vaseyellow/flash/manifest.xml
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_64_sd_0_0.png
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_64_a_0_0.png
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_icon_a.png
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_assets.xml
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_logic.xml
+- Assets/Live/bazaar_c17_vaseyellow/flash/bazaar_c17_vaseyellow_visualization.xml
+Dependencies: []

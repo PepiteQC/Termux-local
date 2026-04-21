@@ -5,6 +5,12 @@ import { NextResponse } from "next/server";
 import type { FurnitureApiRecord, FurniturePlacement } from "../../../../lib/furniture/FurnitureTypes";
 import { loadRoomLayout } from "../../../../lib/server/gameContent";
 
+type RoomRouteContext = {
+  params: Promise<{
+    roomId: string;
+  }>;
+};
+
 function getFirebaseAdminApp(): App | null {
   if (getApps().length > 0) {
     return getApps()[0]!;
@@ -42,11 +48,12 @@ function serializeFurniture(roomId: string, id: string, raw: Record<string, unkn
   };
 }
 
-export async function GET(_: Request, { params }: { params: { roomId: string } }) {
+export async function GET(_: Request, context: RoomRouteContext) {
+  const { roomId } = await context.params;
   const app = getFirebaseAdminApp();
   if (!app) {
-    const furnitures = (await loadRoomLayout(params.roomId)).map((item) => ({
-      roomId: params.roomId,
+    const furnitures = (await loadRoomLayout(roomId)).map((item) => ({
+      roomId,
       ...item
     }));
     return NextResponse.json({ furnitures: furnitures satisfies FurnitureApiRecord[] });
@@ -55,7 +62,7 @@ export async function GET(_: Request, { params }: { params: { roomId: string } }
   const db = getFirestore(app);
   const snapshot = await db
     .collection("rooms")
-    .doc(params.roomId)
+    .doc(roomId)
     .collection("furnitures")
     .orderBy("x", "asc")
     .orderBy("z", "asc")
@@ -63,19 +70,20 @@ export async function GET(_: Request, { params }: { params: { roomId: string } }
     .get();
 
   const furnitures = snapshot.docs.map((doc) =>
-    serializeFurniture(params.roomId, doc.id, doc.data() as Record<string, unknown>)
+    serializeFurniture(roomId, doc.id, doc.data() as Record<string, unknown>)
   );
 
   return NextResponse.json({ furnitures });
 }
 
-export async function POST(request: Request, { params }: { params: { roomId: string } }) {
+export async function POST(request: Request, context: RoomRouteContext) {
+  const { roomId } = await context.params;
   const app = getFirebaseAdminApp();
   const body = (await request.json()) as FurniturePlacement;
 
   if (!app) {
     const fallback: FurnitureApiRecord = {
-      roomId: params.roomId,
+      roomId,
       ...body,
       createdAt: body.createdAt ?? new Date().toISOString(),
       updatedAt: new Date().toISOString()
@@ -84,7 +92,7 @@ export async function POST(request: Request, { params }: { params: { roomId: str
   }
 
   const db = getFirestore(app);
-  const docRef = db.collection("rooms").doc(params.roomId).collection("furnitures").doc(body.id);
+  const docRef = db.collection("rooms").doc(roomId).collection("furnitures").doc(body.id);
   const existing = await docRef.get();
   await docRef.set(
     {
@@ -101,11 +109,12 @@ export async function POST(request: Request, { params }: { params: { roomId: str
 
   const fresh = await docRef.get();
   return NextResponse.json({
-    furniture: serializeFurniture(params.roomId, fresh.id, fresh.data() as Record<string, unknown>)
+    furniture: serializeFurniture(roomId, fresh.id, fresh.data() as Record<string, unknown>)
   });
 }
 
-export async function DELETE(request: Request, { params }: { params: { roomId: string } }) {
+export async function DELETE(request: Request, context: RoomRouteContext) {
+  const { roomId } = await context.params;
   const id = new URL(request.url).searchParams.get("id");
   if (!id) {
     return NextResponse.json({ error: "Missing furniture id" }, { status: 400 });
@@ -117,7 +126,7 @@ export async function DELETE(request: Request, { params }: { params: { roomId: s
   }
 
   const db = getFirestore(app);
-  await db.collection("rooms").doc(params.roomId).collection("furnitures").doc(id).delete();
+  await db.collection("rooms").doc(roomId).collection("furnitures").doc(id).delete();
 
   return NextResponse.json({ deleted: true, id });
 }
@@ -135,8 +144,13 @@ function normalizeTimestamp(value: unknown) {
     return value.toDate().toISOString();
   }
 
-  if (typeof value === "object" && value && "toDate" in value && typeof value.toDate === "function") {
-    return value.toDate().toISOString();
+  if (
+    typeof value === "object" &&
+    value &&
+    "toDate" in value &&
+    typeof (value as { toDate?: () => Date }).toDate === "function"
+  ) {
+    return (value as { toDate: () => Date }).toDate().toISOString();
   }
 
   return undefined;

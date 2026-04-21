@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 1023263447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 410f40de16671c6641b7644a46fe9a3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_b_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_a_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_e_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_4.png
+- Assets/Live/hween_r16_chandelier/flash/manifest.xml
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_b_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_10.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_10.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_c_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_11.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_assets.xml
+- Assets/Live/hween_r16_chandelier/hween_r16_chandelier.xml
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_3.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_2.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_c_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_11.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_10.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_3.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_6.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_4.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_7.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_7.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_6.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_9.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_icon_a.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_2.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_10.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_11.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_9.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_sd_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_7.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_6.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_5.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_d_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_2.png
+- Assets/Live/hween_r16_chandelier/flash/index.xml
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_2.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_5.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_5.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_4.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_8.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_3.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_9.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_8.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_logic.xml
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_visualization.xml
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_3.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_11.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_6.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_7.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_8.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_5.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_d_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_0.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_f_0_4.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_i_0_1.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_h_0_9.png
+- Assets/Live/hween_r16_chandelier/flash/hween_r16_chandelier_64_g_0_8.png
+Dependencies: []

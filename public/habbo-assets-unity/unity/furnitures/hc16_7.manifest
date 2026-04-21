@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1345561377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2590faf3554271f777bf402fda493b22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc16_7/hc16_7.xml
+- Assets/Live/hc16_7/flash/hc16_7_visualization.xml
+- Assets/Live/hc16_7/flash/hc16_7_icon_a.png
+- Assets/Live/hc16_7/flash/hc16_7_64_a_0_0.png
+- Assets/Live/hc16_7/flash/index.xml
+- Assets/Live/hc16_7/flash/hc16_7_64_a_0_1.png
+- Assets/Live/hc16_7/flash/hc16_7_assets.xml
+- Assets/Live/hc16_7/flash/hc16_7_logic.xml
+- Assets/Live/hc16_7/flash/manifest.xml
+Dependencies: []

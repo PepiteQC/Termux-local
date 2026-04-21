@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4232439213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baa0bafcf535e0bc3cae7b79d9850d5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_0.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_8.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_11.png
+- Assets/Live/penguin_bunny/penguin_bunny.xml
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_9.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_logic.xml
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_4.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_3.png
+- Assets/Live/penguin_bunny/flash/index.xml
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_13.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_icon_a.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_10.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_7.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_assets.xml
+- Assets/Live/penguin_bunny/flash/manifest.xml
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_5.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_2.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_sd_4_0.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_12.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_visualization.xml
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_6.png
+- Assets/Live/penguin_bunny/flash/penguin_bunny_64_a_4_1.png
+Dependencies: []

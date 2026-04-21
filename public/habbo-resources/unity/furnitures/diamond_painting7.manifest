@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3971532694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02def36cd37a15f6f712d412d8e5338d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/diamond_painting7/flash/diamond_painting7_assets.xml
+- Assets/Live/diamond_painting7/diamond_painting7.xml
+- Assets/Live/diamond_painting7/flash/manifest.xml
+- Assets/Live/diamond_painting7/flash/diamond_painting7_logic.xml
+- Assets/Live/diamond_painting7/flash/diamond_painting7_visualization.xml
+- Assets/Live/diamond_painting7/flash/diamond_painting7_64_a_2_0.png
+- Assets/Live/diamond_painting7/flash/diamond_painting7_icon_a.png
+- Assets/Live/diamond_painting7/flash/index.xml
+- Assets/Live/diamond_painting7/flash/diamond_painting7_64_a_4_0.png
+Dependencies: []

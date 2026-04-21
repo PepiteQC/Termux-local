@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4056995125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebe2ff91c799ea46d4c7f0fa8f33235b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sporttrack1/flash/sporttrack1_icon_a.png
+- Assets/Live/sporttrack1/flash/sporttrack1_64_c_0_0.png
+- Assets/Live/sporttrack1/flash/sporttrack1_visualization.xml
+- Assets/Live/sporttrack1/flash/index.xml
+- Assets/Live/sporttrack1/flash/manifest.xml
+- Assets/Live/sporttrack1/flash/sporttrack1_assets.xml
+- Assets/Live/sporttrack1/flash/sporttrack1_icon_b.png
+- Assets/Live/sporttrack1/flash/sporttrack1_64_b_0_0.png
+- Assets/Live/sporttrack1/flash/sporttrack1_logic.xml
+- Assets/Live/sporttrack1/sporttrack1.xml
+- Assets/Live/sporttrack1/flash/sporttrack1_64_a_0_0.png
+Dependencies: []

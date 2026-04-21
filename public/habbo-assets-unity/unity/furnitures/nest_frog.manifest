@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 767739366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d55db184e69da605113c11cfe3376637
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_frog/flash/index.xml
+- Assets/Live/nest_frog/nest_frog.xml
+- Assets/Live/nest_frog/flash/nest_frog_logic.xml
+- Assets/Live/nest_frog/flash/nest_frog_icon_a.png
+- Assets/Live/nest_frog/flash/nest_frog_visualization.xml
+- Assets/Live/nest_frog/flash/nest_frog_assets.xml
+- Assets/Live/nest_frog/flash/manifest.xml
+- Assets/Live/nest_frog/flash/nest_frog_64_a_2_0.png
+Dependencies: []

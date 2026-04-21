@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 842474848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 299246624db3e4cbaa21e88ce570363d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_2.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_1.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_9.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_9.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_7.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_11.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_10.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_10.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_3.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_6.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_sd_2_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_sd_4_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_8.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_3.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_1.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_12.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_5.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_h_4_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_h_2_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_10.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_b_0_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_f_2_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_b_6_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_11.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_d_6_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_assets.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_2.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_6.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_2.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_12.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_12.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_8.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_6.png
+- Assets/Live/rainyday_c19_rainwindows/flash/index.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_a_6_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_4.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_11.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_icon_a.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_sd_0_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_6.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_e_2_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_a_0_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_11.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_10.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_5.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_2.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_logic.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_7.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_sd_6_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_9.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_4.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_visualization.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/manifest.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_12.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_d_0_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_1.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_8.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_3.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_9.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_4.png
+- Assets/Live/rainyday_c19_rainwindows/rainyday_c19_rainwindows.xml
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_4.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_1.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_5.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_0_5.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_7.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_f_4_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_e_4_0.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_c_6_7.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_2_8.png
+- Assets/Live/rainyday_c19_rainwindows/flash/rainyday_c19_rainwindows_64_g_4_3.png
+Dependencies: []

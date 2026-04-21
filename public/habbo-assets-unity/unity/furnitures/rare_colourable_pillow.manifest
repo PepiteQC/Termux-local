@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3919269217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 175bb018438a0c4a4e589bdceb333c7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_icon_a.png
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_logic.xml
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_icon_b.png
+- Assets/Live/rare_colourable_pillow/flash/manifest.xml
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_64_b_0_0.png
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_assets.xml
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_64_a_0_0.png
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_64_sd_0_0.png
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_64_d_0_0.png
+- Assets/Live/rare_colourable_pillow/flash/index.xml
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_64_c_0_0.png
+- Assets/Live/rare_colourable_pillow/flash/rare_colourable_pillow_visualization.xml
+- Assets/Live/rare_colourable_pillow/rare_colourable_pillow.xml
+Dependencies: []

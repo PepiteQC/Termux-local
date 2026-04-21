@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1164400702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16ef5566bc895fd238765f4e13f1a035
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic1_pillar/flash/classic1_pillar_icon_a.png
+- Assets/Live/classic1_pillar/flash/classic1_pillar_visualization.xml
+- Assets/Live/classic1_pillar/classic1_pillar.xml
+- Assets/Live/classic1_pillar/flash/manifest.xml
+- Assets/Live/classic1_pillar/flash/classic1_pillar_64_a_0_0.png
+- Assets/Live/classic1_pillar/flash/classic1_pillar_logic.xml
+- Assets/Live/classic1_pillar/flash/index.xml
+- Assets/Live/classic1_pillar/flash/classic1_pillar_assets.xml
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3025226232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae18b0925f98adab8af58a0d0d8033b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_3.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_3.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_assets.xml
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_2.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_visualization.xml
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_4.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_5.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_1.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_1.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_0.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_5.png
+- Assets/Live/garden_flytrap/garden_flytrap.xml
+- Assets/Live/garden_flytrap/flash/index.xml
+- Assets/Live/garden_flytrap/flash/garden_flytrap_icon_a.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_logic.xml
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_4.png
+- Assets/Live/garden_flytrap/flash/manifest.xml
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_a_2_0.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_sd_2_0.png
+- Assets/Live/garden_flytrap/flash/garden_flytrap_64_b_2_2.png
+Dependencies: []

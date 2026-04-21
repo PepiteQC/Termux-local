@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2412544812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e653c077f8e319d3d52f438437b939ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_64_sd_0_0.png
+- Assets/Live/zengarden_c20_peacedog/flash/index.xml
+- Assets/Live/zengarden_c20_peacedog/flash/manifest.xml
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_icon_a.png
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_visualization.xml
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_assets.xml
+- Assets/Live/zengarden_c20_peacedog/zengarden_c20_peacedog.xml
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_64_a_0_0.png
+- Assets/Live/zengarden_c20_peacedog/flash/zengarden_c20_peacedog_logic.xml
+Dependencies: []

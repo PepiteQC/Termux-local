@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 300851145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5328b99bd8fb3cad33fe9f92cbaae87a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_c_0_1.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_assets.xml
+- Assets/Live/hween_c20_goddesscrystal/hween_c20_goddesscrystal.xml
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_f_0_1.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_f_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_f_0_2.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_f_0_3.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_e_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_a_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_logic.xml
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_b_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_visualization.xml
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_d_0_2.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_c_0_2.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_c_0_3.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_d_0_3.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_e_0_3.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_e_0_2.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_e_0_1.png
+- Assets/Live/hween_c20_goddesscrystal/flash/index.xml
+- Assets/Live/hween_c20_goddesscrystal/flash/manifest.xml
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_c_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_d_0_1.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_sd_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_64_d_0_0.png
+- Assets/Live/hween_c20_goddesscrystal/flash/hween_c20_goddesscrystal_icon_a.png
+Dependencies: []

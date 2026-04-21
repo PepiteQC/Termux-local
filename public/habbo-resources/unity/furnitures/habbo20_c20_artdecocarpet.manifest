@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2616652114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53c4448e836bdd68d6fb3414470322e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_sd_0_0.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_a_0_0.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_1.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_2.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_d_0_0.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_4.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_b_0_0.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_icon_a.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/manifest.xml
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_visualization.xml
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_logic.xml
+- Assets/Live/habbo20_c20_artdecocarpet/habbo20_c20_artdecocarpet.xml
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_5.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_assets.xml
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_0.png
+- Assets/Live/habbo20_c20_artdecocarpet/flash/index.xml
+- Assets/Live/habbo20_c20_artdecocarpet/flash/habbo20_c20_artdecocarpet_64_c_0_3.png
+Dependencies: []

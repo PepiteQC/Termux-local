@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2506448797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfccb5f30d73bc2af7f99e00c47b4f67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_b_0_0.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_b_0_1.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_a_0_1.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_a_0_2.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_b_0_2.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_d_0_0.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_a_0_0.png
+- Assets/Live/gothiccafe_c20_windoor/flash/index.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_a_0_3.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_d_0_1.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_logic.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_assets.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_visualization.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_c_0_0.png
+- Assets/Live/gothiccafe_c20_windoor/gothiccafe_c20_windoor.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_icon_a.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_d_0_2.png
+- Assets/Live/gothiccafe_c20_windoor/flash/manifest.xml
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_sd_0_0.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_c_0_1.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_b_0_3.png
+- Assets/Live/gothiccafe_c20_windoor/flash/gothiccafe_c20_windoor_64_c_0_2.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3838319558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cea7c62ed63f15323e1126c5b841584b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_tile/flash/sb_tile_64_a_0_0.png
+- Assets/Live/sb_tile/flash/sb_tile_assets.xml
+- Assets/Live/sb_tile/sb_tile.xml
+- Assets/Live/sb_tile/flash/sb_tile_visualization.xml
+- Assets/Live/sb_tile/flash/sb_tile_64_b_0_0.png
+- Assets/Live/sb_tile/flash/manifest.xml
+- Assets/Live/sb_tile/flash/index.xml
+- Assets/Live/sb_tile/flash/sb_tile_logic.xml
+- Assets/Live/sb_tile/flash/sb_tile_icon_a.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1985076129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd19764c24431ea7b3d5a52bc3344a92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_visualization.xml
+- Assets/Live/easter_c18_glassbrickcnr/flash/manifest.xml
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_64_a_4_0.png
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_assets.xml
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_icon_a.png
+- Assets/Live/easter_c18_glassbrickcnr/flash/index.xml
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_64_a_0_0.png
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_64_a_2_0.png
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_64_a_6_0.png
+- Assets/Live/easter_c18_glassbrickcnr/flash/easter_c18_glassbrickcnr_logic.xml
+- Assets/Live/easter_c18_glassbrickcnr/easter_c18_glassbrickcnr.xml
+Dependencies: []

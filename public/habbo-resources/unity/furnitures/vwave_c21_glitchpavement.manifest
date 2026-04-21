@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2827175833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e863b1f349163e8376aee34d6b82a972
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_64_a_0_0.png
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_64_b_0_0.png
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_visualization.xml
+- Assets/Live/vwave_c21_glitchpavement/vwave_c21_glitchpavement.xml
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_logic.xml
+- Assets/Live/vwave_c21_glitchpavement/flash/index.xml
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_icon_a.png
+- Assets/Live/vwave_c21_glitchpavement/flash/manifest.xml
+- Assets/Live/vwave_c21_glitchpavement/flash/vwave_c21_glitchpavement_assets.xml
+Dependencies: []

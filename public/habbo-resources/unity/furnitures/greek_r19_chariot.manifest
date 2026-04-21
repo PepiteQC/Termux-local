@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 64501356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e93e4ef669e2802411d447708ad90f8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_r19_chariot/flash/manifest.xml
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_a_4_0.png
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_b_4_0.png
+- Assets/Live/greek_r19_chariot/greek_r19_chariot.xml
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_logic.xml
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_a_0_0.png
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_sd_4_0.png
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_assets.xml
+- Assets/Live/greek_r19_chariot/flash/index.xml
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_sd_0_0.png
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_icon_a.png
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_visualization.xml
+- Assets/Live/greek_r19_chariot/flash/greek_r19_chariot_64_b_0_0.png
+Dependencies: []

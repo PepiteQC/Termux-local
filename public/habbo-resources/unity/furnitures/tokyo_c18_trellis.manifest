@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3321431864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bc1543e20a123ba66ccb579743f9789
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_trellis/flash/index.xml
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_64_sd_2_0.png
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_64_a_2_1.png
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_assets.xml
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_logic.xml
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_visualization.xml
+- Assets/Live/tokyo_c18_trellis/tokyo_c18_trellis.xml
+- Assets/Live/tokyo_c18_trellis/flash/manifest.xml
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_icon_a.png
+- Assets/Live/tokyo_c18_trellis/flash/tokyo_c18_trellis_64_a_2_0.png
+Dependencies: []

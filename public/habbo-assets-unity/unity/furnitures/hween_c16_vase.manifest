@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1562721534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 015e6dcc9f865f505088e985fa18846f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_vase/hween_c16_vase.xml
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_assets.xml
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_visualization.xml
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_64_a_0_0.png
+- Assets/Live/hween_c16_vase/flash/manifest.xml
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_64_sd_0_0.png
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_logic.xml
+- Assets/Live/hween_c16_vase/flash/index.xml
+- Assets/Live/hween_c16_vase/flash/hween_c16_vase_icon_a.png
+Dependencies: []

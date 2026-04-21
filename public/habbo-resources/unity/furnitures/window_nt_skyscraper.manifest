@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 671142253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fd563c67cad130affba8db80f929061
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_assets.xml
+- Assets/Live/window_nt_skyscraper/flash/index.xml
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_64_b_2_0.png
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_32_2_mask.png
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_64_a_2_0.png
+- Assets/Live/window_nt_skyscraper/flash/manifest.xml
+- Assets/Live/window_nt_skyscraper/window_nt_skyscraper.xml
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_visualization.xml
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_64_2_mask.png
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_logic.xml
+- Assets/Live/window_nt_skyscraper/flash/window_nt_skyscraper_icon_a.png
+Dependencies: []

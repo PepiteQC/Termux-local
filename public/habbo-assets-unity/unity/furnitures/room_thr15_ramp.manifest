@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2436576892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e15c2d2910bb7747959b8caa45e08ee6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_1.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_4.png
+- Assets/Live/room_thr15_ramp/room_thr15_ramp.xml
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_6.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_0.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_7.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_2.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_visualization.xml
+- Assets/Live/room_thr15_ramp/flash/index.xml
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_2.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_icon_a.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_7.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_0.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_4.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_3.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_1.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_2.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_6.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_3.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_b_0_5.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_5.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_assets.xml
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_logic.xml
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_5.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_7.png
+- Assets/Live/room_thr15_ramp/flash/manifest.xml
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_4.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_1.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_c_0_3.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_0.png
+- Assets/Live/room_thr15_ramp/flash/room_thr15_ramp_64_a_0_6.png
+Dependencies: []

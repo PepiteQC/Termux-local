@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1276743225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c06d5e8a84be4c2608c51edc0081a85a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_64_b_0_0.png
+- Assets/Live/santorini_c17_pebblefloor/flash/manifest.xml
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_icon_a.png
+- Assets/Live/santorini_c17_pebblefloor/flash/index.xml
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_64_b_0_1.png
+- Assets/Live/santorini_c17_pebblefloor/santorini_c17_pebblefloor.xml
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_visualization.xml
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_logic.xml
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_64_a_0_0.png
+- Assets/Live/santorini_c17_pebblefloor/flash/santorini_c17_pebblefloor_assets.xml
+Dependencies: []

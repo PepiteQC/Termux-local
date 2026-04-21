@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1810423346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e896b47a0e9fd7d4084cc69f1fbb9887
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_tv/studio_tv.xml
+- Assets/Live/studio_tv/flash/studio_tv_64_b_7_1.png
+- Assets/Live/studio_tv/flash/studio_tv_64_c_7_1.png
+- Assets/Live/studio_tv/flash/studio_tv_64_d_7_3.png
+- Assets/Live/studio_tv/flash/studio_tv_64_b_4_0.png
+- Assets/Live/studio_tv/flash/studio_tv_64_a_7_0.png
+- Assets/Live/studio_tv/flash/studio_tv_64_d_4_2.png
+- Assets/Live/studio_tv/flash/studio_tv_logic.xml
+- Assets/Live/studio_tv/flash/studio_tv_64_c_4_0.png
+- Assets/Live/studio_tv/flash/studio_tv_assets.xml
+- Assets/Live/studio_tv/flash/studio_tv_icon_a.png
+- Assets/Live/studio_tv/flash/studio_tv_64_d_4_1.png
+- Assets/Live/studio_tv/flash/manifest.xml
+- Assets/Live/studio_tv/flash/studio_tv_64_b_4_1.png
+- Assets/Live/studio_tv/flash/studio_tv_64_c_4_1.png
+- Assets/Live/studio_tv/flash/studio_tv_visualization.xml
+- Assets/Live/studio_tv/flash/studio_tv_64_c_4_2.png
+- Assets/Live/studio_tv/flash/studio_tv_64_d_7_1.png
+- Assets/Live/studio_tv/flash/index.xml
+- Assets/Live/studio_tv/flash/studio_tv_64_d_7_2.png
+- Assets/Live/studio_tv/flash/studio_tv_64_b_7_0.png
+- Assets/Live/studio_tv/flash/studio_tv_64_a_4_0.png
+- Assets/Live/studio_tv/flash/studio_tv_64_c_7_2.png
+- Assets/Live/studio_tv/flash/studio_tv_64_d_4_3.png
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 574521570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d8047f72ad1f2e2e984b7537fac46a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c17_rockdrip/hween_c17_rockdrip.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_4.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_visualization.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_2.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_6.png
+- Assets/Live/hween_c17_rockdrip/flash/index.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_b_0_2.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_3.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_a_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_6.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_2.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_b_0_2.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_sd_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/manifest.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_8.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_5.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_b_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_10.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_1.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_8.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_5.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_9.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_7.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_logic.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_10.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_assets.xml
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_sd_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_1.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_icon_a.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_4.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_b_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_c_0_3.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_9.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_b_0_1.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_64_a_0_0.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_c_0_7.png
+- Assets/Live/hween_c17_rockdrip/flash/hween_c17_rockdrip_b_0_1.png
+Dependencies: []

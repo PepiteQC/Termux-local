@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3652978911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad0c385b6ac466592395283babba7ebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_seeds/easter_c17_seeds.xml
+- Assets/Live/easter_c17_seeds/flash/easter_c17_seeds_assets.xml
+- Assets/Live/easter_c17_seeds/flash/easter_c17_seeds_64_a_0_0.png
+- Assets/Live/easter_c17_seeds/flash/index.xml
+- Assets/Live/easter_c17_seeds/flash/easter_c17_seeds_logic.xml
+- Assets/Live/easter_c17_seeds/flash/easter_c17_seeds_visualization.xml
+- Assets/Live/easter_c17_seeds/flash/manifest.xml
+- Assets/Live/easter_c17_seeds/flash/easter_c17_seeds_icon_a.png
+Dependencies: []

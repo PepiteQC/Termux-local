@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 788784489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e985df275d4a0c08e08f03a10ed8be84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_d_4_3.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_logic.xml
+- Assets/Live/xmas_c18_starrybg/xmas_c18_starrybg.xml
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_7.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_7.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_8.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_3.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_11.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_6.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_4.png
+- Assets/Live/xmas_c18_starrybg/flash/index.xml
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_c_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_4.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_c_4_1.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_visualization.xml
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_b_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_icon_a.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_8.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_d_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_3.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_d_4_1.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_b_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_b_4_3.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_a_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_10.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_5.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_c_4_4.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_5.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_12.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_6.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_c_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_c_4_3.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_b_4_4.png
+- Assets/Live/xmas_c18_starrybg/flash/manifest.xml
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_9.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_a_4_1.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_a_4_2.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_1.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_f_4_1.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_d_4_0.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_assets.xml
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_e_4_9.png
+- Assets/Live/xmas_c18_starrybg/flash/xmas_c18_starrybg_64_b_4_1.png
+Dependencies: []

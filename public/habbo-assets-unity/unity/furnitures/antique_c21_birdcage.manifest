@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 58685253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167467c5eb08ed89e9fa600a7f38edef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_64_sd_0_0.png
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_icon_a.png
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_assets.xml
+- Assets/Live/antique_c21_birdcage/flash/index.xml
+- Assets/Live/antique_c21_birdcage/flash/manifest.xml
+- Assets/Live/antique_c21_birdcage/antique_c21_birdcage.xml
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_64_a_0_2.png
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_logic.xml
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_64_a_0_1.png
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_visualization.xml
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_64_a_0_3.png
+- Assets/Live/antique_c21_birdcage/flash/antique_c21_birdcage_64_a_0_0.png
+Dependencies: []

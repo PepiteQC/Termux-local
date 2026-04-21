@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1375950521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e56eccaade47f835840c35fbabd12445
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_santahat/flash/clothing_santahat_logic.xml
+- Assets/Live/clothing_santahat/flash/index.xml
+- Assets/Live/clothing_santahat/flash/clothing_santahat_64_a_2_0.png
+- Assets/Live/clothing_santahat/flash/clothing_santahat_assets.xml
+- Assets/Live/clothing_santahat/flash/manifest.xml
+- Assets/Live/clothing_santahat/clothing_santahat.xml
+- Assets/Live/clothing_santahat/flash/clothing_santahat_icon_a.png
+- Assets/Live/clothing_santahat/flash/clothing_santahat_visualization.xml
+- Assets/Live/clothing_santahat/flash/clothing_santahat_64_a_2_1.png
+Dependencies: []

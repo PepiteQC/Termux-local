@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3601718434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ace7c4ae706cc57627d0f5ad98a0b063
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_k_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/index.xml
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_g_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_sd_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_visualization.xml
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_d_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_b_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_e_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_i_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_j_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_a_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_f_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/manifest.xml
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_assets.xml
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_icon_a.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_logic.xml
+- Assets/Live/pastel_c21_accessorykit/pastel_c21_accessorykit.xml
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_c_2_0.png
+- Assets/Live/pastel_c21_accessorykit/flash/pastel_c21_accessorykit_64_h_2_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3669391278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d973355a62590e2b7f2ef571071b979a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_uni_poster/flash/manifest.xml
+- Assets/Live/st_uni_poster/flash/st_uni_poster_visualization.xml
+- Assets/Live/st_uni_poster/flash/st_uni_poster_icon_a.png
+- Assets/Live/st_uni_poster/flash/st_uni_poster_64_a_2_0.png
+- Assets/Live/st_uni_poster/flash/st_uni_poster_64_a_4_0.png
+- Assets/Live/st_uni_poster/flash/st_uni_poster_logic.xml
+- Assets/Live/st_uni_poster/flash/st_uni_poster_assets.xml
+- Assets/Live/st_uni_poster/st_uni_poster.xml
+- Assets/Live/st_uni_poster/flash/index.xml
+Dependencies: []

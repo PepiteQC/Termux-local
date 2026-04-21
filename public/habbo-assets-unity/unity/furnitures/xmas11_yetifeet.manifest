@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4213935007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f96f7bf59aa99529da6ee683508b372
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_3_1.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_visualization.xml
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_2_0.png
+- Assets/Live/xmas11_yetifeet/flash/index.xml
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_assets.xml
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_1_1.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_2_1.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_7_0.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_logic.xml
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_icon_a.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_7_1.png
+- Assets/Live/xmas11_yetifeet/flash/manifest.xml
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_1_0.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_3_0.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_0_0.png
+- Assets/Live/xmas11_yetifeet/flash/xmas11_yetifeet_64_a_0_1.png
+- Assets/Live/xmas11_yetifeet/xmas11_yetifeet.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 205721345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9515d931a251516505ae67de6ed7096c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_pencilmoustache/flash/clothing_nt_pencilmoustache_icon_a.png
+- Assets/Live/clothing_nt_pencilmoustache/flash/clothing_nt_pencilmoustache_assets.xml
+- Assets/Live/clothing_nt_pencilmoustache/flash/clothing_nt_pencilmoustache_64_a_0_0.png
+- Assets/Live/clothing_nt_pencilmoustache/flash/clothing_nt_pencilmoustache_visualization.xml
+- Assets/Live/clothing_nt_pencilmoustache/clothing_nt_pencilmoustache.xml
+- Assets/Live/clothing_nt_pencilmoustache/flash/clothing_nt_pencilmoustache_logic.xml
+- Assets/Live/clothing_nt_pencilmoustache/flash/manifest.xml
+- Assets/Live/clothing_nt_pencilmoustache/flash/index.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 501316383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d72ba59e7e1373614b969d99ba9cbba6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/antique_c21_books/flash/antique_c21_books_icon_a.png
+- Assets/Live/antique_c21_books/flash/antique_c21_books_64_sd_0_0.png
+- Assets/Live/antique_c21_books/flash/antique_c21_books_visualization.xml
+- Assets/Live/antique_c21_books/flash/antique_c21_books_64_a_0_0.png
+- Assets/Live/antique_c21_books/flash/index.xml
+- Assets/Live/antique_c21_books/flash/antique_c21_books_logic.xml
+- Assets/Live/antique_c21_books/antique_c21_books.xml
+- Assets/Live/antique_c21_books/flash/manifest.xml
+- Assets/Live/antique_c21_books/flash/antique_c21_books_64_a_0_1.png
+- Assets/Live/antique_c21_books/flash/antique_c21_books_64_a_0_2.png
+- Assets/Live/antique_c21_books/flash/antique_c21_books_assets.xml
+Dependencies: []

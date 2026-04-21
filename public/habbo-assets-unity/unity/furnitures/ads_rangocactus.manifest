@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3636723362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47564268e858152de5fd302cd9ce5ef8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_32_a_2_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_64_sd_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_32_sd_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_visualization.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_64_sd_2_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/manifest.xml
+- Assets/Live/ads_rangocactus/ads_rangocactus.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_logic.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_64_sd_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/index.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_32_sd_2_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_64_a_2_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_assets.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_64_a_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_icon_a.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_icon_a.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/manifest.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_64_a_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_visualization.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_assets.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus_camp/ads_rangocactus_camp_32_a_0_0.png
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/ads_rangocactus_logic.xml
+- Assets/Live/ads_rangocactus/flash/ads_rangocactus/index.xml
+Dependencies: []

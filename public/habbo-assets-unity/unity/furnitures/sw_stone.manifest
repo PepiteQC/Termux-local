@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2673120543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4040ba4c2252326bc02d0e7f41cf28b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sw_stone/sw_stone.xml
+- Assets/Live/sw_stone/flash/sw_stone_assets.xml
+- Assets/Live/sw_stone/flash/sw_stone_64_b_2_0.png
+- Assets/Live/sw_stone/flash/sw_stone_64_a_2_0.png
+- Assets/Live/sw_stone/flash/index.xml
+- Assets/Live/sw_stone/flash/manifest.xml
+- Assets/Live/sw_stone/flash/sw_stone_visualization.xml
+- Assets/Live/sw_stone/flash/sw_stone_icon_a.png
+- Assets/Live/sw_stone/flash/sw_stone_logic.xml
+Dependencies: []

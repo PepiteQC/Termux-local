@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2877170721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac5ed6c61c11df98ba980cbbdd15a31e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_alluringeyes/flash/clothing_alluringeyes_logic.xml
+- Assets/Live/clothing_alluringeyes/flash/manifest.xml
+- Assets/Live/clothing_alluringeyes/flash/clothing_alluringeyes_visualization.xml
+- Assets/Live/clothing_alluringeyes/clothing_alluringeyes.xml
+- Assets/Live/clothing_alluringeyes/flash/clothing_alluringeyes_assets.xml
+- Assets/Live/clothing_alluringeyes/flash/index.xml
+- Assets/Live/clothing_alluringeyes/flash/clothing_alluringeyes_64_a_0_0.png
+- Assets/Live/clothing_alluringeyes/flash/clothing_alluringeyes_icon_a.png
+Dependencies: []

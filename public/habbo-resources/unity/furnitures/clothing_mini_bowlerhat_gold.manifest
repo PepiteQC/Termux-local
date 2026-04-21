@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2256818767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ee1f3e6dcd071184d4b8d61bd03f57d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_icon_a.png
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_logic.xml
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/index.xml
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_64_sd_0_0.png
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_visualization.xml
+- Assets/Live/clothing_mini_bowlerhat_gold/clothing_mini_bowlerhat_gold.xml
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_assets.xml
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/clothing_mini_bowlerhat_gold_64_a_0_0.png
+- Assets/Live/clothing_mini_bowlerhat_gold/flash/manifest.xml
+Dependencies: []

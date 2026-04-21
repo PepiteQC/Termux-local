@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2820782462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05b4c342567dcec0cd36b16d450bfb4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_c_4_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_4_3.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_icon_a.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_32_2_mask.png
+- Assets/Live/ads_twi_windw/flash/index.xml
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_a_4_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_4_4.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_4_2.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_visualization.xml
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_2_4.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_32_4_mask.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_4_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_2_2.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_c_2_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_2_4.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_2_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_c_4_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_2_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_2_mask.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_2_2.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_4_3.png
+- Assets/Live/ads_twi_windw/flash/manifest.xml
+- Assets/Live/ads_twi_windw/ads_twi_windw.xml
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_assets.xml
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_b_4_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_4_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_2_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_b_2_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_2_3.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_4_1.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_2_3.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_b_2_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_4_2.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_2_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_b_4_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_a_2_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_e_4_4.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_4_mask.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_d_4_0.png
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_logic.xml
+- Assets/Live/ads_twi_windw/flash/ads_twi_windw_64_c_2_1.png
+Dependencies: []

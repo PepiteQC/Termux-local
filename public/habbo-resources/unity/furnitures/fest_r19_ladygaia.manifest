@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1205661588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd4f8da91da278cc54968f1dd671c68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_visualization.xml
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_logic.xml
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_64_sd_0_0.png
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_64_b_0_0.png
+- Assets/Live/fest_r19_ladygaia/flash/index.xml
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_64_a_0_0.png
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_icon_a.png
+- Assets/Live/fest_r19_ladygaia/flash/manifest.xml
+- Assets/Live/fest_r19_ladygaia/flash/fest_r19_ladygaia_assets.xml
+- Assets/Live/fest_r19_ladygaia/fest_r19_ladygaia.xml
+Dependencies: []

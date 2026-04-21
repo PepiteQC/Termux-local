@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2191689444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e3411a104cbe88ddf02c1806d741db7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_logic.xml
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_6.png
+- Assets/Live/laundry_r18_vacuum/flash/manifest.xml
+- Assets/Live/laundry_r18_vacuum/laundry_r18_vacuum.xml
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_icon_a.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_3.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_7.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_sd_0_0.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_4.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_1.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_5.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_assets.xml
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_2.png
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_visualization.xml
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_8.png
+- Assets/Live/laundry_r18_vacuum/flash/index.xml
+- Assets/Live/laundry_r18_vacuum/flash/laundry_r18_vacuum_64_a_0_0.png
+Dependencies: []

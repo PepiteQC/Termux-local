@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1689179332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8720a0e72938e3ed811c24f914f2e7b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_gardenapron/flash/clothing_gardenapron_assets.xml
+- Assets/Live/clothing_gardenapron/flash/index.xml
+- Assets/Live/clothing_gardenapron/flash/manifest.xml
+- Assets/Live/clothing_gardenapron/flash/clothing_gardenapron_icon_a.png
+- Assets/Live/clothing_gardenapron/flash/clothing_gardenapron_logic.xml
+- Assets/Live/clothing_gardenapron/flash/clothing_gardenapron_visualization.xml
+- Assets/Live/clothing_gardenapron/clothing_gardenapron.xml
+- Assets/Live/clothing_gardenapron/flash/clothing_gardenapron_64_a_0_0.png
+Dependencies: []

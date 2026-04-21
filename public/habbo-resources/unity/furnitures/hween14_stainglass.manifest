@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1232519409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24098ee856a3ecefb0c1ffdb93ae3728
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_64_a_4_0.png
+- Assets/Live/hween14_stainglass/hween14_stainglass.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_assets.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_visualization.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_logic.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_64_b_4_1.png
+- Assets/Live/hween14_stainglass/flash/manifest.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_64_b_4_0.png
+- Assets/Live/hween14_stainglass/flash/index.xml
+- Assets/Live/hween14_stainglass/flash/hween14_stainglass_icon_a.png
+Dependencies: []

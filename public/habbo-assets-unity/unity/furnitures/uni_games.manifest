@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 845493214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc13fa5caab13ebfcb27161510e6c6a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_games/flash/manifest.xml
+- Assets/Live/uni_games/uni_games.xml
+- Assets/Live/uni_games/flash/uni_games_assets.xml
+- Assets/Live/uni_games/flash/uni_games_64_a_0_1.png
+- Assets/Live/uni_games/flash/uni_games_icon_a.png
+- Assets/Live/uni_games/flash/index.xml
+- Assets/Live/uni_games/flash/uni_games_64_a_0_0.png
+- Assets/Live/uni_games/flash/uni_games_logic.xml
+- Assets/Live/uni_games/flash/uni_games_visualization.xml
+Dependencies: []

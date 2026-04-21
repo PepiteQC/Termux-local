@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 502113062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed92794b7a896684bf40271c884d2fbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_a_4_0.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_5.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_3.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_icon_a.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_assets.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_2.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_1.png
+- Assets/Live/loyalty_mouse/loyalty_mouse.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_0.png
+- Assets/Live/loyalty_mouse/flash/index.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_5.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_2.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_0.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_1.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_d_4_0.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_4.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_visualization.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_c_4_4.png
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_b_4_3.png
+- Assets/Live/loyalty_mouse/flash/manifest.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_logic.xml
+- Assets/Live/loyalty_mouse/flash/loyalty_mouse_64_sd_4_0.png
+Dependencies: []

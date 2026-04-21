@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1618662635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6b6f36f196440592fe85400c3e984db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_assets.xml
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_64_a_4_0.png
+- Assets/Live/army_c15_carpet/flash/index.xml
+- Assets/Live/army_c15_carpet/army_c15_carpet.xml
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_64_b_4_0.png
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_logic.xml
+- Assets/Live/army_c15_carpet/flash/manifest.xml
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_icon_a.png
+- Assets/Live/army_c15_carpet/flash/army_c15_carpet_visualization.xml
+Dependencies: []

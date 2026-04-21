@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3899002382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af8264250b6fac5e51526f8fe51fa788
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_64_a_4_0.png
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_assets.xml
+- Assets/Live/ads_mtv_wall/ads_mtv_wall.xml
+- Assets/Live/ads_mtv_wall/flash/manifest.xml
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_64_a_4_1.png
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_logic.xml
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_icon_a.png
+- Assets/Live/ads_mtv_wall/flash/index.xml
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_visualization.xml
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_64_a_2_0.png
+- Assets/Live/ads_mtv_wall/flash/ads_mtv_wall_64_a_2_1.png
+Dependencies: []

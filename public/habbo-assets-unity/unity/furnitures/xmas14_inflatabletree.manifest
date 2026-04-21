@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3223293115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efe238233c8cb52e8bcc4c2a57db63a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_visualization.xml
+- Assets/Live/xmas14_inflatabletree/flash/manifest.xml
+- Assets/Live/xmas14_inflatabletree/flash/index.xml
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_64_a_0_0.png
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_icon_a.png
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_assets.xml
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_64_sd_0_0.png
+- Assets/Live/xmas14_inflatabletree/xmas14_inflatabletree.xml
+- Assets/Live/xmas14_inflatabletree/flash/xmas14_inflatabletree_logic.xml
+Dependencies: []

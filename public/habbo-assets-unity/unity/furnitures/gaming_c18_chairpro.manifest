@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 553990939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4b2346c93e08e9d906b4ee75d0fa10a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gaming_c18_chairpro/flash/index.xml
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_icon_a.png
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_sd_4_0.png
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_assets.xml
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_a_4_0.png
+- Assets/Live/gaming_c18_chairpro/gaming_c18_chairpro.xml
+- Assets/Live/gaming_c18_chairpro/flash/manifest.xml
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_visualization.xml
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_logic.xml
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_b_4_0.png
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_sd_0_0.png
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_b_0_0.png
+- Assets/Live/gaming_c18_chairpro/flash/gaming_c18_chairpro_64_a_0_0.png
+Dependencies: []

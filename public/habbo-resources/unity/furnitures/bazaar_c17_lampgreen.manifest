@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4078748417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d706916790271dad8649807521c9872f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_lampgreen/bazaar_c17_lampgreen.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/manifest.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_assets.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_icon_a.png
+- Assets/Live/bazaar_c17_lampgreen/flash/index.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_b_0_0.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_sd_0_0.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_b_0_2.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_visualization.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_a_0_0.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_b_0_1.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_b_0_3.png
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_logic.xml
+- Assets/Live/bazaar_c17_lampgreen/flash/bazaar_c17_lampgreen_64_c_0_0.png
+Dependencies: []

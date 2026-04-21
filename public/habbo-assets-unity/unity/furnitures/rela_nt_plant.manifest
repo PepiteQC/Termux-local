@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4185361830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea10679e6241e9aa680feb6ec2442ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_64_sd_0_0.png
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_logic.xml
+- Assets/Live/rela_nt_plant/flash/index.xml
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_assets.xml
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_icon_a.png
+- Assets/Live/rela_nt_plant/rela_nt_plant.xml
+- Assets/Live/rela_nt_plant/flash/manifest.xml
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_visualization.xml
+- Assets/Live/rela_nt_plant/flash/rela_nt_plant_64_a_0_0.png
+Dependencies: []

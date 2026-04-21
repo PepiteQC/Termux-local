@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3564308730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80180b68da9cf76e562222800987268f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bolly_lamp/flash/bolly_lamp_assets.xml
+- Assets/Live/bolly_lamp/bolly_lamp.xml
+- Assets/Live/bolly_lamp/flash/bolly_lamp_64_b_0_0.png
+- Assets/Live/bolly_lamp/flash/bolly_lamp_icon_a.png
+- Assets/Live/bolly_lamp/flash/bolly_lamp_visualization.xml
+- Assets/Live/bolly_lamp/flash/bolly_lamp_logic.xml
+- Assets/Live/bolly_lamp/flash/index.xml
+- Assets/Live/bolly_lamp/flash/bolly_lamp_64_c_0_1.png
+- Assets/Live/bolly_lamp/flash/bolly_lamp_64_a_0_1.png
+- Assets/Live/bolly_lamp/flash/bolly_lamp_64_c_0_0.png
+- Assets/Live/bolly_lamp/flash/bolly_lamp_64_a_0_0.png
+- Assets/Live/bolly_lamp/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3539904536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12fbeeae240b346b3641b7bc4cb9cc8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_logic.xml
+- Assets/Live/xmas08_icewall/xmas08_icewall.xml
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_64_a_2_1.png
+- Assets/Live/xmas08_icewall/flash/manifest.xml
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_icon_a.png
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_64_a_2_3.png
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_assets.xml
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_64_a_2_0.png
+- Assets/Live/xmas08_icewall/flash/index.xml
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_64_a_2_2.png
+- Assets/Live/xmas08_icewall/flash/xmas08_icewall_visualization.xml
+Dependencies: []

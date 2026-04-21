@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3093077722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80a5760275e915665ea585f2825e9a0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_xylo/flash/sfx_xylo_64_a_0_2.png
+- Assets/Live/sfx_xylo/sfx_xylo.xml
+- Assets/Live/sfx_xylo/flash/index.xml
+- Assets/Live/sfx_xylo/flash/sfx_xylo_icon_a.png
+- Assets/Live/sfx_xylo/flash/sfx_xylo_assets.xml
+- Assets/Live/sfx_xylo/flash/manifest.xml
+- Assets/Live/sfx_xylo/flash/sfx_xylo_visualization.xml
+- Assets/Live/sfx_xylo/flash/sfx_xylo_64_a_0_0.png
+- Assets/Live/sfx_xylo/flash/sfx_xylo_logic.xml
+- Assets/Live/sfx_xylo/flash/sfx_xylo_64_a_0_1.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2427485539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3362ef6e4539af508028e144f509bb04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_visualization.xml
+- Assets/Live/super_r16_herodisplay/super_r16_herodisplay.xml
+- Assets/Live/super_r16_herodisplay/flash/index.xml
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_64_b_2_0.png
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_64_sd_2_0.png
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_64_a_2_0.png
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_assets.xml
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_logic.xml
+- Assets/Live/super_r16_herodisplay/flash/super_r16_herodisplay_icon_a.png
+- Assets/Live/super_r16_herodisplay/flash/manifest.xml
+Dependencies: []

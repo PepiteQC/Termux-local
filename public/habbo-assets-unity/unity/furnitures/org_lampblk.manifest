@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1179441070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 645d077d03a478ce2f32480ee2626a88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/org_lampblk/flash/org_lampblk_64_b_0_0.png
+- Assets/Live/org_lampblk/flash/org_lampblk_64_a_0_0.png
+- Assets/Live/org_lampblk/flash/org_lampblk_64_sd_0_0.png
+- Assets/Live/org_lampblk/flash/org_lampblk_64_b_0_1.png
+- Assets/Live/org_lampblk/flash/org_lampblk_visualization.xml
+- Assets/Live/org_lampblk/org_lampblk.xml
+- Assets/Live/org_lampblk/flash/org_lampblk_64_c_0_0.png
+- Assets/Live/org_lampblk/flash/org_lampblk_logic.xml
+- Assets/Live/org_lampblk/flash/org_lampblk_assets.xml
+- Assets/Live/org_lampblk/flash/org_lampblk_icon_a.png
+- Assets/Live/org_lampblk/flash/manifest.xml
+- Assets/Live/org_lampblk/flash/org_lampblk_64_c_0_1.png
+- Assets/Live/org_lampblk/flash/index.xml
+Dependencies: []

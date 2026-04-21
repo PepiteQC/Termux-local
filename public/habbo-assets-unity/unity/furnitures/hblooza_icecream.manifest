@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1591924174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a77bf4d34e73244a9779dba9d2a3bb14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_64_a_2_0.png
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_logic.xml
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_icon_a.png
+- Assets/Live/hblooza_icecream/flash/index.xml
+- Assets/Live/hblooza_icecream/flash/manifest.xml
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_64_sd_2_0.png
+- Assets/Live/hblooza_icecream/hblooza_icecream.xml
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_visualization.xml
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_64_b_2_0.png
+- Assets/Live/hblooza_icecream/flash/hblooza_icecream_assets.xml
+Dependencies: []

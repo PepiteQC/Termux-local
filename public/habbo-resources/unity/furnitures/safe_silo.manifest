@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1222849526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: add4a031d569b684d1f1d65925bf56b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/safe_silo/flash/index.xml
+- Assets/Live/safe_silo/flash/safe_silo_64_sd_4_0.png
+- Assets/Live/safe_silo/flash/safe_silo_icon_a.png
+- Assets/Live/safe_silo/flash/safe_silo_icon_b.png
+- Assets/Live/safe_silo/flash/safe_silo_64_a_4_1.png
+- Assets/Live/safe_silo/flash/safe_silo_64_b_4_0.png
+- Assets/Live/safe_silo/flash/safe_silo_64_a_4_0.png
+- Assets/Live/safe_silo/flash/safe_silo_64_c_4_1.png
+- Assets/Live/safe_silo/safe_silo.xml
+- Assets/Live/safe_silo/flash/safe_silo_logic.xml
+- Assets/Live/safe_silo/flash/safe_silo_assets.xml
+- Assets/Live/safe_silo/flash/safe_silo_visualization.xml
+- Assets/Live/safe_silo/flash/safe_silo_64_b_4_1.png
+- Assets/Live/safe_silo/flash/safe_silo_64_d_4_1.png
+- Assets/Live/safe_silo/flash/safe_silo_64_c_4_0.png
+- Assets/Live/safe_silo/flash/safe_silo_64_sd_2_0.png
+- Assets/Live/safe_silo/flash/safe_silo_64_d_4_0.png
+- Assets/Live/safe_silo/flash/manifest.xml
+Dependencies: []

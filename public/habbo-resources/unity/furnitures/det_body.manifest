@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1744945727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3241661061d92e305f90a60b2c71be03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/det_body/flash/det_body_64_b_0_0.png
+- Assets/Live/det_body/flash/det_body_icon_a.png
+- Assets/Live/det_body/flash/det_body_64_a_0_0.png
+- Assets/Live/det_body/flash/index.xml
+- Assets/Live/det_body/flash/manifest.xml
+- Assets/Live/det_body/det_body.xml
+- Assets/Live/det_body/flash/det_body_visualization.xml
+- Assets/Live/det_body/flash/det_body_assets.xml
+- Assets/Live/det_body/flash/det_body_64_c_0_0.png
+- Assets/Live/det_body/flash/det_body_logic.xml
+Dependencies: []

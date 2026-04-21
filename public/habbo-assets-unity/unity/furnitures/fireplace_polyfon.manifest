@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1472816449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67da00499f22709372d05a5b52278496
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_0.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_10.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_4.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_5.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_3.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_logic.xml
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_b_4_0.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_visualization.xml
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_assets.xml
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_2.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_icon_a.png
+- Assets/Live/fireplace_polyfon/flash/manifest.xml
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_9.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_6.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_8.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_1.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_a_4_0.png
+- Assets/Live/fireplace_polyfon/flash/fireplace_polyfon_64_c_4_7.png
+- Assets/Live/fireplace_polyfon/fireplace_polyfon.xml
+- Assets/Live/fireplace_polyfon/flash/index.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4173445170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22cabf8ce358cad45b101b422d395e1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_a_2_4.png
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_assets.xml
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_icon_a.png
+- Assets/Live/ktchn_c15_chopboard/flash/manifest.xml
+- Assets/Live/ktchn_c15_chopboard/flash/index.xml
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_visualization.xml
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_a_2_1.png
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_sd_2_0.png
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_a_2_3.png
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_logic.xml
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_a_2_0.png
+- Assets/Live/ktchn_c15_chopboard/ktchn_c15_chopboard.xml
+- Assets/Live/ktchn_c15_chopboard/flash/ktchn_c15_chopboard_64_a_2_2.png
+Dependencies: []

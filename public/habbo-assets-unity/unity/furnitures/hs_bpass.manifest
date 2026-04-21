@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1893403656
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21629ebe99b5f09ecfb4602dff47950f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hs_bpass/flash/hs_bpass_assets.xml
+- Assets/Live/hs_bpass/flash/hs_bpass_icon_a.png
+- Assets/Live/hs_bpass/flash/hs_bpass_64_a_0_1.png
+- Assets/Live/hs_bpass/flash/hs_bpass_64_a_0_0.png
+- Assets/Live/hs_bpass/flash/hs_bpass_logic.xml
+- Assets/Live/hs_bpass/hs_bpass.xml
+- Assets/Live/hs_bpass/flash/index.xml
+- Assets/Live/hs_bpass/flash/hs_bpass_64_a_0_2.png
+- Assets/Live/hs_bpass/flash/hs_bpass_visualization.xml
+- Assets/Live/hs_bpass/flash/manifest.xml
+Dependencies: []

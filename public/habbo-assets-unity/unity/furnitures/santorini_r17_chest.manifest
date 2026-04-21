@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4283053131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00f886b0c4588b851f6eecd87040cc2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_a_4_0.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_12.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_9.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_visualization.xml
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_assets.xml
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_2.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_0.png
+- Assets/Live/santorini_r17_chest/flash/manifest.xml
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_5.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_13.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_logic.xml
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_1.png
+- Assets/Live/santorini_r17_chest/flash/index.xml
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_6.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_11.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_4.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_8.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_7.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_icon_a.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_10.png
+- Assets/Live/santorini_r17_chest/flash/santorini_r17_chest_64_b_4_3.png
+- Assets/Live/santorini_r17_chest/santorini_r17_chest.xml
+Dependencies: []

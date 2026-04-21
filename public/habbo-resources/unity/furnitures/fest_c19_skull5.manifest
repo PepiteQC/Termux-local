@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 328326137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09821a810100e444bfb3bb551f09b1b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_logic.xml
+- Assets/Live/fest_c19_skull5/flash/index.xml
+- Assets/Live/fest_c19_skull5/flash/manifest.xml
+- Assets/Live/fest_c19_skull5/fest_c19_skull5.xml
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_visualization.xml
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_assets.xml
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_64_a_4_0.png
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_64_sd_4_0.png
+- Assets/Live/fest_c19_skull5/flash/fest_c19_skull5_icon_a.png
+Dependencies: []

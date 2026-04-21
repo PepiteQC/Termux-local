@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 250238889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1df5e8f761075830ac0c1687bdaff8ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_f_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_b_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_d_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_a_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_g_2_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_assets.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_g_2_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_assets.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_a_2_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_logic.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_g_0_0.png
+- Assets/Live/ads_spang_sleep/ads_spang_sleep.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_a_2_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_c_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/index.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_icon_a.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_a_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/index.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_c_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_visualization.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_d_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_icon_a.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_a_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_visualization.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_e_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/manifest.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_d_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_b_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/manifest.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_b_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_f_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_e_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_32_g_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_a_2_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_e_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_64_c_0_0.png
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep/ads_spang_sleep_logic.xml
+- Assets/Live/ads_spang_sleep/flash/ads_spang_sleep_cmp/ads_spang_sleep_cmp_64_f_0_0.png
+Dependencies: []

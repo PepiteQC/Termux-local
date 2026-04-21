@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3677522556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8b386247e3faff539a40afdc5cc5aa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_32_2_mask.png
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_64_b_2_0.png
+- Assets/Live/window_70s_narrow/flash/index.xml
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_icon_a.png
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_64_b_2_1.png
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_logic.xml
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_visualization.xml
+- Assets/Live/window_70s_narrow/window_70s_narrow.xml
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_64_a_2_0.png
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_64_2_mask.png
+- Assets/Live/window_70s_narrow/flash/manifest.xml
+- Assets/Live/window_70s_narrow/flash/window_70s_narrow_assets.xml
+Dependencies: []

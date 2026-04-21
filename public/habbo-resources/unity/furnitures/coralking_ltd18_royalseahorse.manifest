@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 632528631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b35267815af56b829915df7dc4e88ad2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_3.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_3.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_icon_a.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_sd_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_6.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_9.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_i_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_k_4_4.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_8.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_6.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_5.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_19.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_7.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_13.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_3.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_7.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_4.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_8.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_visualization.xml
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_g_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_5.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_f_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_5.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_14.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_10.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_17.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_15.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_12.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_k_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_c_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_b_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_k_4_3.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_3.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_i_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_f_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_l_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_5.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_e_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_k_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_f_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_18.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_20.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_16.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/index.xml
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_4.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_g_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/coralking_ltd18_royalseahorse.xml
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_assets.xml
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_logic.xml
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_j_4_6.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_4.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_8.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_21.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_6.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_4.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_a_4_7.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_d_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_k_4_1.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_m_4_11.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_i_4_0.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/coralking_ltd18_royalseahorse_64_h_4_2.png
+- Assets/Live/coralking_ltd18_royalseahorse/flash/manifest.xml
+Dependencies: []

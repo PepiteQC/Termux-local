@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4288055259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62d95788a79be6df581aff7553e81a00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_octohat/flash/clothing_octohat_logic.xml
+- Assets/Live/clothing_octohat/flash/clothing_octohat_visualization.xml
+- Assets/Live/clothing_octohat/flash/manifest.xml
+- Assets/Live/clothing_octohat/flash/clothing_octohat_64_a_0_0.png
+- Assets/Live/clothing_octohat/flash/clothing_octohat_64_sd_0_0.png
+- Assets/Live/clothing_octohat/clothing_octohat.xml
+- Assets/Live/clothing_octohat/flash/index.xml
+- Assets/Live/clothing_octohat/flash/clothing_octohat_assets.xml
+- Assets/Live/clothing_octohat/flash/clothing_octohat_icon_a.png
+Dependencies: []

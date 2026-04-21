@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2844382674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3394192ed6b516bfcecc76a89661a4bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_patternhoodie/flash/index.xml
+- Assets/Live/clothing_patternhoodie/flash/clothing_patternhoodie_logic.xml
+- Assets/Live/clothing_patternhoodie/flash/clothing_patternhoodie_visualization.xml
+- Assets/Live/clothing_patternhoodie/clothing_patternhoodie.xml
+- Assets/Live/clothing_patternhoodie/flash/clothing_patternhoodie_assets.xml
+- Assets/Live/clothing_patternhoodie/flash/clothing_patternhoodie_icon_a.png
+- Assets/Live/clothing_patternhoodie/flash/manifest.xml
+- Assets/Live/clothing_patternhoodie/flash/clothing_patternhoodie_64_a_0_0.png
+Dependencies: []

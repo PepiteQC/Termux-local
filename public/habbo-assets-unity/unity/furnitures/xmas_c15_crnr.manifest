@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3881387079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e0b4191992166acf369aeac50c0242e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_crnr/flash/manifest.xml
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_visualization.xml
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_64_b_0_1.png
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_64_a_0_0.png
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_64_b_0_0.png
+- Assets/Live/xmas_c15_crnr/xmas_c15_crnr.xml
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_icon_a.png
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_64_sd_0_0.png
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_64_a_0_1.png
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_logic.xml
+- Assets/Live/xmas_c15_crnr/flash/index.xml
+- Assets/Live/xmas_c15_crnr/flash/xmas_c15_crnr_assets.xml
+Dependencies: []

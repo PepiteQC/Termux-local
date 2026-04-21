@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3192623357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4193045fdc7b2e18c1402c0519d272b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_fnc1/flash/manifest.xml
+- Assets/Live/bb_fnc1/flash/bb_fnc1_64_a_2_0.png
+- Assets/Live/bb_fnc1/flash/bb_fnc1_assets.xml
+- Assets/Live/bb_fnc1/flash/bb_fnc1_64_a_4_0.png
+- Assets/Live/bb_fnc1/flash/bb_fnc1_icon_a.png
+- Assets/Live/bb_fnc1/flash/bb_fnc1_64_a_0_0.png
+- Assets/Live/bb_fnc1/flash/index.xml
+- Assets/Live/bb_fnc1/bb_fnc1.xml
+- Assets/Live/bb_fnc1/flash/bb_fnc1_logic.xml
+- Assets/Live/bb_fnc1/flash/bb_fnc1_visualization.xml
+- Assets/Live/bb_fnc1/flash/bb_fnc1_64_a_6_0.png
+Dependencies: []

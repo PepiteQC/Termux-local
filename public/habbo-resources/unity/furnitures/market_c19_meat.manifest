@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3100785188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83da6f0aabfb2328d99cc8e1d93836f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/market_c19_meat/market_c19_meat.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_visualization.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_a_0_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_icon_a.png
+- Assets/Live/market_c19_meat/flash/index.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_logic.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_c_4_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_assets.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_b_0_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_sd_0_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_d_4_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_b_4_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_a_4_0.png
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_c_0_0.png
+- Assets/Live/market_c19_meat/flash/manifest.xml
+- Assets/Live/market_c19_meat/flash/market_c19_meat_64_d_0_0.png
+Dependencies: []

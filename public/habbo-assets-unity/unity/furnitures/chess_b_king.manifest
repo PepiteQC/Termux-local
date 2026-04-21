@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 29056793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d43e617263e87059f1be5ca536198725
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/chess_b_king/flash/chess_b_king_64_a_6_0.png
+- Assets/Live/chess_b_king/flash/chess_b_king_icon_a.png
+- Assets/Live/chess_b_king/flash/chess_b_king_logic.xml
+- Assets/Live/chess_b_king/flash/chess_b_king_64_a_2_0.png
+- Assets/Live/chess_b_king/flash/chess_b_king_assets.xml
+- Assets/Live/chess_b_king/flash/manifest.xml
+- Assets/Live/chess_b_king/chess_b_king.xml
+- Assets/Live/chess_b_king/flash/chess_b_king_64_a_0_0.png
+- Assets/Live/chess_b_king/flash/chess_b_king_64_sd_0_0.png
+- Assets/Live/chess_b_king/flash/chess_b_king_64_a_4_0.png
+- Assets/Live/chess_b_king/flash/chess_b_king_visualization.xml
+- Assets/Live/chess_b_king/flash/index.xml
+Dependencies: []

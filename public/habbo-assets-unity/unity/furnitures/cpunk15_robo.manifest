@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3800190102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0598e9b3b50074688ba7a12b19d39e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_icon_a.png
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_assets.xml
+- Assets/Live/cpunk15_robo/cpunk15_robo.xml
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_64_a_4_1.png
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_logic.xml
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_64_a_4_0.png
+- Assets/Live/cpunk15_robo/flash/cpunk15_robo_visualization.xml
+- Assets/Live/cpunk15_robo/flash/index.xml
+- Assets/Live/cpunk15_robo/flash/manifest.xml
+Dependencies: []

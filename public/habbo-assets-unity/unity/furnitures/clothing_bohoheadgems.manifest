@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3877735871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3d0d97cb8d7bc673191db4449438e11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bohoheadgems/flash/clothing_bohoheadgems_64_a_0_0.png
+- Assets/Live/clothing_bohoheadgems/flash/manifest.xml
+- Assets/Live/clothing_bohoheadgems/flash/clothing_bohoheadgems_assets.xml
+- Assets/Live/clothing_bohoheadgems/clothing_bohoheadgems.xml
+- Assets/Live/clothing_bohoheadgems/flash/clothing_bohoheadgems_visualization.xml
+- Assets/Live/clothing_bohoheadgems/flash/clothing_bohoheadgems_icon_a.png
+- Assets/Live/clothing_bohoheadgems/flash/index.xml
+- Assets/Live/clothing_bohoheadgems/flash/clothing_bohoheadgems_logic.xml
+Dependencies: []

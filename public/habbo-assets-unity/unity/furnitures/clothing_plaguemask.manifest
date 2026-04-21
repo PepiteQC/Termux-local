@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3701577386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b788e48afe74e95cdad158f5fbfd85fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_plaguemask/flash/clothing_plaguemask_icon_a.png
+- Assets/Live/clothing_plaguemask/clothing_plaguemask.xml
+- Assets/Live/clothing_plaguemask/flash/clothing_plaguemask_visualization.xml
+- Assets/Live/clothing_plaguemask/flash/manifest.xml
+- Assets/Live/clothing_plaguemask/flash/index.xml
+- Assets/Live/clothing_plaguemask/flash/clothing_plaguemask_logic.xml
+- Assets/Live/clothing_plaguemask/flash/clothing_plaguemask_64_a_0_0.png
+- Assets/Live/clothing_plaguemask/flash/clothing_plaguemask_assets.xml
+Dependencies: []

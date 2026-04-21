@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2678284799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ed1f9e4d36c698379397dca963e02d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_1.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_8.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_7.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_2.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_6.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_3.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_d_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_g_2_1.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_5.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_10.png
+- Assets/Live/rainbow_c19_bed/flash/index.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_b_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_visualization.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_icon_a.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_logic.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_4.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_c_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_9.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_1.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_2.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_6.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_assets.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_9.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_5.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_sd_2_0.png
+- Assets/Live/rainbow_c19_bed/rainbow_c19_bed.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_3.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_7.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_e_2_10.png
+- Assets/Live/rainbow_c19_bed/flash/manifest.xml
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_g_2_2.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_8.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_g_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_a_2_0.png
+- Assets/Live/rainbow_c19_bed/flash/rainbow_c19_bed_64_f_2_4.png
+Dependencies: []

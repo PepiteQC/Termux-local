@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2790060950
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bf20a983e473bd22141add14242bc6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_visualization.xml
+- Assets/Live/attic_c19_hammock/flash/manifest.xml
+- Assets/Live/attic_c19_hammock/flash/index.xml
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_a_0_0.png
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_c_0_0.png
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_e_0_0.png
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_d_0_0.png
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_icon_a.png
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_logic.xml
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_assets.xml
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_sd_0_0.png
+- Assets/Live/attic_c19_hammock/attic_c19_hammock.xml
+- Assets/Live/attic_c19_hammock/flash/attic_c19_hammock_64_b_0_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3207552896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12dc2661725f3ffc66025609b6773568
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_shades/flash/index.xml
+- Assets/Live/clothing_shades/flash/clothing_shades_icon_a.png
+- Assets/Live/clothing_shades/flash/clothing_shades_assets.xml
+- Assets/Live/clothing_shades/flash/clothing_shades_64_a_0_0.png
+- Assets/Live/clothing_shades/clothing_shades.xml
+- Assets/Live/clothing_shades/flash/clothing_shades_visualization.xml
+- Assets/Live/clothing_shades/flash/clothing_shades_logic.xml
+- Assets/Live/clothing_shades/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3238408345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 628d62bff31652a9d4c14b5338dd778d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bump_tires/flash/bump_tires_assets.xml
+- Assets/Live/bump_tires/flash/bump_tires_64_sd_0_0.png
+- Assets/Live/bump_tires/bump_tires.xml
+- Assets/Live/bump_tires/flash/bump_tires_logic.xml
+- Assets/Live/bump_tires/flash/bump_tires_64_a_0_2.png
+- Assets/Live/bump_tires/flash/manifest.xml
+- Assets/Live/bump_tires/flash/bump_tires_64_a_0_0.png
+- Assets/Live/bump_tires/flash/bump_tires_icon_a.png
+- Assets/Live/bump_tires/flash/bump_tires_64_a_0_1.png
+- Assets/Live/bump_tires/flash/bump_tires_visualization.xml
+- Assets/Live/bump_tires/flash/index.xml
+Dependencies: []

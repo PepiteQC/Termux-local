@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2996261705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28f3cd1b0350fb7acb6c33677c07d594
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_c20_heartbackpack/flash/clothing_c20_heartbackpack_assets.xml
+- Assets/Live/clothing_c20_heartbackpack/clothing_c20_heartbackpack.xml
+- Assets/Live/clothing_c20_heartbackpack/flash/clothing_c20_heartbackpack_visualization.xml
+- Assets/Live/clothing_c20_heartbackpack/flash/clothing_c20_heartbackpack_logic.xml
+- Assets/Live/clothing_c20_heartbackpack/flash/clothing_c20_heartbackpack_64_a_0_0.png
+- Assets/Live/clothing_c20_heartbackpack/flash/manifest.xml
+- Assets/Live/clothing_c20_heartbackpack/flash/clothing_c20_heartbackpack_icon_a.png
+- Assets/Live/clothing_c20_heartbackpack/flash/index.xml
+Dependencies: []

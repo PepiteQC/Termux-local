@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2325902346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62fc4f2b3be3153de087640e6bc4bb7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic1_gate/flash/classic1_gate_visualization.xml
+- Assets/Live/classic1_gate/flash/classic1_gate_icon_a.png
+- Assets/Live/classic1_gate/flash/classic1_gate_64_a_0_0.png
+- Assets/Live/classic1_gate/classic1_gate.xml
+- Assets/Live/classic1_gate/flash/classic1_gate_64_a_0_1.png
+- Assets/Live/classic1_gate/flash/classic1_gate_logic.xml
+- Assets/Live/classic1_gate/flash/manifest.xml
+- Assets/Live/classic1_gate/flash/index.xml
+- Assets/Live/classic1_gate/flash/classic1_gate_64_b_0_0.png
+- Assets/Live/classic1_gate/flash/classic1_gate_assets.xml
+Dependencies: []

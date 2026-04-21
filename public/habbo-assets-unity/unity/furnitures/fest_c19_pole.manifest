@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2828180129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baac37ea8fd1b69fb4ba7024fcd9dbbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_64_a_0_1.png
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_logic.xml
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_64_a_0_2.png
+- Assets/Live/fest_c19_pole/flash/index.xml
+- Assets/Live/fest_c19_pole/flash/manifest.xml
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_icon_a.png
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_assets.xml
+- Assets/Live/fest_c19_pole/fest_c19_pole.xml
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_visualization.xml
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_64_sd_0_0.png
+- Assets/Live/fest_c19_pole/flash/fest_c19_pole_64_a_0_0.png
+Dependencies: []

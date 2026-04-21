@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4232549842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63b0f0f233be40de15f7e18f259ea711
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween11_window/hween11_window.xml
+- Assets/Live/hween11_window/flash/hween11_window_assets.xml
+- Assets/Live/hween11_window/flash/hween11_window_64_c_2_4.png
+- Assets/Live/hween11_window/flash/hween11_window_logic.xml
+- Assets/Live/hween11_window/flash/hween11_window_visualization.xml
+- Assets/Live/hween11_window/flash/index.xml
+- Assets/Live/hween11_window/flash/hween11_window_64_b_2_0.png
+- Assets/Live/hween11_window/flash/manifest.xml
+- Assets/Live/hween11_window/flash/hween11_window_64_a_2_0.png
+- Assets/Live/hween11_window/flash/hween11_window_64_c_2_1.png
+- Assets/Live/hween11_window/flash/hween11_window_64_d_2_1.png
+- Assets/Live/hween11_window/flash/hween11_window_64_b_2_1.png
+- Assets/Live/hween11_window/flash/hween11_window_icon_a.png
+- Assets/Live/hween11_window/flash/hween11_window_64_d_2_0.png
+- Assets/Live/hween11_window/flash/hween11_window_64_b_2_2.png
+- Assets/Live/hween11_window/flash/hween11_window_64_c_2_3.png
+- Assets/Live/hween11_window/flash/hween11_window_64_c_2_2.png
+Dependencies: []

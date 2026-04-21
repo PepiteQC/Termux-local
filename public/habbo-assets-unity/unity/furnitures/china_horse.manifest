@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1498555801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3108abb5d56e3514b167cf3fbe24faa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_horse/flash/china_horse_logic.xml
+- Assets/Live/china_horse/flash/index.xml
+- Assets/Live/china_horse/flash/china_horse_visualization.xml
+- Assets/Live/china_horse/flash/china_horse_64_a_0_0.png
+- Assets/Live/china_horse/flash/china_horse_64_sd_0_0.png
+- Assets/Live/china_horse/china_horse.xml
+- Assets/Live/china_horse/flash/china_horse_assets.xml
+- Assets/Live/china_horse/flash/china_horse_icon_a.png
+- Assets/Live/china_horse/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 213049523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f29b745e72d0b6592ef9e7c4a50c00dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_chocbunny/flash/easter_c17_chocbunny_assets.xml
+- Assets/Live/easter_c17_chocbunny/flash/easter_c17_chocbunny_visualization.xml
+- Assets/Live/easter_c17_chocbunny/flash/easter_c17_chocbunny_logic.xml
+- Assets/Live/easter_c17_chocbunny/easter_c17_chocbunny.xml
+- Assets/Live/easter_c17_chocbunny/flash/manifest.xml
+- Assets/Live/easter_c17_chocbunny/flash/easter_c17_chocbunny_icon_a.png
+- Assets/Live/easter_c17_chocbunny/flash/index.xml
+- Assets/Live/easter_c17_chocbunny/flash/easter_c17_chocbunny_64_a_0_0.png
+Dependencies: []

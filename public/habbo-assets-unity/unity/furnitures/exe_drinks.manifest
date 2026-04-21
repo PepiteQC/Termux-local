@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2643791697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d7a904626fc969c210b6cffd21f3edf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/exe_drinks/flash/exe_drinks_logic.xml
+- Assets/Live/exe_drinks/flash/exe_drinks_icon_a.png
+- Assets/Live/exe_drinks/exe_drinks.xml
+- Assets/Live/exe_drinks/flash/exe_drinks_64_a_2_0.png
+- Assets/Live/exe_drinks/flash/index.xml
+- Assets/Live/exe_drinks/flash/exe_drinks_64_b_2_0.png
+- Assets/Live/exe_drinks/flash/exe_drinks_assets.xml
+- Assets/Live/exe_drinks/flash/exe_drinks_visualization.xml
+- Assets/Live/exe_drinks/flash/manifest.xml
+Dependencies: []

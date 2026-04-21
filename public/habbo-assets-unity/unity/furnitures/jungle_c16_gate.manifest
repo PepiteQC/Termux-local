@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 228197107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dd72cfb735c0ee8a1068db7ac42ec24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_gate/jungle_c16_gate.xml
+- Assets/Live/jungle_c16_gate/flash/index.xml
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_b_0_0.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_c_0_0.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_a_0_0.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_d_0_0.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_b_0_1.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_icon_a.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_logic.xml
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_sd_0_0.png
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_assets.xml
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_64_c_0_1.png
+- Assets/Live/jungle_c16_gate/flash/manifest.xml
+- Assets/Live/jungle_c16_gate/flash/jungle_c16_gate_visualization.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3933282383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15b579e408b9c461ab7678b3768a2f84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bloodshoes/clothing_bloodshoes.xml
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_icon_a.png
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_visualization.xml
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_64_a_0_0.png
+- Assets/Live/clothing_bloodshoes/flash/index.xml
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_assets.xml
+- Assets/Live/clothing_bloodshoes/flash/manifest.xml
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_logic.xml
+- Assets/Live/clothing_bloodshoes/flash/clothing_bloodshoes_64_sd_0_0.png
+Dependencies: []

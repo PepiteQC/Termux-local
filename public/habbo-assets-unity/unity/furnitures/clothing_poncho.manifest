@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2381516914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6cc0260fdf8b311eb2a4dc0b2dc496b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_poncho/flash/clothing_poncho_logic.xml
+- Assets/Live/clothing_poncho/flash/manifest.xml
+- Assets/Live/clothing_poncho/flash/clothing_poncho_icon_a.png
+- Assets/Live/clothing_poncho/clothing_poncho.xml
+- Assets/Live/clothing_poncho/flash/clothing_poncho_64_a_0_0.png
+- Assets/Live/clothing_poncho/flash/clothing_poncho_64_sd_0_0.png
+- Assets/Live/clothing_poncho/flash/clothing_poncho_assets.xml
+- Assets/Live/clothing_poncho/flash/index.xml
+- Assets/Live/clothing_poncho/flash/clothing_poncho_visualization.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3651641650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21e9519f1fee6d1943cfc9c05fcb31cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_b_4_2.png
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_assets.xml
+- Assets/Live/hotel_c18_fountain/flash/manifest.xml
+- Assets/Live/hotel_c18_fountain/flash/index.xml
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_icon_a.png
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_b_4_4.png
+- Assets/Live/hotel_c18_fountain/hotel_c18_fountain.xml
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_b_4_3.png
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_b_4_5.png
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_logic.xml
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_visualization.xml
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_a_4_0.png
+- Assets/Live/hotel_c18_fountain/flash/hotel_c18_fountain_64_b_4_1.png
+Dependencies: []

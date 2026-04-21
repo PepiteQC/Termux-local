@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 4206775613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2321239061c23b4e7f0b07a617c874
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_15.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_3.png
+- Assets/Live/steampunk_window/flash/manifest.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_25.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_26.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_13.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_34.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_22.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_17.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_8.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_32.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_10.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_18.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_27.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_a_4_0.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_31.png
+- Assets/Live/steampunk_window/flash/steampunk_window_assets.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_7.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_11.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_12.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_33.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_0.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_14.png
+- Assets/Live/steampunk_window/flash/steampunk_window_visualization.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_2.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_29.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_24.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_6.png
+- Assets/Live/steampunk_window/flash/index.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_28.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_16.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_1.png
+- Assets/Live/steampunk_window/flash/steampunk_window_logic.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_21.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_20.png
+- Assets/Live/steampunk_window/steampunk_window.xml
+- Assets/Live/steampunk_window/flash/steampunk_window_icon_a.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_30.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_5.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_35.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_37.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_19.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_9.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_36.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_23.png
+- Assets/Live/steampunk_window/flash/steampunk_window_64_b_4_4.png
+Dependencies: []

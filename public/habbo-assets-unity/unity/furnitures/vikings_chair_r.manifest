@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3579311092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 998c4844e8be38857086e01f0beb7b4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_chair_r/flash/vikings_chair_g_64_sd_4_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_a_4_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_assets.xml
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_sd_0_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_b_0_0.png
+- Assets/Live/vikings_chair_r/vikings_chair_r.xml
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_a_0_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_icon_a.png
+- Assets/Live/vikings_chair_r/flash/index.xml
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_b_4_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_visualization.xml
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_64_sd_4_0.png
+- Assets/Live/vikings_chair_r/flash/vikings_chair_r_logic.xml
+- Assets/Live/vikings_chair_r/flash/manifest.xml
+Dependencies: []

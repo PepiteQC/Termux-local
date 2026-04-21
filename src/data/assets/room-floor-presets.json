@@ -1,0 +1,32 @@
+[
+  {
+    "id": "floor_woodwarm",
+    "label": "Floor Wood Warm",
+    "type": "floor",
+    "targetPath": "/public/assets/imports/floors/floor_woodwarm.png"
+  },
+  {
+    "id": "floor_terracotta",
+    "label": "Floor Terracotta",
+    "type": "floor",
+    "targetPath": "/public/assets/imports/floors/floor_terracotta.png"
+  },
+  {
+    "id": "floor_blackgold",
+    "label": "Floor Black Gold",
+    "type": "floor",
+    "targetPath": "/public/assets/imports/floors/floor_blackgold.png"
+  },
+  {
+    "id": "floor_beigelux",
+    "label": "Floor Beige Lux",
+    "type": "floor",
+    "targetPath": "/public/assets/imports/floors/floor_beigelux.png"
+  },
+  {
+    "id": "floor_junglegreen",
+    "label": "Floor Jungle Green",
+    "type": "floor",
+    "targetPath": "/public/assets/imports/floors/floor_junglegreen.png"
+  }
+]

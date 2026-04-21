@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1876497505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcb67932da04060c9ef6359643e80e5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rippedjeans2/clothing_rippedjeans2.xml
+- Assets/Live/clothing_rippedjeans2/flash/index.xml
+- Assets/Live/clothing_rippedjeans2/flash/clothing_rippedjeans2_64_a_0_0.png
+- Assets/Live/clothing_rippedjeans2/flash/clothing_rippedjeans2_logic.xml
+- Assets/Live/clothing_rippedjeans2/flash/manifest.xml
+- Assets/Live/clothing_rippedjeans2/flash/clothing_rippedjeans2_assets.xml
+- Assets/Live/clothing_rippedjeans2/flash/clothing_rippedjeans2_icon_a.png
+- Assets/Live/clothing_rippedjeans2/flash/clothing_rippedjeans2_visualization.xml
+Dependencies: []

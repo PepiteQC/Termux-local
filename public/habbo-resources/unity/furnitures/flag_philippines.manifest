@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2329850154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de6221bc2fadcfbf8f27a2a27a346fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_philippines/flash/flag_philippines_icon_a.png
+- Assets/Live/flag_philippines/flash/flag_philippines_64_a_2_0.png
+- Assets/Live/flag_philippines/flag_philippines.xml
+- Assets/Live/flag_philippines/flash/flag_philippines_logic.xml
+- Assets/Live/flag_philippines/flash/index.xml
+- Assets/Live/flag_philippines/flash/manifest.xml
+- Assets/Live/flag_philippines/flash/flag_philippines_assets.xml
+- Assets/Live/flag_philippines/flash/flag_philippines_64_a_4_0.png
+- Assets/Live/flag_philippines/flash/flag_philippines_visualization.xml
+Dependencies: []

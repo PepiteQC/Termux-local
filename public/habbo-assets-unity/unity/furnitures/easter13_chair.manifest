@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2948396375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11f9361838292c297c96eee8584e0831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_chair/flash/easter13_chair_64_a_0_0.png
+- Assets/Live/easter13_chair/flash/manifest.xml
+- Assets/Live/easter13_chair/easter13_chair.xml
+- Assets/Live/easter13_chair/flash/easter13_chair_assets.xml
+- Assets/Live/easter13_chair/flash/easter13_chair_64_b_4_0.png
+- Assets/Live/easter13_chair/flash/easter13_chair_64_a_4_0.png
+- Assets/Live/easter13_chair/flash/easter13_chair_visualization.xml
+- Assets/Live/easter13_chair/flash/index.xml
+- Assets/Live/easter13_chair/flash/easter13_chair_64_b_0_0.png
+- Assets/Live/easter13_chair/flash/easter13_chair_64_sd_4_0.png
+- Assets/Live/easter13_chair/flash/easter13_chair_logic.xml
+- Assets/Live/easter13_chair/flash/easter13_chair_icon_a.png
+- Assets/Live/easter13_chair/flash/easter13_chair_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1732782255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 681a478ec3f7b67664a0c81018c74ac1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_bed/flash/vikings_bed_64_c_0_0.png
+- Assets/Live/vikings_bed/vikings_bed.xml
+- Assets/Live/vikings_bed/flash/vikings_bed_visualization.xml
+- Assets/Live/vikings_bed/flash/manifest.xml
+- Assets/Live/vikings_bed/flash/index.xml
+- Assets/Live/vikings_bed/flash/vikings_bed_64_a_0_0.png
+- Assets/Live/vikings_bed/flash/vikings_bed_assets.xml
+- Assets/Live/vikings_bed/flash/vikings_bed_64_b_0_0.png
+- Assets/Live/vikings_bed/flash/vikings_bed_64_sd_0_0.png
+- Assets/Live/vikings_bed/flash/vikings_bed_icon_a.png
+- Assets/Live/vikings_bed/flash/vikings_bed_logic.xml
+Dependencies: []

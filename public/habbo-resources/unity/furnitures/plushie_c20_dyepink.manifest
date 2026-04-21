@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3305786535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bc86ce31d84949a84593ed23c14c456
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_icon_a.png
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_assets.xml
+- Assets/Live/plushie_c20_dyepink/flash/index.xml
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_64_a_0_1.png
+- Assets/Live/plushie_c20_dyepink/flash/manifest.xml
+- Assets/Live/plushie_c20_dyepink/plushie_c20_dyepink.xml
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_64_a_0_0.png
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_visualization.xml
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_logic.xml
+- Assets/Live/plushie_c20_dyepink/flash/plushie_c20_dyepink_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4157858965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56211bd5d0329289e7caed7c92020f8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/african_patch/flash/manifest.xml
+- Assets/Live/african_patch/flash/african_patch_64_c_0_0.png
+- Assets/Live/african_patch/flash/african_patch_64_f_0_0.png
+- Assets/Live/african_patch/flash/african_patch_64_e_0_0.png
+- Assets/Live/african_patch/flash/african_patch_64_a_0_0.png
+- Assets/Live/african_patch/flash/index.xml
+- Assets/Live/african_patch/flash/african_patch_64_d_0_0.png
+- Assets/Live/african_patch/african_patch.xml
+- Assets/Live/african_patch/flash/african_patch_assets.xml
+- Assets/Live/african_patch/flash/african_patch_icon_a.png
+- Assets/Live/african_patch/flash/african_patch_logic.xml
+- Assets/Live/african_patch/flash/african_patch_visualization.xml
+- Assets/Live/african_patch/flash/african_patch_64_g_0_0.png
+- Assets/Live/african_patch/flash/african_patch_64_b_0_0.png
+Dependencies: []

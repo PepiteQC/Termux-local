@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2204930318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5c34dcebdcf3aa84a51c9371e646ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_assets.xml
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_visualization.xml
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_64_sd_0_0.png
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_icon_a.png
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_64_a_0_0.png
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_logic.xml
+- Assets/Live/easter_c18_shelfplants/flash/index.xml
+- Assets/Live/easter_c18_shelfplants/flash/manifest.xml
+- Assets/Live/easter_c18_shelfplants/flash/easter_c18_shelfplants_64_b_0_0.png
+- Assets/Live/easter_c18_shelfplants/easter_c18_shelfplants.xml
+Dependencies: []

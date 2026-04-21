@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 688523669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d189ab207e619cccc43563803a1a5099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_halter/clothing_halter.xml
+- Assets/Live/clothing_halter/flash/clothing_halter_visualization.xml
+- Assets/Live/clothing_halter/flash/clothing_halter_64_a_0_0.png
+- Assets/Live/clothing_halter/flash/manifest.xml
+- Assets/Live/clothing_halter/flash/index.xml
+- Assets/Live/clothing_halter/flash/clothing_halter_icon_a.png
+- Assets/Live/clothing_halter/flash/clothing_halter_logic.xml
+- Assets/Live/clothing_halter/flash/clothing_halter_assets.xml
+Dependencies: []

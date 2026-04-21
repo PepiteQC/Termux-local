@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 129414875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32ea06b562d18d5babbb4cf627755837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_icon_a.png
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_64_sd_0_0.png
+- Assets/Live/tokyo_c18_drinksmachine/tokyo_c18_drinksmachine.xml
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_visualization.xml
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_assets.xml
+- Assets/Live/tokyo_c18_drinksmachine/flash/manifest.xml
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_64_a_0_1.png
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_logic.xml
+- Assets/Live/tokyo_c18_drinksmachine/flash/tokyo_c18_drinksmachine_64_a_0_0.png
+- Assets/Live/tokyo_c18_drinksmachine/flash/index.xml
+Dependencies: []

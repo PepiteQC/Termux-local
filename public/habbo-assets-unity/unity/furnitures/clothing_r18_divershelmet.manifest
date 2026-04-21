@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3282142876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c640d08ad633661cdc7086ad356512ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_icon_a.png
+- Assets/Live/clothing_r18_divershelmet/flash/manifest.xml
+- Assets/Live/clothing_r18_divershelmet/flash/ha_1_0_0.png
+- Assets/Live/clothing_r18_divershelmet/flash/ha_1_2_0.png
+- Assets/Live/clothing_r18_divershelmet/flash/ha_1_3_0.png
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_visualization.xml
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_64_sd_0_0.png
+- Assets/Live/clothing_r18_divershelmet/clothing_r18_divershelmet.xml
+- Assets/Live/clothing_r18_divershelmet/flash/ha_1_1_0.png
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_assets.xml
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_logic.xml
+- Assets/Live/clothing_r18_divershelmet/flash/ha_1_7_0.png
+- Assets/Live/clothing_r18_divershelmet/flash/index.xml
+- Assets/Live/clothing_r18_divershelmet/flash/iconBlock.png
+- Assets/Live/clothing_r18_divershelmet/flash/clothing_r18_divershelmet_64_a_0_0.png
+Dependencies: []

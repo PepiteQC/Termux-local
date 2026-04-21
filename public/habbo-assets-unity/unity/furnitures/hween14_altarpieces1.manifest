@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1685625271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff37223d405f4d497458ffcda0dc6b8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_b_4_2.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_b_4_0.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_a_4_0.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_b_4_3.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_c_4_0.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces2_32_sd_4_0.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_icon_a.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_c_4_3.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_assets.xml
+- Assets/Live/hween14_altarpieces1/hween14_altarpieces1.xml
+- Assets/Live/hween14_altarpieces1/flash/index.xml
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_b_4_1.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_c_4_2.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_c_4_1.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_visualization.xml
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_logic.xml
+- Assets/Live/hween14_altarpieces1/flash/manifest.xml
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces1_64_b_4_4.png
+- Assets/Live/hween14_altarpieces1/flash/hween14_altarpieces2_64_sd_4_0.png
+Dependencies: []

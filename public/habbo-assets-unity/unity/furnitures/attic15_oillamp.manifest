@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3118084004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e08cdd5ff254e942b10d54f663396b20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_c_2_2.png
+- Assets/Live/attic15_oillamp/flash/index.xml
+- Assets/Live/attic15_oillamp/attic15_oillamp.xml
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_visualization.xml
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_b_2_1.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_c_2_0.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_c_2_3.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_icon_a.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_b_2_3.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_b_2_0.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_a_2_0.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_c_2_1.png
+- Assets/Live/attic15_oillamp/flash/manifest.xml
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_logic.xml
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_64_b_2_2.png
+- Assets/Live/attic15_oillamp/flash/attic15_oillamp_assets.xml
+Dependencies: []

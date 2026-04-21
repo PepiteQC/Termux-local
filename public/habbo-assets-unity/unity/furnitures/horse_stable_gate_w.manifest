@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3918694308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f22e8b9245d7ec6d40ab29e4754cd3a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_64_b_4_1.png
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_64_b_4_0.png
+- Assets/Live/horse_stable_gate_w/flash/manifest.xml
+- Assets/Live/horse_stable_gate_w/flash/index.xml
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_64_a_4_1.png
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_logic.xml
+- Assets/Live/horse_stable_gate_w/horse_stable_gate_w.xml
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_icon_a.png
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_visualization.xml
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_64_a_4_0.png
+- Assets/Live/horse_stable_gate_w/flash/horse_stable_gate_w_assets.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3042064237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51ecf2d48afcdd74151c1883ea050c6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_64_a_2_0.png
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_assets.xml
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_visualization.xml
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_logic.xml
+- Assets/Live/india_c20_eleseat/flash/manifest.xml
+- Assets/Live/india_c20_eleseat/india_c20_eleseat.xml
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_64_sd_2_0.png
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_icon_a.png
+- Assets/Live/india_c20_eleseat/flash/india_c20_eleseat_64_a_2_1.png
+- Assets/Live/india_c20_eleseat/flash/index.xml
+Dependencies: []

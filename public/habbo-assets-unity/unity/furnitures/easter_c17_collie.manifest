@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 451161004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 016acf77234ce8e2b723e340d8b02af8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_collie/flash/manifest.xml
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_3.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_1.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_9.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_8.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_6.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_0.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_logic.xml
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_b_0_3.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_b_0_2.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_sd_0_0.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_7.png
+- Assets/Live/easter_c17_collie/flash/index.xml
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_4.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_2.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_b_0_1.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_icon_a.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_b_0_0.png
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_64_a_0_5.png
+- Assets/Live/easter_c17_collie/easter_c17_collie.xml
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_assets.xml
+- Assets/Live/easter_c17_collie/flash/easter_c17_collie_visualization.xml
+Dependencies: []

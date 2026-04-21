@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 709706881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0a54e4271475b871117fc7c0f6a28d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_64_a_0_0.png
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_assets.xml
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_icon_a.png
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_64_sd_0_0.png
+- Assets/Live/easter_c20_foresttree/flash/manifest.xml
+- Assets/Live/easter_c20_foresttree/flash/index.xml
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_logic.xml
+- Assets/Live/easter_c20_foresttree/easter_c20_foresttree.xml
+- Assets/Live/easter_c20_foresttree/flash/easter_c20_foresttree_visualization.xml
+Dependencies: []

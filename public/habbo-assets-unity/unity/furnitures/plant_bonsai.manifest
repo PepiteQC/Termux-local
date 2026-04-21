@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1785866027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef9f7246002cf2881f40a767c5c2b655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plant_bonsai/flash/plant_bonsai_64_a_0_0.png
+- Assets/Live/plant_bonsai/flash/plant_bonsai_icon_a.png
+- Assets/Live/plant_bonsai/flash/index.xml
+- Assets/Live/plant_bonsai/flash/plant_bonsai_logic.xml
+- Assets/Live/plant_bonsai/flash/manifest.xml
+- Assets/Live/plant_bonsai/flash/plant_bonsai_visualization.xml
+- Assets/Live/plant_bonsai/flash/plant_bonsai_64_sd_0_0.png
+- Assets/Live/plant_bonsai/plant_bonsai.xml
+- Assets/Live/plant_bonsai/flash/plant_bonsai_assets.xml
+Dependencies: []

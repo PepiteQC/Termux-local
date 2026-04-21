@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2008085156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1207a98ab7f6ffa519329b8ea4ef736c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val09_nt_wdrobe_g/val09_nt_wdrobe_g.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_assets.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_64_a_4_0.png
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_64_a_4_1.png
+- Assets/Live/val09_nt_wdrobe_g/flash/manifest.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_visualization.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/index.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_logic.xml
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_64_a_2_1.png
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_64_a_2_0.png
+- Assets/Live/val09_nt_wdrobe_g/flash/val09_nt_wdrobe_g_icon_a.png
+Dependencies: []

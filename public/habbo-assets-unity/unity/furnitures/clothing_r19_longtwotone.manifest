@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 883601322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef28afd557e7e906237eea58fa034bc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_longtwotone/flash/clothing_r19_longtwotone_icon_a.png
+- Assets/Live/clothing_r19_longtwotone/flash/clothing_r19_longtwotone_visualization.xml
+- Assets/Live/clothing_r19_longtwotone/flash/clothing_r19_longtwotone_assets.xml
+- Assets/Live/clothing_r19_longtwotone/flash/clothing_r19_longtwotone_logic.xml
+- Assets/Live/clothing_r19_longtwotone/clothing_r19_longtwotone.xml
+- Assets/Live/clothing_r19_longtwotone/flash/index.xml
+- Assets/Live/clothing_r19_longtwotone/flash/manifest.xml
+- Assets/Live/clothing_r19_longtwotone/flash/clothing_r19_longtwotone_64_a_0_0.png
+Dependencies: []

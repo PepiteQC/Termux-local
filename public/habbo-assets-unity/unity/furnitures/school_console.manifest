@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2975986343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da62563fd319717e75036a88bdfa8a4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_console/flash/school_console_assets.xml
+- Assets/Live/school_console/flash/manifest.xml
+- Assets/Live/school_console/flash/school_console_64_sd_0_0.png
+- Assets/Live/school_console/flash/school_console_64_a_2_0.png
+- Assets/Live/school_console/school_console.xml
+- Assets/Live/school_console/flash/index.xml
+- Assets/Live/school_console/flash/school_console_logic.xml
+- Assets/Live/school_console/flash/school_console_icon_a.png
+- Assets/Live/school_console/flash/school_console_64_a_0_0.png
+- Assets/Live/school_console/flash/school_console_visualization.xml
+Dependencies: []

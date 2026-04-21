@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 655743619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20073de702b4afd7cc1fcb1635c21efa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_64_a_2_0.png
+- Assets/Live/pixel_painting_pink/pixel_painting_pink.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_64_a_2_2.png
+- Assets/Live/pixel_painting_pink/flash/index.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_icon_a.png
+- Assets/Live/pixel_painting_pink/flash/manifest.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_logic.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_assets.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_visualization.xml
+- Assets/Live/pixel_painting_pink/flash/pixel_painting_pink_64_a_2_1.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2474992194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93b4ad3face178059f724f420fba186f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_sd_2_0.png
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_logic.xml
+- Assets/Live/wildwest_saloonwall/flash/index.xml
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_sd_4_0.png
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_visualization.xml
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_assets.xml
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_a_2_0.png
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_icon_a.png
+- Assets/Live/wildwest_saloonwall/flash/manifest.xml
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_b_4_0.png
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_b_2_0.png
+- Assets/Live/wildwest_saloonwall/wildwest_saloonwall.xml
+- Assets/Live/wildwest_saloonwall/flash/wildwest_saloonwall_64_a_4_0.png
+Dependencies: []

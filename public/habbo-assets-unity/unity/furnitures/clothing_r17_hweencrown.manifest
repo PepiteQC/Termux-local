@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3993012753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ec519af139be7693422561c8e2ca61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_logic.xml
+- Assets/Live/clothing_r17_hweencrown/clothing_r17_hweencrown.xml
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_64_sd_0_0.png
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_visualization.xml
+- Assets/Live/clothing_r17_hweencrown/flash/manifest.xml
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_icon_a.png
+- Assets/Live/clothing_r17_hweencrown/flash/index.xml
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_assets.xml
+- Assets/Live/clothing_r17_hweencrown/flash/clothing_r17_hweencrown_64_a_0_0.png
+Dependencies: []

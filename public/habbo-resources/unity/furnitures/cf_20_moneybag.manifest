@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1549807022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8862bf0eb51cc3db249e0576796ed4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_logic.xml
+- Assets/Live/CF_20_moneybag/flash/manifest.xml
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_64_a_0_0.png
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_icon_a.png
+- Assets/Live/CF_20_moneybag/CF_20_moneybag.xml
+- Assets/Live/CF_20_moneybag/flash/index.xml
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_64_sd_0_0.png
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_visualization.xml
+- Assets/Live/CF_20_moneybag/flash/CF_20_moneybag_assets.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1808927009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7b775b0a0cc1a7deae6969864c5fb34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_logic.xml
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_64_sd_0_0.png
+- Assets/Live/autumn_r19_maplebonsai/flash/manifest.xml
+- Assets/Live/autumn_r19_maplebonsai/autumn_r19_maplebonsai.xml
+- Assets/Live/autumn_r19_maplebonsai/flash/index.xml
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_assets.xml
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_icon_a.png
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_64_a_0_0.png
+- Assets/Live/autumn_r19_maplebonsai/flash/autumn_r19_maplebonsai_visualization.xml
+Dependencies: []

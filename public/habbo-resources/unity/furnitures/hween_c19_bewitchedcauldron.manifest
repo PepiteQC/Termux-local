@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 4124480343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 740736fc76e5c3650b2e96e6a8c59ab1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_c_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_5.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_d_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_g_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_5.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_b_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_c_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_b_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_f_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_4.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_assets.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_d_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_4.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_g_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_k_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/hween_c19_bewitchedcauldron.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_5.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_b_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_d_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_e_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_g_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_c_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_d_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_e_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/index.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_g_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_4.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_logic.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_f_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_i_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_h_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_e_0_2.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_icon_a.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_j_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_a_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_sd_0_0.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_f_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/manifest.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_visualization.xml
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_k_0_1.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_b_0_3.png
+- Assets/Live/hween_c19_bewitchedcauldron/flash/hween_c19_bewitchedcauldron_64_f_0_0.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2937632259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 106dca6cedd06c5038531991dde37c71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_visualization.xml
+- Assets/Live/dino_c15_rocklarge/flash/index.xml
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_icon_a.png
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_64_a_0_1.png
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_64_a_0_0.png
+- Assets/Live/dino_c15_rocklarge/dino_c15_rocklarge.xml
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_logic.xml
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_64_a_0_3.png
+- Assets/Live/dino_c15_rocklarge/flash/manifest.xml
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_assets.xml
+- Assets/Live/dino_c15_rocklarge/flash/dino_c15_rocklarge_64_a_0_2.png
+Dependencies: []

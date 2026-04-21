@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2293714751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6c2ef12a6969aabccb000c00c331edf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_64_sd_0_0.png
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_icon_a.png
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_64_a_0_0.png
+- Assets/Live/plushie_c20_pinklion/flash/index.xml
+- Assets/Live/plushie_c20_pinklion/plushie_c20_pinklion.xml
+- Assets/Live/plushie_c20_pinklion/flash/manifest.xml
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_logic.xml
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_assets.xml
+- Assets/Live/plushie_c20_pinklion/flash/plushie_c20_pinklion_visualization.xml
+Dependencies: []

@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1681263211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7922b140783e9625633d9ceb9a7c221d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_9.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_3.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_9.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_8.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_2.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_5.png
+- Assets/Live/easter_c18_rose3/flash/index.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_8.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_logic.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_0.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_7.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_1.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_6.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_11.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_10.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_10.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_2.png
+- Assets/Live/easter_c18_rose3/flash/manifest.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_icon_a.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_0.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_8.png
+- Assets/Live/easter_c18_rose3/easter_c18_rose3.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_5.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_4.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_7.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_0.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_assets.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_visualization.xml
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_7.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_3.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_5.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_1.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_4.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_11.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_9.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_b_0_6.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_3.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_1.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_2.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_a_0_4.png
+- Assets/Live/easter_c18_rose3/flash/easter_c18_rose3_64_c_0_6.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2465200488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 591bb0ac796233e2f2126ac5178f88cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_a_4_1.png
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_assets.xml
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_b_4_0.png
+- Assets/Live/ads_leaf_teleport/flash/index.xml
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_logic.xml
+- Assets/Live/ads_leaf_teleport/ads_leaf_teleport.xml
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_a_4_0.png
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_sd_4_0.png
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_visualization.xml
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_b_4_1.png
+- Assets/Live/ads_leaf_teleport/flash/manifest.xml
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_c_4_1.png
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_64_d_4_1.png
+- Assets/Live/ads_leaf_teleport/flash/ads_leaf_teleport_icon_a.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3226808928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf33cb4ff124ab71b78a761aeac8bd13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anna_pill/flash/index.xml
+- Assets/Live/anna_pill/flash/anna_pill_icon_a.png
+- Assets/Live/anna_pill/flash/manifest.xml
+- Assets/Live/anna_pill/flash/anna_pill_64_sd_0_0.png
+- Assets/Live/anna_pill/flash/anna_pill_64_a_0_0.png
+- Assets/Live/anna_pill/flash/anna_pill_assets.xml
+- Assets/Live/anna_pill/anna_pill.xml
+- Assets/Live/anna_pill/flash/anna_pill_visualization.xml
+- Assets/Live/anna_pill/flash/anna_pill_logic.xml
+Dependencies: []

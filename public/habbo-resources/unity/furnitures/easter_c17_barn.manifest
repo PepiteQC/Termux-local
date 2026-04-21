@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2813598470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f0f74c7e876333c4b17785a33aa5563
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_2_1.png
+- Assets/Live/easter_c17_barn/flash/index.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_a_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_c_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_visualization.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_icon_a.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_c_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_4_2.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_b_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_2_1.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_2_3.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_4_1.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_logic.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_i_2_1.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_f_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_4_3.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_e_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_2_2.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_f_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_d_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_k_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_sd_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_assets.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_d_2_0.png
+- Assets/Live/easter_c17_barn/flash/manifest.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_2_2.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_j_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_a_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_i_4_1.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_j_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_h_4_1.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_4_2.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_2_3.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_k_4_0.png
+- Assets/Live/easter_c17_barn/easter_c17_barn.xml
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_b_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_sd_4_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_e_2_0.png
+- Assets/Live/easter_c17_barn/flash/easter_c17_barn_64_g_4_3.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2191397618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d8b4824203f7defecbe6abf6fb1d966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/watering_can/flash/watering_can_icon_a.png
+- Assets/Live/watering_can/watering_can.xml
+- Assets/Live/watering_can/flash/watering_can_64_sd_0_0.png
+- Assets/Live/watering_can/flash/watering_can_assets.xml
+- Assets/Live/watering_can/flash/watering_can_64_a_0_0.png
+- Assets/Live/watering_can/flash/index.xml
+- Assets/Live/watering_can/flash/watering_can_visualization.xml
+- Assets/Live/watering_can/flash/manifest.xml
+- Assets/Live/watering_can/flash/watering_can_logic.xml
+Dependencies: []

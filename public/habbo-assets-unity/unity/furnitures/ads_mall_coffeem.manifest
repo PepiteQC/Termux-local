@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 46311805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bbf973eae457482bb839dfc83e9520d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_icon_a.png
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_64_sd_2_0.png
+- Assets/Live/ads_mall_coffeem/ads_mall_coffeem.xml
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_64_a_2_1.png
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_visualization.xml
+- Assets/Live/ads_mall_coffeem/flash/index.xml
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_64_b_2_0.png
+- Assets/Live/ads_mall_coffeem/flash/manifest.xml
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_assets.xml
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_64_a_2_0.png
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_64_c_2_0.png
+- Assets/Live/ads_mall_coffeem/flash/ads_mall_coffeem_logic.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 17431429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8f21d70b1567eb4a82223471e474cee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_plantred/flash/pixel_plantred_visualization.xml
+- Assets/Live/pixel_plantred/flash/pixel_plantred_logic.xml
+- Assets/Live/pixel_plantred/flash/pixel_plantred_assets.xml
+- Assets/Live/pixel_plantred/flash/index.xml
+- Assets/Live/pixel_plantred/flash/pixel_plantred_64_a_0_0.png
+- Assets/Live/pixel_plantred/flash/manifest.xml
+- Assets/Live/pixel_plantred/flash/pixel_plantred_64_sd_0_0.png
+- Assets/Live/pixel_plantred/flash/pixel_plantred_icon_a.png
+- Assets/Live/pixel_plantred/pixel_plantred.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 26426388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05081f5efa3fe77a3285799c85ec47ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_surprised/flash/clothing_surprised_icon_a.png
+- Assets/Live/clothing_surprised/clothing_surprised.xml
+- Assets/Live/clothing_surprised/flash/manifest.xml
+- Assets/Live/clothing_surprised/flash/clothing_surprised_logic.xml
+- Assets/Live/clothing_surprised/flash/clothing_surprised_assets.xml
+- Assets/Live/clothing_surprised/flash/index.xml
+- Assets/Live/clothing_surprised/flash/clothing_surprised_64_a_0_0.png
+- Assets/Live/clothing_surprised/flash/clothing_surprised_visualization.xml
+Dependencies: []

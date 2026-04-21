@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3885703654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cb92f9e4c3d555a6974b97d9c07eb1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_mask7/flash/index.xml
+- Assets/Live/clothing_r20_mask7/flash/clothing_r20_mask7_icon_a.png
+- Assets/Live/clothing_r20_mask7/flash/manifest.xml
+- Assets/Live/clothing_r20_mask7/flash/clothing_r20_mask7_64_a_0_0.png
+- Assets/Live/clothing_r20_mask7/clothing_r20_mask7.xml
+- Assets/Live/clothing_r20_mask7/flash/clothing_r20_mask7_logic.xml
+- Assets/Live/clothing_r20_mask7/flash/clothing_r20_mask7_visualization.xml
+- Assets/Live/clothing_r20_mask7/flash/clothing_r20_mask7_assets.xml
+Dependencies: []

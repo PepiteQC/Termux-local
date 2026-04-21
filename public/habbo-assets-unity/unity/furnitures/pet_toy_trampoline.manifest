@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 77556798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4b004f57835e606334bb61c8bc1abcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_visualization.xml
+- Assets/Live/pet_toy_trampoline/flash/manifest.xml
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_icon_a.png
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_logic.xml
+- Assets/Live/pet_toy_trampoline/pet_toy_trampoline.xml
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_64_a_0_1.png
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_64_a_0_2.png
+- Assets/Live/pet_toy_trampoline/flash/index.xml
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_assets.xml
+- Assets/Live/pet_toy_trampoline/flash/pet_toy_trampoline_64_a_0_0.png
+Dependencies: []

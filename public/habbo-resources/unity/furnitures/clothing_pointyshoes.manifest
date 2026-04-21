@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 663904546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f549aa2a5459d2464bb212eed50605a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_pointyshoes/flash/clothing_pointyshoes_assets.xml
+- Assets/Live/clothing_pointyshoes/flash/clothing_pointyshoes_icon_a.png
+- Assets/Live/clothing_pointyshoes/flash/clothing_pointyshoes_64_a_0_0.png
+- Assets/Live/clothing_pointyshoes/flash/index.xml
+- Assets/Live/clothing_pointyshoes/clothing_pointyshoes.xml
+- Assets/Live/clothing_pointyshoes/flash/manifest.xml
+- Assets/Live/clothing_pointyshoes/flash/clothing_pointyshoes_logic.xml
+- Assets/Live/clothing_pointyshoes/flash/clothing_pointyshoes_visualization.xml
+Dependencies: []

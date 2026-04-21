@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2210173959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5043a19696101b852584f5f6424411bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/antique_c21_oldenrug/antique_c21_oldenrug.xml
+- Assets/Live/antique_c21_oldenrug/flash/index.xml
+- Assets/Live/antique_c21_oldenrug/flash/antique_c21_oldenrug_64_a_0_0.png
+- Assets/Live/antique_c21_oldenrug/flash/antique_c21_oldenrug_visualization.xml
+- Assets/Live/antique_c21_oldenrug/flash/antique_c21_oldenrug_assets.xml
+- Assets/Live/antique_c21_oldenrug/flash/antique_c21_oldenrug_logic.xml
+- Assets/Live/antique_c21_oldenrug/flash/antique_c21_oldenrug_icon_a.png
+- Assets/Live/antique_c21_oldenrug/flash/manifest.xml
+Dependencies: []

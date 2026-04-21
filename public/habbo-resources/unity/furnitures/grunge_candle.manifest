@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3526169666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b14a67d3a0d778b5b6ac58d6da2899a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/grunge_candle/flash/manifest.xml
+- Assets/Live/grunge_candle/flash/grunge_candle_64_sd_0_0.png
+- Assets/Live/grunge_candle/flash/grunge_candle_64_a_0_0.png
+- Assets/Live/grunge_candle/flash/grunge_candle_64_b_0_2.png
+- Assets/Live/grunge_candle/flash/grunge_candle_logic.xml
+- Assets/Live/grunge_candle/flash/grunge_candle_64_b_0_0.png
+- Assets/Live/grunge_candle/flash/grunge_candle_icon_a.png
+- Assets/Live/grunge_candle/flash/grunge_candle_64_c_0_1.png
+- Assets/Live/grunge_candle/flash/grunge_candle_assets.xml
+- Assets/Live/grunge_candle/flash/grunge_candle_64_b_0_1.png
+- Assets/Live/grunge_candle/flash/grunge_candle_64_c_0_0.png
+- Assets/Live/grunge_candle/flash/index.xml
+- Assets/Live/grunge_candle/grunge_candle.xml
+- Assets/Live/grunge_candle/flash/grunge_candle_64_b_0_3.png
+- Assets/Live/grunge_candle/flash/grunge_candle_visualization.xml
+- Assets/Live/grunge_candle/flash/grunge_candle_64_b_0_4.png
+Dependencies: []

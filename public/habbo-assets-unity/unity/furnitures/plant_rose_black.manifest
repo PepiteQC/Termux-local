@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1409623441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fcabe2722fa854aba82e37943de88365
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plant_rose_black/flash/plant_rose_black_visualization.xml
+- Assets/Live/plant_rose_black/flash/plant_rose_black_logic.xml
+- Assets/Live/plant_rose_black/flash/plant_rose_black_assets.xml
+- Assets/Live/plant_rose_black/flash/plant_rose_black_icon_a.png
+- Assets/Live/plant_rose_black/flash/manifest.xml
+- Assets/Live/plant_rose_black/flash/index.xml
+- Assets/Live/plant_rose_black/flash/plant_rose_black_64_a_0_0.png
+- Assets/Live/plant_rose_black/plant_rose_black.xml
+- Assets/Live/plant_rose_black/flash/plant_rose_black_64_a_0_1.png
+- Assets/Live/plant_rose_black/flash/plant_rose_black_64_sd_0_0.png
+Dependencies: []

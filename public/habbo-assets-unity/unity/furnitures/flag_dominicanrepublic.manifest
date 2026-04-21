@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2988875399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2fa72cd25b595d3af6a0ecd3475977e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_64_a_4_0.png
+- Assets/Live/flag_dominicanrepublic/flash/manifest.xml
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_logic.xml
+- Assets/Live/flag_dominicanrepublic/flag_dominicanrepublic.xml
+- Assets/Live/flag_dominicanrepublic/flash/index.xml
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_icon_a.png
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_visualization.xml
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_assets.xml
+- Assets/Live/flag_dominicanrepublic/flash/flag_dominicanrepublic_64_a_2_0.png
+Dependencies: []

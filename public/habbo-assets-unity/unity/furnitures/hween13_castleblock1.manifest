@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2016323423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad1c0e5b82704f3911854230690bee26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_assets.xml
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_a_0_1.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_c_0_1.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_a_0_0.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_b_0_0.png
+- Assets/Live/hween13_castleblock1/flash/index.xml
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_d_0_1.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_c_0_0.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_logic.xml
+- Assets/Live/hween13_castleblock1/hween13_castleblock1.xml
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_visualization.xml
+- Assets/Live/hween13_castleblock1/flash/manifest.xml
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_d_0_0.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_icon_a.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_sd_0_0.png
+- Assets/Live/hween13_castleblock1/flash/hween13_castleblock1_64_b_0_1.png
+Dependencies: []

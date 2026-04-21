@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 306607220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 497e8e53b5f85f5da4c2e917cddc6a52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_64_b_0_1.png
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_logic.xml
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_icon_a.png
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_64_a_0_1.png
+- Assets/Live/hween_c20_udstairs/flash/manifest.xml
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_64_b_0_0.png
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_64_a_0_0.png
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_visualization.xml
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_assets.xml
+- Assets/Live/hween_c20_udstairs/flash/hween_c20_udstairs_64_sd_0_0.png
+- Assets/Live/hween_c20_udstairs/hween_c20_udstairs.xml
+- Assets/Live/hween_c20_udstairs/flash/index.xml
+Dependencies: []

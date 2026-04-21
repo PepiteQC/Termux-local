@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2923336262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e5de536f10322e53c4d6f40cd7e149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_64_sd_0_0.png
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_64_a_0_0.png
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_logic.xml
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_assets.xml
+- Assets/Live/dessertcafe_c17_teaplant/dessertcafe_c17_teaplant.xml
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_visualization.xml
+- Assets/Live/dessertcafe_c17_teaplant/flash/dessertcafe_c17_teaplant_icon_a.png
+- Assets/Live/dessertcafe_c17_teaplant/flash/manifest.xml
+- Assets/Live/dessertcafe_c17_teaplant/flash/index.xml
+Dependencies: []

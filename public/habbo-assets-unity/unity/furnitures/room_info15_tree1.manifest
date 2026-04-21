@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2337251365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e8de689fdd01a3772ad6c9cef56f573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_info15_tree1/flash/index.xml
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_64_a_0_0.png
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_64_a_0_3.png
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_logic.xml
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_64_a_0_1.png
+- Assets/Live/room_info15_tree1/room_info15_tree1.xml
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_visualization.xml
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_assets.xml
+- Assets/Live/room_info15_tree1/flash/manifest.xml
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_icon_a.png
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_64_sd_0_0.png
+- Assets/Live/room_info15_tree1/flash/room_info15_tree1_64_a_0_2.png
+Dependencies: []

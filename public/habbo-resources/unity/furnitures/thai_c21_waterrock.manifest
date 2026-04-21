@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2883095581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d387df839e48cf5606cab054eb5055c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_waterrock/flash/manifest.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_assets.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_visualization.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_1_1.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_5_1.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_0_1.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_0_0.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_logic.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_1_0.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_3_0.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_2_0.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_4_0.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_icon_a.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_4_1.png
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_5_0.png
+- Assets/Live/thai_c21_waterrock/thai_c21_waterrock.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_2_1.png
+- Assets/Live/thai_c21_waterrock/flash/index.xml
+- Assets/Live/thai_c21_waterrock/flash/thai_c21_waterrock_64_a_3_1.png
+Dependencies: []

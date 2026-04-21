@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2157769757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf5618eddafd8ac4d90fca93a2739c7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sunsetcafe_c20_drinks/sunsetcafe_c20_drinks.xml
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_icon_a.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_visualization.xml
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_64_a_0_0.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_64_sd_0_0.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_64_a_0_1.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_64_a_0_2.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_64_a_0_3.png
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_assets.xml
+- Assets/Live/sunsetcafe_c20_drinks/flash/manifest.xml
+- Assets/Live/sunsetcafe_c20_drinks/flash/sunsetcafe_c20_drinks_logic.xml
+- Assets/Live/sunsetcafe_c20_drinks/flash/index.xml
+Dependencies: []

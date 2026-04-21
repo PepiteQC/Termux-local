@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2587949457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbb0e4e4c77ab8e20cb5c5a071e1f335
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_habboway/flash/manifest.xml
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_visualization.xml
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_64_a_0_0.png
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_assets.xml
+- Assets/Live/prizetrophy_habboway/prizetrophy_habboway.xml
+- Assets/Live/prizetrophy_habboway/flash/index.xml
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_logic.xml
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_64_sd_0_0.png
+- Assets/Live/prizetrophy_habboway/flash/prizetrophy_habboway_icon_a.png
+Dependencies: []

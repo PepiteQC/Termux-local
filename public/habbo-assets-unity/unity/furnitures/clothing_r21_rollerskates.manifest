@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3866963096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e81d0a8ab85e7bf095b785d40a06acd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r21_rollerskates/flash/clothing_r21_rollerskates_64_a_0_0.png
+- Assets/Live/clothing_r21_rollerskates/flash/clothing_r21_rollerskates_logic.xml
+- Assets/Live/clothing_r21_rollerskates/flash/clothing_r21_rollerskates_icon_a.png
+- Assets/Live/clothing_r21_rollerskates/flash/index.xml
+- Assets/Live/clothing_r21_rollerskates/flash/manifest.xml
+- Assets/Live/clothing_r21_rollerskates/flash/clothing_r21_rollerskates_visualization.xml
+- Assets/Live/clothing_r21_rollerskates/flash/clothing_r21_rollerskates_assets.xml
+- Assets/Live/clothing_r21_rollerskates/clothing_r21_rollerskates.xml
+Dependencies: []

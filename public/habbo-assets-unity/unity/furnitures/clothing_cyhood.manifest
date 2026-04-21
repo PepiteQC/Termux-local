@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1429903369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edba6a102a89d4a4a509db69bf6b5cd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_5.png
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_logic.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_visualization.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_2.png
+- Assets/Live/clothing_cyhood/clothing_cyhood.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_assets.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_4.png
+- Assets/Live/clothing_cyhood/flash/manifest.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_1.png
+- Assets/Live/clothing_cyhood/flash/index.xml
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_0.png
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_icon_a.png
+- Assets/Live/clothing_cyhood/flash/clothing_cyhood_64_a_2_3.png
+Dependencies: []

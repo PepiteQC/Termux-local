@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2157548099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69213908d6810aaba0dface646dfe960
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_b_0_2.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_a_0_0.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_assets.xml
+- Assets/Live/jungle_c16_sacks/flash/index.xml
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_a_0_1.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_b_0_1.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_a_0_2.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_logic.xml
+- Assets/Live/jungle_c16_sacks/jungle_c16_sacks.xml
+- Assets/Live/jungle_c16_sacks/flash/manifest.xml
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_64_b_0_0.png
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_visualization.xml
+- Assets/Live/jungle_c16_sacks/flash/jungle_c16_sacks_icon_a.png
+Dependencies: []

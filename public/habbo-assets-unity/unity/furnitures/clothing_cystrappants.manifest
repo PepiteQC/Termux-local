@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3251923595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acd0e5d8b42b06bea3e9d8db66d73c98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_logic.xml
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_2.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_assets.xml
+- Assets/Live/clothing_cystrappants/flash/index.xml
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_4.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_icon_a.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_3.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_1.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_5.png
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_visualization.xml
+- Assets/Live/clothing_cystrappants/flash/manifest.xml
+- Assets/Live/clothing_cystrappants/flash/clothing_cystrappants_64_a_2_0.png
+- Assets/Live/clothing_cystrappants/clothing_cystrappants.xml
+Dependencies: []

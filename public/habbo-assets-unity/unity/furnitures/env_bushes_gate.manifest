@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2791074560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d5c68aff5a4541c11d9428911262053
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_64_b_0_0.png
+- Assets/Live/env_bushes_gate/flash/index.xml
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_64_a_0_1.png
+- Assets/Live/env_bushes_gate/flash/manifest.xml
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_visualization.xml
+- Assets/Live/env_bushes_gate/env_bushes_gate.xml
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_icon_a.png
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_64_a_0_0.png
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_logic.xml
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_64_sd_0_0.png
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_64_b_0_1.png
+- Assets/Live/env_bushes_gate/flash/env_bushes_gate_assets.xml
+Dependencies: []

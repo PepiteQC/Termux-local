@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 589607722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac1b86a2aea76c87f42f7a86224dba11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_logic.xml
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_64_a_4_0.png
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_icon_a.png
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_visualization.xml
+- Assets/Live/cine_pstr_3/cine_pstr_3.xml
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_64_a_2_0.png
+- Assets/Live/cine_pstr_3/flash/cine_pstr_3_assets.xml
+- Assets/Live/cine_pstr_3/flash/manifest.xml
+- Assets/Live/cine_pstr_3/flash/index.xml
+Dependencies: []

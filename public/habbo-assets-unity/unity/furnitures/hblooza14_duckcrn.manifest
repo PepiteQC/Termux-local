@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 591540629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2065bc4449e579c26bce551d7d0d8d30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_visualization.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_a_3_0.png
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_sd_5_0.png
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_icon_a.png
+- Assets/Live/hblooza14_duckcrn/hblooza14_duckcrn.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_a_7_0.png
+- Assets/Live/hblooza14_duckcrn/flash/index.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_a_1_0.png
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_a_5_0.png
+- Assets/Live/hblooza14_duckcrn/flash/manifest.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_sd_3_0.png
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_logic.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_sd_7_0.png
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_assets.xml
+- Assets/Live/hblooza14_duckcrn/flash/hblooza14_duckcrn_64_sd_1_0.png
+Dependencies: []

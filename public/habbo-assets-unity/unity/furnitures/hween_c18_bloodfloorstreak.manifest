@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3075209367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a67fb1b729001e7b79ad7fc7156c75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_64_a_0_0.png
+- Assets/Live/hween_c18_bloodfloorstreak/flash/index.xml
+- Assets/Live/hween_c18_bloodfloorstreak/flash/manifest.xml
+- Assets/Live/hween_c18_bloodfloorstreak/hween_c18_bloodfloorstreak.xml
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_icon_a.png
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_logic.xml
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_visualization.xml
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_assets.xml
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_64_a_0_1.png
+- Assets/Live/hween_c18_bloodfloorstreak/flash/hween_c18_bloodfloorstreak_64_a_0_2.png
+Dependencies: []

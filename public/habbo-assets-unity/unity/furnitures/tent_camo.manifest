@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1403262912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19dca83a9ecdc0c0dcb0ab6d636982b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tent_camo/flash/tent_camo_64_g_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_visualization.xml
+- Assets/Live/tent_camo/tent_camo.xml
+- Assets/Live/tent_camo/flash/tent_camo_64_d_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_i_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_h_0_1.png
+- Assets/Live/tent_camo/flash/tent_camo_logic.xml
+- Assets/Live/tent_camo/flash/tent_camo_64_f_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_g_0_1.png
+- Assets/Live/tent_camo/flash/index.xml
+- Assets/Live/tent_camo/flash/tent_camo_64_c_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_sd_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_h_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_a_0_0.png
+- Assets/Live/tent_camo/flash/tent_camo_64_e_0_0.png
+- Assets/Live/tent_camo/flash/manifest.xml
+- Assets/Live/tent_camo/flash/tent_camo_icon_a.png
+- Assets/Live/tent_camo/flash/tent_camo_assets.xml
+- Assets/Live/tent_camo/flash/tent_camo_64_i_0_1.png
+- Assets/Live/tent_camo/flash/tent_camo_64_b_0_0.png
+Dependencies: []

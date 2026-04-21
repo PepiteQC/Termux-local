@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1973530619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec41974f08607265960211626cd2df17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_64_c_4_3.png
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_64_b_4_0.png
+- Assets/Live/cmp_fish_bk/flash/index.xml
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_64_c_4_1.png
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_64_c_4_2.png
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_icon_a.png
+- Assets/Live/cmp_fish_bk/cmp_fish_bk.xml
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_assets.xml
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_visualization.xml
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_64_a_4_0.png
+- Assets/Live/cmp_fish_bk/flash/cmp_fish_bk_logic.xml
+- Assets/Live/cmp_fish_bk/flash/manifest.xml
+Dependencies: []

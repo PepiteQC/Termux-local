@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3184645321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ebc60a30927842da3ea158c559f6191
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/noob_window_double/flash/noob_window_double_icon_a.png
+- Assets/Live/noob_window_double/flash/noob_window_double_32_2_mask.png
+- Assets/Live/noob_window_double/flash/noob_window_double_assets.xml
+- Assets/Live/noob_window_double/flash/noob_window_double_visualization.xml
+- Assets/Live/noob_window_double/flash/manifest.xml
+- Assets/Live/noob_window_double/flash/noob_window_double_64_2_mask.png
+- Assets/Live/noob_window_double/flash/index.xml
+- Assets/Live/noob_window_double/flash/noob_window_double_64_a_2_0.png
+- Assets/Live/noob_window_double/flash/noob_window_double_logic.xml
+- Assets/Live/noob_window_double/noob_window_double.xml
+Dependencies: []

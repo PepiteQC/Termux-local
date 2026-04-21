@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 401026707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc1fe8d07bfe0d77af71b33e65f729a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_assets.xml
+- Assets/Live/hblooza14_flag_y/flash/index.xml
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_64_a_2_3.png
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_64_a_2_0.png
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_icon_a.png
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_64_a_2_1.png
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_logic.xml
+- Assets/Live/hblooza14_flag_y/flash/manifest.xml
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_visualization.xml
+- Assets/Live/hblooza14_flag_y/hblooza14_flag_y.xml
+- Assets/Live/hblooza14_flag_y/flash/hblooza14_flag_y_64_a_2_2.png
+Dependencies: []

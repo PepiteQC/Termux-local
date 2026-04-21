@@ -1,0 +1,107 @@
+[
+  {
+    "classname": "rainyday_c20_woodenfloor",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "suncity_c19_floor",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "val14_largetile",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "steampunk_floor2",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "pixel_floor_brown",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "env_grass",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "tile",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "tile_red",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "tile_yell",
+    "category": "floor",
+    "assetType": "floor",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "messy_c21_plushcarpet",
+    "category": "rug",
+    "assetType": "rug",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "hs_carpet_blk",
+    "category": "rug",
+    "assetType": "rug",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "gothic_carpet",
+    "category": "rug",
+    "assetType": "rug",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "tiki_junglerug",
+    "category": "rug",
+    "assetType": "rug",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "clothing_r26_iridescentcoat",
+    "category": "clothing",
+    "assetType": "clothing",
+    "width": 1,
+    "length": 1
+  },
+  {
+    "classname": "clothing_ltd26_iridescentskin",
+    "category": "clothing",
+    "assetType": "clothing",
+    "width": 1,
+    "length": 1
+  }
+]

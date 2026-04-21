@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 2746352367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30f3d4edbc0f61d7e65fca13861162b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_19.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_4.png
+- Assets/Live/obstacle_oxer/flash/index.xml
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_13.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_6.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_2.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_18.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_11.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_8.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_10.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_3.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_7.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_c_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_14.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_3.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_5.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_b_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_20.png
+- Assets/Live/obstacle_oxer/obstacle_oxer.xml
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_1.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_1.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_assets.xml
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_2.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_a_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_9.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_4.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_17.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_6.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_logic.xml
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_g_4_0.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_12.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_16.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_icon_a.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_visualization.xml
+- Assets/Live/obstacle_oxer/flash/manifest.xml
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_e_4_7.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_5.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_15.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_d_4_21.png
+- Assets/Live/obstacle_oxer/flash/obstacle_oxer_64_f_4_0.png
+Dependencies: []

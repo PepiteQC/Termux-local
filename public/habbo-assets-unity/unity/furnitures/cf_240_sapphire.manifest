@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 229816958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5ce1ee8784faccb2098ac863745e86c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_240_sapphire/CF_240_sapphire.xml
+- Assets/Live/CF_240_sapphire/flash/CF_240_sapphire_logic.xml
+- Assets/Live/CF_240_sapphire/flash/index.xml
+- Assets/Live/CF_240_sapphire/flash/CF_240_sapphire_visualization.xml
+- Assets/Live/CF_240_sapphire/flash/CF_240_sapphire_assets.xml
+- Assets/Live/CF_240_sapphire/flash/CF_240_sapphire_64_a_2_0.png
+- Assets/Live/CF_240_sapphire/flash/CF_240_sapphire_icon_a.png
+- Assets/Live/CF_240_sapphire/flash/manifest.xml
+Dependencies: []

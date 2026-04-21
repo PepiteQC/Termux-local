@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1324667351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a1e2ac5c25d46179aaacf698b126e92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_dj/flash/manifest.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_b_0_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_1.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_icon_a.png
+- Assets/Live/fest_c19_dj/flash/index.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_2.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_visualization.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_c_0_1.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_1.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_2.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_c_0_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_a_0_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_assets.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_5.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_4.png
+- Assets/Live/fest_c19_dj/fest_c19_dj.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_3.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_b_4_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_c_4_1.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_c_4_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_5.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_0_4.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_sd_0_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_logic.xml
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_a_4_0.png
+- Assets/Live/fest_c19_dj/flash/fest_c19_dj_64_d_4_3.png
+Dependencies: []

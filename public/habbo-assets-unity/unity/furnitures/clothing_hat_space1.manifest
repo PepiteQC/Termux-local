@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2756070003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f737a69f2a8d6b09e7e02fcc6d217f97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_hat_space1/flash/index.xml
+- Assets/Live/clothing_hat_space1/clothing_hat_space1.xml
+- Assets/Live/clothing_hat_space1/flash/clothing_hat_space1_assets.xml
+- Assets/Live/clothing_hat_space1/flash/clothing_hat_space1_64_a_0_0.png
+- Assets/Live/clothing_hat_space1/flash/clothing_hat_space1_icon_a.png
+- Assets/Live/clothing_hat_space1/flash/clothing_hat_space1_visualization.xml
+- Assets/Live/clothing_hat_space1/flash/clothing_hat_space1_logic.xml
+- Assets/Live/clothing_hat_space1/flash/manifest.xml
+Dependencies: []

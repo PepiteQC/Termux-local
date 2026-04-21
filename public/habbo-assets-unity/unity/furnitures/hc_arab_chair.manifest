@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 304178314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08b1ea1ffc4d8a2f97fc3ad38eac64cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_visualization.xml
+- Assets/Live/hc_arab_chair/flash/manifest.xml
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_b_0_0.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_logic.xml
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_icon_a.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_b_2_1.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_a_0_1.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_b_2_0.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_sd_0_0.png
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_a_0_0.png
+- Assets/Live/hc_arab_chair/hc_arab_chair.xml
+- Assets/Live/hc_arab_chair/flash/index.xml
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_assets.xml
+- Assets/Live/hc_arab_chair/flash/hc_arab_chair_64_b_0_1.png
+Dependencies: []

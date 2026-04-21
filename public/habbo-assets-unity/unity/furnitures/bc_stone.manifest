@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 85149823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c38e3accd6debc9c371c8065f267aae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_stone/flash/index.xml
+- Assets/Live/bc_stone/flash/bc_stone_64_b_0_0.png
+- Assets/Live/bc_stone/flash/bc_stone_logic.xml
+- Assets/Live/bc_stone/flash/bc_stone_assets.xml
+- Assets/Live/bc_stone/flash/manifest.xml
+- Assets/Live/bc_stone/bc_stone.xml
+- Assets/Live/bc_stone/flash/bc_stone_64_c_0_0.png
+- Assets/Live/bc_stone/flash/bc_stone_visualization.xml
+- Assets/Live/bc_stone/flash/bc_stone_icon_a.png
+- Assets/Live/bc_stone/flash/bc_stone_64_a_0_0.png
+Dependencies: []

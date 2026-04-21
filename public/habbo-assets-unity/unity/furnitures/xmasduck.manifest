@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3273646086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 843fa32e43615620a9704dbe9f6432cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmasduck/flash/xmasduck_icon_a.png
+- Assets/Live/xmasduck/flash/xmasduck_logic.xml
+- Assets/Live/xmasduck/flash/index.xml
+- Assets/Live/xmasduck/flash/xmasduck_64_a_4_0.png
+- Assets/Live/xmasduck/flash/xmasduck_assets.xml
+- Assets/Live/xmasduck/xmasduck.xml
+- Assets/Live/xmasduck/flash/manifest.xml
+- Assets/Live/xmasduck/flash/xmasduck_visualization.xml
+- Assets/Live/xmasduck/flash/xmasduck_64_sd_0_0.png
+Dependencies: []

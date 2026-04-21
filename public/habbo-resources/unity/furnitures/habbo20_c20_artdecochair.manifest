@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1476120869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9aef72a429811d2349926288a3f93ffe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_a_4_0.png
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_sd_6_0.png
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_logic.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_b_4_0.png
+- Assets/Live/habbo20_c20_artdecochair/flash/manifest.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_sd_4_0.png
+- Assets/Live/habbo20_c20_artdecochair/habbo20_c20_artdecochair.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_visualization.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_icon_a.png
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_assets.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_a_6_0.png
+- Assets/Live/habbo20_c20_artdecochair/flash/index.xml
+- Assets/Live/habbo20_c20_artdecochair/flash/habbo20_c20_artdecochair_64_b_6_0.png
+Dependencies: []

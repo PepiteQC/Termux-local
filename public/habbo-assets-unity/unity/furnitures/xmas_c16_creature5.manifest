@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4027577385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 657a8e4663d53ef53d8c289059d6f7e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_assets.xml
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_1.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_4.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_a_4_2.png
+- Assets/Live/xmas_c16_creature5/flash/manifest.xml
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_3.png
+- Assets/Live/xmas_c16_creature5/flash/index.xml
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_a_4_1.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_6.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_a_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_logic.xml
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_sd_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_e_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_5.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_icon_a.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_d_4_3.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_e_4_3.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_e_4_1.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_e_4_4.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_a_4_3.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_d_4_4.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_d_4_1.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_e_4_2.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_c_4_1.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_c_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_visualization.xml
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_c_4_3.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_7.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_d_4_0.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_b_4_2.png
+- Assets/Live/xmas_c16_creature5/flash/xmas_c16_creature5_64_c_4_2.png
+- Assets/Live/xmas_c16_creature5/xmas_c16_creature5.xml
+Dependencies: []

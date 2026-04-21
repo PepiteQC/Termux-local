@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2130770674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab9531d9d73868a1ef26b934b13f17f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_ecuador/flash/flag_ecuador_64_a_2_0.png
+- Assets/Live/flag_ecuador/flash/flag_ecuador_assets.xml
+- Assets/Live/flag_ecuador/flash/manifest.xml
+- Assets/Live/flag_ecuador/flash/flag_ecuador_64_a_4_0.png
+- Assets/Live/flag_ecuador/flash/flag_ecuador_visualization.xml
+- Assets/Live/flag_ecuador/flash/flag_ecuador_icon_a.png
+- Assets/Live/flag_ecuador/flash/flag_ecuador_logic.xml
+- Assets/Live/flag_ecuador/flash/index.xml
+- Assets/Live/flag_ecuador/flag_ecuador.xml
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1033510307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d2301764a7d4d260c6b219b8e8d7e86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_logic.xml
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_assets.xml
+- Assets/Live/room_hcl15_dj/flash/index.xml
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_b_0_0.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_visualization.xml
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_d_2_1.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_d_2_0.png
+- Assets/Live/room_hcl15_dj/room_hcl15_dj.xml
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_d_2_2.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_a_2_0.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_e_2_0.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_b_2_0.png
+- Assets/Live/room_hcl15_dj/flash/manifest.xml
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_icon_a.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_c_2_0.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_e_2_2.png
+- Assets/Live/room_hcl15_dj/flash/room_hcl15_dj_64_e_2_1.png
+Dependencies: []

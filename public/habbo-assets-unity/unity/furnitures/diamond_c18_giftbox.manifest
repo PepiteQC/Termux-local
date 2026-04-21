@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2829488121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35e78c8a7f00b5d6431ad856c67d4250
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/diamond_c18_giftbox/flash/index.xml
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_8.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_3.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_12.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_5.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_sd_0_0.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_logic.xml
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_icon_a.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_11.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_9.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_4.png
+- Assets/Live/diamond_c18_giftbox/flash/manifest.xml
+- Assets/Live/diamond_c18_giftbox/diamond_c18_giftbox.xml
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_2.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_assets.xml
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_1.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_7.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_0.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_visualization.xml
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_13.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_6.png
+- Assets/Live/diamond_c18_giftbox/flash/diamond_c18_giftbox_64_a_0_10.png
+Dependencies: []

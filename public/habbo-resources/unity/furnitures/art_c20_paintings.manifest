@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2832368202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2053211a106a1c4c3c50dee12650d664
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_64_a_0_1.png
+- Assets/Live/art_c20_paintings/flash/manifest.xml
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_assets.xml
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_64_a_0_0.png
+- Assets/Live/art_c20_paintings/art_c20_paintings.xml
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_logic.xml
+- Assets/Live/art_c20_paintings/flash/index.xml
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_64_a_0_2.png
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_64_sd_0_0.png
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_visualization.xml
+- Assets/Live/art_c20_paintings/flash/art_c20_paintings_icon_a.png
+Dependencies: []
