@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Habbo-style Red Chair -->
+  <!-- Seat -->
+  <rect x="8" y="8" width="16" height="12" fill="#DC6464" stroke="#804040" stroke-width="1"/>
+
+  <!-- Back -->
+  <rect x="10" y="2" width="12" height="10" fill="#DC6464" stroke="#804040" stroke-width="1"/>
+
+  <!-- Front left leg -->
+  <rect x="8" y="20" width="4" height="8" fill="#643C14" stroke="#3C2410" stroke-width="1"/>
+
+  <!-- Front right leg -->
+  <rect x="20" y="20" width="4" height="8" fill="#643C14" stroke="#3C2410" stroke-width="1"/>
+
+  <!-- Back left leg (shadow) -->
+  <rect x="10" y="20" width="3" height="7" fill="#502810" stroke="#3C2410" stroke-width="1" opacity="0.8"/>
+
+  <!-- Back right leg (shadow) -->
+  <rect x="19" y="20" width="3" height="7" fill="#502810" stroke="#3C2410" stroke-width="1" opacity="0.8"/>
+
+  <!-- Seat detail -->
+  <line x1="8" y1="14" x2="24" y2="14" stroke="#B43C3C" stroke-width="0.5"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="64" height="32" viewBox="0 0 64 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Isometric diamond tile (Habbo floor) -->
+  <polygon points="32,0 64,16 32,32 0,16" fill="#E8D5A3" stroke="#B4A080" stroke-width="1"/>
+
+  <!-- Pattern details -->
+  <polygon points="32,8 40,12 32,16 24,12" fill="none" stroke="#C8B896" stroke-width="0.5"/>
+
+  <!-- Corners shadow -->
+  <polygon points="0,16 16,24 8,28 0,24" fill="rgba(0,0,0,0.1)"/>
+  <polygon points="48,24 64,16 56,20 48,28" fill="rgba(0,0,0,0.1)"/>
+</svg>

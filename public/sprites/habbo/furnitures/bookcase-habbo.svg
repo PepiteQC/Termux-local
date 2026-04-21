@@ -1,0 +1,37 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Habbo-style Bookcase -->
+  <!-- Cabinet frame (brown wood) -->
+  <rect x="4" y="4" width="24" height="24" fill="#B47050" stroke="#804030" stroke-width="1"/>
+
+  <!-- Back panel -->
+  <rect x="5" y="5" width="22" height="22" fill="#9A5840" stroke="#643C14" stroke-width="0.5"/>
+
+  <!-- Horizontal shelves -->
+  <line x1="4" y1="10" x2="28" y2="10" stroke="#643C14" stroke-width="1"/>
+  <line x1="4" y1="16" x2="28" y2="16" stroke="#643C14" stroke-width="1"/>
+  <line x1="4" y1="22" x2="28" y2="22" stroke="#643C14" stroke-width="1"/>
+
+  <!-- Left column of books -->
+  <rect x="6" y="6" width="2" height="3" fill="#DC6464" stroke="#804040" stroke-width="0.5"/>
+  <rect x="6" y="12" width="2" height="3" fill="#4169E1" stroke="#2844A0" stroke-width="0.5"/>
+  <rect x="6" y="18" width="2" height="3" fill="#FFFF64" stroke="#CCCC00" stroke-width="0.5"/>
+
+  <!-- Middle column of books -->
+  <rect x="10" y="6" width="2" height="3" fill="#4169E1" stroke="#2844A0" stroke-width="0.5"/>
+  <rect x="10" y="12" width="2" height="3" fill="#FFFF64" stroke="#CCCC00" stroke-width="0.5"/>
+  <rect x="10" y="18" width="2" height="3" fill="#DC6464" stroke="#804040" stroke-width="0.5"/>
+
+  <!-- Right column of books -->
+  <rect x="14" y="6" width="2" height="3" fill="#FFFF64" stroke="#CCCC00" stroke-width="0.5"/>
+  <rect x="14" y="12" width="2" height="3" fill="#DC6464" stroke="#804040" stroke-width="0.5"/>
+  <rect x="14" y="18" width="2" height="3" fill="#4169E1" stroke="#2844A0" stroke-width="0.5"/>
+
+  <!-- Far right column -->
+  <rect x="18" y="6" width="2" height="3" fill="#7FBF7F" stroke="#3C8C1C" stroke-width="0.5"/>
+  <rect x="18" y="12" width="2" height="3" fill="#DC6464" stroke="#804040" stroke-width="0.5"/>
+  <rect x="18" y="18" width="2" height="3" fill="#4169E1" stroke="#2844A0" stroke-width="0.5"/>
+
+  <!-- Wood grain detail -->
+  <line x1="5" y1="5" x2="5" y2="27" stroke="rgba(0,0,0,0.1)" stroke-width="0.5"/>
+  <line x1="27" y1="5" x2="27" y2="27" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/>
+</svg>

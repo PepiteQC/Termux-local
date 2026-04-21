@@ -1,0 +1,14 @@
+<svg width="32" height="64" viewBox="0 0 32 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left wall (south-west) - Blue Habbo wall -->
+  <rect width="32" height="64" fill="#6496DC" stroke="#4464A8" stroke-width="1"/>
+
+  <!-- Horizontal pattern lines -->
+  <line x1="0" y1="16" x2="32" y2="16" stroke="#5080C8" stroke-width="0.5"/>
+  <line x1="0" y1="32" x2="32" y2="32" stroke="#5080C8" stroke-width="0.5"/>
+  <line x1="0" y1="48" x2="32" y2="48" stroke="#5080C8" stroke-width="0.5"/>
+
+  <!-- Vertical pattern -->
+  <line x1="8" y1="0" x2="8" y2="64" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/>
+  <line x1="16" y1="0" x2="16" y2="64" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/>
+  <line x1="24" y1="0" x2="24" y2="64" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/>
+</svg>

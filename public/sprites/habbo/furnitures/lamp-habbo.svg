@@ -1,0 +1,21 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Habbo-style Yellow Lamp -->
+  <!-- Base (wood) -->
+  <circle cx="16" cy="26" r="4" fill="#643C14" stroke="#3C2410" stroke-width="1"/>
+
+  <!-- Pole -->
+  <rect x="15" y="12" width="2" height="14" fill="#505050" stroke="#202020" stroke-width="1"/>
+
+  <!-- Lampshade (yellow, glowing) -->
+  <ellipse cx="16" cy="8" rx="10" ry="7" fill="#FFFF64" stroke="#FFFF00" stroke-width="1"/>
+
+  <!-- Light glow effect -->
+  <circle cx="16" cy="8" r="12" fill="rgba(255, 255, 100, 0.2)" stroke="none"/>
+
+  <!-- Shade detail lines -->
+  <line x1="6" y1="8" x2="8" y2="12" stroke="#FFFF00" stroke-width="0.5" opacity="0.5"/>
+  <line x1="26" y1="8" x2="24" y2="12" stroke="#FFFF00" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Bottom of shade -->
+  <ellipse cx="16" cy="15" rx="8" ry="3" fill="#FFFF32" stroke="#FFFF00" stroke-width="1"/>
+</svg>
