@@ -55,7 +55,9 @@ const defaultRoomData: RoomData = {
 			depth: 1,
 			height: 1,
 			palette: 'plum',
-			accent: 0xd7c8ff
+			accent: 0xd7c8ff,
+			habboClassName: 'club_sofa',
+			habboDirection: 2
 		},
 		{
 			id: 'coffee-table',
@@ -63,11 +65,13 @@ const defaultRoomData: RoomData = {
 			kind: 'table',
 			x: 4,
 			y: 2,
-			width: 1,
-			depth: 1,
+			width: 2,
+			depth: 2,
 			height: 1,
 			palette: 'oak',
-			accent: 0xe3c08e
+			accent: 0xe3c08e,
+			habboClassName: 'table_polyfon',
+			habboDirection: 2
 		},
 		{
 			id: 'royal-bed',
@@ -79,19 +83,23 @@ const defaultRoomData: RoomData = {
 			depth: 3,
 			height: 1,
 			palette: 'ember',
-			accent: 0xf1d6df
+			accent: 0xf1d6df,
+			habboClassName: 'bed_polyfon',
+			habboDirection: 2
 		},
 		{
-			id: 'desk-set',
-			label: 'Desk',
-			kind: 'desk',
+			id: 'desk-shelf',
+			label: 'Bookshelf',
+			kind: 'shelf',
 			x: 1,
 			y: 5,
-			width: 2,
+			width: 1,
 			depth: 1,
 			height: 1,
 			palette: 'oak',
-			accent: 0xc9a779
+			accent: 0xc9a779,
+			habboClassName: 'shelves_norja',
+			habboDirection: 2
 		},
 		{
 			id: 'screen-flat',
@@ -115,7 +123,9 @@ const defaultRoomData: RoomData = {
 			depth: 1,
 			height: 2,
 			palette: 'gold',
-			accent: 0xfff1b1
+			accent: 0xfff1b1,
+			habboClassName: 'rare_dragonlamp',
+			habboDirection: 2
 		},
 		{
 			id: 'plant-tall',
@@ -127,7 +137,9 @@ const defaultRoomData: RoomData = {
 			depth: 1,
 			height: 2,
 			palette: 'leaf',
-			accent: 0x6fd188
+			accent: 0x6fd188,
+			habboClassName: 'plant_yukka',
+			habboDirection: 2
 		},
 		{
 			id: 'main-rug',
@@ -135,12 +147,14 @@ const defaultRoomData: RoomData = {
 			kind: 'rug',
 			x: 3,
 			y: 4,
-			width: 3,
+			width: 2,
 			depth: 2,
 			height: 0,
 			palette: 'sand',
 			accent: 0xf3ead2,
-			walkable: true
+			walkable: true,
+			habboClassName: 'rare_daffodil_rug',
+			habboDirection: 2
 		}
 	]
 }
