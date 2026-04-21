@@ -1,4 +1,4 @@
-import { Container, Graphics, Text, Ticker } from 'pixi.js'
+import { Container, Graphics, Ticker } from 'pixi.js'
 
 import type AvatarFigure from './AvatarFigure'
 import type { HeightMapPosition } from '../map/HeightMap'
@@ -10,7 +10,6 @@ export default class AvatarSprite extends Container {
 	private readonly figure: AvatarFigure
 	private readonly layers = new Container()
 	private readonly shadow = new Graphics()
-	private readonly nameText: Text
 
 	private bobPhase = 0
 	private currentTile: HeightMapPosition
@@ -36,30 +35,10 @@ export default class AvatarSprite extends Container {
 		this.shadow.position.set(0, 1)
 		this.shadow.zIndex = 0
 
-		this.nameText = new Text({
-			text: this.figure.username,
-			style: {
-				fill: 0xffffff,
-				fontFamily: 'Arial',
-				fontSize: 10,
-				stroke: {
-					color: 0x111111,
-					width: 3
-				}
-			},
-			textureStyle: {
-				scaleMode: 'nearest'
-			}
-		})
-
-		this.nameText.anchor.set(0.5, 1)
-		this.nameText.position.set(0, -70)
-		this.nameText.zIndex = 4
-
 		this.layers.sortableChildren = true
 		this.layers.zIndex = 2
 
-		this.addChild(this.shadow, this.layers, this.nameText)
+		this.addChild(this.shadow, this.layers)
 		this.buildLook()
 		this.setPositionFromTile(this.currentTile)
 		Ticker.shared.add(this.handleTick, this)
@@ -133,6 +112,5 @@ export default class AvatarSprite extends Container {
 		const bobAmount = moving ? 1.8 : 0.55
 
 		this.layers.y = Math.sin(this.bobPhase) * bobAmount
-		this.nameText.y = -70 + Math.sin(this.bobPhase) * bobAmount
 	}
 }
