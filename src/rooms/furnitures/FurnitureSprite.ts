@@ -1,4 +1,4 @@
-import { Container, Graphics } from 'pixi.js'
+import { Container, Graphics, type FederatedPointerEvent } from 'pixi.js'
 
 import { buildHabboFurniContainer } from '../../habbo/HabboFurniLoader'
 import type RoomScene from '../RoomScene'
@@ -6,6 +6,24 @@ import TilesContainer from '../containers/tiles/TilesContainer'
 import Tile from '../tiles/Tile'
 import type FurnitureData from './FurnitureData'
 import type { FurniturePalette } from './FurnitureData'
+
+export type FurnitureTapEventDetail = {
+	id: string
+	label: string
+	kind: string
+	x: number
+	y: number
+	width: number
+	depth: number
+	height: number
+	walkable: boolean
+	habboClassName: string | null
+	habboDirection: number | null
+	clientX: number
+	clientY: number
+}
+
+const HABBO_DIRECTIONS = [0, 2, 4, 6] as const
 
 type Point2D = {
 	x: number
@@ -73,12 +91,57 @@ export default class FurnitureSprite extends Container {
 		this.sortableChildren = true
 		this.eventMode = 'static'
 		this.cursor = 'pointer'
+		this.on('pointertap', this.handlePointerTap, this)
 
 		if (item.habboClassName) {
 			this.buildHabbo().catch(() => this.build())
 		} else {
 			this.build()
 		}
+	}
+
+	public getItemId(): string {
+		return this.item.id
+	}
+
+	public turn(): number | null {
+		if (!this.item.habboClassName) return null
+		const current = this.item.habboDirection ?? 2
+		const currentIndex = HABBO_DIRECTIONS.indexOf(
+			current as typeof HABBO_DIRECTIONS[number]
+		)
+		const nextIndex = currentIndex === -1 ? 0 : (currentIndex + 1) % HABBO_DIRECTIONS.length
+		const nextDirection = HABBO_DIRECTIONS[nextIndex]
+		this.item.habboDirection = nextDirection
+		this.rebuildHabbo()
+		return nextDirection
+	}
+
+	private rebuildHabbo(): void {
+		this.removeChildren().forEach((child) => child.destroy({ children: true }))
+		this.buildHabbo().catch(() => this.build())
+	}
+
+	private handlePointerTap(event: FederatedPointerEvent): void {
+		if (typeof window === 'undefined') return
+		const detail: FurnitureTapEventDetail = {
+			id: this.item.id,
+			label: this.item.label,
+			kind: this.item.kind,
+			x: this.item.x,
+			y: this.item.y,
+			width: this.item.width,
+			depth: this.item.depth,
+			height: this.item.height,
+			walkable: this.item.walkable ?? false,
+			habboClassName: this.item.habboClassName ?? null,
+			habboDirection: this.item.habboDirection ?? null,
+			clientX: event.client.x,
+			clientY: event.client.y
+		}
+		window.dispatchEvent(
+			new CustomEvent<FurnitureTapEventDetail>('ew-furniture-tap', { detail })
+		)
 	}
 
 	private async buildHabbo(): Promise<void> {

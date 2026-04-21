@@ -69,9 +69,36 @@ type HabboLike = {
 	teleportAvatarTo: (x: number, y: number) => boolean
 	emitSmokeAtPrimaryAvatar: (tint?: number, count?: number) => boolean
 	placeHabboFurni: (className: string, options?: { x?: number; y?: number; direction?: number; label?: string; width?: number; depth?: number }) => boolean
+	rotateFurnitureById: (id: string) => number | null
 	gangState: GangStateLike
 	destroy?: () => void
 }
+
+type FurnitureTapDetail = {
+	id: string
+	label: string
+	kind: string
+	x: number
+	y: number
+	width: number
+	depth: number
+	height: number
+	walkable: boolean
+	habboClassName: string | null
+	habboDirection: number | null
+	clientX: number
+	clientY: number
+}
+
+const SIT_KINDS = new Set([
+	"sofa",
+	"chill-sofa",
+	"chair",
+	"throne",
+	"bar"
+])
+
+const LIE_KINDS = new Set(["bed"])
 
 type HabboCatalogEntry = {
 	id: number
@@ -195,6 +222,7 @@ export default function ClientGameShell() {
 	const [habboQuery, setHabboQuery] = useState("")
 	const [habboCategory, setHabboCategory] = useState<string>("all")
 	const [habboSwfOnly, setHabboSwfOnly] = useState(true)
+	const [furniTap, setFurniTap] = useState<FurnitureTapDetail | null>(null)
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
@@ -228,10 +256,22 @@ export default function ClientGameShell() {
 		const onChange = (event: Event) => {
 			const detail = (event as CustomEvent<{ id: string }>).detail
 			setCurrentRoomId(detail?.id ?? habbo.getCurrentRoomId())
+			setFurniTap(null)
 		}
 		window.addEventListener("ew-room-change", onChange)
 		return () => window.removeEventListener("ew-room-change", onChange)
 	}, [habbo])
+
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		const onTap = (event: Event) => {
+			const detail = (event as CustomEvent<FurnitureTapDetail>).detail
+			if (!detail) return
+			setFurniTap(detail)
+		}
+		window.addEventListener("ew-furniture-tap", onTap)
+		return () => window.removeEventListener("ew-furniture-tap", onTap)
+	}, [])
 
 	useEffect(() => {
 		const root = gameRootRef.current
@@ -375,6 +415,36 @@ export default function ClientGameShell() {
 		setPanel((current) => (current === key ? null : key))
 	}
 
+	const handleFurniSit = useCallback(() => {
+		if (!habbo || !furniTap) return
+		const cx = furniTap.x + furniTap.width / 2
+		const cy = furniTap.y + furniTap.depth / 2
+		if (habbo.teleportAvatarTo(cx, cy)) {
+			const label = LIE_KINDS.has(furniTap.kind)
+				? `Tu te couches sur ${furniTap.label.toLowerCase()}`
+				: `Tu t'assois sur ${furniTap.label.toLowerCase()}`
+			flashStatus(label)
+		}
+		setFurniTap(null)
+	}, [habbo, furniTap, flashStatus])
+
+	const handleFurniTurn = useCallback(() => {
+		if (!habbo || !furniTap) return
+		if (!furniTap.habboClassName) {
+			flashStatus("Cet objet ne peut pas tourner.")
+			return
+		}
+		const next = habbo.rotateFurnitureById(furniTap.id)
+		if (next === null) {
+			flashStatus("Rotation impossible.")
+			return
+		}
+		flashStatus(`${furniTap.label} · direction ${next}`)
+		setFurniTap((prev) => (prev ? { ...prev, habboDirection: next } : prev))
+	}, [habbo, furniTap, flashStatus])
+
+	const handleFurniClose = useCallback(() => setFurniTap(null), [])
+
 	const gangRooms = rooms.filter((r) => r.category === "gang")
 	const shopRooms = rooms.filter((r) => r.category === "shop")
 	const mainRooms = rooms.filter((r) => r.category !== "gang" && r.category !== "shop")
@@ -407,6 +477,15 @@ export default function ClientGameShell() {
 			</div>
 
 			{status ? <div className="ew-client-status">{status}</div> : null}
+
+			{furniTap ? (
+				<FurnitureActionMenu
+					detail={furniTap}
+					onSit={handleFurniSit}
+					onTurn={handleFurniTurn}
+					onClose={handleFurniClose}
+				/>
+			) : null}
 
 			<button
 				className="ew-client-action-bubble"
@@ -877,6 +956,104 @@ export default function ClientGameShell() {
 			) : null}
 		</div>
 	)
+}
+
+function FurnitureActionMenu({
+	detail,
+	onSit,
+	onTurn,
+	onClose
+}: {
+	detail: FurnitureTapDetail
+	onSit: () => void
+	onTurn: () => void
+	onClose: () => void
+}) {
+	const canSit = SIT_KINDS.has(detail.kind)
+	const canLie = LIE_KINDS.has(detail.kind)
+	const canSeat = canSit || canLie
+	const canTurn = detail.habboClassName !== null
+	const seatLabel = canLie ? "Se coucher" : "S'asseoir"
+	const seatSub = canLie ? "Repos sur le lit" : canSit ? "Pose-toi ici" : "Indisponible"
+
+	const [viewport, setViewport] = useState<{ w: number; h: number }>(() => ({
+		w: typeof window === "undefined" ? 1024 : window.innerWidth,
+		h: typeof window === "undefined" ? 768 : window.innerHeight
+	}))
+
+	useEffect(() => {
+		const onResize = () => setViewport({ w: window.innerWidth, h: window.innerHeight })
+		window.addEventListener("resize", onResize)
+		return () => window.removeEventListener("resize", onResize)
+	}, [])
+
+	const menuWidth = 220
+	const menuHeight = 280
+	const margin = 16
+	const left = Math.max(margin, Math.min(detail.clientX - menuWidth / 2, viewport.w - menuWidth - margin))
+	const top = Math.max(margin, Math.min(detail.clientY - menuHeight - 12, viewport.h - menuHeight - margin))
+
+	return (
+		<div className="ew-furni-menu-backdrop" onClick={onClose}>
+			<div
+				className="ew-furni-menu"
+				role="dialog"
+				aria-label={`Actions pour ${detail.label}`}
+				style={{ left, top }}
+				onClick={(event) => event.stopPropagation()}
+			>
+				<div className="ew-furni-menu-head">
+					<div className="ew-furni-menu-title">{detail.label}</div>
+					<button
+						className="ew-furni-menu-close"
+						onClick={onClose}
+						aria-label="Fermer le menu"
+					>
+						×
+					</button>
+				</div>
+				<div className="ew-furni-menu-sub">
+					{detail.kind} · {detail.width}×{detail.depth}
+					{detail.habboClassName ? ` · ${detail.habboClassName}` : ""}
+				</div>
+				<button
+					className="ew-furni-menu-action"
+					onClick={onSit}
+					disabled={!canSeat}
+				>
+					<span className="ew-furni-menu-icon">{canLie ? "🛌" : "🪑"}</span>
+					<div>
+						<div className="ew-furni-menu-action-title">{seatLabel}</div>
+						<div className="ew-furni-menu-action-sub">{seatSub}</div>
+					</div>
+				</button>
+				<button
+					className="ew-furni-menu-action"
+					onClick={onTurn}
+					disabled={!canTurn}
+				>
+					<span className="ew-furni-menu-icon">🔄</span>
+					<div>
+						<div className="ew-furni-menu-action-title">Tourner</div>
+						<div className="ew-furni-menu-action-sub">
+							{canTurn ? `Dir. ${detail.habboDirection ?? 2} → ${nextDir(detail.habboDirection ?? 2)}` : "Indisponible"}
+						</div>
+					</div>
+				</button>
+				<div className="ew-furni-menu-meta">
+					<div><span>Case</span><strong>{detail.x}, {detail.y}</strong></div>
+					<div><span>Taille</span><strong>{detail.width}×{detail.depth}×{detail.height}</strong></div>
+					<div><span>Direction</span><strong>{detail.habboDirection ?? "—"}</strong></div>
+				</div>
+			</div>
+		</div>
+	)
+}
+
+function nextDir(current: number): number {
+	const dirs = [0, 2, 4, 6]
+	const i = dirs.indexOf(current)
+	return dirs[(i === -1 ? 0 : i + 1) % dirs.length]
 }
 
 function panelTitle(panel: Exclude<PanelKey, null>): string {
