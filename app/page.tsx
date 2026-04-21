@@ -17,28 +17,14 @@ const CONNECT_STEPS = [
   { label: "PRÊT.", pct: 100 }
 ];
 
-const ROOMS_PREVIEW = [
-  { tag: "SPAWN", name: "Ether Suite Premium", color: "#4fc3f7" },
-  { tag: "CLUB", name: "Skyline Club", color: "#ff6d00" },
-  { tag: "SHOP", name: "Green Shop · Weed", color: "#5fff8e" },
-  { tag: "GARDEN", name: "Garden Boutique", color: "#c084fc" }
-];
-
 export default function HomePage() {
   const router = useRouter();
   const [phase, setPhase] = useState<Phase>("gate");
   const [stepIndex, setStepIndex] = useState(0);
   const [progress, setProgress] = useState(0);
   const [label, setLabel] = useState("");
-  const [pseudo, setPseudo] = useState("");
-  const [faction, setFaction] = useState<string>("Citoyen");
   const stars = useMemo(() => generateStars(70), []);
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
-
-  useEffect(() => {
-    const saved = typeof window !== "undefined" ? window.localStorage.getItem("ew_pseudo") : null;
-    if (saved) setPseudo(saved);
-  }, []);
 
   useEffect(() => {
     if (phase !== "connect") return;
@@ -47,12 +33,12 @@ export default function HomePage() {
       const t = window.setTimeout(() => {
         setPhase("done");
         router.push("/room");
-      }, 520);
+      }, 420);
       return () => window.clearTimeout(t);
     }
 
     const step = CONNECT_STEPS[stepIndex];
-    const delay = 360 + Math.random() * 280;
+    const delay = 220 + Math.random() * 180;
     const t = window.setTimeout(() => {
       setProgress(step.pct);
       setLabel(step.label);
@@ -138,23 +124,11 @@ export default function HomePage() {
   }, []);
 
   const startConnect = useCallback(() => {
-    if (pseudo.trim().length > 0) {
-      try {
-        window.localStorage.setItem("ew_pseudo", pseudo.trim());
-      } catch {}
-    }
     setPhase("connect");
     setStepIndex(0);
     setProgress(0);
     setLabel(CONNECT_STEPS[0].label);
-  }, [pseudo]);
-
-  const handleKey = useCallback(
-    (e: React.KeyboardEvent<HTMLInputElement>) => {
-      if (e.key === "Enter") startConnect();
-    },
-    [startConnect]
-  );
+  }, []);
 
   return (
     <main className="ew-entry">
@@ -177,103 +151,29 @@ export default function HomePage() {
       <div className="ew-entry-glow ew-entry-glow--tl" />
       <div className="ew-entry-glow ew-entry-glow--br" />
 
-      <section className="ew-entry-card">
-        <header className="ew-entry-head">
-          <div className="ew-entry-badge">
-            <span className="ew-entry-badge-dot" /> ONLINE · 142 PLAYERS
-          </div>
-          <h1 className="ew-entry-logo">
-            ETHER<span>WORLD</span>
-          </h1>
-          <p className="ew-entry-subtitle">
-            Habbo-style game engine · Premium chambers · v2.1.0
-          </p>
-        </header>
+      <section className="ew-entry-minimal">
+        <h1 className="ew-entry-logo">
+          ETHER<span>WORLD</span>
+        </h1>
 
-        {phase === "gate" && (
-          <div className="ew-entry-form">
-            <label className="ew-entry-label">
-              <span>Pseudo</span>
-              <input
-                className="ew-entry-input"
-                type="text"
-                maxLength={24}
-                autoFocus
-                value={pseudo}
-                onChange={(e) => setPseudo(e.target.value)}
-                onKeyDown={handleKey}
-                placeholder="Ex : EtherKing420"
-              />
-            </label>
-
-            <div className="ew-entry-factions">
-              {(["Citoyen", "Green Shop", "Motard", "Vagos", "BMF", "Québec"] as const).map(
-                (f) => (
-                  <button
-                    type="button"
-                    key={f}
-                    className={`ew-entry-faction ${faction === f ? "active" : ""}`}
-                    onClick={() => setFaction(f)}
-                  >
-                    {f}
-                  </button>
-                )
-              )}
-            </div>
-
-            <button
-              type="button"
-              className="ew-entry-cta"
-              onClick={startConnect}
-              disabled={pseudo.trim().length === 0}
-            >
-              <span>ENTRER DANS ETHERWORLD</span>
-              <span className="ew-entry-cta-arrow">›</span>
-            </button>
-
-            <div className="ew-entry-rooms">
-              {ROOMS_PREVIEW.map((r) => (
-                <div className="ew-entry-room" key={r.tag} style={{ borderColor: `${r.color}55` }}>
-                  <span
-                    className="ew-entry-room-tag"
-                    style={{ color: r.color, background: `${r.color}1a` }}
-                  >
-                    {r.tag}
-                  </span>
-                  <span className="ew-entry-room-name">{r.name}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {phase !== "gate" && (
-          <div className="ew-entry-connect">
-            <div className="ew-entry-connect-title">
-              Bienvenue <strong>{pseudo || "Voyageur"}</strong>
-              <em>{faction}</em>
-            </div>
+        {phase === "gate" ? (
+          <button
+            type="button"
+            className="ew-entry-enter"
+            onClick={startConnect}
+            autoFocus
+          >
+            ENTRER
+          </button>
+        ) : (
+          <div className="ew-entry-connecting">
             <div className="ew-entry-bar">
               <div className="ew-entry-fill" style={{ width: `${progress}%` }} />
               <div className="ew-entry-bar-shine" />
             </div>
             <div className="ew-entry-status">{label || "Connexion…"}</div>
-            <div className="ew-entry-log">
-              {CONNECT_STEPS.slice(0, stepIndex).map((s, i) => (
-                <div key={i} className="ew-entry-log-line">
-                  <span className="ew-entry-log-dot" />
-                  {s.label}
-                </div>
-              ))}
-            </div>
           </div>
         )}
-
-        <footer className="ew-entry-foot">
-          <span>© EtherWorld</span>
-          <span className="ew-entry-foot-sep" />
-          <span>Built in Termux · Next.js · Canvas iso</span>
-        </footer>
       </section>
     </main>
   );
