@@ -243,6 +243,8 @@ export default function ClientGameShell() {
 	const [furniTap, setFurniTap] = useState<FurnitureTapDetail | null>(null)
 	const [placement, setPlacement] = useState<PlacementState | null>(null)
 	const [inspector, setInspector] = useState<FurnitureTapDetail | null>(null)
+	const placementRef = useRef<PlacementState | null>(null)
+	useEffect(() => { placementRef.current = placement }, [placement])
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
@@ -290,6 +292,7 @@ export default function ClientGameShell() {
 		const onTap = (event: Event) => {
 			const detail = (event as CustomEvent<FurnitureTapDetail>).detail
 			if (!detail) return
+			if (placementRef.current) return
 			setFurniTap(detail)
 		}
 		window.addEventListener("ew-furniture-tap", onTap)
