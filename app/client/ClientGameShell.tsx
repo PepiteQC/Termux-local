@@ -839,9 +839,11 @@ export default function ClientGameShell() {
 													title={`${entry.name || entry.className}\n${entry.description || ""}`}
 													onClick={() => {
 														if (!habbo) return
+														const parsedX = Number(teleportX)
+														const parsedY = Number(teleportY)
 														const ok = habbo.placeHabboFurni(entry.className, {
-															x: Number(teleportX) || 4,
-															y: Number(teleportY) || 4,
+															x: Number.isFinite(parsedX) ? parsedX : 4,
+															y: Number.isFinite(parsedY) ? parsedY : 4,
 															width: entry.xdim,
 															depth: entry.ydim,
 															label: entry.name || entry.className
