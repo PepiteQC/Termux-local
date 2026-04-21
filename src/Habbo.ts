@@ -3,6 +3,7 @@ import { Viewport } from 'pixi-viewport'
 
 import CullManager from './rooms/cull/CullManager'
 import defaultRoomData from './rooms/data/defaultRoomData'
+import { getRoomById, getRoomSummary, DEFAULT_ROOM_ID } from './rooms/data/rooms'
 import RoomManager from './rooms/RoomManager'
 import RoomScene from './rooms/RoomScene'
 import { initializeHabboTheme } from './data/habbo/initTheme'
@@ -20,6 +21,7 @@ export default class Habbo {
 	private readonly cullManager = new CullManager()
 	private readonly roomManager = new RoomManager(this)
 	private currentRoom: RoomScene | null = null
+	private currentRoomId: string | null = null
 	private host: HTMLElement | null = null
 
 	public async init(parentElement: HTMLElement): Promise<void> {
@@ -79,8 +81,43 @@ export default class Habbo {
 		parentElement.replaceChildren(this.application.canvas)
 		this.cullManager.setViewport(this.viewport)
 
-		const room = this.roomManager.createRoom(defaultRoomData)
+		const initialRoomData = getRoomById(DEFAULT_ROOM_ID) ?? defaultRoomData
+		const room = this.roomManager.createRoom(initialRoomData)
 		this.roomManager.setRoom(room)
+		this.currentRoomId = initialRoomData.id
+
+		if (typeof window !== 'undefined') {
+			;(window as unknown as { __habbo?: Habbo }).__habbo = this
+			window.dispatchEvent(new CustomEvent('ew-room-change', { detail: { id: this.currentRoomId } }))
+		}
+	}
+
+	public switchRoomById(roomId: string): boolean {
+		const data = getRoomById(roomId)
+		if (!data) return false
+		const room = this.roomManager.createRoom(data)
+		this.roomManager.setRoom(room)
+		this.currentRoomId = data.id
+		if (typeof window !== 'undefined') {
+			window.dispatchEvent(new CustomEvent('ew-room-change', { detail: { id: data.id } }))
+		}
+		return true
+	}
+
+	public listRooms() {
+		return getRoomSummary()
+	}
+
+	public getCurrentRoomId(): string | null {
+		return this.currentRoomId
+	}
+
+	public teleportAvatarTo(x: number, y: number): boolean {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return false
+		const container = (room as unknown as { roomContainer?: { avatarsContainer?: { movePrimaryAvatarTo?: (p: { x: number; y: number; height: number }) => void } } }).roomContainer
+		container?.avatarsContainer?.movePrimaryAvatarTo?.({ x, y, height: 0 })
+		return true
 	}
 
 	public destroy(): void {
