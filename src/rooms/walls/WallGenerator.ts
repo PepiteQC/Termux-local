@@ -47,6 +47,7 @@ export default class WallGenerator {
 			.rect(0, 0, width, faceHeight + edge + thickness)
 			.fill({ color: 0x000000, alpha: 0 })
 
+		// main wall face (east-facing, darker due to light coming from top-left)
 		graphics
 			.poly([
 				width / 2, 0,
@@ -55,8 +56,8 @@ export default class WallGenerator {
 				width / 2, faceHeight
 			])
 			.fill({ color: palette.eastMain })
-			.stroke({ color: palette.eastStroke, width: 1.5, alpha: 0.95 })
 
+		// top edge (thickness slab at the top of the wall, lit)
 		graphics
 			.poly([
 				width / 2, 0,
@@ -65,32 +66,49 @@ export default class WallGenerator {
 				width / 2 - thickness, thickness
 			])
 			.fill({ color: palette.eastEdge })
-			.stroke({ color: palette.eastEdgeStroke, width: 1, alpha: 0.8 })
 
-		graphics
-			.rect(width / 2 + 3, 16, 6, Math.max(faceHeight - 40, 40))
-			.fill({ color: 0xffffff, alpha: 0.08 })
+		// vertical plank separators — 3 inner lines at wall-space 1/4, 2/4, 3/4
+		for (let i = 1; i < 4; i++) {
+			const t = i / 4
+			const topX = width / 2 + t * (width / 2)
+			const topY = t * edge
+			graphics
+				.moveTo(topX, topY)
+				.lineTo(topX, topY + faceHeight)
+				.stroke({ color: palette.eastStroke, width: 1, alpha: 0.55 })
+		}
 
-		graphics
-			.poly([
-				width / 2, 12,
-				width / 2, faceHeight - 12
-			])
-			.stroke({ color: 0xffffff, width: 1, alpha: 0.18 })
-
-		graphics
-			.poly([
-				width / 2 + 14, 20,
-				width / 2 + 14, faceHeight - 18
-			])
-			.stroke({ color: palette.eastDetail, width: 1, alpha: 0.22 })
-
+		// crown molding — 4px darker strip along the face just below the lit edge
 		graphics
 			.poly([
-				width / 2, faceHeight,
-				width, faceHeight + edge
+				width / 2, 4,
+				width, edge + 4,
+				width, edge + 7,
+				width / 2, 7
 			])
-			.stroke({ color: palette.shadowLine, width: 1, alpha: 0.65 })
+			.fill({ color: palette.eastStroke })
+
+		// baseboard — 6px darker strip at the bottom of the face
+		graphics
+			.poly([
+				width / 2, faceHeight - 6,
+				width, faceHeight + edge - 6,
+				width, faceHeight + edge,
+				width / 2, faceHeight
+			])
+			.fill({ color: palette.eastStroke })
+
+		// 1px bevel highlight just under the top edge
+		graphics
+			.moveTo(width / 2, 1)
+			.lineTo(width, edge + 1)
+			.stroke({ color: palette.eastEdgeStroke, width: 1, alpha: 0.75 })
+
+		// bottom shadow cap where wall meets floor
+		graphics
+			.moveTo(width / 2, faceHeight)
+			.lineTo(width, faceHeight + edge)
+			.stroke({ color: palette.shadowLine, width: 1, alpha: 0.8 })
 
 		const texture = this.room.renderer.generateTexture({
 			target: graphics,
@@ -120,6 +138,7 @@ export default class WallGenerator {
 			.rect(0, 0, width, faceHeight + edge + thickness)
 			.fill({ color: 0x000000, alpha: 0 })
 
+		// main wall face (south-facing, slightly brighter than east due to top-left light)
 		graphics
 			.poly([
 				0, edge,
@@ -128,8 +147,8 @@ export default class WallGenerator {
 				0, faceHeight + edge
 			])
 			.fill({ color: palette.southMain })
-			.stroke({ color: palette.southStroke, width: 1.5, alpha: 0.95 })
 
+		// top edge slab
 		graphics
 			.poly([
 				0, edge,
@@ -138,32 +157,49 @@ export default class WallGenerator {
 				thickness, edge + thickness
 			])
 			.fill({ color: palette.southEdge })
-			.stroke({ color: palette.southEdgeStroke, width: 1, alpha: 0.8 })
 
-		graphics
-			.rect(width / 2 - 9, 16, 6, Math.max(faceHeight - 40, 40))
-			.fill({ color: 0xffffff, alpha: 0.07 })
+		// vertical plank separators — 3 inner lines at wall-space 1/4, 2/4, 3/4
+		for (let i = 1; i < 4; i++) {
+			const t = i / 4
+			const topX = t * (width / 2)
+			const topY = edge - t * edge
+			graphics
+				.moveTo(topX, topY)
+				.lineTo(topX, topY + faceHeight)
+				.stroke({ color: palette.southStroke, width: 1, alpha: 0.55 })
+		}
 
+		// crown molding — 4px darker strip just below the top edge
 		graphics
 			.poly([
-				width / 2 - 1, 12,
-				width / 2 - 1, faceHeight - 12
+				0, edge + 4,
+				width / 2, 4,
+				width / 2, 7,
+				0, edge + 7
 			])
-			.stroke({ color: 0xffffff, width: 1, alpha: 0.15 })
+			.fill({ color: palette.southStroke })
 
+		// baseboard — 6px darker strip at the bottom of the face
 		graphics
 			.poly([
-				width / 2 - 16, 20,
-				width / 2 - 16, faceHeight - 18
-			])
-			.stroke({ color: palette.southDetail, width: 1, alpha: 0.2 })
-
-		graphics
-			.poly([
+				0, faceHeight + edge - 6,
+				width / 2, faceHeight - 6,
 				width / 2, faceHeight,
 				0, faceHeight + edge
 			])
-			.stroke({ color: palette.shadowLine, width: 1, alpha: 0.7 })
+			.fill({ color: palette.southStroke })
+
+		// 1px bevel highlight just under the top edge
+		graphics
+			.moveTo(0, edge + 1)
+			.lineTo(width / 2, 1)
+			.stroke({ color: palette.southEdgeStroke, width: 1, alpha: 0.85 })
+
+		// bottom shadow cap where wall meets floor
+		graphics
+			.moveTo(0, faceHeight + edge)
+			.lineTo(width / 2, faceHeight)
+			.stroke({ color: palette.shadowLine, width: 1, alpha: 0.85 })
 
 		const texture = this.room.renderer.generateTexture({
 			target: graphics,
