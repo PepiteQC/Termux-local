@@ -6,13 +6,19 @@ const BUNDLE_CACHE = new Map<string, Promise<HabboFurniBundle | null>>()
 const BASE_PATH = '/habbo-extracted'
 
 export async function loadHabboBundle(className: string): Promise<HabboFurniBundle | null> {
-  if (BUNDLE_CACHE.has(className)) return BUNDLE_CACHE.get(className)!
+  const cached = BUNDLE_CACHE.get(className)
+  if (cached) return cached
   const p = (async () => {
     try {
       const res = await fetch(`${BASE_PATH}/${className}/bundle.json`, { cache: 'force-cache' })
-      if (!res.ok) return null
+      if (!res.ok) {
+        BUNDLE_CACHE.delete(className)
+        return null
+      }
       return (await res.json()) as HabboFurniBundle
     } catch {
+      // On évite de cacher les échecs transitoires (réseau, JSON parsé) pour permettre un retry.
+      BUNDLE_CACHE.delete(className)
       return null
     }
   })()
@@ -103,12 +109,19 @@ async function addLayer(
   frame: number,
   opts: LayerOpts
 ): Promise<void> {
-  // Résout le nom de l'asset pour cette direction (fallback direction 2 si absent)
-  const candidates = [
-    assetName(className, size, letter, direction, frame),
-    assetName(className, size, letter, direction, 0),
-    assetName(className, size, letter, 2, 0)
-  ]
+  // Résout le nom de l'asset pour cette direction. Fallback :
+  // direction demandée → direction demandée frame 0 → directions Habbo usuelles (2, 0, 4, 6).
+  // Certains meubles (ex: plant_yukka, plant_big_cactus) n'ont que des assets direction 0.
+  const candidates = Array.from(
+    new Set([
+      assetName(className, size, letter, direction, frame),
+      assetName(className, size, letter, direction, 0),
+      assetName(className, size, letter, 2, 0),
+      assetName(className, size, letter, 0, 0),
+      assetName(className, size, letter, 4, 0),
+      assetName(className, size, letter, 6, 0)
+    ])
+  )
   let chosen: string | null = null
   for (const c of candidates) {
     if (bundle.assets[c]) {
