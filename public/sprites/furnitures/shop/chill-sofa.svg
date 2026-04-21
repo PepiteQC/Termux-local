@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 86" width="140" height="86">
+  <!-- base shadow -->
+  <polygon points="6,60 70,80 134,60 134,70 70,84 6,70" fill="#0a0a0a" opacity="0.55"/>
+  <!-- base -->
+  <polygon points="10,56 70,76 130,56 130,66 70,80 10,66" fill="#2a1a10" stroke="#050302"/>
+  <!-- seat cushions -->
+  <polygon points="14,50 70,70 126,50 126,58 70,74 14,58" fill="#7a3a2a" stroke="#050302"/>
+  <!-- back cushion -->
+  <polygon points="14,28 70,48 126,28 126,52 70,70 14,52" fill="#a04a3a" stroke="#050302"/>
+  <!-- button tufts -->
+  <g fill="#2a1010">
+    <circle cx="40" cy="44" r="1.5"/>
+    <circle cx="70" cy="48" r="1.5"/>
+    <circle cx="100" cy="44" r="1.5"/>
+  </g>
+  <!-- pillows -->
+  <rect x="30" y="36" width="16" height="12" rx="3" fill="#ffd27a" stroke="#050302" transform="skewY(8)"/>
+  <rect x="92" y="36" width="16" height="12" rx="3" fill="#5fff8e" stroke="#050302" transform="skewY(-8)"/>
+</svg>

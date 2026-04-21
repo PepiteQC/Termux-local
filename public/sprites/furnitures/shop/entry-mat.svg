@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 48" width="128" height="48">
+  <polygon points="64,4 124,24 64,44 4,24" fill="#1a2a1a" stroke="#050302"/>
+  <polygon points="64,10 116,24 64,38 12,24" fill="#2d4a2d" stroke="#050302" stroke-width="0.5"/>
+  <text x="64" y="27" font-family="monospace" font-size="9" fill="#5fff8e" text-anchor="middle" font-weight="bold">WELCOME</text>
+  <text x="64" y="36" font-family="monospace" font-size="5" fill="#ffd27a" text-anchor="middle">GREEN SHOP</text>
+</svg>

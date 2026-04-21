@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 70" width="140" height="70">
+  <!-- iso rectangle -->
+  <polygon points="70,4 134,36 70,68 6,36" fill="#4a1f18" stroke="#1a0a08" stroke-width="1.2"/>
+  <polygon points="70,12 126,36 70,60 14,36" fill="#7a2f22" stroke="#1a0a08" stroke-width="0.8"/>
+  <polygon points="70,20 118,36 70,52 22,36" fill="#a04a3a" stroke="#1a0a08" stroke-width="0.6"/>
+  <!-- leaf center -->
+  <g transform="translate(70,36)" fill="#5fff8e" opacity="0.55">
+    <path d="M0 -12 l-10 -4 l3 8 l-9 -2 l6 6 l-7 3 l10 1 l-4 7 l7 -3 l-2 9 l6 -6 l3 9 l3 -9 l6 6 l-2 -9 l7 3 l-4 -7 l10 -1 l-7 -3 l6 -6 l-9 2 l3 -8 z"/>
+  </g>
+  <!-- fringes -->
+  <g stroke="#3a1510" stroke-width="1.2">
+    <line x1="10" y1="36" x2="4" y2="36"/>
+    <line x1="130" y1="36" x2="136" y2="36"/>
+    <line x1="70" y1="2" x2="70" y2="-2"/>
+    <line x1="70" y1="70" x2="70" y2="66"/>
+  </g>
+</svg>

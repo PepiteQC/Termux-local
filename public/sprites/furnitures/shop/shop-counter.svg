@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="cwood" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#4a2a1b"/>
+      <stop offset="1" stop-color="#2a170c"/>
+    </linearGradient>
+    <linearGradient id="ctop" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2a1a10"/>
+      <stop offset="1" stop-color="#1a100a"/>
+    </linearGradient>
+    <linearGradient id="cneon" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#5fff8e"/>
+      <stop offset="1" stop-color="#9cffb8"/>
+    </linearGradient>
+  </defs>
+  <!-- front face -->
+  <polygon points="8,44 100,92 192,44 192,100 100,120 8,100" fill="url(#cwood)" stroke="#0a0504" stroke-width="1.2"/>
+  <!-- top surface -->
+  <polygon points="8,44 100,0 192,44 100,92" fill="url(#ctop)" stroke="#0a0504" stroke-width="1.2"/>
+  <polygon points="8,44 100,0 192,44 100,92" fill="none" stroke="#3a2a22" stroke-width="0.6"/>
+  <!-- neon trim front -->
+  <polygon points="8,100 100,120 192,100 192,95 100,115 8,95" fill="url(#cneon)" opacity="0.85"/>
+  <!-- panel seams -->
+  <line x1="54" y1="68" x2="54" y2="110" stroke="#1a0f06" stroke-width="1"/>
+  <line x1="100" y1="92" x2="100" y2="120" stroke="#1a0f06" stroke-width="1"/>
+  <line x1="146" y1="68" x2="146" y2="110" stroke="#1a0f06" stroke-width="1"/>
+  <!-- highlights on top -->
+  <polygon points="20,40 100,6 180,40" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <!-- jars on top -->
+  <g opacity="0.95">
+    <ellipse cx="60" cy="34" rx="10" ry="4" fill="#221610"/>
+    <rect x="52" y="18" width="16" height="18" rx="3" fill="#1d2a18" stroke="#0a0604" stroke-width="1"/>
+    <rect x="52" y="14" width="16" height="6" rx="2" fill="#c69a5b" stroke="#0a0604" stroke-width="1"/>
+    <circle cx="58" cy="26" r="2" fill="#7aff90"/>
+    <ellipse cx="100" cy="30" rx="10" ry="4" fill="#221610"/>
+    <rect x="92" y="14" width="16" height="18" rx="3" fill="#2a1a0e" stroke="#0a0604" stroke-width="1"/>
+    <rect x="92" y="10" width="16" height="6" rx="2" fill="#ffd27a" stroke="#0a0604" stroke-width="1"/>
+    <ellipse cx="140" cy="34" rx="10" ry="4" fill="#221610"/>
+    <rect x="132" y="18" width="16" height="18" rx="3" fill="#1d2a18" stroke="#0a0604" stroke-width="1"/>
+    <rect x="132" y="14" width="16" height="6" rx="2" fill="#c69a5b" stroke="#0a0604" stroke-width="1"/>
+    <circle cx="138" cy="26" r="2" fill="#5fff8e"/>
+  </g>
+</svg>

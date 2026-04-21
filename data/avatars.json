@@ -1,25 +1,40 @@
-{
-  "avatars": {
-    "ether": {
-      "name": "Ether",
-      "sheet": "public/sprites/avatar/avatar-ether-sheet.png",
-      "frameWidth": 48,
-      "frameHeight": 64,
-      "totalFrames": 32,
-      "animations": {
-        "north_idle": { "frames": [0, 1, 2, 3], "speed": 8 },
-        "north_walk": { "frames": [4, 5, 6, 7], "speed": 12 },
-        "south_idle": { "frames": [8, 9, 10, 11], "speed": 8 },
-        "south_walk": { "frames": [12, 13, 14, 15], "speed": 12 },
-        "east_idle": { "frames": [16, 17, 18, 19], "speed": 8 },
-        "east_walk": { "frames": [20, 21, 22, 23], "speed": 12 },
-        "west_idle": { "frames": [24, 25, 26, 27], "speed": 8 },
-        "west_walk": { "frames": [28, 29, 30, 31], "speed": 12 }
-      },
-      "defaultAnimation": "south_idle",
-      "scale": 2,
-      "offsetX": 0,
-      "offsetY": -8
-    }
+[
+  {
+    "id": "avatar-ether",
+    "name": "Ether Base",
+    "category": "player",
+    "path": "/sprites/avatar/avatar-ether.png",
+    "meta": "Default player skin"
+  },
+  {
+    "id": "hair-afro",
+    "name": "Afro",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-afro.png"
+  },
+  {
+    "id": "hair-braids",
+    "name": "Braids",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-braids.png"
+  },
+  {
+    "id": "hair-curly",
+    "name": "Curly",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-curly.png"
+  },
+  {
+    "id": "hair-ponytail-high",
+    "name": "High Ponytail",
+    "category": "hair",
+    "path": "/sprites/avatar/hair/hair-ponytail-high.png"
+  },
+  {
+    "id": "avatar-weed-employee",
+    "name": "Weed Shop Employee",
+    "category": "player",
+    "path": "/sprites/avatar/avatar-weed-employee.svg",
+    "meta": "Vendeur Green Shop"
   }
 }

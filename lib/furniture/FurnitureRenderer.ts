@@ -1,4 +1,4 @@
-import { getFurnitureDefinition } from "./FurnitureRegistry";
+import { getFurnitureDefinition, getFurnitureSpritePath } from "./FurnitureRegistry";
 import {
   getFurnitureShadowBounds,
   getFurnitureSpriteAnchor,
@@ -8,11 +8,110 @@ import type {
   IsoTile,
   FurniturePlacement,
   FurniturePreviewState,
-  FurnitureSelection
+  FurnitureSelection,
+  FurnitureType
 } from "./FurnitureTypes";
 import { getTilePolygon, isoToScreen, type ProjectionConfig } from "../iso/isoToScreen";
 import type { FurnitureParticleEffect, FurnitureVisualState } from "./FurnitureVisuals";
 
+export type RoomTheme = {
+  id: string;
+  floorEven: string;
+  floorOdd: string;
+  floorAccent: string;
+  floorHighlight: string;
+  hoverA: string;
+  hoverB: string;
+  gridLine: string;
+  wallLeft: string;
+  wallRight: string;
+  wallTop: string;
+  baseboard: string;
+  backgroundTop: string;
+  backgroundMid: string;
+  backgroundBottom: string;
+  ambient: string;
+};
+
+export const ROOM_THEMES: Record<string, RoomTheme> = {
+  "weed-shop": {
+    id: "weed-shop",
+    floorEven: "#2a1d14",
+    floorOdd: "#3a2618",
+    floorAccent: "#1f140c",
+    floorHighlight: "#7dff9a",
+    hoverA: "rgba(95, 255, 142, 0.85)",
+    hoverB: "rgba(255, 214, 120, 0.3)",
+    gridLine: "rgba(255, 227, 170, 0.08)",
+    wallLeft: "#1a2a1a",
+    wallRight: "#223822",
+    wallTop: "#2d4a2d",
+    baseboard: "#4a1f18",
+    backgroundTop: "#0b1f10",
+    backgroundMid: "#07140a",
+    backgroundBottom: "#040a06",
+    ambient: "rgba(95, 255, 142, 0.12)"
+  },
+  "skyline-club": {
+    id: "skyline-club",
+    floorEven: "#1e1a32",
+    floorOdd: "#2a2446",
+    floorAccent: "#14101f",
+    floorHighlight: "#ff6ac9",
+    hoverA: "rgba(255, 106, 201, 0.9)",
+    hoverB: "rgba(79, 195, 247, 0.3)",
+    gridLine: "rgba(255, 180, 255, 0.08)",
+    wallLeft: "#1a1533",
+    wallRight: "#221a3f",
+    wallTop: "#2e2452",
+    baseboard: "#3a1a55",
+    backgroundTop: "#10081a",
+    backgroundMid: "#080412",
+    backgroundBottom: "#03020a",
+    ambient: "rgba(255, 106, 201, 0.1)"
+  },
+  "garden-boutique": {
+    id: "garden-boutique",
+    floorEven: "#1e2e22",
+    floorOdd: "#28402e",
+    floorAccent: "#141d17",
+    floorHighlight: "#9cf0b8",
+    hoverA: "rgba(156, 240, 184, 0.9)",
+    hoverB: "rgba(220, 255, 210, 0.3)",
+    gridLine: "rgba(220, 255, 220, 0.08)",
+    wallLeft: "#1b2a1e",
+    wallRight: "#243825",
+    wallTop: "#2e4a32",
+    baseboard: "#3a2a1c",
+    backgroundTop: "#0b1a12",
+    backgroundMid: "#061008",
+    backgroundBottom: "#020604",
+    ambient: "rgba(156, 240, 184, 0.1)"
+  }
+};
+
+export const DEFAULT_THEME: RoomTheme = {
+  id: "default",
+  floorEven: "#2b3450",
+  floorOdd: "#222a42",
+  floorAccent: "#131924",
+  floorHighlight: "#6feaff",
+  hoverA: "rgba(0, 224, 255, 0.8)",
+  hoverB: "rgba(74, 58, 255, 0.28)",
+  gridLine: "rgba(255, 255, 255, 0.08)",
+  wallLeft: "#1c2340",
+  wallRight: "#242c4c",
+  wallTop: "#2c3558",
+  baseboard: "#111624",
+  backgroundTop: "#121521",
+  backgroundMid: "#0d1118",
+  backgroundBottom: "#06080d",
+  ambient: "rgba(111, 233, 255, 0.1)"
+};
+
+export function getRoomTheme(roomId: string): RoomTheme {
+  return ROOM_THEMES[roomId] ?? DEFAULT_THEME;
+}
 export type AvatarDirection = "north" | "south" | "east" | "west";
 
 export type AvatarSpriteRange = [number, number];
@@ -61,7 +160,7 @@ export async function loadFurnitureSprites(
       (type) =>
         new Promise<[string, HTMLImageElement | null]>((resolve) => {
           const image = new Image();
-          image.src = `/sprites/furnitures/${type}.png`;
+          image.src = getFurnitureSpritePath(type as FurnitureType);
           image.onload = () => resolve([type, image]);
           image.onerror = () => resolve([type, null]);
         })
@@ -106,12 +205,121 @@ export async function loadAvatarLayerSprites(
   }, {});
 }
 
+export function drawRoomBackground(
+  ctx: CanvasRenderingContext2D,
+  width: number,
+  height: number,
+  theme: RoomTheme
+) {
+  const background = ctx.createLinearGradient(0, 0, 0, height);
+  background.addColorStop(0, theme.backgroundTop);
+  background.addColorStop(0.55, theme.backgroundMid);
+  background.addColorStop(1, theme.backgroundBottom);
+  ctx.fillStyle = background;
+  ctx.fillRect(0, 0, width, height);
+
+  const ambient = ctx.createRadialGradient(width / 2, height * 0.2, 40, width / 2, height * 0.2, Math.max(width, height) * 0.7);
+  ambient.addColorStop(0, theme.ambient);
+  ambient.addColorStop(1, "rgba(0,0,0,0)");
+  ctx.fillStyle = ambient;
+  ctx.fillRect(0, 0, width, height);
+}
+
+export function drawRoomWalls(
+  ctx: CanvasRenderingContext2D,
+  projection: ProjectionConfig,
+  roomWidth: number,
+  roomDepth: number,
+  theme: RoomTheme,
+  wallHeight = 4.2
+) {
+  // Back-left wall (along x axis at z=0)
+  const tl = isoToScreen(0, wallHeight, 0, projection);
+  const tr = isoToScreen(roomWidth, wallHeight, 0, projection);
+  const br = isoToScreen(roomWidth, 0, 0, projection);
+  const bl = isoToScreen(0, 0, 0, projection);
+
+  const gradLeft = ctx.createLinearGradient(tl.x, tl.y, bl.x, bl.y);
+  gradLeft.addColorStop(0, theme.wallTop);
+  gradLeft.addColorStop(1, theme.wallLeft);
+  ctx.fillStyle = gradLeft;
+  ctx.beginPath();
+  ctx.moveTo(tl.x, tl.y);
+  ctx.lineTo(tr.x, tr.y);
+  ctx.lineTo(br.x, br.y);
+  ctx.lineTo(bl.x, bl.y);
+  ctx.closePath();
+  ctx.fill();
+  ctx.strokeStyle = "rgba(0,0,0,0.35)";
+  ctx.lineWidth = 1;
+  ctx.stroke();
+
+  // Back-right wall (along z axis at x=0)
+  const tlr = isoToScreen(0, wallHeight, 0, projection);
+  const trr = isoToScreen(0, wallHeight, roomDepth, projection);
+  const brr = isoToScreen(0, 0, roomDepth, projection);
+  const blr = isoToScreen(0, 0, 0, projection);
+
+  const gradRight = ctx.createLinearGradient(tlr.x, tlr.y, blr.x, blr.y);
+  gradRight.addColorStop(0, theme.wallTop);
+  gradRight.addColorStop(1, theme.wallRight);
+  ctx.fillStyle = gradRight;
+  ctx.beginPath();
+  ctx.moveTo(tlr.x, tlr.y);
+  ctx.lineTo(trr.x, trr.y);
+  ctx.lineTo(brr.x, brr.y);
+  ctx.lineTo(blr.x, blr.y);
+  ctx.closePath();
+  ctx.fill();
+  ctx.strokeStyle = "rgba(0,0,0,0.35)";
+  ctx.lineWidth = 1;
+  ctx.stroke();
+
+  // Baseboards
+  ctx.fillStyle = theme.baseboard;
+  const baseHeight = 0.25;
+  const bbL1 = isoToScreen(0, baseHeight, 0, projection);
+  const bbL2 = isoToScreen(roomWidth, baseHeight, 0, projection);
+  const bbL3 = isoToScreen(roomWidth, 0, 0, projection);
+  const bbL4 = isoToScreen(0, 0, 0, projection);
+  ctx.beginPath();
+  ctx.moveTo(bbL1.x, bbL1.y);
+  ctx.lineTo(bbL2.x, bbL2.y);
+  ctx.lineTo(bbL3.x, bbL3.y);
+  ctx.lineTo(bbL4.x, bbL4.y);
+  ctx.closePath();
+  ctx.fill();
+
+  const bbR1 = isoToScreen(0, baseHeight, 0, projection);
+  const bbR2 = isoToScreen(0, baseHeight, roomDepth, projection);
+  const bbR3 = isoToScreen(0, 0, roomDepth, projection);
+  const bbR4 = isoToScreen(0, 0, 0, projection);
+  ctx.beginPath();
+  ctx.moveTo(bbR1.x, bbR1.y);
+  ctx.lineTo(bbR2.x, bbR2.y);
+  ctx.lineTo(bbR3.x, bbR3.y);
+  ctx.lineTo(bbR4.x, bbR4.y);
+  ctx.closePath();
+  ctx.fill();
+
+  // Wall seam
+  const seamTop = isoToScreen(0, wallHeight, 0, projection);
+  const seamBottom = isoToScreen(0, 0, 0, projection);
+  ctx.strokeStyle = "rgba(0,0,0,0.4)";
+  ctx.lineWidth = 1.2;
+  ctx.beginPath();
+  ctx.moveTo(seamTop.x, seamTop.y);
+  ctx.lineTo(seamBottom.x, seamBottom.y);
+  ctx.stroke();
+}
+
 export function drawFloorGrid(
   ctx: CanvasRenderingContext2D,
   projection: ProjectionConfig,
   roomWidth: number,
   roomDepth: number,
-  hoveredTile: { x: number; z: number } | null
+  hoveredTile: { x: number; z: number } | null,
+  theme: RoomTheme = DEFAULT_THEME
 ) {
   for (let z = 0; z < roomDepth; z += 1) {
     for (let x = 0; x < roomWidth; x += 1) {
@@ -125,11 +333,12 @@ export function drawFloorGrid(
       const isHovered = hoveredTile?.x === x && hoveredTile?.z === z;
 
       if (isHovered) {
-        gradient.addColorStop(0, "rgba(0, 224, 255, 0.8)");
-        gradient.addColorStop(1, "rgba(74, 58, 255, 0.28)");
+        gradient.addColorStop(0, theme.hoverA);
+        gradient.addColorStop(1, theme.hoverB);
       } else {
-        gradient.addColorStop(0, z % 2 === 0 ? "#2b3450" : "#222a42");
-        gradient.addColorStop(1, x % 2 === 0 ? "#131924" : "#0e131c");
+        const even = (x + z) % 2 === 0;
+        gradient.addColorStop(0, even ? theme.floorEven : theme.floorOdd);
+        gradient.addColorStop(1, theme.floorAccent);
       }
 
       ctx.beginPath();
@@ -138,7 +347,7 @@ export function drawFloorGrid(
       ctx.closePath();
       ctx.fillStyle = gradient;
       ctx.fill();
-      ctx.strokeStyle = isHovered ? "rgba(255,255,255,0.85)" : "rgba(255,255,255,0.08)";
+      ctx.strokeStyle = isHovered ? "rgba(255,255,255,0.92)" : theme.gridLine;
       ctx.lineWidth = isHovered ? 1.8 : 1;
       ctx.stroke();
     }
@@ -193,10 +402,12 @@ export function drawFurnitureItem(
   const visualState = options?.visualState ?? "idle";
 
   ctx.save();
-  ctx.fillStyle = "rgba(0, 0, 0, 0.24)";
-  ctx.beginPath();
-  ctx.ellipse(shadow.x, shadow.y, shadow.width / 2, shadow.height / 2, 0, 0, Math.PI * 2);
-  ctx.fill();
+  if (!definition.walkable) {
+    ctx.fillStyle = "rgba(0, 0, 0, 0.24)";
+    ctx.beginPath();
+    ctx.ellipse(shadow.x, shadow.y, shadow.width / 2, shadow.height / 2, 0, 0, Math.PI * 2);
+    ctx.fill();
+  }
 
   if (image) {
     const drawX = anchor.x - definition.drawWidth / 2;
@@ -239,7 +450,7 @@ export function drawFurnitureItem(
   }
 
   if (isHovered || isSelected) {
-    ctx.strokeStyle = isSelected ? "rgba(255,255,255,0.96)" : "rgba(0,224,255,0.9)";
+    ctx.strokeStyle = isSelected ? "rgba(255,255,255,0.96)" : "rgba(95,255,142,0.9)";
     ctx.lineWidth = isSelected ? 2.5 : 1.5;
     ctx.strokeRect(
       anchor.x - definition.drawWidth / 2 - 3,
@@ -272,7 +483,9 @@ export function drawFurnitureParticles(
         ? ["rgba(111, 233, 255, 0.7)", "rgba(190, 245, 255, 0.4)"]
         : effect === "neon-pulse"
           ? ["rgba(255, 102, 163, 0.6)", "rgba(255, 180, 217, 0.35)"]
-          : ["rgba(190, 205, 255, 0.45)", "rgba(255,255,255,0.28)"];
+          : effect === "kush-smoke"
+            ? ["rgba(160, 230, 170, 0.5)", "rgba(230, 255, 230, 0.28)"]
+            : ["rgba(190, 205, 255, 0.45)", "rgba(255,255,255,0.28)"];
 
   ctx.save();
 
@@ -421,7 +634,7 @@ export function drawAvatarSprite(
   });
 
   if (highlight) {
-    ctx.strokeStyle = "rgba(79, 195, 247, 0.9)";
+    ctx.strokeStyle = "rgba(95, 255, 142, 0.9)";
     ctx.lineWidth = 2;
     const outlineX =
       anchor.x - scaledWidth / 2 + sway + (baseSpriteSheet?.offsetX ?? 0);

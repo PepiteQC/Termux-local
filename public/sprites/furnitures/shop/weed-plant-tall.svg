@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 140" width="84" height="140">
+  <!-- pot -->
+  <polygon points="20,116 42,124 64,116 60,138 24,138" fill="#3a2214" stroke="#050302" stroke-width="1"/>
+  <ellipse cx="42" cy="116" rx="22" ry="4" fill="#5a3a24" stroke="#050302"/>
+  <!-- soil -->
+  <ellipse cx="42" cy="116" rx="18" ry="2.5" fill="#1a0f08"/>
+  <!-- stem -->
+  <line x1="42" y1="116" x2="42" y2="60" stroke="#2d4a2d" stroke-width="2"/>
+  <!-- leaves big -->
+  <g fill="#3a6a3a" stroke="#1a3a1a" stroke-width="1">
+    <path d="M42 60 q-24 -10 -34 -34 q6 -2 12 0 q-4 -12 -2 -20 q12 2 22 26 q6 -20 18 -28 q4 12 -2 22 q10 -4 18 -2 q-10 22 -32 36 z"/>
+    <path d="M42 72 q-20 -8 -28 -24 q8 2 16 8 q-2 -10 2 -14 q10 8 14 22 q6 -14 16 -16 q2 8 -2 14 q8 2 12 0 q-8 14 -30 22 z" fill="#4a8a4a"/>
+    <path d="M42 90 q-16 -6 -22 -18 q8 0 12 4 q-2 -8 2 -10 q8 6 12 16 q6 -10 12 -12 q2 6 -2 10 q6 0 10 -2 q-8 12 -24 14 z" fill="#5fae5f"/>
+  </g>
+  <!-- top bud -->
+  <g>
+    <circle cx="42" cy="60" r="8" fill="#7cbb5e" stroke="#1a3a1a"/>
+    <circle cx="42" cy="58" r="6" fill="#9ccb7a" opacity="0.6"/>
+    <circle cx="38" cy="62" r="2" fill="#ffd27a"/>
+    <circle cx="46" cy="58" r="1.5" fill="#ffd27a"/>
+  </g>
+</svg>

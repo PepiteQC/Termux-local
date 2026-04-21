@@ -960,6 +960,381 @@ body {
   letter-spacing: 0.04rem;
 }
 
+/* ========== Entry / Connexion EtherWorld ========== */
+.ew-entry {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 28px 20px;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 15% 20%, rgba(95, 255, 142, 0.10), transparent 40%),
+    radial-gradient(circle at 85% 80%, rgba(79, 195, 247, 0.10), transparent 40%),
+    linear-gradient(180deg, #06101f 0%, #02050f 100%);
+  color: #edf4ff;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.ew-entry-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+.ew-entry-stars {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+.ew-entry-stars span {
+  position: absolute;
+  background: #ffffff;
+  border-radius: 50%;
+  filter: blur(0.4px);
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.6);
+  animation: ewStarTwinkle 3.2s ease-in-out infinite;
+}
+
+.ew-entry-glow {
+  position: absolute;
+  width: 520px;
+  height: 520px;
+  filter: blur(120px);
+  border-radius: 50%;
+  z-index: 0;
+  pointer-events: none;
+}
+.ew-entry-glow--tl {
+  top: -200px;
+  left: -180px;
+  background: rgba(95, 255, 142, 0.28);
+}
+.ew-entry-glow--br {
+  bottom: -220px;
+  right: -180px;
+  background: rgba(79, 195, 247, 0.30);
+}
+
+.ew-entry-card {
+  position: relative;
+  z-index: 2;
+  width: min(100%, 560px);
+  padding: 34px 32px 26px;
+  border-radius: 22px;
+  background: linear-gradient(
+    180deg,
+    rgba(13, 20, 38, 0.92) 0%,
+    rgba(8, 13, 26, 0.94) 100%
+  );
+  border: 1px solid rgba(135, 191, 255, 0.16);
+  box-shadow:
+    0 30px 90px rgba(0, 0, 0, 0.55),
+    0 0 0 1px rgba(95, 255, 142, 0.05) inset,
+    0 1px 0 rgba(255, 255, 255, 0.06) inset;
+  backdrop-filter: blur(14px);
+}
+
+.ew-entry-head {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.ew-entry-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  margin-bottom: 18px;
+  font-size: 0.66rem;
+  letter-spacing: 0.2rem;
+  color: #5fff8e;
+  background: rgba(95, 255, 142, 0.08);
+  border: 1px solid rgba(95, 255, 142, 0.3);
+  border-radius: 999px;
+}
+.ew-entry-badge-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #5fff8e;
+  box-shadow: 0 0 10px #5fff8e;
+  animation: ewPulseDot 1.6s ease-in-out infinite;
+}
+.ew-entry-logo {
+  font-size: clamp(2.2rem, 6vw, 3.2rem);
+  font-weight: 900;
+  letter-spacing: 0.28rem;
+  margin: 0 0 6px;
+  background: linear-gradient(90deg, #4fc3f7, #a7eaff, #5fff8e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 28px rgba(79, 195, 247, 0.3);
+}
+.ew-entry-logo span {
+  color: #5fff8e;
+  -webkit-text-fill-color: #5fff8e;
+  text-shadow: 0 0 22px rgba(95, 255, 142, 0.45);
+}
+.ew-entry-subtitle {
+  margin: 0;
+  font-size: 0.74rem;
+  letter-spacing: 0.22rem;
+  text-transform: uppercase;
+  color: #8fa3c4;
+}
+
+.ew-entry-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.ew-entry-label {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 0.72rem;
+  letter-spacing: 0.18rem;
+  color: #8fa3c4;
+  text-transform: uppercase;
+}
+.ew-entry-input {
+  height: 46px;
+  padding: 0 16px;
+  font-size: 1rem;
+  color: #edf4ff;
+  background: rgba(6, 12, 24, 0.85);
+  border: 1px solid rgba(135, 191, 255, 0.24);
+  border-radius: 12px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  letter-spacing: 0.04rem;
+}
+.ew-entry-input:focus {
+  border-color: #5fff8e;
+  box-shadow: 0 0 0 3px rgba(95, 255, 142, 0.18);
+}
+
+.ew-entry-factions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.ew-entry-faction {
+  padding: 8px 13px;
+  font-size: 0.76rem;
+  letter-spacing: 0.06rem;
+  color: #bcd1f2;
+  background: rgba(14, 22, 40, 0.85);
+  border: 1px solid rgba(135, 191, 255, 0.18);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.18s;
+}
+.ew-entry-faction:hover {
+  border-color: rgba(95, 255, 142, 0.5);
+  color: #edf4ff;
+}
+.ew-entry-faction.active {
+  background: rgba(95, 255, 142, 0.12);
+  border-color: #5fff8e;
+  color: #5fff8e;
+  box-shadow: 0 0 14px rgba(95, 255, 142, 0.3);
+}
+
+.ew-entry-cta {
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 0.92rem;
+  font-weight: 800;
+  letter-spacing: 0.22rem;
+  color: #021509;
+  background: linear-gradient(90deg, #5fff8e 0%, #9cffb8 50%, #a7eaff 100%);
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  box-shadow:
+    0 14px 40px rgba(95, 255, 142, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.18) inset;
+  transition: transform 0.15s, box-shadow 0.2s, filter 0.2s;
+  text-transform: uppercase;
+}
+.ew-entry-cta:hover:not(:disabled) {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+  box-shadow:
+    0 18px 54px rgba(95, 255, 142, 0.42),
+    0 0 0 1px rgba(255, 255, 255, 0.22) inset;
+}
+.ew-entry-cta:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.ew-entry-cta-arrow {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.ew-entry-rooms {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+  margin-top: 6px;
+}
+.ew-entry-room {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 9px 11px;
+  border-radius: 10px;
+  background: rgba(8, 14, 28, 0.75);
+  border: 1px solid rgba(135, 191, 255, 0.12);
+  font-size: 0.78rem;
+}
+.ew-entry-room-tag {
+  font-size: 0.62rem;
+  letter-spacing: 0.18rem;
+  padding: 3px 7px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.ew-entry-room-name {
+  color: #cfddf0;
+}
+
+.ew-entry-connect {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.ew-entry-connect-title {
+  font-size: 0.86rem;
+  color: #bcd1f2;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.ew-entry-connect-title strong {
+  font-size: 1.3rem;
+  color: #edf4ff;
+  letter-spacing: 0.04rem;
+}
+.ew-entry-connect-title em {
+  font-style: normal;
+  font-size: 0.72rem;
+  letter-spacing: 0.16rem;
+  color: #5fff8e;
+  text-transform: uppercase;
+}
+
+.ew-entry-bar {
+  position: relative;
+  height: 14px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: #0c1424;
+  box-shadow: inset 0 0 0 1px rgba(135, 191, 255, 0.16);
+}
+.ew-entry-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #5fff8e, #a7eaff, #c084fc);
+  box-shadow: 0 0 18px rgba(95, 255, 142, 0.55);
+  transition: width 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+  border-radius: 999px;
+}
+.ew-entry-bar-shine {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.18) 50%,
+    transparent 100%
+  );
+  animation: ewBarShine 2.2s linear infinite;
+}
+.ew-entry-status {
+  font-size: 0.86rem;
+  color: #a7eaff;
+  letter-spacing: 0.04rem;
+}
+.ew-entry-log {
+  max-height: 150px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 12px 14px;
+  background: rgba(6, 12, 24, 0.7);
+  border: 1px solid rgba(135, 191, 255, 0.12);
+  border-radius: 10px;
+  font-family: "JetBrains Mono", "SF Mono", Menlo, monospace;
+  font-size: 0.72rem;
+  color: #8fa3c4;
+}
+.ew-entry-log-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  animation: ewLogIn 0.3s ease-out;
+}
+.ew-entry-log-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #5fff8e;
+  box-shadow: 0 0 8px #5fff8e;
+}
+
+.ew-entry-foot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid rgba(135, 191, 255, 0.1);
+  font-size: 0.68rem;
+  letter-spacing: 0.12rem;
+  color: #5a6d8e;
+  text-transform: uppercase;
+}
+.ew-entry-foot-sep {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #5a6d8e;
+}
+
+@keyframes ewStarTwinkle {
+  0%, 100% { opacity: 0.3; transform: scale(0.9); }
+  50% { opacity: 1; transform: scale(1.1); }
+}
+@keyframes ewPulseDot {
+  0%, 100% { box-shadow: 0 0 6px #5fff8e; opacity: 1; }
+  50% { box-shadow: 0 0 14px #5fff8e, 0 0 22px rgba(95, 255, 142, 0.5); opacity: 0.75; }
+}
+@keyframes ewBarShine {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+@keyframes ewLogIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 520px) {
+  .ew-entry-card { padding: 26px 20px 20px; }
+  .ew-entry-rooms { grid-template-columns: 1fr; }
 /* ═══════════════ EtherWorld Landing ═══════════════ */
 .ew-landing {
 	position: fixed;

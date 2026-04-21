@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 110" width="220" height="110">
+  <defs>
+    <filter id="glowg" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <!-- frame -->
+  <rect x="6" y="10" width="208" height="64" rx="6" fill="#0a1208" stroke="#1a2a1a" stroke-width="1.5"/>
+  <!-- neon text glow -->
+  <g filter="url(#glowg)" opacity="0.7">
+    <text x="110" y="56" font-family="Impact, 'Arial Black', sans-serif" font-size="42" fill="#5fff8e" text-anchor="middle" font-weight="bold">GREEN SHOP</text>
+  </g>
+  <text x="110" y="56" font-family="Impact, 'Arial Black', sans-serif" font-size="42" fill="#d8ffd8" text-anchor="middle" font-weight="bold" stroke="#5fff8e" stroke-width="0.5">GREEN SHOP</text>
+  <!-- leaf accents -->
+  <g transform="translate(24,42)" fill="#5fff8e">
+    <path d="M0 0 l-8 -4 l2 6 l-8 0 l6 4 l-4 6 l8 -2 l0 8 l4 -6 l6 4 l-2 -8 l8 0 l-6 -4 l4 -6 l-8 2 z"/>
+  </g>
+  <g transform="translate(196,42)" fill="#5fff8e">
+    <path d="M0 0 l-8 -4 l2 6 l-8 0 l6 4 l-4 6 l8 -2 l0 8 l4 -6 l6 4 l-2 -8 l8 0 l-6 -4 l4 -6 l-8 2 z"/>
+  </g>
+  <!-- mount -->
+  <rect x="100" y="74" width="4" height="16" fill="#2a1a0e"/>
+  <rect x="116" y="74" width="4" height="16" fill="#2a1a0e"/>
+  <!-- subtext -->
+  <text x="110" y="98" font-family="monospace" font-size="10" fill="#ffd27a" text-anchor="middle">· PREMIUM CANNABIS ·</text>
+</svg>

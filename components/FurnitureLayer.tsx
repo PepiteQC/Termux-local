@@ -16,6 +16,9 @@ import {
   drawFurnitureItem,
   drawFurnitureParticles,
   drawFurniturePreview,
+  drawRoomBackground,
+  drawRoomWalls,
+  getRoomTheme,
   loadAvatarLayerSprites,
   loadFurnitureSprites,
   sortFurnitureForRender
@@ -258,14 +261,10 @@ export function FurnitureLayer({
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.clearRect(0, 0, canvasSize.width, canvasSize.height);
 
-    const background = ctx.createLinearGradient(0, 0, 0, canvasSize.height);
-    background.addColorStop(0, "#121521");
-    background.addColorStop(0.5, "#0d1118");
-    background.addColorStop(1, "#06080d");
-    ctx.fillStyle = background;
-    ctx.fillRect(0, 0, canvasSize.width, canvasSize.height);
-
-    drawFloorGrid(ctx, projection, ROOM_WIDTH, ROOM_DEPTH, hoverTile);
+    const theme = getRoomTheme(roomId);
+    drawRoomBackground(ctx, canvasSize.width, canvasSize.height, theme);
+    drawRoomWalls(ctx, projection, ROOM_WIDTH, ROOM_DEPTH, theme);
+    drawFloorGrid(ctx, projection, ROOM_WIDTH, ROOM_DEPTH, hoverTile, theme);
     drawFurniturePreview(ctx, preview, projection);
 
     sortFurnitureForRender(furnitures).forEach((item) => {
@@ -308,6 +307,7 @@ export function FurnitureLayer({
     preview,
     projection,
     renderTick,
+    roomId,
     selectedId
   ]);
 
