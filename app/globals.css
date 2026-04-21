@@ -2704,3 +2704,176 @@ body {
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(65, 105, 225, 0.3);
 }
+
+/* Room Builder Styles */
+.room-builder-container {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  z-index: 50;
+}
+
+.room-builder-toggle {
+  padding: 10px 16px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.room-builder-toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.room-builder-toggle.active {
+  background: #FF6B35;
+}
+
+.room-builder-panel {
+  position: fixed;
+  top: 70px;
+  right: 18px;
+  width: min(400px, calc(100vw - 36px));
+  max-height: calc(100vh - 100px);
+  background: white;
+  border: 2px solid #4169E1;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  z-index: 49;
+  overflow: hidden;
+}
+
+.builder-panel-header {
+  padding: 16px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 2px solid #FF6B35;
+}
+
+.builder-panel-header h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.builder-close-btn {
+  padding: 4px 8px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid white;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.builder-close-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.builder-furniture-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  padding: 16px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.builder-furniture-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px;
+  background: #F5F0EB;
+  border: 2px solid #4169E1;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.builder-furniture-item:hover {
+  background: rgba(65, 105, 225, 0.1);
+  border-color: #FF6B35;
+}
+
+.builder-item-icon {
+  font-size: 2rem;
+}
+
+.builder-item-name {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #2C1810;
+  text-align: center;
+}
+
+.builder-item-btn {
+  width: 100%;
+  padding: 6px;
+  background: linear-gradient(135deg, #4169E1, #FF6B35);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.builder-item-btn:hover {
+  transform: scale(1.05);
+}
+
+.builder-controls {
+  padding: 16px;
+  background: #F5F0EB;
+  border-top: 2px solid #4169E1;
+}
+
+.builder-controls h4 {
+  margin: 0 0 12px 0;
+  color: #2C1810;
+  font-size: 0.9rem;
+}
+
+.control-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.control-btn {
+  flex: 1;
+  padding: 8px 12px;
+  background: linear-gradient(135deg, #4169E1, #7FB069);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.control-btn:hover {
+  transform: translateY(-2px);
+}
+
+.control-btn.danger {
+  background: linear-gradient(135deg, #DC6464, #B43C3C);
+}
+
+.control-btn.danger:hover {
+  box-shadow: 0 4px 12px rgba(220, 100, 100, 0.3);
+}
