@@ -3,10 +3,11 @@ import { Polygon, Sprite, type Texture } from 'pixi.js'
 import type RoomScene from '../RoomScene'
 import type { HeightMapPosition } from '../map/HeightMap'
 import Directions from '../map/directions/Directions'
-import TileGenerator from './TileGenerator'
+import type TileGenerator from './TileGenerator'
 import {
 	TILE_HEIGHT,
 	TILE_STEP_HEIGHT,
+	TILE_SURFACE_POINTS,
 	TILE_WIDTH,
 	getTileScreenIndex,
 	getTileScreenX,
@@ -43,7 +44,7 @@ export default class Tile extends Sprite {
 		this.roundPixels = true
 		this.eventMode = 'static'
 		this.cursor = 'pointer'
-		this.hitArea = new Polygon(TileGenerator.SURFACE_POINTS)
+		this.hitArea = new Polygon(TILE_SURFACE_POINTS)
 
 		this.setTexture()
 	}
