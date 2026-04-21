@@ -19,7 +19,10 @@ export default class RoomContainer extends Container {
 		this.sortableChildren = true
 		this.wallsContainer = new WallsContainer(room)
 		this.tilesContainer = new TilesContainer(room, (tile) => {
-			this.avatarsContainer.movePrimaryAvatarTo(tile.heightMapPosition)
+			room.game.handleTileTap(
+				tile.heightMapPosition,
+				() => this.avatarsContainer.movePrimaryAvatarTo(tile.heightMapPosition)
+			)
 		})
 		this.furnituresContainer = new FurnituresContainer(room)
 		this.avatarsContainer = new AvatarsContainer(room)

@@ -1,6 +1,6 @@
 "use client"
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react"
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 
 type RoomSummary = {
 	id: string
@@ -70,8 +70,26 @@ type HabboLike = {
 	emitSmokeAtPrimaryAvatar: (tint?: number, count?: number) => boolean
 	placeHabboFurni: (className: string, options?: { x?: number; y?: number; direction?: number; label?: string; width?: number; depth?: number }) => boolean
 	rotateFurnitureById: (id: string) => number | null
+	moveFurnitureById: (id: string, x: number, y: number) => boolean
+	setAvatarMovementEnabled: (enabled: boolean) => void
 	gangState: GangStateLike
 	destroy?: () => void
+}
+
+type TileTapDetail = {
+	x: number
+	y: number
+	height: number
+}
+
+type PlacementState = {
+	id: string
+	label: string
+	habboClassName: string | null
+	originX: number
+	originY: number
+	currentX: number
+	currentY: number
 }
 
 type FurnitureTapDetail = {
@@ -223,6 +241,10 @@ export default function ClientGameShell() {
 	const [habboCategory, setHabboCategory] = useState<string>("all")
 	const [habboSwfOnly, setHabboSwfOnly] = useState(true)
 	const [furniTap, setFurniTap] = useState<FurnitureTapDetail | null>(null)
+	const [placement, setPlacement] = useState<PlacementState | null>(null)
+	const [inspector, setInspector] = useState<FurnitureTapDetail | null>(null)
+	const placementRef = useRef<PlacementState | null>(null)
+	useEffect(() => { placementRef.current = placement }, [placement])
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
@@ -257,6 +279,9 @@ export default function ClientGameShell() {
 			const detail = (event as CustomEvent<{ id: string }>).detail
 			setCurrentRoomId(detail?.id ?? habbo.getCurrentRoomId())
 			setFurniTap(null)
+			setPlacement(null)
+			setInspector(null)
+			habbo.setAvatarMovementEnabled(true)
 		}
 		window.addEventListener("ew-room-change", onChange)
 		return () => window.removeEventListener("ew-room-change", onChange)
@@ -267,11 +292,25 @@ export default function ClientGameShell() {
 		const onTap = (event: Event) => {
 			const detail = (event as CustomEvent<FurnitureTapDetail>).detail
 			if (!detail) return
+			if (placementRef.current) return
 			setFurniTap(detail)
 		}
 		window.addEventListener("ew-furniture-tap", onTap)
 		return () => window.removeEventListener("ew-furniture-tap", onTap)
 	}, [])
+
+	useEffect(() => {
+		if (typeof window === "undefined" || !habbo) return
+		const onTileTap = (event: Event) => {
+			const detail = (event as CustomEvent<TileTapDetail>).detail
+			if (!detail || !placement) return
+			if (habbo.moveFurnitureById(placement.id, detail.x, detail.y)) {
+				setPlacement({ ...placement, currentX: detail.x, currentY: detail.y })
+			}
+		}
+		window.addEventListener("ew-tile-tap", onTileTap)
+		return () => window.removeEventListener("ew-tile-tap", onTileTap)
+	}, [habbo, placement])
 
 	useEffect(() => {
 		const root = gameRootRef.current
@@ -445,6 +484,51 @@ export default function ClientGameShell() {
 
 	const handleFurniClose = useCallback(() => setFurniTap(null), [])
 
+	const handleFurniMove = useCallback(() => {
+		if (!habbo || !furniTap) return
+		if (!furniTap.habboClassName) {
+			flashStatus("Cet objet n'est pas encore déplaçable.")
+			return
+		}
+		setPlacement({
+			id: furniTap.id,
+			label: furniTap.label,
+			habboClassName: furniTap.habboClassName,
+			originX: furniTap.x,
+			originY: furniTap.y,
+			currentX: furniTap.x,
+			currentY: furniTap.y
+		})
+		habbo.setAvatarMovementEnabled(false)
+		setFurniTap(null)
+		flashStatus(`Déplacement · tape une case pour poser ${furniTap.label}`)
+	}, [habbo, furniTap, flashStatus])
+
+	const handlePlacementConfirm = useCallback(() => {
+		if (!habbo || !placement) return
+		habbo.setAvatarMovementEnabled(true)
+		flashStatus(`${placement.label} placé à (${placement.currentX}, ${placement.currentY})`)
+		setPlacement(null)
+	}, [habbo, placement, flashStatus])
+
+	const handlePlacementCancel = useCallback(() => {
+		if (!habbo || !placement) return
+		if (placement.originX !== placement.currentX || placement.originY !== placement.currentY) {
+			habbo.moveFurnitureById(placement.id, placement.originX, placement.originY)
+		}
+		habbo.setAvatarMovementEnabled(true)
+		flashStatus("Placement annulé")
+		setPlacement(null)
+	}, [habbo, placement, flashStatus])
+
+	const handleFurniInspect = useCallback(() => {
+		if (!furniTap) return
+		setInspector(furniTap)
+		setFurniTap(null)
+	}, [furniTap])
+
+	const handleInspectClose = useCallback(() => setInspector(null), [])
+
 	const gangRooms = rooms.filter((r) => r.category === "gang")
 	const shopRooms = rooms.filter((r) => r.category === "shop")
 	const mainRooms = rooms.filter((r) => r.category !== "gang" && r.category !== "shop")
@@ -483,7 +567,24 @@ export default function ClientGameShell() {
 					detail={furniTap}
 					onSit={handleFurniSit}
 					onTurn={handleFurniTurn}
+					onMove={handleFurniMove}
+					onInspect={handleFurniInspect}
 					onClose={handleFurniClose}
+				/>
+			) : null}
+
+			{placement ? (
+				<FurniturePlacementBar
+					placement={placement}
+					onConfirm={handlePlacementConfirm}
+					onCancel={handlePlacementCancel}
+				/>
+			) : null}
+
+			{inspector ? (
+				<FurnitureInspectDialog
+					detail={inspector}
+					onClose={handleInspectClose}
 				/>
 			) : null}
 
@@ -962,17 +1063,22 @@ function FurnitureActionMenu({
 	detail,
 	onSit,
 	onTurn,
+	onMove,
+	onInspect,
 	onClose
 }: {
 	detail: FurnitureTapDetail
 	onSit: () => void
 	onTurn: () => void
+	onMove: () => void
+	onInspect: () => void
 	onClose: () => void
 }) {
 	const canSit = SIT_KINDS.has(detail.kind)
 	const canLie = LIE_KINDS.has(detail.kind)
 	const canSeat = canSit || canLie
 	const canTurn = detail.habboClassName !== null
+	const canMove = detail.habboClassName !== null
 	const seatLabel = canLie ? "Se coucher" : "S'asseoir"
 	const seatSub = canLie ? "Repos sur le lit" : canSit ? "Pose-toi ici" : "Indisponible"
 
@@ -980,6 +1086,8 @@ function FurnitureActionMenu({
 		w: typeof window === "undefined" ? 1024 : window.innerWidth,
 		h: typeof window === "undefined" ? 768 : window.innerHeight
 	}))
+	const menuRef = useRef<HTMLDivElement | null>(null)
+	const [measuredHeight, setMeasuredHeight] = useState<number | null>(null)
 
 	useEffect(() => {
 		const onResize = () => setViewport({ w: window.innerWidth, h: window.innerHeight })
@@ -987,8 +1095,12 @@ function FurnitureActionMenu({
 		return () => window.removeEventListener("resize", onResize)
 	}, [])
 
+	useLayoutEffect(() => {
+		if (menuRef.current) setMeasuredHeight(menuRef.current.offsetHeight)
+	}, [detail.id])
+
 	const menuWidth = 220
-	const menuHeight = 280
+	const menuHeight = measuredHeight ?? 400
 	const margin = 16
 	const left = Math.max(margin, Math.min(detail.clientX - menuWidth / 2, viewport.w - menuWidth - margin))
 	const top = Math.max(margin, Math.min(detail.clientY - menuHeight - 12, viewport.h - menuHeight - margin))
@@ -996,6 +1108,7 @@ function FurnitureActionMenu({
 	return (
 		<div className="ew-furni-menu-backdrop" onClick={onClose}>
 			<div
+				ref={menuRef}
 				className="ew-furni-menu"
 				role="dialog"
 				aria-label={`Actions pour ${detail.label}`}
@@ -1040,6 +1153,29 @@ function FurnitureActionMenu({
 						</div>
 					</div>
 				</button>
+				<button
+					className="ew-furni-menu-action"
+					onClick={onMove}
+					disabled={!canMove}
+				>
+					<span className="ew-furni-menu-icon">✥</span>
+					<div>
+						<div className="ew-furni-menu-action-title">Déplacer</div>
+						<div className="ew-furni-menu-action-sub">
+							{canMove ? "Tape une case pour poser" : "Indisponible"}
+						</div>
+					</div>
+				</button>
+				<button
+					className="ew-furni-menu-action"
+					onClick={onInspect}
+				>
+					<span className="ew-furni-menu-icon">ℹ️</span>
+					<div>
+						<div className="ew-furni-menu-action-title">Inspecter</div>
+						<div className="ew-furni-menu-action-sub">Fiche détaillée</div>
+					</div>
+				</button>
 				<div className="ew-furni-menu-meta">
 					<div><span>Case</span><strong>{detail.x}, {detail.y}</strong></div>
 					<div><span>Taille</span><strong>{detail.width}×{detail.depth}×{detail.height}</strong></div>
@@ -1054,6 +1190,70 @@ function nextDir(current: number): number {
 	const dirs = [0, 2, 4, 6]
 	const i = dirs.indexOf(current)
 	return dirs[(i === -1 ? 0 : i + 1) % dirs.length]
+}
+
+function FurniturePlacementBar({
+	placement,
+	onConfirm,
+	onCancel
+}: {
+	placement: PlacementState
+	onConfirm: () => void
+	onCancel: () => void
+}) {
+	return (
+		<div className="ew-placement-bar" role="dialog" aria-label="Mode déplacement">
+			<div className="ew-placement-info">
+				<div className="ew-placement-label">{placement.label}</div>
+				<div className="ew-placement-sub">
+					{placement.originX === placement.currentX && placement.originY === placement.currentY
+						? `Tape une case pour déplacer · origine ${placement.originX}, ${placement.originY}`
+						: `Case ${placement.currentX}, ${placement.currentY} · origine ${placement.originX}, ${placement.originY}`}
+				</div>
+			</div>
+			<button className="ew-placement-btn ew-placement-cancel" onClick={onCancel}>
+				Annuler
+			</button>
+			<button className="ew-placement-btn ew-placement-confirm" onClick={onConfirm}>
+				Confirmer
+			</button>
+		</div>
+	)
+}
+
+function FurnitureInspectDialog({
+	detail,
+	onClose
+}: {
+	detail: FurnitureTapDetail
+	onClose: () => void
+}) {
+	return (
+		<div className="ew-inspect-backdrop" onClick={onClose}>
+			<div
+				className="ew-inspect-card"
+				role="dialog"
+				aria-label={`Fiche ${detail.label}`}
+				onClick={(event) => event.stopPropagation()}
+			>
+				<div className="ew-inspect-head">
+					<div className="ew-inspect-title">{detail.label}</div>
+					<button className="ew-inspect-close" onClick={onClose} aria-label="Fermer">×</button>
+				</div>
+				<div className="ew-inspect-grid">
+					<div><span>Type</span><strong>{detail.kind}</strong></div>
+					<div><span>Case</span><strong>{detail.x}, {detail.y}</strong></div>
+					<div><span>Taille</span><strong>{detail.width}×{detail.depth}×{detail.height}</strong></div>
+					<div><span>Direction</span><strong>{detail.habboDirection ?? "—"}</strong></div>
+					<div><span>Walkable</span><strong>{detail.walkable ? "oui" : "non"}</strong></div>
+					<div><span>Sprite</span><strong>{detail.habboClassName ?? "polygone"}</strong></div>
+				</div>
+				<div className="ew-inspect-foot">
+					{detail.habboClassName ? "Sprite Habbo pixel-art · pipeline layer-par-layer" : "Rendu procédural · sprite Habbo non configuré"}
+				</div>
+			</div>
+		</div>
+	)
 }
 
 function panelTitle(panel: Exclude<PanelKey, null>): string {
