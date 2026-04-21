@@ -3,9 +3,16 @@
 import { ref, getDownloadURL } from "firebase/storage";
 import {
   collection,
+  deleteDoc,
+  doc,
+  getDoc,
+  getDocs,
   onSnapshot,
   orderBy,
   query,
+  serverTimestamp,
+  setDoc,
+  type DocumentData,
   type Unsubscribe
 } from "firebase/firestore";
 
@@ -18,45 +25,76 @@ type PersistFurnitureInput = {
   furniture: FurniturePlacement;
 };
 
-export async function fetchRoomFurnitures(roomId: string) {
-  const response = await fetch(`/api/furniture/${roomId}`, {
-    method: "GET",
-    headers: { "Content-Type": "application/json" },
-    cache: "no-store"
-  });
-
-  if (!response.ok) {
-    throw new Error(`Unable to load furnitures for room ${roomId}`);
+export async function fetchRoomFurnitures(roomId: string): Promise<FurniturePlacement[]> {
+  const db = getFirebaseDb();
+  if (!db) {
+    return [];
   }
 
-  const payload = (await response.json()) as { furnitures: FurnitureApiRecord[] };
-  return payload.furnitures.map(stripRoomId);
+  const furnituresRef = collection(db, "rooms", roomId, "furnitures");
+  const furnituresQuery = query(
+    furnituresRef,
+    orderBy("x", "asc"),
+    orderBy("z", "asc"),
+    orderBy("y", "asc")
+  );
+
+  const snapshot = await getDocs(furnituresQuery);
+  return snapshot.docs.map((document) =>
+    stripRoomId({
+      roomId,
+      ...(document.data() as FurniturePlacement),
+      id: document.id
+    })
+  );
 }
 
-export async function persistFurniture({ roomId, furniture }: PersistFurnitureInput) {
-  const response = await fetch(`/api/furniture/${roomId}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(furniture)
-  });
-
-  if (!response.ok) {
-    throw new Error(`Unable to persist furniture ${furniture.id}`);
+export async function persistFurniture({
+  roomId,
+  furniture
+}: PersistFurnitureInput): Promise<FurniturePlacement> {
+  const db = getFirebaseDb();
+  if (!db) {
+    return {
+      ...furniture,
+      createdAt: furniture.createdAt ?? new Date().toISOString(),
+      updatedAt: new Date().toISOString()
+    };
   }
 
-  const payload = (await response.json()) as { furniture: FurnitureApiRecord };
-  return stripRoomId(payload.furniture);
+  const docRef = doc(db, "rooms", roomId, "furnitures", furniture.id);
+  const existing = await getDoc(docRef);
+  const existingCreatedAt =
+    (existing.exists() ? (existing.data() as DocumentData).createdAt : null) ?? serverTimestamp();
+
+  await setDoc(
+    docRef,
+    {
+      type: furniture.type,
+      x: furniture.x,
+      y: furniture.y,
+      z: furniture.z,
+      rotation: furniture.rotation,
+      createdAt: existingCreatedAt,
+      updatedAt: serverTimestamp()
+    },
+    { merge: true }
+  );
+
+  return {
+    ...furniture,
+    createdAt: furniture.createdAt ?? new Date().toISOString(),
+    updatedAt: new Date().toISOString()
+  };
 }
 
-export async function removeFurniture(roomId: string, id: string) {
-  const response = await fetch(`/api/furniture/${roomId}?id=${encodeURIComponent(id)}`, {
-    method: "DELETE",
-    headers: { "Content-Type": "application/json" }
-  });
-
-  if (!response.ok) {
-    throw new Error(`Unable to delete furniture ${id}`);
+export async function removeFurniture(roomId: string, id: string): Promise<void> {
+  const db = getFirebaseDb();
+  if (!db) {
+    return;
   }
+
+  await deleteDoc(doc(db, "rooms", roomId, "furnitures", id));
 }
 
 export function subscribeToRoomFurnitures(
