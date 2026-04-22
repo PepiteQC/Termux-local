@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1238757257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd76ad5c279e8b26eda65ba16189c1a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_gunrack/flash/manifest.xml
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_sd_0_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_sd_2_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_a_2_1.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_b_0_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_assets.xml
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_a_6_0.png
+- Assets/Live/pirate_gunrack/flash/index.xml
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_logic.xml
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_a_0_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_visualization.xml
+- Assets/Live/pirate_gunrack/pirate_gunrack.xml
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_b_2_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_b_6_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_icon_a.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_sd_6_0.png
+- Assets/Live/pirate_gunrack/flash/pirate_gunrack_64_a_2_0.png
+Dependencies: []

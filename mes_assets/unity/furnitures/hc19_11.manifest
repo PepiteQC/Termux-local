@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 539433810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdae2cb2a5ec0c6053382d6cfd6374f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc19_11/flash/hc19_11_icon_a.png
+- Assets/Live/hc19_11/flash/hc19_11_assets.xml
+- Assets/Live/hc19_11/hc19_11.xml
+- Assets/Live/hc19_11/flash/hc19_11_64_a_4_0.png
+- Assets/Live/hc19_11/flash/hc19_11_logic.xml
+- Assets/Live/hc19_11/flash/hc19_11_64_sd_2_0.png
+- Assets/Live/hc19_11/flash/hc19_11_64_a_2_0.png
+- Assets/Live/hc19_11/flash/index.xml
+- Assets/Live/hc19_11/flash/hc19_11_visualization.xml
+- Assets/Live/hc19_11/flash/manifest.xml
+Dependencies: []

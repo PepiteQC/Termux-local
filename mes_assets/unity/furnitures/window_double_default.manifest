@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3449041434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4763afbe10e2230fb1961108e98c943
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/window_double_default/flash/index.xml
+- Assets/Live/window_double_default/flash/window_double_default_logic.xml
+- Assets/Live/window_double_default/flash/window_double_default_64_a_2_0.png
+- Assets/Live/window_double_default/flash/window_double_default_icon_a.png
+- Assets/Live/window_double_default/flash/window_double_default_visualization.xml
+- Assets/Live/window_double_default/flash/window_double_default_assets.xml
+- Assets/Live/window_double_default/flash/manifest.xml
+- Assets/Live/window_double_default/flash/window_double_default_32_2_mask.png
+- Assets/Live/window_double_default/window_double_default.xml
+- Assets/Live/window_double_default/flash/window_double_default_64_2_mask.png
+Dependencies: []

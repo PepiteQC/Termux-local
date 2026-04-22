@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3207378081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1f498d69bfebf28431ef32670e28687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_assets.xml
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_logic.xml
+- Assets/Live/clothing_rippedtop/flash/index.xml
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_64_a_0_0.png
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_64_a_0_1.png
+- Assets/Live/clothing_rippedtop/clothing_rippedtop.xml
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_icon_a.png
+- Assets/Live/clothing_rippedtop/flash/manifest.xml
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_visualization.xml
+- Assets/Live/clothing_rippedtop/flash/clothing_rippedtop_64_sd_0_0.png
+Dependencies: []

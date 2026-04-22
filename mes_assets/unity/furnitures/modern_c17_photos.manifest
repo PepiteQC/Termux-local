@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3994495700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d5492280600fc4e447b339e6f78ddc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_assets.xml
+- Assets/Live/modern_c17_photos/flash/manifest.xml
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_64_a_0_0.png
+- Assets/Live/modern_c17_photos/modern_c17_photos.xml
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_64_a_0_1.png
+- Assets/Live/modern_c17_photos/flash/index.xml
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_icon_a.png
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_visualization.xml
+- Assets/Live/modern_c17_photos/flash/modern_c17_photos_logic.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2907258575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0768f890fd27d3394fb24890914539d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/song_disk/flash/song_disk_64_a_0_0.png
+- Assets/Live/song_disk/flash/manifest.xml
+- Assets/Live/song_disk/flash/index.xml
+- Assets/Live/song_disk/flash/song_disk_icon_a.png
+- Assets/Live/song_disk/flash/song_disk_logic.xml
+- Assets/Live/song_disk/song_disk.xml
+- Assets/Live/song_disk/flash/song_disk_assets.xml
+- Assets/Live/song_disk/flash/song_disk_visualization.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1786997453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffaf5bb189d89036cfd03e5a75c8a8fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spacerent_room/flash/manifest.xml
+- Assets/Live/spacerent_room/flash/spacerent_room_icon_a.png
+- Assets/Live/spacerent_room/flash/spacerent_room_64_a_0_2.png
+- Assets/Live/spacerent_room/flash/spacerent_room_assets.xml
+- Assets/Live/spacerent_room/flash/index.xml
+- Assets/Live/spacerent_room/flash/spacerent_room_visualization.xml
+- Assets/Live/spacerent_room/flash/spacerent_room_64_a_0_1.png
+- Assets/Live/spacerent_room/flash/spacerent_room_64_a_0_0.png
+- Assets/Live/spacerent_room/flash/spacerent_room_logic.xml
+- Assets/Live/spacerent_room/spacerent_room.xml
+Dependencies: []

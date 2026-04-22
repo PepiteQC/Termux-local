@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 502449573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8329bf68b3a3d0e40217770530669897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_visualization.xml
+- Assets/Live/hween_c16_ghostash/flash/index.xml
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_icon_a.png
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_64_sd_0_0.png
+- Assets/Live/hween_c16_ghostash/hween_c16_ghostash.xml
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_logic.xml
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_64_a_0_0.png
+- Assets/Live/hween_c16_ghostash/flash/hween_c16_ghostash_assets.xml
+- Assets/Live/hween_c16_ghostash/flash/manifest.xml
+Dependencies: []

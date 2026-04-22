@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4197251176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 094a9e91490d6f66ecc485eedc1604cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_tag1/flash/sb_tag1_64_a_2_0.png
+- Assets/Live/sb_tag1/flash/sb_tag1_assets.xml
+- Assets/Live/sb_tag1/flash/sb_tag1_64_a_2_1.png
+- Assets/Live/sb_tag1/flash/sb_tag1_64_a_4_0.png
+- Assets/Live/sb_tag1/flash/sb_tag1_icon_a.png
+- Assets/Live/sb_tag1/flash/sb_tag1_visualization.xml
+- Assets/Live/sb_tag1/flash/manifest.xml
+- Assets/Live/sb_tag1/flash/sb_tag1_logic.xml
+- Assets/Live/sb_tag1/flash/sb_tag1_64_a_4_1.png
+- Assets/Live/sb_tag1/sb_tag1.xml
+- Assets/Live/sb_tag1/flash/index.xml
+Dependencies: []

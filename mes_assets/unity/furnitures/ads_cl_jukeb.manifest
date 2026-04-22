@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3274447340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65481c1c1983472b74f44afe4237c9a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_visualization.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/manifest.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_a_2_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_b_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_icon_a.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/index.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_b_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_logic.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_a_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_64_b_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_assets.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_a_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_a_2_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_64_a_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_64_b_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/index.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_a_2_0.png
+- Assets/Live/ads_cl_jukeb/ads_cl_jukeb.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/manifest.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_a_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb/ads_cl_jukeb_64_a_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_a_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_a_2_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_32_b_4_0.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_64_b_4_1.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_icon_a.png
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_logic.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_visualization.xml
+- Assets/Live/ads_cl_jukeb/flash/ads_cl_jukeb_camp/ads_cl_jukeb_camp_assets.xml
+Dependencies: []

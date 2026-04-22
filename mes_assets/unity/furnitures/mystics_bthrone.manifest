@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3119066627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98e514efbadefbdb7bd8e28367bb7c0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_bthrone/mystics_bthrone.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_g_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_e_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_h_2_0.png
+- Assets/Live/mystics_bthrone/flash/index.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_i_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_visualization.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_a_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_assets.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_sd_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_f_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_d_2_0.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_logic.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_b_2_0.png
+- Assets/Live/mystics_bthrone/flash/manifest.xml
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_icon_a.png
+- Assets/Live/mystics_bthrone/flash/mystics_bthrone_64_c_2_0.png
+Dependencies: []

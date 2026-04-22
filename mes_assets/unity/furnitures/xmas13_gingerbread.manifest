@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4040817108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e37665fcb13eb4cc87749d8223289f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_gingerbread/flash/xmas13_gingerbread_icon_a.png
+- Assets/Live/xmas13_gingerbread/flash/xmas13_gingerbread_64_a_4_0.png
+- Assets/Live/xmas13_gingerbread/xmas13_gingerbread.xml
+- Assets/Live/xmas13_gingerbread/flash/index.xml
+- Assets/Live/xmas13_gingerbread/flash/xmas13_gingerbread_visualization.xml
+- Assets/Live/xmas13_gingerbread/flash/xmas13_gingerbread_logic.xml
+- Assets/Live/xmas13_gingerbread/flash/xmas13_gingerbread_assets.xml
+- Assets/Live/xmas13_gingerbread/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2207620493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e6a93afb013bdcffbf0034d709573a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easy_carpet/flash/easy_carpet_64_a_4_0.png
+- Assets/Live/easy_carpet/flash/easy_carpet_assets.xml
+- Assets/Live/easy_carpet/flash/easy_carpet_visualization.xml
+- Assets/Live/easy_carpet/flash/index.xml
+- Assets/Live/easy_carpet/flash/easy_carpet_64_a_2_0.png
+- Assets/Live/easy_carpet/flash/manifest.xml
+- Assets/Live/easy_carpet/flash/easy_carpet_icon_a.png
+- Assets/Live/easy_carpet/easy_carpet.xml
+- Assets/Live/easy_carpet/flash/easy_carpet_logic.xml
+Dependencies: []

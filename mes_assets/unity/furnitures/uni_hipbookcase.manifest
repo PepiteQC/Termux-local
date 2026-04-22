@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1319425914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46dfcfad2902d989632fb0a87b2eb94a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_hipbookcase/flash/manifest.xml
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_64_b_4_0.png
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_assets.xml
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_logic.xml
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_64_sd_4_0.png
+- Assets/Live/uni_hipbookcase/flash/index.xml
+- Assets/Live/uni_hipbookcase/uni_hipbookcase.xml
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_icon_a.png
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_64_a_4_0.png
+- Assets/Live/uni_hipbookcase/flash/uni_hipbookcase_visualization.xml
+Dependencies: []

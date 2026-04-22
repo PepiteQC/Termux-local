@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3294116168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab1ee0b548ae30c19a7558eb63422b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_64_a_0_0.png
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_logic.xml
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_assets.xml
+- Assets/Live/greek_c19_shield2/greek_c19_shield2.xml
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_sd_a_0_0.png
+- Assets/Live/greek_c19_shield2/flash/index.xml
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_icon_a.png
+- Assets/Live/greek_c19_shield2/flash/manifest.xml
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_visualization.xml
+- Assets/Live/greek_c19_shield2/flash/greek_c19_shield2_64_sd_0_0.png
+Dependencies: []

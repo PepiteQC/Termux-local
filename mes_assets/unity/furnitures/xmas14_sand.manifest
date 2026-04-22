@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3958629710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69c33e40d4bad5556c7ad4da12f84879
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_sand/flash/xmas14_sand_64_b_0_0.png
+- Assets/Live/xmas14_sand/flash/xmas14_sand_icon_a.png
+- Assets/Live/xmas14_sand/flash/xmas14_sand_64_a_0_0.png
+- Assets/Live/xmas14_sand/xmas14_sand.xml
+- Assets/Live/xmas14_sand/flash/xmas14_sand_64_c_0_2.png
+- Assets/Live/xmas14_sand/flash/xmas14_sand_logic.xml
+- Assets/Live/xmas14_sand/flash/xmas14_sand_assets.xml
+- Assets/Live/xmas14_sand/flash/manifest.xml
+- Assets/Live/xmas14_sand/flash/xmas14_sand_visualization.xml
+- Assets/Live/xmas14_sand/flash/xmas14_sand_64_c_0_0.png
+- Assets/Live/xmas14_sand/flash/xmas14_sand_64_c_0_1.png
+- Assets/Live/xmas14_sand/flash/index.xml
+Dependencies: []

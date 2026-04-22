@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2739402064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4f7696ff7baf9cdc96c8b0aca96986d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_assets.xml
+- Assets/Live/duck_vipwhite/flash/index.xml
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_64_sd_0_0.png
+- Assets/Live/duck_vipwhite/duck_vipwhite.xml
+- Assets/Live/duck_vipwhite/flash/manifest.xml
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_icon_a.png
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_64_a_6_0.png
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_visualization.xml
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_64_a_4_0.png
+- Assets/Live/duck_vipwhite/flash/duck_vipwhite_logic.xml
+Dependencies: []

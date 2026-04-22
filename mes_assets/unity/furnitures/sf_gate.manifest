@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2250133457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c838c9c320a2960162980bdcaafada79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sf_gate/flash/sf_gate_64_d_4_0.png
+- Assets/Live/sf_gate/flash/sf_gate_assets.xml
+- Assets/Live/sf_gate/flash/sf_gate_icon_a.png
+- Assets/Live/sf_gate/flash/sf_gate_64_c_0_1.png
+- Assets/Live/sf_gate/flash/sf_gate_64_b_4_1.png
+- Assets/Live/sf_gate/flash/index.xml
+- Assets/Live/sf_gate/flash/sf_gate_64_c_0_0.png
+- Assets/Live/sf_gate/flash/sf_gate_64_b_0_0.png
+- Assets/Live/sf_gate/flash/sf_gate_visualization.xml
+- Assets/Live/sf_gate/flash/sf_gate_64_b_4_0.png
+- Assets/Live/sf_gate/flash/sf_gate_64_c_4_1.png
+- Assets/Live/sf_gate/flash/sf_gate_64_a_4_0.png
+- Assets/Live/sf_gate/flash/sf_gate_64_c_4_0.png
+- Assets/Live/sf_gate/flash/sf_gate_64_b_0_1.png
+- Assets/Live/sf_gate/flash/sf_gate_64_a_0_0.png
+- Assets/Live/sf_gate/flash/sf_gate_64_d_0_0.png
+- Assets/Live/sf_gate/flash/sf_gate_logic.xml
+- Assets/Live/sf_gate/sf_gate.xml
+- Assets/Live/sf_gate/flash/manifest.xml
+Dependencies: []

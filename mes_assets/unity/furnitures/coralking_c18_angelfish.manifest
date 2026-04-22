@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1299466875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a00c7c2a2db252b7467a5534c31d5ed9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_8.png
+- Assets/Live/coralking_c18_angelfish/coralking_c18_angelfish.xml
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_1.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_11.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_icon_a.png
+- Assets/Live/coralking_c18_angelfish/flash/index.xml
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_sd_0_0.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_assets.xml
+- Assets/Live/coralking_c18_angelfish/flash/manifest.xml
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_9.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_7.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_5.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_10.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_0.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_4.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_visualization.xml
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_3.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_6.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_64_a_0_2.png
+- Assets/Live/coralking_c18_angelfish/flash/coralking_c18_angelfish_logic.xml
+Dependencies: []

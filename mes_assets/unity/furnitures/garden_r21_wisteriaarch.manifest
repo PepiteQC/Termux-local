@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 885485465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5327f7e48bca3be3cc340ca402f5756
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_64_b_0_1.png
+- Assets/Live/garden_r21_wisteriaarch/garden_r21_wisteriaarch.xml
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_64_sd_0_0.png
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_64_a_0_1.png
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_assets.xml
+- Assets/Live/garden_r21_wisteriaarch/flash/manifest.xml
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_visualization.xml
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_64_b_0_0.png
+- Assets/Live/garden_r21_wisteriaarch/flash/index.xml
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_64_a_0_0.png
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_icon_a.png
+- Assets/Live/garden_r21_wisteriaarch/flash/garden_r21_wisteriaarch_logic.xml
+Dependencies: []

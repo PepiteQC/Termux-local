@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 4015029657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aaeb1245a8f8f92f8c13323fb459ced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_projector/flash/cine_projector_logic.xml
+- Assets/Live/cine_projector/flash/cine_projector_64_a_0_0.png
+- Assets/Live/cine_projector/flash/cine_projector_64_b_2_3.png
+- Assets/Live/cine_projector/flash/cine_projector_assets.xml
+- Assets/Live/cine_projector/flash/cine_projector_64_b_2_1.png
+- Assets/Live/cine_projector/flash/index.xml
+- Assets/Live/cine_projector/flash/cine_projector_visualization.xml
+- Assets/Live/cine_projector/flash/cine_projector_64_b_0_0.png
+- Assets/Live/cine_projector/flash/cine_projector_64_c_0_0.png
+- Assets/Live/cine_projector/flash/cine_projector_64_c_2_1.png
+- Assets/Live/cine_projector/flash/cine_projector_64_c_0_1.png
+- Assets/Live/cine_projector/flash/cine_projector_64_a_2_0.png
+- Assets/Live/cine_projector/flash/cine_projector_64_c_2_2.png
+- Assets/Live/cine_projector/flash/cine_projector_64_b_2_0.png
+- Assets/Live/cine_projector/flash/cine_projector_64_b_0_1.png
+- Assets/Live/cine_projector/flash/manifest.xml
+- Assets/Live/cine_projector/flash/cine_projector_64_b_2_2.png
+- Assets/Live/cine_projector/flash/cine_projector_64_b_0_3.png
+- Assets/Live/cine_projector/flash/cine_projector_64_c_0_2.png
+- Assets/Live/cine_projector/cine_projector.xml
+- Assets/Live/cine_projector/flash/cine_projector_icon_a.png
+- Assets/Live/cine_projector/flash/cine_projector_64_b_0_2.png
+Dependencies: []

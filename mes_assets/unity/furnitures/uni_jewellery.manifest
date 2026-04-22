@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3713201065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f9ce915966298f131f5b7aa37b084d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_jewellery/flash/manifest.xml
+- Assets/Live/uni_jewellery/uni_jewellery.xml
+- Assets/Live/uni_jewellery/flash/index.xml
+- Assets/Live/uni_jewellery/flash/uni_jewellery_icon_a.png
+- Assets/Live/uni_jewellery/flash/uni_jewellery_64_a_2_0.png
+- Assets/Live/uni_jewellery/flash/uni_jewellery_logic.xml
+- Assets/Live/uni_jewellery/flash/uni_jewellery_assets.xml
+- Assets/Live/uni_jewellery/flash/uni_jewellery_visualization.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1572792094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00a643dc0529e9ea1bd9b0e6f4e94e16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_sapling/flash/easter_c17_sapling_logic.xml
+- Assets/Live/easter_c17_sapling/flash/easter_c17_sapling_visualization.xml
+- Assets/Live/easter_c17_sapling/flash/index.xml
+- Assets/Live/easter_c17_sapling/easter_c17_sapling.xml
+- Assets/Live/easter_c17_sapling/flash/easter_c17_sapling_icon_a.png
+- Assets/Live/easter_c17_sapling/flash/manifest.xml
+- Assets/Live/easter_c17_sapling/flash/easter_c17_sapling_64_a_0_0.png
+- Assets/Live/easter_c17_sapling/flash/easter_c17_sapling_assets.xml
+Dependencies: []

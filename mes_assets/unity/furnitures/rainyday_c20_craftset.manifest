@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1958149872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63c55d956b440f666f9ba2897be140c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c20_craftset/flash/index.xml
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_icon_a.png
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_visualization.xml
+- Assets/Live/rainyday_c20_craftset/flash/manifest.xml
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_logic.xml
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_0.png
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_2.png
+- Assets/Live/rainyday_c20_craftset/rainyday_c20_craftset.xml
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_4.png
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_3.png
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_5.png
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_assets.xml
+- Assets/Live/rainyday_c20_craftset/flash/rainyday_c20_craftset_64_a_0_1.png
+Dependencies: []

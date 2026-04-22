@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3717993784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbfb423afbc7cbb9a25ebb1ac344ab2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_64_a_2_0.png
+- Assets/Live/olympics_c16_graperack/olympics_c16_graperack.xml
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_icon_a.png
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_visualization.xml
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_assets.xml
+- Assets/Live/olympics_c16_graperack/flash/manifest.xml
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_logic.xml
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_64_a_2_1.png
+- Assets/Live/olympics_c16_graperack/flash/olympics_c16_graperack_64_sd_2_0.png
+- Assets/Live/olympics_c16_graperack/flash/index.xml
+Dependencies: []

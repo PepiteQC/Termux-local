@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 45309161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 924da50438f5f08ac6e6d52f1e9dad23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_d_4_1.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_b_4_0.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_c_4_0.png
+- Assets/Live/attic15_bigshelf/attic15_bigshelf.xml
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_c_4_1.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_b_4_1.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_sd_4_0.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_assets.xml
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_visualization.xml
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_a_4_0.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_icon_a.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_a_4_1.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_f_4_1.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_e_4_1.png
+- Assets/Live/attic15_bigshelf/flash/index.xml
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_f_4_0.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_d_4_0.png
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_logic.xml
+- Assets/Live/attic15_bigshelf/flash/attic15_bigshelf_64_e_4_0.png
+- Assets/Live/attic15_bigshelf/flash/manifest.xml
+Dependencies: []

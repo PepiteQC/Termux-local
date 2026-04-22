@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2947527193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37db953408f34aaf579bb9646d8eb779
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_exe_chair/flash/manifest.xml
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_sd_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_logic.xml
+- Assets/Live/hc_exe_chair/flash/exe_chair_icon_a.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_a_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_b_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_b_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_b_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_c_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_c_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_icon_a.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_sd_2_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_sd_2_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_c_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_a_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_b_2_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_b_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_a_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_visualization.xml
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_b_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_c_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_a_6_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_a_2_0.png
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_assets.xml
+- Assets/Live/hc_exe_chair/hc_exe_chair.xml
+- Assets/Live/hc_exe_chair/flash/hc_exe_chair_64_a_2_0.png
+- Assets/Live/hc_exe_chair/flash/exe_chair_32_c_6_0.png
+- Assets/Live/hc_exe_chair/flash/index.xml
+- Assets/Live/hc_exe_chair/flash/exe_chair_64_c_2_0.png
+Dependencies: []

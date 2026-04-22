@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 159497765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa2f541bc6e572bfd7e4c4bd914f68be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_icon_a.png
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_64_a_2_1.png
+- Assets/Live/pixel_painting_green/flash/index.xml
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_logic.xml
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_assets.xml
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_visualization.xml
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_64_a_2_2.png
+- Assets/Live/pixel_painting_green/flash/pixel_painting_green_64_a_2_0.png
+- Assets/Live/pixel_painting_green/flash/manifest.xml
+- Assets/Live/pixel_painting_green/pixel_painting_green.xml
+Dependencies: []

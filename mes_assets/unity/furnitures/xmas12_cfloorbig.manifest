@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4146382411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5f5e4a5c2112eb51e22edc1969f5d10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas12_cfloorbig/xmas12_cfloorbig.xml
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_logic.xml
+- Assets/Live/xmas12_cfloorbig/flash/manifest.xml
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_64_a_0_1.png
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_64_a_0_2.png
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_visualization.xml
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_assets.xml
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_icon_a.png
+- Assets/Live/xmas12_cfloorbig/flash/xmas12_cfloorbig_64_a_0_0.png
+- Assets/Live/xmas12_cfloorbig/flash/index.xml
+Dependencies: []

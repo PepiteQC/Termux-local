@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3695660388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 734d8852623eb452bfe89143c0c3ab22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_icon_a.png
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_64_sd_2_0.png
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_logic.xml
+- Assets/Live/clothing_sportsjckt/flash/manifest.xml
+- Assets/Live/clothing_sportsjckt/flash/index.xml
+- Assets/Live/clothing_sportsjckt/clothing_sportsjckt.xml
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_64_a_2_0.png
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_visualization.xml
+- Assets/Live/clothing_sportsjckt/flash/clothing_sportsjckt_assets.xml
+Dependencies: []

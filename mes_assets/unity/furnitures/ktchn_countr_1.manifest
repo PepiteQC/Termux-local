@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3495070113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10b26bac7492f0d983e334b7143ed643
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_countr_1/flash/index.xml
+- Assets/Live/ktchn_countr_1/flash/ktchn_countr_1_64_a_0_0.png
+- Assets/Live/ktchn_countr_1/flash/manifest.xml
+- Assets/Live/ktchn_countr_1/flash/ktchn_countr_1_logic.xml
+- Assets/Live/ktchn_countr_1/flash/ktchn_countr_1_assets.xml
+- Assets/Live/ktchn_countr_1/flash/ktchn_countr_1_icon_a.png
+- Assets/Live/ktchn_countr_1/ktchn_countr_1.xml
+- Assets/Live/ktchn_countr_1/flash/ktchn_countr_1_visualization.xml
+Dependencies: []

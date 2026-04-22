@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1595561692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36dd25131277af81cf00db41e6cff699
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dia_uplink/flash/dia_uplink_64_c_0_2.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_1.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_2.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_7.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_2.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_3.png
+- Assets/Live/dia_uplink/flash/dia_uplink_visualization.xml
+- Assets/Live/dia_uplink/flash/dia_uplink_icon_a.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_6.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_3.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_4.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_3.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_2.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_5.png
+- Assets/Live/dia_uplink/flash/dia_uplink_logic.xml
+- Assets/Live/dia_uplink/flash/dia_uplink_64_c_0_0.png
+- Assets/Live/dia_uplink/flash/index.xml
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_0.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_e_0_0.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_4.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_4.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_f_0_1.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_0.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_f_0_0.png
+- Assets/Live/dia_uplink/flash/manifest.xml
+- Assets/Live/dia_uplink/flash/dia_uplink_64_f_0_2.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_0.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_c_0_1.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_d_0_5.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_5.png
+- Assets/Live/dia_uplink/dia_uplink.xml
+- Assets/Live/dia_uplink/flash/dia_uplink_64_b_0_1.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_a_0_0.png
+- Assets/Live/dia_uplink/flash/dia_uplink_64_g_0_1.png
+- Assets/Live/dia_uplink/flash/dia_uplink_assets.xml
+Dependencies: []

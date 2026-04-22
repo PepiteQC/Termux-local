@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2666102645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52514b07814571f89236894a2e903b08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/toy1/flash/manifest.xml
+- Assets/Live/toy1/flash/toy1_64_d_2_5.png
+- Assets/Live/toy1/flash/toy1_logic.xml
+- Assets/Live/toy1/flash/toy1_64_b_2_4.png
+- Assets/Live/toy1/flash/toy1_64_a_2_0.png
+- Assets/Live/toy1/flash/toy1_icon_b.png
+- Assets/Live/toy1/flash/toy1_visualization.xml
+- Assets/Live/toy1/flash/toy1_64_c_2_0.png
+- Assets/Live/toy1/flash/toy1_64_c_2_4.png
+- Assets/Live/toy1/flash/toy1_64_a_2_4.png
+- Assets/Live/toy1/flash/toy1_64_a_2_3.png
+- Assets/Live/toy1/flash/toy1_icon_a.png
+- Assets/Live/toy1/flash/toy1_64_a_2_5.png
+- Assets/Live/toy1/flash/toy1_64_c_2_5.png
+- Assets/Live/toy1/flash/toy1_64_b_2_0.png
+- Assets/Live/toy1/flash/toy1_64_b_2_5.png
+- Assets/Live/toy1/flash/index.xml
+- Assets/Live/toy1/flash/toy1_64_d_2_0.png
+- Assets/Live/toy1/flash/toy1_64_c_2_2.png
+- Assets/Live/toy1/flash/toy1_64_d_2_1.png
+- Assets/Live/toy1/flash/toy1_64_d_2_3.png
+- Assets/Live/toy1/flash/toy1_64_b_2_1.png
+- Assets/Live/toy1/flash/toy1_64_d_2_2.png
+- Assets/Live/toy1/toy1.xml
+- Assets/Live/toy1/flash/toy1_64_c_2_1.png
+- Assets/Live/toy1/flash/toy1_64_b_2_3.png
+- Assets/Live/toy1/flash/toy1_64_a_2_2.png
+- Assets/Live/toy1/flash/toy1_64_c_2_3.png
+- Assets/Live/toy1/flash/toy1_64_a_2_1.png
+- Assets/Live/toy1/flash/toy1_64_b_2_2.png
+- Assets/Live/toy1/flash/toy1_assets.xml
+- Assets/Live/toy1/flash/toy1_64_d_2_4.png
+Dependencies: []

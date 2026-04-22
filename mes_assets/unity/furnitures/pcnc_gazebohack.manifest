@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3163000153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd503f6ada18d473b48e546f0136c454
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pcnc_gazebohack/flash/pcnc_gazebohack_logic.xml
+- Assets/Live/pcnc_gazebohack/flash/pcnc_gazebohack_icon_a.png
+- Assets/Live/pcnc_gazebohack/flash/pcnc_gazebohack_visualization.xml
+- Assets/Live/pcnc_gazebohack/flash/index.xml
+- Assets/Live/pcnc_gazebohack/flash/pcnc_gazebohack_assets.xml
+- Assets/Live/pcnc_gazebohack/flash/manifest.xml
+- Assets/Live/pcnc_gazebohack/flash/pcnc_gazebohack_64_a_0_0.png
+- Assets/Live/pcnc_gazebohack/pcnc_gazebohack.xml
+Dependencies: []

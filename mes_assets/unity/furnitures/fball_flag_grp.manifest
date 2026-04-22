@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2836573222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c4d58ed6e0209a962b509d75ff77e53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_c_0_1.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_b_0_0.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_assets.xml
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_icon_b.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_b_0_1.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_c_0_2.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_icon_a.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_c_0_3.png
+- Assets/Live/fball_flag_grp/fball_flag_grp.xml
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_b_0_2.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_b_0_3.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_visualization.xml
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_b_0_4.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_c_0_4.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_c_0_0.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_icon_c.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_a_2_0.png
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_logic.xml
+- Assets/Live/fball_flag_grp/flash/index.xml
+- Assets/Live/fball_flag_grp/flash/manifest.xml
+- Assets/Live/fball_flag_grp/flash/fball_flag_grp_64_a_0_0.png
+Dependencies: []

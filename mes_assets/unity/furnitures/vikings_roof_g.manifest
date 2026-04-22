@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2228588584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00792785e43ce844a826b098762b0208
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_64_a_4_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_64_a_6_0.png
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_32_a_6_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_64_a_0_0.png
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_64_a_6_0.png
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_32_a_2_0.png
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_icon_a.png
+- Assets/Live/vikings_roof_g/flash/index.xml
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_32_a_0_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_assets.xml
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_64_a_0_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_64_a_4_0.png
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_64_a_2_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_icon_a.png
+- Assets/Live/vikings_roof_g/flash/manifest.xml
+- Assets/Live/vikings_roof_g/vikings_roof_g.xml
+- Assets/Live/vikings_roof_g/flash/viking_roof_g_32_a_4_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_64_a_2_0.png
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_visualization.xml
+- Assets/Live/vikings_roof_g/flash/vikings_roof_g_logic.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3085794032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84e96195eea1c301784024330bd5092b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_logic.xml
+- Assets/Live/xmas12_barrel/flash/index.xml
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_assets.xml
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_icon_a.png
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_64_a_2_0.png
+- Assets/Live/xmas12_barrel/xmas12_barrel.xml
+- Assets/Live/xmas12_barrel/flash/manifest.xml
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_visualization.xml
+- Assets/Live/xmas12_barrel/flash/xmas12_barrel_64_a_2_1.png
+Dependencies: []

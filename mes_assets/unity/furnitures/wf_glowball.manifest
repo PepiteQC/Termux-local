@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2724450374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fb5fbca4156cc94867fd196e63c78e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_glowball/flash/wf_glowball_icon_a.png
+- Assets/Live/wf_glowball/flash/wf_glowball_32_sd.png
+- Assets/Live/wf_glowball/flash/index.xml
+- Assets/Live/wf_glowball/wf_glowball.xml
+- Assets/Live/wf_glowball/flash/wf_glowball_64_a_0_0.png
+- Assets/Live/wf_glowball/flash/wf_glowball_assets.xml
+- Assets/Live/wf_glowball/flash/wf_glowball_visualization.xml
+- Assets/Live/wf_glowball/flash/wf_glowball_64_sd.png
+- Assets/Live/wf_glowball/flash/wf_glowball_64_a_0_3.png
+- Assets/Live/wf_glowball/flash/manifest.xml
+- Assets/Live/wf_glowball/flash/wf_glowball_logic.xml
+- Assets/Live/wf_glowball/flash/wf_glowball_64_a_0_2.png
+- Assets/Live/wf_glowball/flash/wf_glowball_64_a_0_1.png
+- Assets/Live/wf_glowball/flash/wf_glowball_64_sd_0_0.png
+Dependencies: []

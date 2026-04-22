@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1754477423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75dbd24c80382d44ac52c387352c9e11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_13.png
+- Assets/Live/obstacle_water2/flash/index.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_2.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_11.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_3.png
+- Assets/Live/obstacle_water2/obstacle_water2.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_e_4_4.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_assets.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_icon_a.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_10.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_5.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_8.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_b_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_12.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_a_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_1.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_f_4_4.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_4.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_9.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_visualization.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_c_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_7.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_e_4_1.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_logic.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_d_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_f_4_3.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_f_4_2.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_14.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_g_4_6.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_e_4_0.png
+- Assets/Live/obstacle_water2/flash/manifest.xml
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_f_4_1.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_e_4_3.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_f_4_0.png
+- Assets/Live/obstacle_water2/flash/obstacle_water2_64_e_4_2.png
+Dependencies: []

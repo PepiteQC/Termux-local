@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1134574531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88e8ab20accff52c7681a3cf80369c27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_rug/flash/index.xml
+- Assets/Live/xmas13_rug/flash/xmas13_rug_visualization.xml
+- Assets/Live/xmas13_rug/flash/xmas13_rug_logic.xml
+- Assets/Live/xmas13_rug/flash/xmas13_rug_64_a_4_0.png
+- Assets/Live/xmas13_rug/flash/manifest.xml
+- Assets/Live/xmas13_rug/xmas13_rug.xml
+- Assets/Live/xmas13_rug/flash/L.png
+- Assets/Live/xmas13_rug/flash/xmas13_rug_icon_a.png
+- Assets/Live/xmas13_rug/flash/xmas13_rug_assets.xml
+Dependencies: []

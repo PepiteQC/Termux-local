@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2660204883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6218ffd614845c08f9255a8554c17429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wlof15_chair/flash/index.xml
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_b_4_0.png
+- Assets/Live/room_wlof15_chair/room_wlof15_chair.xml
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_sd_0_0.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_logic.xml
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_b_0_0.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_icon_a.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_assets.xml
+- Assets/Live/room_wlof15_chair/flash/manifest.xml
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_sd_4_0.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_a_4_0.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_64_a_0_0.png
+- Assets/Live/room_wlof15_chair/flash/room_wlof15_chair_visualization.xml
+Dependencies: []

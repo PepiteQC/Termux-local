@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2303653285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19a840488465191cd4f3cfe5f8dc0401
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic8_sign/flash/classic8_sign_64_b_0_0.png
+- Assets/Live/classic8_sign/flash/index.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_64_b_0_3.png
+- Assets/Live/classic8_sign/classic8_sign.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_64_b_0_2.png
+- Assets/Live/classic8_sign/flash/manifest.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_64_b_0_1.png
+- Assets/Live/classic8_sign/flash/classic8_sign_assets.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_visualization.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_64_a_0_0.png
+- Assets/Live/classic8_sign/flash/classic8_sign_logic.xml
+- Assets/Live/classic8_sign/flash/classic8_sign_icon_a.png
+- Assets/Live/classic8_sign/flash/classic8_sign_64_sd_0_0.png
+Dependencies: []

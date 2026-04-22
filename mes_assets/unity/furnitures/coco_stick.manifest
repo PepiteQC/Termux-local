@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1151042249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4e03a8f6801a28d28a638d31b84eea2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coco_stick/flash/index.xml
+- Assets/Live/coco_stick/flash/coco_stick_icon_a.png
+- Assets/Live/coco_stick/flash/coco_stick_64_a_0_0.png
+- Assets/Live/coco_stick/flash/coco_stick_assets.xml
+- Assets/Live/coco_stick/flash/coco_stick_logic.xml
+- Assets/Live/coco_stick/flash/manifest.xml
+- Assets/Live/coco_stick/coco_stick.xml
+- Assets/Live/coco_stick/flash/coco_stick_visualization.xml
+Dependencies: []

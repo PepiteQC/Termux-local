@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1656160332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 938c388b6ee8e75f864c0091642addd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ny2015_archway/flash/ny2015_archway_logic.xml
+- Assets/Live/ny2015_archway/ny2015_archway.xml
+- Assets/Live/ny2015_archway/flash/ny2015_archway_assets.xml
+- Assets/Live/ny2015_archway/flash/ny2015_archway_64_sd_4_0.png
+- Assets/Live/ny2015_archway/flash/index.xml
+- Assets/Live/ny2015_archway/flash/ny2015_archway_icon_a.png
+- Assets/Live/ny2015_archway/flash/ny2015_archway_64_a_2_0.png
+- Assets/Live/ny2015_archway/flash/ny2015_archway_64_b_4_0.png
+- Assets/Live/ny2015_archway/flash/ny2015_archway_64_b_2_0.png
+- Assets/Live/ny2015_archway/flash/ny2015_archway_visualization.xml
+- Assets/Live/ny2015_archway/flash/ny2015_archway_64_a_4_0.png
+- Assets/Live/ny2015_archway/flash/manifest.xml
+Dependencies: []

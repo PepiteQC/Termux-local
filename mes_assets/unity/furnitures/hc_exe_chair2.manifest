@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2983209407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 452cde285475a7debf8330ec17d6a118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_visualization.xml
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_icon_a.png
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_b_2_0.png
+- Assets/Live/hc_exe_chair2/flash/manifest.xml
+- Assets/Live/hc_exe_chair2/hc_exe_chair2.xml
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_a_2_0.png
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_assets.xml
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_a_6_0.png
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_sd_2_0.png
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_sd_6_0.png
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_64_b_6_0.png
+- Assets/Live/hc_exe_chair2/flash/index.xml
+- Assets/Live/hc_exe_chair2/flash/hc_exe_chair2_logic.xml
+Dependencies: []

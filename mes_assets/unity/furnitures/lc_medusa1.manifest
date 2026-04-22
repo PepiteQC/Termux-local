@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3227636113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3636192545e006e1c1f85d25818d42bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_6_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_6_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_0_0.png
+- Assets/Live/lc_medusa1/flash/index.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_2_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_0_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_0_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_2_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_4_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_assets.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_4_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_4_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_2_0.png
+- Assets/Live/lc_medusa1/lc_medusa1.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_4_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_b_0_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_a_0_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_logic.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_6_1.png
+- Assets/Live/lc_medusa1/flash/manifest.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_c_0_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_visualization.xml
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_0_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_d_2_1.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_c_0_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_64_e_6_0.png
+- Assets/Live/lc_medusa1/flash/lc_medusa1_icon_a.png
+Dependencies: []

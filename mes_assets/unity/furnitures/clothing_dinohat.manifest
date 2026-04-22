@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1066361551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1bba6eaf6107d126a664bb491d097198
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_assets.xml
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_1.png
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_0.png
+- Assets/Live/clothing_dinohat/clothing_dinohat.xml
+- Assets/Live/clothing_dinohat/flash/index.xml
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_5.png
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_2.png
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_3.png
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_icon_a.png
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_visualization.xml
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_64_a_0_4.png
+- Assets/Live/clothing_dinohat/flash/manifest.xml
+- Assets/Live/clothing_dinohat/flash/clothing_dinohat_logic.xml
+Dependencies: []

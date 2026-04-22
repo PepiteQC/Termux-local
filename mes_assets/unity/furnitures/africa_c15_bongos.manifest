@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4150521936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c862c537b42468853d65289bc2906909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_sd_6_0.png
+- Assets/Live/africa_c15_bongos/flash/index.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_0_1.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_0_0.png
+- Assets/Live/africa_c15_bongos/africa_c15_bongos.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_visualization.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_2_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_sd_4_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_6_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_sd_2_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_logic.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_2_1.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_4_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_assets.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_4_1.png
+- Assets/Live/africa_c15_bongos/flash/manifest.xml
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_icon_a.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_sd_0_0.png
+- Assets/Live/africa_c15_bongos/flash/africa_c15_bongos_64_a_6_1.png
+Dependencies: []

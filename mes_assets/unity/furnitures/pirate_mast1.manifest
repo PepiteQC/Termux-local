@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2903067551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11873f22d92eb66544f6e57520e78a32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_mast1/pirate_mast1.xml
+- Assets/Live/pirate_mast1/flash/pirate_mast1_logic.xml
+- Assets/Live/pirate_mast1/flash/pirate_mast1_64_a_0_1.png
+- Assets/Live/pirate_mast1/flash/manifest.xml
+- Assets/Live/pirate_mast1/flash/pirate_mast1_assets.xml
+- Assets/Live/pirate_mast1/flash/index.xml
+- Assets/Live/pirate_mast1/flash/pirate_mast1_visualization.xml
+- Assets/Live/pirate_mast1/flash/pirate_mast1_icon_a.png
+- Assets/Live/pirate_mast1/flash/pirate_mast1_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2765956792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9428bbc108c142a0727b67d847b69b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_64_a_0_0.png
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_assets.xml
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_icon_a.png
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_logic.xml
+- Assets/Live/easter_c19_flowertea/flash/index.xml
+- Assets/Live/easter_c19_flowertea/easter_c19_flowertea.xml
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_visualization.xml
+- Assets/Live/easter_c19_flowertea/flash/manifest.xml
+- Assets/Live/easter_c19_flowertea/flash/easter_c19_flowertea_64_a_0_1.png
+Dependencies: []

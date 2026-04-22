@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2389110459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a657cf6d9191a6b7f1ebf7166538c9f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_1.png
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_5.png
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_visualization.xml
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_2.png
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_logic.xml
+- Assets/Live/clothing_kevlar/clothing_kevlar.xml
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_0.png
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_4.png
+- Assets/Live/clothing_kevlar/flash/manifest.xml
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_icon_a.png
+- Assets/Live/clothing_kevlar/flash/index.xml
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_64_a_2_3.png
+- Assets/Live/clothing_kevlar/flash/clothing_kevlar_assets.xml
+Dependencies: []

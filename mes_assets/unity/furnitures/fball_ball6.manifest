@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 397449875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57a685467a1741072b49bbaf6fd2a251
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_2_3.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_sd_0_0.png
+- Assets/Live/fball_ball6/flash/index.xml
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_1_1.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_2_1.png
+- Assets/Live/fball_ball6/flash/fball_ball6_visualization.xml
+- Assets/Live/fball_ball6/flash/fball_ball6_logic.xml
+- Assets/Live/fball_ball6/flash/fball_ball6_icon_a.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_3_1.png
+- Assets/Live/fball_ball6/flash/fball_ball6_assets.xml
+- Assets/Live/fball_ball6/flash/manifest.xml
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_1_3.png
+- Assets/Live/fball_ball6/fball_ball6.xml
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_2_2.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_1_2.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_3_2.png
+- Assets/Live/fball_ball6/flash/fball_ball6_64_a_3_3.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 299428278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38e8583d7385c69c2437d6e9d2771e43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_assets.xml
+- Assets/Live/boutique_floor1a/flash/index.xml
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_64_a_0_0.png
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_64_a_0_2.png
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_visualization.xml
+- Assets/Live/boutique_floor1a/flash/manifest.xml
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_64_b_0_0.png
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_logic.xml
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_icon_a.png
+- Assets/Live/boutique_floor1a/boutique_floor1a.xml
+- Assets/Live/boutique_floor1a/flash/boutique_floor1a_64_a_0_1.png
+Dependencies: []

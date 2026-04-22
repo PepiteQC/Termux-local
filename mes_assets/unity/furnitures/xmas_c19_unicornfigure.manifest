@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4109152494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be1308ab646a4bf517a0c5eb07609214
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_visualization.xml
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_64_sd_0_0.png
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_icon_a.png
+- Assets/Live/xmas_c19_unicornfigure/flash/index.xml
+- Assets/Live/xmas_c19_unicornfigure/flash/manifest.xml
+- Assets/Live/xmas_c19_unicornfigure/xmas_c19_unicornfigure.xml
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_logic.xml
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_assets.xml
+- Assets/Live/xmas_c19_unicornfigure/flash/xmas_c19_unicornfigure_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2556041083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d4410b504633abba6bb18e91a80a3fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_c_0_1.png
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_a_0_0.png
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_visualization.xml
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_b_0_0.png
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_a_0_1.png
+- Assets/Live/pcnc_wtable/flash/index.xml
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_sd_0_0.png
+- Assets/Live/pcnc_wtable/pcnc_wtable.xml
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_icon_a.png
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_logic.xml
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_c_0_0.png
+- Assets/Live/pcnc_wtable/flash/manifest.xml
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_64_b_0_1.png
+- Assets/Live/pcnc_wtable/flash/pcnc_wtable_assets.xml
+Dependencies: []

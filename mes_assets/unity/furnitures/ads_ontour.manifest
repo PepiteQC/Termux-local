@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1762158248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 583e4fe89b239288a8b17f1b934b6296
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_ontour/ads_ontour.xml
+- Assets/Live/ads_ontour/flash/ads_ontour_visualization.xml
+- Assets/Live/ads_ontour/flash/ads_ontour_icon_a.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_b_0_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_a_2_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_a_0_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_c_0_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_sd_0_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_b_2_0.png
+- Assets/Live/ads_ontour/flash/index.xml
+- Assets/Live/ads_ontour/flash/ads_ontour_logic.xml
+- Assets/Live/ads_ontour/flash/ads_ontour_64_a_2_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_c_2_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_b_2_1.png
+- Assets/Live/ads_ontour/flash/ads_ontour_assets.xml
+- Assets/Live/ads_ontour/flash/manifest.xml
+- Assets/Live/ads_ontour/flash/ads_ontour_64_c_0_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_c_2_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_b_0_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_a_0_0.png
+- Assets/Live/ads_ontour/flash/ads_ontour_64_sd_2_1.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 884220121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cbed57cd2d062f906b02e324290a790
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_visualization.xml
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_logic.xml
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_icon_a.png
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_64_a_0_0.png
+- Assets/Live/room_cof15_table3/flash/manifest.xml
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_assets.xml
+- Assets/Live/room_cof15_table3/flash/room_cof15_table3_64_sd_0_0.png
+- Assets/Live/room_cof15_table3/room_cof15_table3.xml
+- Assets/Live/room_cof15_table3/flash/index.xml
+Dependencies: []

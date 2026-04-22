@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3516612749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e314b4c1342ca616673ccb6b7a7fe9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_candyapple/flash/manifest.xml
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_visualization.xml
+- Assets/Live/hween_c20_candyapple/flash/index.xml
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_64_a_0_0.png
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_64_sd_0_0.png
+- Assets/Live/hween_c20_candyapple/hween_c20_candyapple.xml
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_assets.xml
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_icon_a.png
+- Assets/Live/hween_c20_candyapple/flash/hween_c20_candyapple_logic.xml
+Dependencies: []

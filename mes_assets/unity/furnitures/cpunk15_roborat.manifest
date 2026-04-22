@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2672681548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db61ee18224da093004a59b14227b037
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_2.png
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_3.png
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_logic.xml
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_5.png
+- Assets/Live/cpunk15_roborat/flash/index.xml
+- Assets/Live/cpunk15_roborat/flash/manifest.xml
+- Assets/Live/cpunk15_roborat/cpunk15_roborat.xml
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_visualization.xml
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_0.png
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_4.png
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_assets.xml
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_64_a_4_1.png
+- Assets/Live/cpunk15_roborat/flash/cpunk15_roborat_icon_a.png
+Dependencies: []

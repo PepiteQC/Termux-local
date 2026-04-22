@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1412189119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 719b1d246545652e3994f61d1b167e97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_assets.xml
+- Assets/Live/rare_blackrosegold_barrier/rare_blackrosegold_barrier.xml
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_64_b_0_0.png
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_icon_a.png
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_64_a_0_0.png
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_visualization.xml
+- Assets/Live/rare_blackrosegold_barrier/flash/manifest.xml
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_logic.xml
+- Assets/Live/rare_blackrosegold_barrier/flash/index.xml
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_64_sd_0_0.png
+- Assets/Live/rare_blackrosegold_barrier/flash/rare_blackrosegold_barrier_64_c_0_0.png
+Dependencies: []

@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 279091435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01367f593f7f891c88ac7ab78de7d376
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_a_2_2.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_2.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_8.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_9.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_4.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_logic.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_10.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_7.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_6.png
+- Assets/Live/horse_poop_luxus/horse_poop_luxus.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_8.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_3.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_9.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_assets.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_0.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_11.png
+- Assets/Live/horse_poop_luxus/flash/index.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_6.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_visualization.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_7.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_a_2_1.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_icon_a.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_5.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_12.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_1.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_1.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_2.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_5.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_a_2_0.png
+- Assets/Live/horse_poop_luxus/flash/manifest.xml
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_0.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_10.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_c_2_4.png
+- Assets/Live/horse_poop_luxus/flash/horse_poop_luxus_64_b_2_3.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4255592863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 704802aaf74e33740bcb9f52e806bd72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_plantblue/flash/manifest.xml
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_64_sd_0_0.png
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_64_a_0_0.png
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_assets.xml
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_logic.xml
+- Assets/Live/pixel_plantblue/pixel_plantblue.xml
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_visualization.xml
+- Assets/Live/pixel_plantblue/flash/index.xml
+- Assets/Live/pixel_plantblue/flash/pixel_plantblue_icon_a.png
+Dependencies: []

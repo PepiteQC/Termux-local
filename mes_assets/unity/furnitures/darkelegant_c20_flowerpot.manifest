@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3115422720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f2b3af0b27869bd06e19a4eefac2ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_64_a_0_0.png
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_64_sd_0_0.png
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_logic.xml
+- Assets/Live/darkelegant_c20_flowerpot/darkelegant_c20_flowerpot.xml
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_icon_a.png
+- Assets/Live/darkelegant_c20_flowerpot/flash/index.xml
+- Assets/Live/darkelegant_c20_flowerpot/flash/manifest.xml
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_visualization.xml
+- Assets/Live/darkelegant_c20_flowerpot/flash/darkelegant_c20_flowerpot_assets.xml
+Dependencies: []

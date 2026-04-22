@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 873958823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cd46e3bf2a9767d715f8f9a9a774352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_teddygown/flash/clothing_r19_teddygown_64_a_0_0.png
+- Assets/Live/clothing_r19_teddygown/flash/manifest.xml
+- Assets/Live/clothing_r19_teddygown/clothing_r19_teddygown.xml
+- Assets/Live/clothing_r19_teddygown/flash/clothing_r19_teddygown_assets.xml
+- Assets/Live/clothing_r19_teddygown/flash/clothing_r19_teddygown_icon_a.png
+- Assets/Live/clothing_r19_teddygown/flash/clothing_r19_teddygown_visualization.xml
+- Assets/Live/clothing_r19_teddygown/flash/index.xml
+- Assets/Live/clothing_r19_teddygown/flash/clothing_r19_teddygown_logic.xml
+Dependencies: []

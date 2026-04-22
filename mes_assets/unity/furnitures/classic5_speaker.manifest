@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3781307909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70b1b99dded65aede9e762b0891fe409
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic5_speaker/flash/classic5_speaker_logic.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_icon_a.png
+- Assets/Live/classic5_speaker/flash/index.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_64_a_4_0.png
+- Assets/Live/classic5_speaker/classic5_speaker.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_64_a_4_1.png
+- Assets/Live/classic5_speaker/flash/manifest.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_64_a_4_3.png
+- Assets/Live/classic5_speaker/flash/classic5_speaker_64_sd_4_0.png
+- Assets/Live/classic5_speaker/flash/classic5_speaker_visualization.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_assets.xml
+- Assets/Live/classic5_speaker/flash/classic5_speaker_64_a_4_2.png
+Dependencies: []

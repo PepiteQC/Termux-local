@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1815898313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e85394b84ead62fb85fe3f169094178
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris_c15_crn/flash/paris_c15_crn_64_a_2_0.png
+- Assets/Live/paris_c15_crn/flash/manifest.xml
+- Assets/Live/paris_c15_crn/flash/index.xml
+- Assets/Live/paris_c15_crn/flash/paris_c15_crn_visualization.xml
+- Assets/Live/paris_c15_crn/flash/paris_c15_crn_icon_a.png
+- Assets/Live/paris_c15_crn/paris_c15_crn.xml
+- Assets/Live/paris_c15_crn/flash/paris_c15_crn_assets.xml
+- Assets/Live/paris_c15_crn/flash/paris_c15_crn_logic.xml
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 327056157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f54d765b2130b84eaf35940b997795e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_d_0_0.png
+- Assets/Live/bed_polyfon/flash/index.xml
+- Assets/Live/bed_polyfon/flash/bed_polyfon_icon_b.png
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_a_0_0.png
+- Assets/Live/bed_polyfon/flash/bed_polyfon_assets.xml
+- Assets/Live/bed_polyfon/flash/bed_polyfon_visualization.xml
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_b_0_0.png
+- Assets/Live/bed_polyfon/flash/bed_polyfon_logic.xml
+- Assets/Live/bed_polyfon/flash/bed_polyfon_icon_a.png
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_sd_0_0.png
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_c_0_0.png
+- Assets/Live/bed_polyfon/bed_polyfon.xml
+- Assets/Live/bed_polyfon/flash/bed_polyfon_64_sd_2_0.png
+- Assets/Live/bed_polyfon/flash/manifest.xml
+Dependencies: []

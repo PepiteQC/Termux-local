@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3761314474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f255901708009c15de4131444dc1679c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_4_0.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_2_0.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_5_0.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_logic.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_1_0.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_assets.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_7_0.png
+- Assets/Live/habbo15_win_36/flash/manifest.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_6_0.png
+- Assets/Live/habbo15_win_36/flash/index.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_visualization.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_3_0.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_sd_0_0.png
+- Assets/Live/habbo15_win_36/habbo15_win_36.xml
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_icon_a.png
+- Assets/Live/habbo15_win_36/flash/habbo15_win_36_64_a_0_0.png
+Dependencies: []

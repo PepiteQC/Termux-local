@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1208130234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a0ac42d478104f4965c1a02428d9e7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sf_wall3/flash/sf_wall3_64_b_2_0.png
+- Assets/Live/sf_wall3/flash/sf_wall3_64_c_2_1.png
+- Assets/Live/sf_wall3/flash/sf_wall3_visualization.xml
+- Assets/Live/sf_wall3/flash/sf_wall3_64_a_2_0.png
+- Assets/Live/sf_wall3/sf_wall3.xml
+- Assets/Live/sf_wall3/flash/index.xml
+- Assets/Live/sf_wall3/flash/sf_wall3_64_c_2_0.png
+- Assets/Live/sf_wall3/flash/sf_wall3_assets.xml
+- Assets/Live/sf_wall3/flash/sf_wall3_icon_a.png
+- Assets/Live/sf_wall3/flash/sf_wall3_logic.xml
+- Assets/Live/sf_wall3/flash/sf_wall3_64_b_2_1.png
+- Assets/Live/sf_wall3/flash/manifest.xml
+Dependencies: []

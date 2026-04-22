@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2248461825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77b543ff6d2269dd50e0f1e78f1161f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_2_1.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_3_3.png
+- Assets/Live/wildwest_weed/flash/manifest.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_0_0.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_sd_0_0.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_0_2.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_7_3.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_2_0.png
+- Assets/Live/wildwest_weed/flash/index.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_0_3.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_3_2.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_7_0.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_1_2.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_1_1.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_1_0.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_7_1.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_3_1.png
+- Assets/Live/wildwest_weed/wildwest_weed.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_0_1.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_1_3.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_2_2.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_logic.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_assets.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_icon_a.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_visualization.xml
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_7_2.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_2_3.png
+- Assets/Live/wildwest_weed/flash/wildwest_weed_64_a_3_0.png
+Dependencies: []

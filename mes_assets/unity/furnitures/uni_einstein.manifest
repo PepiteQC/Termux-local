@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2134417336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91711dc501107996a6293bc9d81f164c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_einstein/flash/uni_einstein_visualization.xml
+- Assets/Live/uni_einstein/flash/uni_einstein_logic.xml
+- Assets/Live/uni_einstein/flash/uni_einstein_icon_a.png
+- Assets/Live/uni_einstein/flash/uni_einstein_assets.xml
+- Assets/Live/uni_einstein/flash/uni_einstein_64_a_2_0.png
+- Assets/Live/uni_einstein/flash/index.xml
+- Assets/Live/uni_einstein/flash/manifest.xml
+- Assets/Live/uni_einstein/uni_einstein.xml
+Dependencies: []

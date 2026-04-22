@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3257418597
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38b10f59f9d1933fe07227070c4c2a1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_icon_a.png
+- Assets/Live/hween_c18_labsteelfloor/flash/index.xml
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_logic.xml
+- Assets/Live/hween_c18_labsteelfloor/hween_c18_labsteelfloor.xml
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_visualization.xml
+- Assets/Live/hween_c18_labsteelfloor/flash/manifest.xml
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_64_a_0_0.png
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_64_sd_0_0.png
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_assets.xml
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_64_a_0_2.png
+- Assets/Live/hween_c18_labsteelfloor/flash/hween_c18_labsteelfloor_64_a_0_1.png
+Dependencies: []

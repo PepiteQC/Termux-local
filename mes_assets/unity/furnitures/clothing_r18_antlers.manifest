@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3610134532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d75e13ea07bfdf9ba32feab54d67cfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_antlers/flash/index.xml
+- Assets/Live/clothing_r18_antlers/flash/clothing_r18_antlers_assets.xml
+- Assets/Live/clothing_r18_antlers/flash/clothing_r18_antlers_logic.xml
+- Assets/Live/clothing_r18_antlers/clothing_r18_antlers.xml
+- Assets/Live/clothing_r18_antlers/flash/clothing_r18_antlers_icon_a.png
+- Assets/Live/clothing_r18_antlers/flash/clothing_r18_antlers_64_a_0_0.png
+- Assets/Live/clothing_r18_antlers/flash/clothing_r18_antlers_visualization.xml
+- Assets/Live/clothing_r18_antlers/flash/manifest.xml
+Dependencies: []

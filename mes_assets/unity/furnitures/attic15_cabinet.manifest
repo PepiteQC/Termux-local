@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3178406072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 468cc464c33f37eb9f5461d928cc20f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_icon_a.png
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_visualization.xml
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_64_c_4_0.png
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_64_b_4_0.png
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_logic.xml
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_64_sd_4_0.png
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_64_c_4_1.png
+- Assets/Live/attic15_cabinet/flash/index.xml
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_assets.xml
+- Assets/Live/attic15_cabinet/flash/attic15_cabinet_64_a_4_0.png
+- Assets/Live/attic15_cabinet/flash/manifest.xml
+- Assets/Live/attic15_cabinet/attic15_cabinet.xml
+Dependencies: []

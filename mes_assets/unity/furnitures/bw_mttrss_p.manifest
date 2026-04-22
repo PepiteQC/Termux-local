@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2080976000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4087f2aec24ff2475917d6d50d76b60a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_b_0_0.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_icon_a.png
+- Assets/Live/bw_mttrss_p/flash/manifest.xml
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_visualization.xml
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_d_0_0.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_a_0_1.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_assets.xml
+- Assets/Live/bw_mttrss_p/flash/index.xml
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_d_0_1.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_b_0_1.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_c_0_1.png
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_logic.xml
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_c_0_0.png
+- Assets/Live/bw_mttrss_p/bw_mttrss_p.xml
+- Assets/Live/bw_mttrss_p/flash/bw_mttrss_p_64_a_0_0.png
+Dependencies: []

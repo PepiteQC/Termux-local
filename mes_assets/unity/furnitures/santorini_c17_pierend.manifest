@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1462482903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 043fb06bf8e8820317406a50f61ce074
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_a_0_0.png
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_visualization.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_logic.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_icon_a.png
+- Assets/Live/santorini_c17_pierend/flash/manifest.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_b_0_0.png
+- Assets/Live/santorini_c17_pierend/santorini_c17_pierend.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_b_0_1.png
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_c_0_1.png
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_c_0_0.png
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_assets.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_sd_0_0.png
+- Assets/Live/santorini_c17_pierend/flash/index.xml
+- Assets/Live/santorini_c17_pierend/flash/santorini_c17_pierend_64_a_0_1.png
+Dependencies: []

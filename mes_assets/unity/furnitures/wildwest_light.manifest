@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4147567893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 186bf60a0ffaeb381387436475d46e64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_light/flash/wildwest_light_visualization.xml
+- Assets/Live/wildwest_light/wildwest_light.xml
+- Assets/Live/wildwest_light/flash/wildwest_light_64_d_2_0.png
+- Assets/Live/wildwest_light/flash/wildwest_light_64_c_2_1.png
+- Assets/Live/wildwest_light/flash/wildwest_light_64_c_2_0.png
+- Assets/Live/wildwest_light/flash/wildwest_light_64_b_2_0.png
+- Assets/Live/wildwest_light/flash/wildwest_light_logic.xml
+- Assets/Live/wildwest_light/flash/wildwest_light_64_b_2_1.png
+- Assets/Live/wildwest_light/flash/wildwest_light_64_a_2_0.png
+- Assets/Live/wildwest_light/flash/manifest.xml
+- Assets/Live/wildwest_light/flash/wildwest_light_assets.xml
+- Assets/Live/wildwest_light/flash/wildwest_light_64_b_2_2.png
+- Assets/Live/wildwest_light/flash/wildwest_light_64_a_6_0.png
+- Assets/Live/wildwest_light/flash/wildwest_light_icon_a.png
+- Assets/Live/wildwest_light/flash/index.xml
+- Assets/Live/wildwest_light/flash/wildwest_light_64_sd_2_0.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1985798686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 288e284f8bc8f82d691f1cd5a4962e3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_visualization.xml
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_icon_a.png
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_64_a_0_0.png
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_64_a_0_3.png
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_logic.xml
+- Assets/Live/ktchn_c15_food/ktchn_c15_food.xml
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_assets.xml
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_64_a_0_1.png
+- Assets/Live/ktchn_c15_food/flash/index.xml
+- Assets/Live/ktchn_c15_food/flash/ktchn_c15_food_64_a_0_2.png
+- Assets/Live/ktchn_c15_food/flash/manifest.xml
+Dependencies: []

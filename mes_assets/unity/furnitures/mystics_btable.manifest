@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4169818722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f192c57aac0a1a89de1b9c220efcd5cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_6.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_h_0_1.png
+- Assets/Live/mystics_btable/flash/mystics_btable_visualization.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_g_0_1.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_7.png
+- Assets/Live/mystics_btable/flash/index.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_4.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_i_0_3.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_b_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_5.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_a_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_assets.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_h_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_2.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_f_0_1.png
+- Assets/Live/mystics_btable/flash/manifest.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_1.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_i_0_2.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_3.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_d_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_e_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_c_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_h_0_2.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_g_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_8.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_i_0_1.png
+- Assets/Live/mystics_btable/flash/mystics_btable_logic.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_i_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_f_0_0.png
+- Assets/Live/mystics_btable/mystics_btable.xml
+- Assets/Live/mystics_btable/flash/mystics_btable_64_i_0_4.png
+- Assets/Live/mystics_btable/flash/mystics_btable_64_j_0_0.png
+- Assets/Live/mystics_btable/flash/mystics_btable_icon_a.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3000637336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e44b2f87fba6a95dd49f34cd9c263fe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_5.png
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_visualization.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_0.png
+- Assets/Live/matic_tree_silver/flash/manifest.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_icon_a.png
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_3.png
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_assets.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_1.png
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_sd_0_0.png
+- Assets/Live/matic_tree_silver/flash/index.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_logic.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_2.png
+- Assets/Live/matic_tree_silver/matic_tree_silver.xml
+- Assets/Live/matic_tree_silver/flash/matic_tree_silver_64_a_0_4.png
+Dependencies: []

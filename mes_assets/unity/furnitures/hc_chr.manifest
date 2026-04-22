@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1795516741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0988b963b8f596884da0bff2065cce46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_chr/flash/hc_chr_logic.xml
+- Assets/Live/hc_chr/flash/hc_chr_64_sd_0_0.png
+- Assets/Live/hc_chr/flash/hc_chr_64_a_0_0.png
+- Assets/Live/hc_chr/flash/manifest.xml
+- Assets/Live/hc_chr/flash/hc_chr_64_a_2_0.png
+- Assets/Live/hc_chr/flash/hc_chr_64_b_0_0.png
+- Assets/Live/hc_chr/flash/hc_chr_assets.xml
+- Assets/Live/hc_chr/flash/hc_chr_64_b_2_0.png
+- Assets/Live/hc_chr/flash/index.xml
+- Assets/Live/hc_chr/hc_chr.xml
+- Assets/Live/hc_chr/flash/hc_chr_icon_a.png
+- Assets/Live/hc_chr/flash/hc_chr_visualization.xml
+Dependencies: []

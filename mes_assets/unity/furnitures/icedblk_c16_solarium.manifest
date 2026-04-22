@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2281856144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ecc0050fa876c0f8efd102a1eb26b44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_icon_a.png
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_assets.xml
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_64_b_4_0.png
+- Assets/Live/icedblk_c16_solarium/flash/manifest.xml
+- Assets/Live/icedblk_c16_solarium/flash/index.xml
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_64_a_4_0.png
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_visualization.xml
+- Assets/Live/icedblk_c16_solarium/icedblk_c16_solarium.xml
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_64_sd_4_0.png
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_64_c_4_0.png
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_logic.xml
+- Assets/Live/icedblk_c16_solarium/flash/icedblk_c16_solarium_icon_b.png
+Dependencies: []

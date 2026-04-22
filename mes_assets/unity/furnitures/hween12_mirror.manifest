@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 992102500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a556ae82b50b14e782e06a6f312c7d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween12_mirror/hween12_mirror.xml
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_a_2_0.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_3.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_5.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_9.png
+- Assets/Live/hween12_mirror/flash/index.xml
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_4.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_1.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_6.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_2.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_visualization.xml
+- Assets/Live/hween12_mirror/flash/hween12_mirror_icon_a.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_logic.xml
+- Assets/Live/hween12_mirror/flash/manifest.xml
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_8.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_assets.xml
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_7.png
+- Assets/Live/hween12_mirror/flash/hween12_mirror_64_b_2_0.png
+Dependencies: []

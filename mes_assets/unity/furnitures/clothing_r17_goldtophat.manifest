@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3141937392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d2df79a078d3548ac81c3ac472ce07c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_goldtophat/flash/clothing_r17_goldtophat_visualization.xml
+- Assets/Live/clothing_r17_goldtophat/clothing_r17_goldtophat.xml
+- Assets/Live/clothing_r17_goldtophat/flash/clothing_r17_goldtophat_64_a_0_0.png
+- Assets/Live/clothing_r17_goldtophat/flash/index.xml
+- Assets/Live/clothing_r17_goldtophat/flash/clothing_r17_goldtophat_logic.xml
+- Assets/Live/clothing_r17_goldtophat/flash/clothing_r17_goldtophat_icon_a.png
+- Assets/Live/clothing_r17_goldtophat/flash/clothing_r17_goldtophat_assets.xml
+- Assets/Live/clothing_r17_goldtophat/flash/manifest.xml
+Dependencies: []

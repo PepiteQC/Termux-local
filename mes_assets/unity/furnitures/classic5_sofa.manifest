@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 127157064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aafab22df8823e01483672b22323163b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_b_2_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_sd_2_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_b_6_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_sd_6_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_visualization.xml
+- Assets/Live/classic5_sofa/flash/classic5_sofa_assets.xml
+- Assets/Live/classic5_sofa/flash/classic5_sofa_logic.xml
+- Assets/Live/classic5_sofa/flash/manifest.xml
+- Assets/Live/classic5_sofa/flash/index.xml
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_a_2_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_icon_a.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_c_2_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_a_6_0.png
+- Assets/Live/classic5_sofa/flash/classic5_sofa_64_c_6_0.png
+- Assets/Live/classic5_sofa/classic5_sofa.xml
+Dependencies: []

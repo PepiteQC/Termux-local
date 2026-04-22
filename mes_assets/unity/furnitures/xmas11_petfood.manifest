@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3016032809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6e33cbb64619d0ffe275bf457f7ffd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_icon_a.png
+- Assets/Live/xmas11_petfood/xmas11_petfood.xml
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_64_a_2_2.png
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_64_a_2_3.png
+- Assets/Live/xmas11_petfood/flash/manifest.xml
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_64_a_2_4.png
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_64_a_2_1.png
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_assets.xml
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_logic.xml
+- Assets/Live/xmas11_petfood/flash/index.xml
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_64_a_2_0.png
+- Assets/Live/xmas11_petfood/flash/xmas11_petfood_visualization.xml
+Dependencies: []

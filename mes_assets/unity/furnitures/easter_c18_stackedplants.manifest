@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1756897821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e52c36c90e68075d6d6b57b9f19c3a41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_64_sd_2_0.png
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_64_a_2_0.png
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_visualization.xml
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_64_a_2_1.png
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_logic.xml
+- Assets/Live/easter_c18_stackedplants/easter_c18_stackedplants.xml
+- Assets/Live/easter_c18_stackedplants/flash/manifest.xml
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_assets.xml
+- Assets/Live/easter_c18_stackedplants/flash/easter_c18_stackedplants_icon_a.png
+- Assets/Live/easter_c18_stackedplants/flash/index.xml
+Dependencies: []

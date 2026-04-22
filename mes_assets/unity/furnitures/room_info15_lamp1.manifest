@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1641131705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 814a443688aa57ecbab8025c6fc3cecb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_info15_lamp1/room_info15_lamp1.xml
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_1.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_5.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_b_0_0.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_assets.xml
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_a_0_0.png
+- Assets/Live/room_info15_lamp1/flash/index.xml
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_sd_0_0.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_visualization.xml
+- Assets/Live/room_info15_lamp1/flash/manifest.xml
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_0.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_logic.xml
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_3.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_4.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_b_0_1.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_64_c_0_2.png
+- Assets/Live/room_info15_lamp1/flash/room_info15_lamp1_icon_a.png
+Dependencies: []

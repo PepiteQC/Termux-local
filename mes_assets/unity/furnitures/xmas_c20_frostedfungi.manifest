@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2783050821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a70b38f98bae154634f9452735ae7621
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_frostedfungi/flash/manifest.xml
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_b_0_0.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_icon_a.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_a_0_2.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_logic.xml
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_assets.xml
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_b_0_1.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_visualization.xml
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_a_0_0.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_b_0_2.png
+- Assets/Live/xmas_c20_frostedfungi/xmas_c20_frostedfungi.xml
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_a_0_1.png
+- Assets/Live/xmas_c20_frostedfungi/flash/xmas_c20_frostedfungi_64_sd_0_0.png
+- Assets/Live/xmas_c20_frostedfungi/flash/index.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 552727736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3483e29e132ce44d8ee9ca402200a5ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_elisa/flash/clothing_r19_elisa_assets.xml
+- Assets/Live/clothing_r19_elisa/flash/clothing_r19_elisa_icon_a.png
+- Assets/Live/clothing_r19_elisa/flash/manifest.xml
+- Assets/Live/clothing_r19_elisa/clothing_r19_elisa.xml
+- Assets/Live/clothing_r19_elisa/flash/clothing_r19_elisa_visualization.xml
+- Assets/Live/clothing_r19_elisa/flash/clothing_r19_elisa_64_a_0_0.png
+- Assets/Live/clothing_r19_elisa/flash/index.xml
+- Assets/Live/clothing_r19_elisa/flash/clothing_r19_elisa_logic.xml
+Dependencies: []

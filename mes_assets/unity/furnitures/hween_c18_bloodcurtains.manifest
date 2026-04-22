@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4130696846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e4dc5144003811dde7a5343acdab271
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_64_b_0_1.png
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_icon_a.png
+- Assets/Live/hween_c18_bloodcurtains/hween_c18_bloodcurtains.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_visualization.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_64_c_0_0.png
+- Assets/Live/hween_c18_bloodcurtains/flash/manifest.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_assets.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_logic.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_64_a_0_0.png
+- Assets/Live/hween_c18_bloodcurtains/flash/index.xml
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_64_sd_0_0.png
+- Assets/Live/hween_c18_bloodcurtains/flash/hween_c18_bloodcurtains_64_d_0_1.png
+Dependencies: []

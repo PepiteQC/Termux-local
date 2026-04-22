@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3222225085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8ae0e30d89c3d81c6b516c5e17fc6ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_b_0_0.png
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_a_0_1.png
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_logic.xml
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_icon_a.png
+- Assets/Live/paris_c15_parasol/flash/manifest.xml
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_assets.xml
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_a_0_0.png
+- Assets/Live/paris_c15_parasol/paris_c15_parasol.xml
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_visualization.xml
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_icon64_a.png
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_b_0_1.png
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_a_0_2.png
+- Assets/Live/paris_c15_parasol/flash/paris_c15_parasol_64_a_0_3.png
+- Assets/Live/paris_c15_parasol/flash/index.xml
+Dependencies: []

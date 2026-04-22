@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2462957394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16b95e0d4403bd54a46d4e77ad9a5b26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_moustache/flash/uni_moustache_64_a_4_0.png
+- Assets/Live/uni_moustache/uni_moustache.xml
+- Assets/Live/uni_moustache/flash/uni_moustache_icon_a.png
+- Assets/Live/uni_moustache/flash/uni_moustache_64_a_4_2.png
+- Assets/Live/uni_moustache/flash/uni_moustache_logic.xml
+- Assets/Live/uni_moustache/flash/manifest.xml
+- Assets/Live/uni_moustache/flash/uni_moustache_assets.xml
+- Assets/Live/uni_moustache/flash/index.xml
+- Assets/Live/uni_moustache/flash/uni_moustache_64_a_4_1.png
+- Assets/Live/uni_moustache/flash/uni_moustache_visualization.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1845954361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07555dd29ccc082a400f4393f8f34df9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic2_napkin/classic2_napkin.xml
+- Assets/Live/classic2_napkin/flash/index.xml
+- Assets/Live/classic2_napkin/flash/manifest.xml
+- Assets/Live/classic2_napkin/flash/classic2_napkin_logic.xml
+- Assets/Live/classic2_napkin/flash/classic2_napkin_assets.xml
+- Assets/Live/classic2_napkin/flash/classic2_napkin_64_sd_4_0.png
+- Assets/Live/classic2_napkin/flash/classic2_napkin_visualization.xml
+- Assets/Live/classic2_napkin/flash/classic2_napkin_64_a_4_0.png
+- Assets/Live/classic2_napkin/flash/classic2_napkin_icon_a.png
+Dependencies: []

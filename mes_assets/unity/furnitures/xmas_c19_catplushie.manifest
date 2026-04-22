@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4158897792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 556fb3e0f411dfb503cb37e903ef9cba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_64_sd_0_0.png
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_icon_a.png
+- Assets/Live/xmas_c19_catplushie/xmas_c19_catplushie.xml
+- Assets/Live/xmas_c19_catplushie/flash/manifest.xml
+- Assets/Live/xmas_c19_catplushie/flash/index.xml
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_logic.xml
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_assets.xml
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_64_a_0_0.png
+- Assets/Live/xmas_c19_catplushie/flash/xmas_c19_catplushie_visualization.xml
+Dependencies: []

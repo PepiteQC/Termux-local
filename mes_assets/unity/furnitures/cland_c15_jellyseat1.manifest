@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 105802198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 737ae6a80927d1c32594656c88325fe8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_64_a_0_2.png
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_logic.xml
+- Assets/Live/cland_c15_jellyseat1/cland_c15_jellyseat1.xml
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_visualization.xml
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_64_a_0_0.png
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_64_a_0_1.png
+- Assets/Live/cland_c15_jellyseat1/flash/index.xml
+- Assets/Live/cland_c15_jellyseat1/flash/manifest.xml
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_assets.xml
+- Assets/Live/cland_c15_jellyseat1/flash/cland_c15_jellyseat1_icon_a.png
+Dependencies: []

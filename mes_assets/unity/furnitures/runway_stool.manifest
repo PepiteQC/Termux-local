@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3906457975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5181b1a4ef419f713d77ef9e3eb8b9ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_stool/flash/runway_stool_logic.xml
+- Assets/Live/runway_stool/runway_stool.xml
+- Assets/Live/runway_stool/flash/runway_stool_assets.xml
+- Assets/Live/runway_stool/flash/index.xml
+- Assets/Live/runway_stool/flash/runway_stool_64_a_0_0.png
+- Assets/Live/runway_stool/flash/runway_stool_visualization.xml
+- Assets/Live/runway_stool/flash/runway_stool_icon_a.png
+- Assets/Live/runway_stool/flash/manifest.xml
+- Assets/Live/runway_stool/flash/runway_stool_64_sd_0_0.png
+Dependencies: []

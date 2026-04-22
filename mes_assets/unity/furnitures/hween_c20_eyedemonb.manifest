@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2760596669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd9c973f9a62c3b743e186d155648543
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_1.png
+- Assets/Live/hween_c20_eyedemonb/hween_c20_eyedemonb.xml
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_17.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_14.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_8.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_16.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_0.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_4.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_assets.xml
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_10.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_3.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_5.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_9.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_visualization.xml
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_sd_0_0.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_11.png
+- Assets/Live/hween_c20_eyedemonb/flash/manifest.xml
+- Assets/Live/hween_c20_eyedemonb/flash/index.xml
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_7.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_12.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_icon_a.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_6.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_2.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_15.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_64_a_0_13.png
+- Assets/Live/hween_c20_eyedemonb/flash/hween_c20_eyedemonb_logic.xml
+Dependencies: []

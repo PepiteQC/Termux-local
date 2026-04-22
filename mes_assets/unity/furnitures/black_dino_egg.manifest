@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3718336696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0af8617309764727a1e10ffcfa51f7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/black_dino_egg/black_dino_egg.xml
+- Assets/Live/black_dino_egg/flash/manifest.xml
+- Assets/Live/black_dino_egg/flash/index.xml
+- Assets/Live/black_dino_egg/flash/black_dino_egg_assets.xml
+- Assets/Live/black_dino_egg/flash/black_dino_egg_visualization.xml
+- Assets/Live/black_dino_egg/flash/black_dino_egg_64_a_0_0.png
+- Assets/Live/black_dino_egg/flash/black_dino_egg_icon_a.png
+- Assets/Live/black_dino_egg/flash/black_dino_egg_logic.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3106670826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9da5dc0875016bde599682a2f9c0b8b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_64_sd_0_0.png
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_assets.xml
+- Assets/Live/xmas_c19_terrierplushie/flash/manifest.xml
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_visualization.xml
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_64_a_0_0.png
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_logic.xml
+- Assets/Live/xmas_c19_terrierplushie/flash/xmas_c19_terrierplushie_icon_a.png
+- Assets/Live/xmas_c19_terrierplushie/xmas_c19_terrierplushie.xml
+- Assets/Live/xmas_c19_terrierplushie/flash/index.xml
+Dependencies: []

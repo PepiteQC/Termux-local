@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2735490537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91fde7168014d6cfed66b9e621751b57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_ramp/sb_ramp.xml
+- Assets/Live/sb_ramp/flash/index.xml
+- Assets/Live/sb_ramp/flash/sb_ramp_64_c_2_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_assets.xml
+- Assets/Live/sb_ramp/flash/sb_ramp_64_c_0_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_a_0_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_a_4_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_a_2_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_icon_a.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_b_0_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_logic.xml
+- Assets/Live/sb_ramp/flash/sb_ramp_64_a_6_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_visualization.xml
+- Assets/Live/sb_ramp/flash/manifest.xml
+- Assets/Live/sb_ramp/flash/sb_ramp_64_b_2_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_c_4_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_b_6_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_c_6_0.png
+- Assets/Live/sb_ramp/flash/sb_ramp_64_b_4_0.png
+Dependencies: []

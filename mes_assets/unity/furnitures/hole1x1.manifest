@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1234572655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f5a8ede7d8cafa944a9db8baa1e9cd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hole1x1/hole1x1.xml
+- Assets/Live/hole1x1/flash/hole1x1_assets.xml
+- Assets/Live/hole1x1/flash/hole1x1_visualization.xml
+- Assets/Live/hole1x1/flash/hole1x1_64_a_0_0.png
+- Assets/Live/hole1x1/flash/index.xml
+- Assets/Live/hole1x1/flash/hole1x1_64_b_0_0.png
+- Assets/Live/hole1x1/flash/manifest.xml
+- Assets/Live/hole1x1/flash/hole1x1_logic.xml
+- Assets/Live/hole1x1/flash/hole1x1_icon_a.png
+Dependencies: []

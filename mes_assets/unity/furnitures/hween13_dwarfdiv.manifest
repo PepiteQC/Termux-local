@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1543223669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb13e50a8e7300a6119be301a4e5a2fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_assets.xml
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_b_4_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_icon_a.png
+- Assets/Live/hween13_dwarfdiv/flash/manifest.xml
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_visualization.xml
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_b_2_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_a_0_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_a_2_0.png
+- Assets/Live/hween13_dwarfdiv/flash/index.xml
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_b_6_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_a_4_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_b_0_0.png
+- Assets/Live/hween13_dwarfdiv/flash/L.png
+- Assets/Live/hween13_dwarfdiv/hween13_dwarfdiv.xml
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_64_a_6_0.png
+- Assets/Live/hween13_dwarfdiv/flash/hween13_dwarfdiv_logic.xml
+Dependencies: []

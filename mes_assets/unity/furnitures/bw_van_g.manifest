@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 830558014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 778d568c7735eae75fdf1d42f4757899
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_van_g/bw_van_g.xml
+- Assets/Live/bw_van_g/flash/manifest.xml
+- Assets/Live/bw_van_g/flash/bw_van_g_64_a_4_0.png
+- Assets/Live/bw_van_g/flash/index.xml
+- Assets/Live/bw_van_g/flash/bw_van_g_64_c_4_0.png
+- Assets/Live/bw_van_g/flash/bw_van_g_assets.xml
+- Assets/Live/bw_van_g/flash/bw_van_g_visualization.xml
+- Assets/Live/bw_van_g/flash/bw_van_g_64_d_4_0.png
+- Assets/Live/bw_van_g/flash/bw_van_g_64_b_4_0.png
+- Assets/Live/bw_van_g/flash/bw_van_g_logic.xml
+- Assets/Live/bw_van_g/flash/bw_van_g_64_e_4_0.png
+- Assets/Live/bw_van_g/flash/bw_van_g_icon_a.png
+Dependencies: []

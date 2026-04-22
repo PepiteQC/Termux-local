@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 108781304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d1d2b3691448524c7760d89324cfcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_1.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_2.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_8.png
+- Assets/Live/vikings_stove/vikings_stove.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_logic.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_64_b_4_1.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_5.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_b_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_4.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_3.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_1.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_2.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_c_4_3.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_5.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_3.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_2.png
+- Assets/Live/vikings_stove/flash/manifest.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_7.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_e_4_4.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_6.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_c_4_1.png
+- Assets/Live/vikings_stove/flash/index.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_visualization.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_assets.xml
+- Assets/Live/vikings_stove/flash/vikings_stove_64_c_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_icon_a.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_1.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_5.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_a_4_0.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_d_4_3.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_c_4_2.png
+- Assets/Live/vikings_stove/flash/vikings_stove_64_f_4_4.png
+Dependencies: []

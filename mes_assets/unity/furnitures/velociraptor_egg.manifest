@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3749456911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 996ddf48ba95a9dfa12853d03144053f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_64_b_0_0.png
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_logic.xml
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_64_sd_0_0.png
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_visualization.xml
+- Assets/Live/velociraptor_egg/flash/index.xml
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_assets.xml
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_64_a_0_0.png
+- Assets/Live/velociraptor_egg/velociraptor_egg.xml
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_icon_a.png
+- Assets/Live/velociraptor_egg/flash/velociraptor_egg_64_c_0_0.png
+- Assets/Live/velociraptor_egg/flash/manifest.xml
+Dependencies: []

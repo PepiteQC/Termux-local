@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2321333462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fd563054cb8bbd74b28f31c0f0f89b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_visualization.xml
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_logic.xml
+- Assets/Live/pet_puppy_toy/flash/manifest.xml
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_64_sd_2_0.png
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_64_a_2_2.png
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_assets.xml
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_64_a_2_3.png
+- Assets/Live/pet_puppy_toy/pet_puppy_toy.xml
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_64_a_2_0.png
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_icon_a.png
+- Assets/Live/pet_puppy_toy/flash/pet_puppy_toy_64_a_2_1.png
+- Assets/Live/pet_puppy_toy/flash/index.xml
+Dependencies: []

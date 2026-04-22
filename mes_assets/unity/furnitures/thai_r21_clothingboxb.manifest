@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3133207822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6196810a908cd5359c923290e2bc0e98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_r21_clothingboxB/flash/manifest.xml
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_icon_a.png
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_visualization.xml
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_logic.xml
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_64_a_0_0.png
+- Assets/Live/thai_r21_clothingboxB/thai_r21_clothingboxB.xml
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_assets.xml
+- Assets/Live/thai_r21_clothingboxB/flash/thai_r21_clothingboxB_64_sd_0_0.png
+- Assets/Live/thai_r21_clothingboxB/flash/index.xml
+Dependencies: []

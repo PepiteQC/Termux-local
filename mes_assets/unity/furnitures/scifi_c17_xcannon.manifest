@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 1243467326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 658c8341b633085b3df563e62f875713
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_2_2.png
+- Assets/Live/scifi_c17_xcannon/scifi_c17_xcannon.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_visualization.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_6.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_f_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_2_3.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_b_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_6_2.png
+- Assets/Live/scifi_c17_xcannon/flash/index.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_6_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_2_2.png
+- Assets/Live/scifi_c17_xcannon/flash/manifest.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_f_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_a_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_3.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_icon_a.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_6_3.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_b_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_assets.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_4.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_5.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_6_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_sd_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_logic.xml
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_2_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_6.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_5.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_4.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_h_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_sd_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_2_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_c_6_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_d_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_2_2.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_f_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_f_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_6_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_a_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_2_1.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_2_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_g_6_0.png
+- Assets/Live/scifi_c17_xcannon/flash/scifi_c17_xcannon_64_e_6_3.png
+Dependencies: []

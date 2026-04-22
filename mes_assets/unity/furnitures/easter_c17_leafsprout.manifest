@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2128122080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24c6e3924a0b7e6a46005f01dd50f0b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_leafsprout/flash/index.xml
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_icon_a.png
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_assets.xml
+- Assets/Live/easter_c17_leafsprout/easter_c17_leafsprout.xml
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_visualization.xml
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_logic.xml
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_64_a_0_0.png
+- Assets/Live/easter_c17_leafsprout/flash/manifest.xml
+- Assets/Live/easter_c17_leafsprout/flash/easter_c17_leafsprout_64_sd_0_0.png
+Dependencies: []

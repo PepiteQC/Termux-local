@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3421845113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff64a1fbaf025bc276e26b9007576352
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_a_2_0.png
+- Assets/Live/studio_fencecr/studio_fencecr.xml
+- Assets/Live/studio_fencecr/flash/index.xml
+- Assets/Live/studio_fencecr/flash/manifest.xml
+- Assets/Live/studio_fencecr/flash/studio_fencecr_logic.xml
+- Assets/Live/studio_fencecr/flash/studio_fencecr_assets.xml
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_sd_0_0.png
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_sd_2_0.png
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_a_6_0.png
+- Assets/Live/studio_fencecr/flash/studio_fencecr_visualization.xml
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_sd_6_0.png
+- Assets/Live/studio_fencecr/flash/studio_fencecr_64_a_0_0.png
+- Assets/Live/studio_fencecr/flash/studio_fencecr_icon_a.png
+Dependencies: []

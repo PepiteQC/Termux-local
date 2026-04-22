@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1446738895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 123180d41c3d9789c7afb128e2c34e20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/year2014/flash/year2014_64_b_4_2.png
+- Assets/Live/year2014/flash/year2014_64_b_4_7.png
+- Assets/Live/year2014/flash/year2014_64_b_4_29.png
+- Assets/Live/year2014/flash/year2014_64_b_4_39.png
+- Assets/Live/year2014/flash/year2014_64_b_4_15.png
+- Assets/Live/year2014/year2014.xml
+- Assets/Live/year2014/flash/year2014_visualization.xml
+- Assets/Live/year2014/flash/year2014_64_b_4_47.png
+- Assets/Live/year2014/flash/year2014_64_b_4_49.png
+- Assets/Live/year2014/flash/year2014_64_b_4_12.png
+- Assets/Live/year2014/flash/year2014_64_b_4_27.png
+- Assets/Live/year2014/flash/year2014_64_b_4_30.png
+- Assets/Live/year2014/flash/year2014_64_b_4_5.png
+- Assets/Live/year2014/flash/year2014_64_b_4_31.png
+- Assets/Live/year2014/flash/year2014_64_b_4_26.png
+- Assets/Live/year2014/flash/year2014_64_b_4_0.png
+- Assets/Live/year2014/flash/year2014_logic.xml
+- Assets/Live/year2014/flash/year2014_64_b_4_44.png
+- Assets/Live/year2014/flash/year2014_64_b_4_6.png
+- Assets/Live/year2014/flash/year2014_64_b_4_25.png
+- Assets/Live/year2014/flash/year2014_64_b_4_20.png
+- Assets/Live/year2014/flash/year2014_assets.xml
+- Assets/Live/year2014/flash/year2014_64_b_4_48.png
+- Assets/Live/year2014/flash/year2014_64_b_4_11.png
+- Assets/Live/year2014/flash/year2014_64_b_4_36.png
+- Assets/Live/year2014/flash/year2014_64_b_4_45.png
+- Assets/Live/year2014/flash/year2014_64_b_4_4.png
+- Assets/Live/year2014/flash/year2014_64_c_4_1.png
+- Assets/Live/year2014/flash/year2014_64_b_4_43.png
+- Assets/Live/year2014/flash/year2014_64_b_4_10.png
+- Assets/Live/year2014/flash/year2014_64_b_4_35.png
+- Assets/Live/year2014/flash/year2014_64_b_4_41.png
+- Assets/Live/year2014/flash/year2014_64_b_4_18.png
+- Assets/Live/year2014/flash/year2014_64_b_4_22.png
+- Assets/Live/year2014/flash/year2014_icon_a.png
+- Assets/Live/year2014/flash/year2014_64_b_4_21.png
+- Assets/Live/year2014/flash/year2014_64_c_4_0.png
+- Assets/Live/year2014/flash/year2014_64_b_4_40.png
+- Assets/Live/year2014/flash/year2014_64_b_4_38.png
+- Assets/Live/year2014/flash/year2014_64_b_4_37.png
+- Assets/Live/year2014/flash/year2014_64_b_4_46.png
+- Assets/Live/year2014/flash/year2014_64_a_4_0.png
+- Assets/Live/year2014/flash/year2014_64_b_4_33.png
+- Assets/Live/year2014/flash/year2014_64_b_4_17.png
+- Assets/Live/year2014/flash/year2014_64_b_4_14.png
+- Assets/Live/year2014/flash/year2014_64_b_4_8.png
+- Assets/Live/year2014/flash/year2014_64_b_4_28.png
+- Assets/Live/year2014/flash/year2014_64_b_4_9.png
+- Assets/Live/year2014/flash/year2014_64_b_4_34.png
+- Assets/Live/year2014/flash/year2014_64_b_4_16.png
+- Assets/Live/year2014/flash/year2014_64_b_4_42.png
+- Assets/Live/year2014/flash/year2014_64_b_4_24.png
+- Assets/Live/year2014/flash/year2014_64_b_4_23.png
+- Assets/Live/year2014/flash/year2014_64_b_4_50.png
+- Assets/Live/year2014/flash/year2014_64_b_4_32.png
+- Assets/Live/year2014/flash/year2014_64_b_4_3.png
+- Assets/Live/year2014/flash/manifest.xml
+- Assets/Live/year2014/flash/year2014_64_b_4_19.png
+- Assets/Live/year2014/flash/year2014_64_b_4_13.png
+- Assets/Live/year2014/flash/index.xml
+- Assets/Live/year2014/flash/year2014_64_b_4_1.png
+Dependencies: []

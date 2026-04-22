@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1776004497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4202ee6d1a196b81d7b33112423da716
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_64_sd_0_0.png
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_64_a_0_0.png
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_assets.xml
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_logic.xml
+- Assets/Live/clothing_bedhair/clothing_bedhair.xml
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_icon_a.png
+- Assets/Live/clothing_bedhair/flash/index.xml
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_64_a_0_1.png
+- Assets/Live/clothing_bedhair/flash/manifest.xml
+- Assets/Live/clothing_bedhair/flash/clothing_bedhair_visualization.xml
+Dependencies: []

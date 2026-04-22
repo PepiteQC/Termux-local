@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3473251747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50fef7065a832b165f0e88775e67d920
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val12_sofa/flash/val12_sofa_64_i_2_2.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_3.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_7.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_h_2_3.png
+- Assets/Live/val12_sofa/flash/val12_sofa_visualization.xml
+- Assets/Live/val12_sofa/flash/val12_sofa_64_a_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_5.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_2.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_8.png
+- Assets/Live/val12_sofa/flash/val12_sofa_assets.xml
+- Assets/Live/val12_sofa/val12_sofa.xml
+- Assets/Live/val12_sofa/flash/val12_sofa_64_d_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_7.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_6.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_3.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_2.png
+- Assets/Live/val12_sofa/flash/manifest.xml
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_4.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_h_2_2.png
+- Assets/Live/val12_sofa/flash/val12_sofa_logic.xml
+- Assets/Live/val12_sofa/flash/val12_sofa_64_d_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_b_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_5.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_i_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_6.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_e_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_icon_a.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_h_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_e_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_i_2_0.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_4.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_g_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_c_2_0.png
+- Assets/Live/val12_sofa/flash/index.xml
+- Assets/Live/val12_sofa/flash/val12_sofa_64_f_2_8.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_i_2_3.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_h_2_1.png
+- Assets/Live/val12_sofa/flash/val12_sofa_64_sd_2_0.png
+Dependencies: []

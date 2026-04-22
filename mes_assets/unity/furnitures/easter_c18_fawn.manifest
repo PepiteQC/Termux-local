@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 4169548651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef3255c8ddcf6db6b4b8add8c0bc73ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_icon_a.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_b_0_4.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_b_0_3.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_b_0_2.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_a_0_3.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_17.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_12.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_a_0_0.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_6.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_10.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_b_0_0.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_8.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_a_0_2.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_13.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_logic.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_16.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_5.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_9.png
+- Assets/Live/easter_c18_fawn/flash/manifest.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_b_0_1.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_14.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_11.png
+- Assets/Live/easter_c18_fawn/easter_c18_fawn.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_c_0_0.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_3.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_7.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_sd_0_0.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_1.png
+- Assets/Live/easter_c18_fawn/flash/index.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_assets.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_0.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_a_0_1.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_15.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_visualization.xml
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_2.png
+- Assets/Live/easter_c18_fawn/flash/easter_c18_fawn_64_d_0_4.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3753143112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87e55028b19b684f718ac5237dfca69f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_64_b_0_0.png
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_64_b_0_1.png
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_icon_a.png
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_64_a_0_0.png
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_assets.xml
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_visualization.xml
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_64_a_0_1.png
+- Assets/Live/room_wl15_pillar/room_wl15_pillar.xml
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_64_a_0_2.png
+- Assets/Live/room_wl15_pillar/flash/index.xml
+- Assets/Live/room_wl15_pillar/flash/room_wl15_pillar_logic.xml
+- Assets/Live/room_wl15_pillar/flash/manifest.xml
+Dependencies: []

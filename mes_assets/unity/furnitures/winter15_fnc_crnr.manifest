@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2203276658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ed5bc65d797b1ca869f5a4ea5149122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_0.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_3.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_5.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_b_0_1.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_2.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_b_0_0.png
+- Assets/Live/winter15_fnc_crnr/flash/index.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_logic.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_visualization.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_6.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_4.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_1.png
+- Assets/Live/winter15_fnc_crnr/flash/manifest.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_icon_a.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_assets.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_1.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_4.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_0.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_3.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_c_0_5.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_2.png
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_a_0_0.png
+- Assets/Live/winter15_fnc_crnr/winter15_fnc_crnr.xml
+- Assets/Live/winter15_fnc_crnr/flash/winter15_fnc_crnr_64_d_0_6.png
+Dependencies: []

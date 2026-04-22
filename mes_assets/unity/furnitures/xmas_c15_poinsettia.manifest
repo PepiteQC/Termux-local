@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2416544075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e05eb7d708e007f2750a59c0a8908412
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_poinsettia/xmas_c15_poinsettia.xml
+- Assets/Live/xmas_c15_poinsettia/flash/manifest.xml
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_logic.xml
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_visualization.xml
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_assets.xml
+- Assets/Live/xmas_c15_poinsettia/flash/index.xml
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_64_a_0_0.png
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_icon_a.png
+- Assets/Live/xmas_c15_poinsettia/flash/xmas_c15_poinsettia_64_sd_0_0.png
+Dependencies: []

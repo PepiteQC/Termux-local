@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2621132242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf1818e721d75b8c62ae4a597d9ff767
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_64_sd_0_0.png
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_assets.xml
+- Assets/Live/table_polyfon_small/table_polyfon_small.xml
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_64_sd_2_0.png
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_visualization.xml
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_64_a_0_0.png
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_icon_a.png
+- Assets/Live/table_polyfon_small/flash/index.xml
+- Assets/Live/table_polyfon_small/flash/manifest.xml
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_logic.xml
+- Assets/Live/table_polyfon_small/flash/table_polyfon_small_64_a_2_0.png
+Dependencies: []

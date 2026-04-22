@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1543533976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aa102940d3c0465c1c9bd3cd0058c98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_3.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_1.png
+- Assets/Live/messy_c21_kitchenette/flash/index.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_icon_a.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_4.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_visualization.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_6.png
+- Assets/Live/messy_c21_kitchenette/messy_c21_kitchenette.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_5.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_8.png
+- Assets/Live/messy_c21_kitchenette/flash/manifest.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_sd_0_0.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_7.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_0.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_c_0_2.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_assets.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_logic.xml
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_a_0_0.png
+- Assets/Live/messy_c21_kitchenette/flash/messy_c21_kitchenette_64_b_0_0.png
+Dependencies: []

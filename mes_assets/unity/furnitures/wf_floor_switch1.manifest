@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 435711161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ad88503e83b5931b0d416d121af576e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_floor_switch1/flash/index.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_assets.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_logic.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_64_a_2_0.png
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_visualization.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_icon_a.png
+- Assets/Live/wf_floor_switch1/wf_floor_switch1.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_64_a_2_1.png
+- Assets/Live/wf_floor_switch1/flash/manifest.xml
+- Assets/Live/wf_floor_switch1/flash/wf_floor_switch1_64_a_2_2.png
+Dependencies: []

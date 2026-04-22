@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1431145686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f37ae75d7cb0ee58d6a3bd6e1896f51f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/picnic_pillow_blu/flash/picnic_pillow_blu_64_a_0_0.png
+- Assets/Live/picnic_pillow_blu/flash/picnic_pillow_blu_visualization.xml
+- Assets/Live/picnic_pillow_blu/picnic_pillow_blu.xml
+- Assets/Live/picnic_pillow_blu/flash/index.xml
+- Assets/Live/picnic_pillow_blu/flash/manifest.xml
+- Assets/Live/picnic_pillow_blu/flash/picnic_pillow_blu_logic.xml
+- Assets/Live/picnic_pillow_blu/flash/picnic_pillow_blu_assets.xml
+- Assets/Live/picnic_pillow_blu/flash/picnic_pillow_blu_icon_a.png
+Dependencies: []

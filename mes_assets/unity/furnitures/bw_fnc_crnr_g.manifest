@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3064193517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72ba71d072c507a76854709c080979d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_a_6_0.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_6_0.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_a_0_0.png
+- Assets/Live/bw_fnc_crnr_g/flash/manifest.xml
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_icon_a.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_0_1.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_2_1.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_a_2_0.png
+- Assets/Live/bw_fnc_crnr_g/bw_fnc_crnr_g.xml
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_visualization.xml
+- Assets/Live/bw_fnc_crnr_g/flash/index.xml
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_6_1.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_2_0.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_64_b_0_0.png
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_logic.xml
+- Assets/Live/bw_fnc_crnr_g/flash/bw_fnc_crnr_g_assets.xml
+Dependencies: []

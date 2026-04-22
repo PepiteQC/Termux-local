@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2453152666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d298c01de8abef0afc0d9374a560349
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_64_a_0_1.png
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_64_a_0_3.png
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_visualization.xml
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_icon_a.png
+- Assets/Live/val_c20_chocgift/flash/manifest.xml
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_logic.xml
+- Assets/Live/val_c20_chocgift/flash/index.xml
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_assets.xml
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_64_a_0_2.png
+- Assets/Live/val_c20_chocgift/val_c20_chocgift.xml
+- Assets/Live/val_c20_chocgift/flash/val_c20_chocgift_64_a_0_0.png
+Dependencies: []

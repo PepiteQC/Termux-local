@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3476547066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38b90c72bbe647c1cf56a855f9f8c9cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_locker/flash/army_c15_locker_visualization.xml
+- Assets/Live/army_c15_locker/flash/army_c15_locker_64_a_2_0.png
+- Assets/Live/army_c15_locker/flash/army_c15_locker_icon_a.png
+- Assets/Live/army_c15_locker/flash/army_c15_locker_64_b_2_0.png
+- Assets/Live/army_c15_locker/flash/index.xml
+- Assets/Live/army_c15_locker/flash/army_c15_locker_64_b_2_1.png
+- Assets/Live/army_c15_locker/flash/army_c15_locker_64_a_2_1.png
+- Assets/Live/army_c15_locker/flash/army_c15_locker_logic.xml
+- Assets/Live/army_c15_locker/flash/manifest.xml
+- Assets/Live/army_c15_locker/army_c15_locker.xml
+- Assets/Live/army_c15_locker/flash/army_c15_locker_assets.xml
+Dependencies: []

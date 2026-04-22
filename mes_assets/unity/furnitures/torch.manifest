@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 459846565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71f3da02002e082fb7584fef0d1f47fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/torch/flash/torch_64_c_2_4.png
+- Assets/Live/torch/flash/manifest.xml
+- Assets/Live/torch/torch.xml
+- Assets/Live/torch/flash/torch_64_c_2_1.png
+- Assets/Live/torch/flash/torch_assets.xml
+- Assets/Live/torch/flash/torch_visualization.xml
+- Assets/Live/torch/flash/torch_64_c_2_2.png
+- Assets/Live/torch/flash/torch_64_c_2_3.png
+- Assets/Live/torch/flash/index.xml
+- Assets/Live/torch/flash/torch_64_d_2_2.png
+- Assets/Live/torch/flash/torch_64_d_2_0.png
+- Assets/Live/torch/flash/torch_64_d_2_1.png
+- Assets/Live/torch/flash/torch_64_b_2_0.png
+- Assets/Live/torch/flash/torch_64_a_2_0.png
+- Assets/Live/torch/flash/torch_64_c_2_0.png
+- Assets/Live/torch/flash/torch_logic.xml
+- Assets/Live/torch/flash/torch_icon_a.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 325406243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 876438acc822e799a96a0053ec94c4de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_camooutfit/clothing_camooutfit.xml
+- Assets/Live/clothing_camooutfit/flash/index.xml
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_3.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_visualization.xml
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_0.png
+- Assets/Live/clothing_camooutfit/flash/manifest.xml
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_1.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_2.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_5.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_64_a_0_4.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_icon_a.png
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_assets.xml
+- Assets/Live/clothing_camooutfit/flash/clothing_camooutfit_logic.xml
+Dependencies: []

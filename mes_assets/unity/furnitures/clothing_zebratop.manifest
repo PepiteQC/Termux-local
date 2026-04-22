@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 320130362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 128ba4f950fe27505a23dcf1f42b30aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_zebratop/flash/clothing_zebratop_visualization.xml
+- Assets/Live/clothing_zebratop/clothing_zebratop.xml
+- Assets/Live/clothing_zebratop/flash/clothing_zebratop_icon_a.png
+- Assets/Live/clothing_zebratop/flash/clothing_zebratop_logic.xml
+- Assets/Live/clothing_zebratop/flash/manifest.xml
+- Assets/Live/clothing_zebratop/flash/clothing_zebratop_assets.xml
+- Assets/Live/clothing_zebratop/flash/clothing_zebratop_64_a_0_0.png
+- Assets/Live/clothing_zebratop/flash/index.xml
+Dependencies: []

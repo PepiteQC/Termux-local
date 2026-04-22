@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3207593945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebaa910a88882af4975ba4eb894cd165
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c19_lamp/flash/manifest.xml
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_a_2_0.png
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_sd_6_0.png
+- Assets/Live/rainyday_c19_lamp/flash/index.xml
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_sd_2_0.png
+- Assets/Live/rainyday_c19_lamp/rainyday_c19_lamp.xml
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_b_2_0.png
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_icon_a.png
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_a_6_0.png
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_logic.xml
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_assets.xml
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_64_b_6_0.png
+- Assets/Live/rainyday_c19_lamp/flash/rainyday_c19_lamp_visualization.xml
+Dependencies: []

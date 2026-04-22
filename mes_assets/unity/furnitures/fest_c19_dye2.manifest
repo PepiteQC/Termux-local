@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 173639981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 634456175210871c7afad19ca16f5273
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_logic.xml
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_64_a_0_0.png
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_64_sd_0_0.png
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_visualization.xml
+- Assets/Live/fest_c19_dye2/flash/index.xml
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_assets.xml
+- Assets/Live/fest_c19_dye2/flash/manifest.xml
+- Assets/Live/fest_c19_dye2/fest_c19_dye2.xml
+- Assets/Live/fest_c19_dye2/flash/fest_c19_dye2_icon_a.png
+Dependencies: []

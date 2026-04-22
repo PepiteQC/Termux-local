@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 337801998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80fc451348acc64b5779b152cade4c5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army15_statue/flash/army15_statue_64_sd_0_0.png
+- Assets/Live/army15_statue/flash/index.xml
+- Assets/Live/army15_statue/flash/army15_statue_logic.xml
+- Assets/Live/army15_statue/flash/army15_statue_icon_a.png
+- Assets/Live/army15_statue/flash/army15_statue_assets.xml
+- Assets/Live/army15_statue/flash/army15_statue_visualization.xml
+- Assets/Live/army15_statue/flash/army15_statue_64_a_0_0.png
+- Assets/Live/army15_statue/flash/manifest.xml
+- Assets/Live/army15_statue/army15_statue.xml
+- Assets/Live/army15_statue/flash/army15_statue_64_a_4_0.png
+- Assets/Live/army15_statue/flash/army15_statue_64_sd_4_0.png
+Dependencies: []

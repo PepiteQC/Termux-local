@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1285565829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29635c48908125a23afccd0a9f30af9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_assets.xml
+- Assets/Live/elegantp_c17_stool/flash/manifest.xml
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_64_sd_4_0.png
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_64_a_4_0.png
+- Assets/Live/elegantp_c17_stool/flash/index.xml
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_logic.xml
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_visualization.xml
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_64_sd_0_0.png
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_icon_a.png
+- Assets/Live/elegantp_c17_stool/elegantp_c17_stool.xml
+- Assets/Live/elegantp_c17_stool/flash/elegantp_c17_stool_64_a_0_0.png
+Dependencies: []

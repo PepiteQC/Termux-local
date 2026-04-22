@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1174293224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c4c350eb437a1262dae34707b32d264
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_deer_prancer/flash/index.xml
+- Assets/Live/xmas_c18_deer_prancer/flash/manifest.xml
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_64_sd_4_0.png
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_assets.xml
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_icon_a.png
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_visualization.xml
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_64_a_4_0.png
+- Assets/Live/xmas_c18_deer_prancer/xmas_c18_deer_prancer.xml
+- Assets/Live/xmas_c18_deer_prancer/flash/xmas_c18_deer_prancer_logic.xml
+Dependencies: []

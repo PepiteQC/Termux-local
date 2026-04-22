@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3840815637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46e62f1ee0c80ae86f850aed738bafed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lidofence/lidofence.xml
+- Assets/Live/lidofence/flash/lidofence_assets.xml
+- Assets/Live/lidofence/flash/lidofence_logic.xml
+- Assets/Live/lidofence/flash/index.xml
+- Assets/Live/lidofence/flash/lidofence_icon_a.png
+- Assets/Live/lidofence/flash/lidofence_64_a_2_0.png
+- Assets/Live/lidofence/flash/lidofence_64_a_6_1.png
+- Assets/Live/lidofence/flash/lidofence_64_a_4_1.png
+- Assets/Live/lidofence/flash/lidofence_64_a_0_0.png
+- Assets/Live/lidofence/flash/lidofence_64_a_2_1.png
+- Assets/Live/lidofence/flash/lidofence_64_a_0_1.png
+- Assets/Live/lidofence/flash/manifest.xml
+- Assets/Live/lidofence/flash/lidofence_visualization.xml
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2606202202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3236d71d2c819c05f8623a934bb0380
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_2.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_3.png
+- Assets/Live/easter_c20_lightrock/flash/manifest.xml
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_logic.xml
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_7.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_visualization.xml
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_6.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_12.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_10.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_9.png
+- Assets/Live/easter_c20_lightrock/flash/index.xml
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_5.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_0.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_icon_a.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_assets.xml
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_11.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_1.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_4.png
+- Assets/Live/easter_c20_lightrock/flash/easter_c20_lightrock_64_a_0_8.png
+- Assets/Live/easter_c20_lightrock/easter_c20_lightrock.xml
+Dependencies: []

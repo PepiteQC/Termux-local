@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 286268940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c49e8ccec48a4c84d509b8c4c91ea54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_assets.xml
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_logic.xml
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_64_a_0_0.png
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_64_a_0_1.png
+- Assets/Live/room_pcnc15_soda/flash/index.xml
+- Assets/Live/room_pcnc15_soda/flash/manifest.xml
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_64_sd_0_0.png
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_icon_a.png
+- Assets/Live/room_pcnc15_soda/room_pcnc15_soda.xml
+- Assets/Live/room_pcnc15_soda/flash/room_pcnc15_soda_visualization.xml
+Dependencies: []

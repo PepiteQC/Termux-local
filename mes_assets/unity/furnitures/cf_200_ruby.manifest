@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2430364032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ea30e316489f1ed1592537cb22abba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_200_ruby/flash/manifest.xml
+- Assets/Live/CF_200_ruby/flash/CF_200_ruby_icon_a.png
+- Assets/Live/CF_200_ruby/flash/CF_200_ruby_visualization.xml
+- Assets/Live/CF_200_ruby/flash/CF_200_ruby_64_a_2_0.png
+- Assets/Live/CF_200_ruby/flash/CF_200_ruby_logic.xml
+- Assets/Live/CF_200_ruby/flash/CF_200_ruby_assets.xml
+- Assets/Live/CF_200_ruby/flash/index.xml
+- Assets/Live/CF_200_ruby/CF_200_ruby.xml
+Dependencies: []

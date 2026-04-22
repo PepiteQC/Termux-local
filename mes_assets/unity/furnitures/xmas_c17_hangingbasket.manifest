@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 535286032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e831396dc04ffd62cf12256ee3b1a8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_hangingbasket/xmas_c17_hangingbasket.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_visualization.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_64_a_0_0.png
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_assets.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/manifest.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_logic.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/index.xml
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_icon_a.png
+- Assets/Live/xmas_c17_hangingbasket/flash/xmas_c17_hangingbasket_64_a_0_1.png
+Dependencies: []

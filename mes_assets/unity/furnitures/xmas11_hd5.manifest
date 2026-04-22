@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2979837691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66528a52c35bedbaf0489fdf596bb766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_hd5/flash/xmas11_hd5_visualization.xml
+- Assets/Live/xmas11_hd5/xmas11_hd5.xml
+- Assets/Live/xmas11_hd5/flash/xmas11_hd5_icon_a.png
+- Assets/Live/xmas11_hd5/flash/xmas11_hd5_assets.xml
+- Assets/Live/xmas11_hd5/flash/xmas11_hd5_logic.xml
+- Assets/Live/xmas11_hd5/flash/manifest.xml
+- Assets/Live/xmas11_hd5/flash/xmas11_hd5_64_a_2_0.png
+- Assets/Live/xmas11_hd5/flash/index.xml
+Dependencies: []

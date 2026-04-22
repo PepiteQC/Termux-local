@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4029789127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0b792f0ab1aff806d9f75d38fb3de0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_3.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_2.png
+- Assets/Live/celestial_c19_constellations/celestial_c19_constellations.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_logic.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_icon_a.png
+- Assets/Live/celestial_c19_constellations/flash/index.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_3.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_assets.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_0.png
+- Assets/Live/celestial_c19_constellations/flash/manifest.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_1.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_4.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_visualization.xml
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_5.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_5.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_a_2_0.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_2.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_1.png
+- Assets/Live/celestial_c19_constellations/flash/celestial_c19_constellations_64_b_2_4.png
+Dependencies: []

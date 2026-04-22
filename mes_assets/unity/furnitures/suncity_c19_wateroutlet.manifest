@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2239191401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c833ecd70f1e7664c167baa05da1b32d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_d_0_0.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_b_0_1.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_b_0_2.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_b_0_0.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_visualization.xml
+- Assets/Live/suncity_c19_wateroutlet/suncity_c19_wateroutlet.xml
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_logic.xml
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_a_0_0.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_c_0_0.png
+- Assets/Live/suncity_c19_wateroutlet/flash/manifest.xml
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_assets.xml
+- Assets/Live/suncity_c19_wateroutlet/flash/index.xml
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_icon_a.png
+- Assets/Live/suncity_c19_wateroutlet/flash/suncity_c19_wateroutlet_64_sd_0_0.png
+Dependencies: []

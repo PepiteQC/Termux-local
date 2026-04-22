@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 596388074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0f6e739f2e4d41acf7d233bd97b9f71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_3.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_visualization.xml
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_b_4_0.png
+- Assets/Live/wildwest_spittoon/flash/index.xml
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_1.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_logic.xml
+- Assets/Live/wildwest_spittoon/wildwest_spittoon.xml
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_a_4_0.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_b_4_2.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_sd_4_0.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_5.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_assets.xml
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_b_4_1.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_4.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_2.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_a_4_1.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_64_c_4_0.png
+- Assets/Live/wildwest_spittoon/flash/wildwest_spittoon_icon_a.png
+- Assets/Live/wildwest_spittoon/flash/manifest.xml
+Dependencies: []

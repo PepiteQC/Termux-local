@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3946327896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5bfb044655dae8744b1597542ed40e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_dividerend/flash/santorini_c17_dividerend_64_a_0_0.png
+- Assets/Live/santorini_c17_dividerend/flash/santorini_c17_dividerend_logic.xml
+- Assets/Live/santorini_c17_dividerend/flash/santorini_c17_dividerend_visualization.xml
+- Assets/Live/santorini_c17_dividerend/flash/santorini_c17_dividerend_icon_a.png
+- Assets/Live/santorini_c17_dividerend/flash/santorini_c17_dividerend_assets.xml
+- Assets/Live/santorini_c17_dividerend/santorini_c17_dividerend.xml
+- Assets/Live/santorini_c17_dividerend/flash/manifest.xml
+- Assets/Live/santorini_c17_dividerend/flash/index.xml
+Dependencies: []

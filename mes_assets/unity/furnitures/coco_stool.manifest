@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4143450302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22637b2ab66bcb34cce4b25d4fb18b81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coco_stool/flash/index.xml
+- Assets/Live/coco_stool/flash/coco_stool_icon_a.png
+- Assets/Live/coco_stool/coco_stool.xml
+- Assets/Live/coco_stool/flash/coco_stool_64_a_0_0.png
+- Assets/Live/coco_stool/flash/coco_stool_assets.xml
+- Assets/Live/coco_stool/flash/manifest.xml
+- Assets/Live/coco_stool/flash/coco_stool_visualization.xml
+- Assets/Live/coco_stool/flash/coco_stool_logic.xml
+Dependencies: []

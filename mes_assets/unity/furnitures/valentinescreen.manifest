@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 46339454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c0394b80027c8198f985c2bf5cf283f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/valentinescreen/flash/valentinescreen_assets.xml
+- Assets/Live/valentinescreen/flash/valentinescreen_64_a_2_0.png
+- Assets/Live/valentinescreen/flash/valentinescreen_64_d_2_0.png
+- Assets/Live/valentinescreen/flash/valentinescreen_logic.xml
+- Assets/Live/valentinescreen/flash/valentinescreen_64_sd_2_0.png
+- Assets/Live/valentinescreen/flash/valentinescreen_64_c_2_0.png
+- Assets/Live/valentinescreen/valentinescreen.xml
+- Assets/Live/valentinescreen/flash/index.xml
+- Assets/Live/valentinescreen/flash/valentinescreen_64_b_2_0.png
+- Assets/Live/valentinescreen/flash/valentinescreen_visualization.xml
+- Assets/Live/valentinescreen/flash/valentinescreen_icon_a.png
+- Assets/Live/valentinescreen/flash/manifest.xml
+Dependencies: []

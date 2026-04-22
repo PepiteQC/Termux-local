@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 83448677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ed6dfce74375154c37fd52f6ce91c96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_basketflower/flash/garden_basketflower_visualization.xml
+- Assets/Live/garden_basketflower/flash/garden_basketflower_icon_a.png
+- Assets/Live/garden_basketflower/flash/garden_basketflower_64_a_0_0.png
+- Assets/Live/garden_basketflower/flash/garden_basketflower_assets.xml
+- Assets/Live/garden_basketflower/flash/index.xml
+- Assets/Live/garden_basketflower/garden_basketflower.xml
+- Assets/Live/garden_basketflower/flash/garden_basketflower_64_sd_0_0.png
+- Assets/Live/garden_basketflower/flash/manifest.xml
+- Assets/Live/garden_basketflower/flash/garden_basketflower_logic.xml
+Dependencies: []

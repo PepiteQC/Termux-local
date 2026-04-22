@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4089823795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfb3ad23ca67e025ef2d3002ebb5ddbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_curtaintopper/xmas_c18_curtaintopper.xml
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_64_a_2_0.png
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_visualization.xml
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_assets.xml
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_icon_a.png
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_64_sd_2_0.png
+- Assets/Live/xmas_c18_curtaintopper/flash/index.xml
+- Assets/Live/xmas_c18_curtaintopper/flash/manifest.xml
+- Assets/Live/xmas_c18_curtaintopper/flash/xmas_c18_curtaintopper_logic.xml
+Dependencies: []

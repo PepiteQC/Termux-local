@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4205734607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 257899d4d0c1d033fdae49a23fd23ae4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_capecoat/clothing_capecoat.xml
+- Assets/Live/clothing_capecoat/flash/clothing_capecoat_icon_a.png
+- Assets/Live/clothing_capecoat/flash/clothing_capecoat_64_a_0_0.png
+- Assets/Live/clothing_capecoat/flash/manifest.xml
+- Assets/Live/clothing_capecoat/flash/clothing_capecoat_assets.xml
+- Assets/Live/clothing_capecoat/flash/clothing_capecoat_visualization.xml
+- Assets/Live/clothing_capecoat/flash/clothing_capecoat_logic.xml
+- Assets/Live/clothing_capecoat/flash/index.xml
+Dependencies: []

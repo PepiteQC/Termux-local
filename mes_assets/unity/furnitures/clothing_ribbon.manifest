@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 128165244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ad93af0fcb2196a054c9904b73a1858
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_ribbon/clothing_ribbon.xml
+- Assets/Live/clothing_ribbon/flash/index.xml
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_visualization.xml
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_64_a_0_1.png
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_64_sd_0_0.png
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_icon_a.png
+- Assets/Live/clothing_ribbon/flash/manifest.xml
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_assets.xml
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_64_a_0_0.png
+- Assets/Live/clothing_ribbon/flash/clothing_ribbon_logic.xml
+Dependencies: []

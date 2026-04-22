@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3036568996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31c3e33784b4d403a22094299e0d0b7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_7.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_12.png
+- Assets/Live/easter_c20_darkprize3/easter_c20_darkprize3.xml
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_8.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_2.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_assets.xml
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_10.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_11.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_icon_a.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_logic.xml
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_sd_0_0.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_1.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_13.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_9.png
+- Assets/Live/easter_c20_darkprize3/flash/index.xml
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_4.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_visualization.xml
+- Assets/Live/easter_c20_darkprize3/flash/manifest.xml
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_3.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_6.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_0.png
+- Assets/Live/easter_c20_darkprize3/flash/easter_c20_darkprize3_64_a_0_5.png
+Dependencies: []

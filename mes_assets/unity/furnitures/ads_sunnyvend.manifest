@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2081711459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1076dfa0d22c315cca6cc5f8bdf22b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_icon_a.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_64_a_0_0.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_assets.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_icon_a.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_logic.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_visualization.xml
+- Assets/Live/ads_sunnyvend/ads_sunnyvend.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_logic.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_32_a_0_0.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_assets.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/index.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/manifest.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/index.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/ads_sunnyvend_64_sd_0_0.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_visualization.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend/manifest.xml
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_64_a_0_0.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_64_sd_0_0.png
+- Assets/Live/ads_sunnyvend/flash/ads_sunnyvend_camp/ads_sunnyvend_camp_32_sd_0_0.png
+Dependencies: []

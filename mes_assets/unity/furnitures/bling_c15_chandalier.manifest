@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1113121705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e21e1264fed96a0c700f3c4d53d6e7af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_icon_a.png
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_64_sd_0_0.png
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_64_c_0_0.png
+- Assets/Live/bling_c15_chandalier/flash/index.xml
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_visualization.xml
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_64_a_0_0.png
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_64_b_0_1.png
+- Assets/Live/bling_c15_chandalier/bling_c15_chandalier.xml
+- Assets/Live/bling_c15_chandalier/flash/manifest.xml
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_assets.xml
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_logic.xml
+- Assets/Live/bling_c15_chandalier/flash/bling_c15_chandalier_64_b_0_0.png
+Dependencies: []

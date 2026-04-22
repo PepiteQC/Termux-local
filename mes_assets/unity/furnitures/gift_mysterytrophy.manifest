@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2364101873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df6a93a928d16a141dc21953653794f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gift_mysterytrophy/gift_mysterytrophy.xml
+- Assets/Live/gift_mysterytrophy/flash/index.xml
+- Assets/Live/gift_mysterytrophy/flash/gift_mysterytrophy_logic.xml
+- Assets/Live/gift_mysterytrophy/flash/gift_mysterytrophy_assets.xml
+- Assets/Live/gift_mysterytrophy/flash/gift_mysterytrophy_icon_a.png
+- Assets/Live/gift_mysterytrophy/flash/gift_mysterytrophy_visualization.xml
+- Assets/Live/gift_mysterytrophy/flash/gift_mysterytrophy_64_a_0_0.png
+- Assets/Live/gift_mysterytrophy/flash/manifest.xml
+Dependencies: []

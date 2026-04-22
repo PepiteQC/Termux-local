@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1130195466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e7419f6fab2e521caf73faf9e4e2c5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_visualization.xml
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_icon_a.png
+- Assets/Live/greek_c19_statue/flash/index.xml
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_64_a_2_0.png
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_64_sd_6_0.png
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_64_sd_2_0.png
+- Assets/Live/greek_c19_statue/greek_c19_statue.xml
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_64_a_6_0.png
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_assets.xml
+- Assets/Live/greek_c19_statue/flash/manifest.xml
+- Assets/Live/greek_c19_statue/flash/greek_c19_statue_logic.xml
+Dependencies: []

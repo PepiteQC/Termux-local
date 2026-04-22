@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1160529509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20e38f7efb67b878e6d6ef7a7484979c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_bstool/flash/mystics_bstool_64_sd_4_0.png
+- Assets/Live/mystics_bstool/flash/mystics_bstool_64_a_0_0.png
+- Assets/Live/mystics_bstool/flash/L.png
+- Assets/Live/mystics_bstool/mystics_bstool.xml
+- Assets/Live/mystics_bstool/flash/mystics_bstool_icon_a.png
+- Assets/Live/mystics_bstool/flash/mystics_bstool_assets.xml
+- Assets/Live/mystics_bstool/flash/index.xml
+- Assets/Live/mystics_bstool/flash/mystics_bstool_64_a_4_0.png
+- Assets/Live/mystics_bstool/flash/mystics_bstool_64_sd_0_0.png
+- Assets/Live/mystics_bstool/flash/mystics_bstool_logic.xml
+- Assets/Live/mystics_bstool/flash/mystics_bstool_visualization.xml
+- Assets/Live/mystics_bstool/flash/manifest.xml
+Dependencies: []

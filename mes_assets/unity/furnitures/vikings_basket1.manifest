@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3625785148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ef3d6217afb228fe4a6849943b569e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_basket1/flash/index.xml
+- Assets/Live/vikings_basket1/vikings_basket1.xml
+- Assets/Live/vikings_basket1/flash/vikings_basket1_logic.xml
+- Assets/Live/vikings_basket1/flash/vikings_basket1_assets.xml
+- Assets/Live/vikings_basket1/flash/vikings_basket1_64_sd_0_0.png
+- Assets/Live/vikings_basket1/flash/manifest.xml
+- Assets/Live/vikings_basket1/flash/vikings_basket1_64_a_0_0.png
+- Assets/Live/vikings_basket1/flash/vikings_basket1_visualization.xml
+- Assets/Live/vikings_basket1/flash/vikings_basket1_icon_a.png
+Dependencies: []

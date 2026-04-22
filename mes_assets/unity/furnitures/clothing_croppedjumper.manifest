@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2876637508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3025357baf867f6a6da9f37bf72b7b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_croppedjumper/flash/index.xml
+- Assets/Live/clothing_croppedjumper/flash/clothing_croppedjumper_logic.xml
+- Assets/Live/clothing_croppedjumper/flash/clothing_croppedjumper_assets.xml
+- Assets/Live/clothing_croppedjumper/flash/clothing_croppedjumper_64_a_0_0.png
+- Assets/Live/clothing_croppedjumper/flash/manifest.xml
+- Assets/Live/clothing_croppedjumper/flash/clothing_croppedjumper_icon_a.png
+- Assets/Live/clothing_croppedjumper/clothing_croppedjumper.xml
+- Assets/Live/clothing_croppedjumper/flash/clothing_croppedjumper_visualization.xml
+Dependencies: []

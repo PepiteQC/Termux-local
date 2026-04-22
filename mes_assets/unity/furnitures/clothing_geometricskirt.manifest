@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2794412726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e3720e7942946ba9cf19ead4615e4e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_0.png
+- Assets/Live/clothing_geometricskirt/flash/index.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_sd_0_0.png
+- Assets/Live/clothing_geometricskirt/flash/manifest.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_5.png
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_4.png
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_assets.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_logic.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_visualization.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_2.png
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_icon_a.png
+- Assets/Live/clothing_geometricskirt/clothing_geometricskirt.xml
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_3.png
+- Assets/Live/clothing_geometricskirt/flash/clothing_geometricskirt_64_a_0_1.png
+Dependencies: []

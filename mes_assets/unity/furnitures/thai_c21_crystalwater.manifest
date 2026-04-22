@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 3554710175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dfed210a8139ec2f9506dac741f3cad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_crystalwater/thai_c21_crystalwater.xml
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_0_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_8.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_9.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_b_6_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_11.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_13.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_3.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_logic.xml
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_11.png
+- Assets/Live/thai_c21_crystalwater/flash/manifest.xml
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_5.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_19.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_15.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_assets.xml
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_1.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_18.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_20.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_22.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_1.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_23.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_4.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_20.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_12.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_9.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_6_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_22.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_20.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_6_1.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_14.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_14.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_23.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_10.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_22.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_15.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_12.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_3.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_0_3.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_16.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_9.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_7.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_0_1.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_17.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_3.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_24.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_2.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_12.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_19.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_b_0_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_24.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_21.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_32.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_8.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_19.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_18.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_15.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_16.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_18.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_29.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_26.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_7.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_6.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_11.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_4.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_21.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_a_6_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_25.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_6_3.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_16.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_6.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_13.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_5.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_2.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_23.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_10.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_0_8.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_0_2.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_27.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_2.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_visualization.xml
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_icon_a.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_7.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_c_6_2.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_30.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_21.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_17.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_14.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_a_0_0.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_6.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_13.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_10.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_28.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_17.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_1.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_e_4_4.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_24.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_5.png
+- Assets/Live/thai_c21_crystalwater/flash/thai_c21_crystalwater_64_d_1_31.png
+- Assets/Live/thai_c21_crystalwater/flash/index.xml
+Dependencies: []

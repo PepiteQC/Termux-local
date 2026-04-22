@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3517428506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7841b5a7092348e6edea0197417ce552
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween12_floor/flash/hween12_floor_assets.xml
+- Assets/Live/hween12_floor/flash/hween12_floor_visualization.xml
+- Assets/Live/hween12_floor/flash/hween12_floor_icon_a.png
+- Assets/Live/hween12_floor/flash/manifest.xml
+- Assets/Live/hween12_floor/flash/hween12_floor_64_b_2_0.png
+- Assets/Live/hween12_floor/flash/hween12_floor_logic.xml
+- Assets/Live/hween12_floor/hween12_floor.xml
+- Assets/Live/hween12_floor/flash/hween12_floor_64_a_2_0.png
+- Assets/Live/hween12_floor/flash/index.xml
+Dependencies: []

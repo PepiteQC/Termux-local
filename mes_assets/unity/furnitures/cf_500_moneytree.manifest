@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 662351407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f24f08f2998b8f8a8ccf74480ebc950
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_icon_a.png
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_logic.xml
+- Assets/Live/CF_500_moneytree/CF_500_moneytree.xml
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_64_sd_0_0.png
+- Assets/Live/CF_500_moneytree/flash/manifest.xml
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_64_b_0_0.png
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_assets.xml
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_visualization.xml
+- Assets/Live/CF_500_moneytree/flash/index.xml
+- Assets/Live/CF_500_moneytree/flash/CF_500_moneytree_64_a_0_0.png
+Dependencies: []

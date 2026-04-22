@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 671622600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee3575ed74ff938900d01bb2c27da2c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_sd_4_0.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_b_4_1.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_sd_6_0.png
+- Assets/Live/rainyday_c20_snugblanket/flash/index.xml
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_a_6_1.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_a_4_1.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_a_4_0.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_assets.xml
+- Assets/Live/rainyday_c20_snugblanket/rainyday_c20_snugblanket.xml
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_logic.xml
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_b_6_1.png
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_visualization.xml
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_icon_a.png
+- Assets/Live/rainyday_c20_snugblanket/flash/manifest.xml
+- Assets/Live/rainyday_c20_snugblanket/flash/rainyday_c20_snugblanket_64_b_4_0.png
+Dependencies: []

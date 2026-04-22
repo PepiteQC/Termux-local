@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 376786377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69b25e47d4e3df0784ab6b1b4aa08870
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_64_sd_0_0.png
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_64_a_0_0.png
+- Assets/Live/india_c20_dessert/india_c20_dessert.xml
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_logic.xml
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_64_a_0_2.png
+- Assets/Live/india_c20_dessert/flash/manifest.xml
+- Assets/Live/india_c20_dessert/flash/index.xml
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_64_a_0_1.png
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_visualization.xml
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_assets.xml
+- Assets/Live/india_c20_dessert/flash/india_c20_dessert_icon_a.png
+Dependencies: []

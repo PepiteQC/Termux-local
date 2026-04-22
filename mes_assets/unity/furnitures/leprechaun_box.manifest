@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2422459297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16f64b73d84c90c205d495b7683d7757
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/leprechaun_box/flash/leprechaun_box_assets.xml
+- Assets/Live/leprechaun_box/flash/leprechaun_box_icon_a.png
+- Assets/Live/leprechaun_box/flash/leprechaun_box_visualization.xml
+- Assets/Live/leprechaun_box/flash/index.xml
+- Assets/Live/leprechaun_box/flash/leprechaun_box_64_a_0_0.png
+- Assets/Live/leprechaun_box/flash/leprechaun_box_logic.xml
+- Assets/Live/leprechaun_box/leprechaun_box.xml
+- Assets/Live/leprechaun_box/flash/manifest.xml
+Dependencies: []

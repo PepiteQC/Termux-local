@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4198972326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1baa17e70a87bd0cbb3b8f8f70271ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/arabian_teamk/flash/arabian_teamk_icon_a.png
+- Assets/Live/arabian_teamk/flash/arabian_teamk_64_sd_0_0.png
+- Assets/Live/arabian_teamk/flash/manifest.xml
+- Assets/Live/arabian_teamk/flash/arabian_teamk_visualization.xml
+- Assets/Live/arabian_teamk/flash/arabian_teamk_logic.xml
+- Assets/Live/arabian_teamk/flash/arabian_teamk_64_a_2_1.png
+- Assets/Live/arabian_teamk/arabian_teamk.xml
+- Assets/Live/arabian_teamk/flash/index.xml
+- Assets/Live/arabian_teamk/flash/arabian_teamk_assets.xml
+- Assets/Live/arabian_teamk/flash/arabian_teamk_64_a_2_0.png
+Dependencies: []

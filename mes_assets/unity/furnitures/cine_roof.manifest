@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1517730420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 010ff3ddf9af1dc4bbaab29dad8bb3cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_roof/flash/manifest.xml
+- Assets/Live/cine_roof/flash/cine_roof_icon_a.png
+- Assets/Live/cine_roof/flash/cine_roof_64_sd_2_0.png
+- Assets/Live/cine_roof/flash/cine_roof_visualization.xml
+- Assets/Live/cine_roof/flash/cine_roof_logic.xml
+- Assets/Live/cine_roof/flash/cine_roof_64_a_2_0.png
+- Assets/Live/cine_roof/flash/cine_roof_64_b_2_0.png
+- Assets/Live/cine_roof/cine_roof.xml
+- Assets/Live/cine_roof/flash/cine_roof_64_c_2_0.png
+- Assets/Live/cine_roof/flash/index.xml
+- Assets/Live/cine_roof/flash/cine_roof_assets.xml
+Dependencies: []

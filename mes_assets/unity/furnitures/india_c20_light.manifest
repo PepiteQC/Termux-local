@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3269638864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91a2a9191beb1b6da94c85d2ad6c1a04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_light/flash/india_c20_light_64_sd_0_0.png
+- Assets/Live/india_c20_light/flash/india_c20_light_icon_a.png
+- Assets/Live/india_c20_light/flash/india_c20_light_64_b_0_0.png
+- Assets/Live/india_c20_light/india_c20_light.xml
+- Assets/Live/india_c20_light/flash/india_c20_light_64_a_0_0.png
+- Assets/Live/india_c20_light/flash/index.xml
+- Assets/Live/india_c20_light/flash/india_c20_light_visualization.xml
+- Assets/Live/india_c20_light/flash/india_c20_light_assets.xml
+- Assets/Live/india_c20_light/flash/india_c20_light_logic.xml
+- Assets/Live/india_c20_light/flash/manifest.xml
+Dependencies: []

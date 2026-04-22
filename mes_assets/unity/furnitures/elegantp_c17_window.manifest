@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2870226189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63c01b2a3aa14ae7f5885952248d71df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_a_0_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_c_2_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_visualization.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_assets.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_sd_0_0.png
+- Assets/Live/elegantp_c17_window/flash/index.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_icon_a.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_c_0_0.png
+- Assets/Live/elegantp_c17_window/elegantp_c17_window.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_logic.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_b_2_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_a_2_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_sd_2_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_b_0_0.png
+- Assets/Live/elegantp_c17_window/flash/manifest.xml
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_d_0_0.png
+- Assets/Live/elegantp_c17_window/flash/elegantp_c17_window_64_d_2_0.png
+Dependencies: []

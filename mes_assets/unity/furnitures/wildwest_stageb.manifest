@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1618808604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ac243a3cb4cabef62ef4e1a6adb3778
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_64_sd_0_0.png
+- Assets/Live/wildwest_stageb/flash/manifest.xml
+- Assets/Live/wildwest_stageb/flash/index.xml
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_visualization.xml
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_logic.xml
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_icon_a.png
+- Assets/Live/wildwest_stageb/wildwest_stageb.xml
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_64_a_0_0.png
+- Assets/Live/wildwest_stageb/flash/wildwest_stageb_assets.xml
+Dependencies: []

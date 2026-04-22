@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2029349325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd6cd5a9642673c4d94c99ef0d634b8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_64_a_0_0.png
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_logic.xml
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_64_b_0_0.png
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_visualization.xml
+- Assets/Live/pixel_floor_green/pixel_floor_green.xml
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_assets.xml
+- Assets/Live/pixel_floor_green/flash/pixel_floor_green_icon_a.png
+- Assets/Live/pixel_floor_green/flash/manifest.xml
+- Assets/Live/pixel_floor_green/flash/index.xml
+Dependencies: []

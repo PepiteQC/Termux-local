@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2981491791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fb84c21bf9068428e552af0e960ae19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_argentina/flash/flag_argentina_assets.xml
+- Assets/Live/flag_argentina/flash/flag_argentina_64_a_2_0.png
+- Assets/Live/flag_argentina/flash/index.xml
+- Assets/Live/flag_argentina/flash/manifest.xml
+- Assets/Live/flag_argentina/flag_argentina.xml
+- Assets/Live/flag_argentina/flash/flag_argentina_64_a_4_0.png
+- Assets/Live/flag_argentina/flash/flag_argentina_visualization.xml
+- Assets/Live/flag_argentina/flash/flag_argentina_logic.xml
+- Assets/Live/flag_argentina/flash/flag_argentina_icon_a.png
+Dependencies: []

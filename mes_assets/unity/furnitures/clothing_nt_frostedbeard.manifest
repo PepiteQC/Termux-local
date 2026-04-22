@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 938833770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2c9d38455304c95cec5c8a0e66dd0fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_frostedbeard/flash/clothing_nt_frostedbeard_logic.xml
+- Assets/Live/clothing_nt_frostedbeard/flash/clothing_nt_frostedbeard_icon_a.png
+- Assets/Live/clothing_nt_frostedbeard/flash/clothing_nt_frostedbeard_assets.xml
+- Assets/Live/clothing_nt_frostedbeard/flash/manifest.xml
+- Assets/Live/clothing_nt_frostedbeard/flash/clothing_nt_frostedbeard_64_a_0_0.png
+- Assets/Live/clothing_nt_frostedbeard/flash/index.xml
+- Assets/Live/clothing_nt_frostedbeard/clothing_nt_frostedbeard.xml
+- Assets/Live/clothing_nt_frostedbeard/flash/clothing_nt_frostedbeard_visualization.xml
+Dependencies: []

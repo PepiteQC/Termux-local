@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 782203268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d10dec5f58ef3f0ddd0808a25fd7493b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tent_orange/flash/tent_orange_64_i_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_assets.xml
+- Assets/Live/tent_orange/flash/tent_orange_64_d_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_64_h_0_1.png
+- Assets/Live/tent_orange/flash/tent_orange_64_a_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_64_f_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_logic.xml
+- Assets/Live/tent_orange/flash/manifest.xml
+- Assets/Live/tent_orange/flash/tent_orange_64_i_0_1.png
+- Assets/Live/tent_orange/flash/tent_orange_64_h_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_64_g_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_64_g_0_1.png
+- Assets/Live/tent_orange/flash/tent_orange_64_e_0_0.png
+- Assets/Live/tent_orange/tent_orange.xml
+- Assets/Live/tent_orange/flash/tent_orange_64_c_0_0.png
+- Assets/Live/tent_orange/flash/tent_orange_64_sd_0_0.png
+- Assets/Live/tent_orange/flash/index.xml
+- Assets/Live/tent_orange/flash/tent_orange_visualization.xml
+- Assets/Live/tent_orange/flash/tent_orange_icon_a.png
+- Assets/Live/tent_orange/flash/tent_orange_64_b_0_0.png
+Dependencies: []

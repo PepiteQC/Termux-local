@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1293242873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a036da6bfc1ab8e103a032f708b4e41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_0.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_icon_a.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_4.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_assets.xml
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_1.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_2.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_3.png
+- Assets/Live/matic_tree_yellow/flash/index.xml
+- Assets/Live/matic_tree_yellow/matic_tree_yellow.xml
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_sd_0_0.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_64_a_0_5.png
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_visualization.xml
+- Assets/Live/matic_tree_yellow/flash/manifest.xml
+- Assets/Live/matic_tree_yellow/flash/matic_tree_yellow_logic.xml
+Dependencies: []

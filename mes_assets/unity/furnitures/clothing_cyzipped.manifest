@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1630937502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 273687853bb770205b1fe0679a412f03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cyzipped/clothing_cyzipped.xml
+- Assets/Live/clothing_cyzipped/flash/index.xml
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_icon_a.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_3.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_visualization.xml
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_2.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_1.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_5.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_4.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_assets.xml
+- Assets/Live/clothing_cyzipped/flash/manifest.xml
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_64_a_2_0.png
+- Assets/Live/clothing_cyzipped/flash/clothing_cyzipped_logic.xml
+Dependencies: []

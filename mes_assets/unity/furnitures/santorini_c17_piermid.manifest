@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 60427317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec6c5036313c25fe56ce913a3a3db8ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_visualization.xml
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_icon_a.png
+- Assets/Live/santorini_c17_piermid/santorini_c17_piermid.xml
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_64_b_0_0.png
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_assets.xml
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_logic.xml
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_64_sd_0_0.png
+- Assets/Live/santorini_c17_piermid/flash/index.xml
+- Assets/Live/santorini_c17_piermid/flash/santorini_c17_piermid_64_a_0_0.png
+- Assets/Live/santorini_c17_piermid/flash/manifest.xml
+Dependencies: []

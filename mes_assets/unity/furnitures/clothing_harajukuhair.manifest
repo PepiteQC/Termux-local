@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 83558678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f4a5d76f2f8a519db2f0b2f6f6d88c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_harajukuhair/flash/manifest.xml
+- Assets/Live/clothing_harajukuhair/flash/index.xml
+- Assets/Live/clothing_harajukuhair/flash/clothing_harajukuhair_64_a_0_0.png
+- Assets/Live/clothing_harajukuhair/flash/clothing_harajukuhair_visualization.xml
+- Assets/Live/clothing_harajukuhair/flash/clothing_harajukuhair_assets.xml
+- Assets/Live/clothing_harajukuhair/flash/clothing_harajukuhair_logic.xml
+- Assets/Live/clothing_harajukuhair/clothing_harajukuhair.xml
+- Assets/Live/clothing_harajukuhair/flash/clothing_harajukuhair_icon_a.png
+Dependencies: []

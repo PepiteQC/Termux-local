@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3253428648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 215d46306acaccbe5bf716bce9705c37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hosptl_skele/flash/hosptl_skele_assets.xml
+- Assets/Live/hosptl_skele/flash/manifest.xml
+- Assets/Live/hosptl_skele/flash/hosptl_skele_64_a_0_0.png
+- Assets/Live/hosptl_skele/flash/index.xml
+- Assets/Live/hosptl_skele/flash/hosptl_skele_logic.xml
+- Assets/Live/hosptl_skele/flash/hosptl_skele_visualization.xml
+- Assets/Live/hosptl_skele/hosptl_skele.xml
+- Assets/Live/hosptl_skele/flash/hosptl_skele_icon_a.png
+- Assets/Live/hosptl_skele/flash/hosptl_skele_64_sd_0_0.png
+Dependencies: []

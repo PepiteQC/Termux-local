@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 711458768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9adc45504d997cdc1e99e0021a2b0b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_icon_a.png
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_64_a_0_0.png
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_logic.xml
+- Assets/Live/hblooza_bbq/hblooza_bbq.xml
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_64_a_0_1.png
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_visualization.xml
+- Assets/Live/hblooza_bbq/flash/manifest.xml
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_assets.xml
+- Assets/Live/hblooza_bbq/flash/index.xml
+- Assets/Live/hblooza_bbq/flash/hblooza_bbq_64_sd_0_0.png
+Dependencies: []

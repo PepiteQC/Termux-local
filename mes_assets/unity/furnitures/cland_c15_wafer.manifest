@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3323355256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac3cb7afd0888c04ed9626bb5caca736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_0_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_6_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_0_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_4_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_6_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_visualization.xml
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_assets.xml
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_0_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_2_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_2_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_4_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_4_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_2_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_4_0.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_2_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_0_1.png
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_icon_a.png
+- Assets/Live/cland_c15_wafer/cland_c15_wafer.xml
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_logic.xml
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_b_6_0.png
+- Assets/Live/cland_c15_wafer/flash/manifest.xml
+- Assets/Live/cland_c15_wafer/flash/cland_c15_wafer_64_a_6_1.png
+- Assets/Live/cland_c15_wafer/flash/index.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1354359301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4fdbca2f80207767863fb5df03f5239
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_visualization.xml
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_icon_a.png
+- Assets/Live/hween_c20_madpaper/flash/manifest.xml
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_0.png
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_5.png
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_logic.xml
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_4.png
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_1.png
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_2.png
+- Assets/Live/hween_c20_madpaper/flash/index.xml
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_assets.xml
+- Assets/Live/hween_c20_madpaper/hween_c20_madpaper.xml
+- Assets/Live/hween_c20_madpaper/flash/hween_c20_madpaper_64_a_0_3.png
+Dependencies: []

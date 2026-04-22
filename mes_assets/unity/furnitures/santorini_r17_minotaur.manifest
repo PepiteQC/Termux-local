@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 3480333524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87e994fa582178aeff241a7b15323e4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_b_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_c_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_assets.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_b_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_d_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_b_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_a_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_visualization.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_icon_a.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/index.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_d_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_d_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_b_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_logic.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_a_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_9.png
+- Assets/Live/santorini_r17_minotaur/flash/manifest.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_d_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_a_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_2_9.png
+- Assets/Live/santorini_r17_minotaur/santorini_r17_minotaur.xml
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_c_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_c_2_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_2.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_9.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_c_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_3.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_a_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_5.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_2_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_2_6.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_g_4_8.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_h_4_0.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_4_7.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_1.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_f_4_4.png
+- Assets/Live/santorini_r17_minotaur/flash/santorini_r17_minotaur_64_e_2_5.png
+Dependencies: []

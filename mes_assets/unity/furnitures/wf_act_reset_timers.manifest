@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2948007134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 186204711e220ce43c5ccd9b4948557d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_visualization.xml
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_icon_a.png
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_assets.xml
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_64_a_2_2.png
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_64_a_2_3.png
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_logic.xml
+- Assets/Live/wf_act_reset_timers/flash/index.xml
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_64_a_2_0.png
+- Assets/Live/wf_act_reset_timers/flash/manifest.xml
+- Assets/Live/wf_act_reset_timers/wf_act_reset_timers.xml
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_64_a_2_4.png
+- Assets/Live/wf_act_reset_timers/flash/wf_act_reset_timers_64_a_2_1.png
+Dependencies: []

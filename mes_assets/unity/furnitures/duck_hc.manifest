@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3308300770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca6ae252c4591839bc4b0586434613c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/duck_hc/flash/manifest.xml
+- Assets/Live/duck_hc/flash/duck_hc_64_sd_0_0.png
+- Assets/Live/duck_hc/flash/duck_hc_64_a_6_0.png
+- Assets/Live/duck_hc/flash/duck_hc_64_a_4_0.png
+- Assets/Live/duck_hc/flash/duck_hc_assets.xml
+- Assets/Live/duck_hc/flash/duck_hc_visualization.xml
+- Assets/Live/duck_hc/flash/index.xml
+- Assets/Live/duck_hc/flash/duck_hc_icon_a.png
+- Assets/Live/duck_hc/flash/duck_hc_logic.xml
+- Assets/Live/duck_hc/duck_hc.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2519279184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96c8de0054b4c2cf9a24e2cbcae0b752
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_assets.xml
+- Assets/Live/xmas_c15_advent3/xmas_c15_advent3.xml
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_sd_4_0.png
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_a_4_3.png
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_a_4_0.png
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_visualization.xml
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_a_4_4.png
+- Assets/Live/xmas_c15_advent3/flash/index.xml
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_a_4_2.png
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_logic.xml
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_64_a_4_1.png
+- Assets/Live/xmas_c15_advent3/flash/manifest.xml
+- Assets/Live/xmas_c15_advent3/flash/xmas_c15_advent3_icon_a.png
+Dependencies: []

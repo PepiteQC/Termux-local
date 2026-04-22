@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1530132395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f9ab8c744b9fd041dea16d2817d7e78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_4.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_icon_a.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_3.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_a_0_0.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_3.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_2.png
+- Assets/Live/easter_c18_countryteaset/flash/manifest.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_2.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_0.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_assets.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_0.png
+- Assets/Live/easter_c18_countryteaset/easter_c18_countryteaset.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_logic.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_6.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_a_0_1.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_visualization.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_5.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_1.png
+- Assets/Live/easter_c18_countryteaset/flash/index.xml
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_1.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_c_0_4.png
+- Assets/Live/easter_c18_countryteaset/flash/easter_c18_countryteaset_64_b_0_5.png
+Dependencies: []

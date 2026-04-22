@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3924366911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cba5416600bb1135964730fefd66eb2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_2_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_2_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_0_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_0_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_0_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_sd_0_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_2_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_0_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_assets.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_2_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_visualization.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_2_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_0_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_2_2.png
+- Assets/Live/olympics_c16_sofa/flash/manifest.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_2_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_2_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_2_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_2_3.png
+- Assets/Live/olympics_c16_sofa/flash/index.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_2_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_0_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_0_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_0_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_0_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_0_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_sd_2_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_0_2.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_2_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_0_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_a_2_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_b_0_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_2_3.png
+- Assets/Live/olympics_c16_sofa/olympics_c16_sofa.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_icon_a.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_logic.xml
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_c_2_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_0_3.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_0_1.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_2_0.png
+- Assets/Live/olympics_c16_sofa/flash/olympics_c16_sofa_64_d_0_0.png
+Dependencies: []

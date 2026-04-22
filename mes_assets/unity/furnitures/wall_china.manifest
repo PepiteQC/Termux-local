@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3740279052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efc720edf58889d22a0b1950feaa141c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wall_china/flash/wall_china_64_a_2_0.png
+- Assets/Live/wall_china/flash/manifest.xml
+- Assets/Live/wall_china/flash/wall_china_assets.xml
+- Assets/Live/wall_china/flash/wall_china_icon_a.png
+- Assets/Live/wall_china/flash/wall_china_64_a_0_0.png
+- Assets/Live/wall_china/flash/wall_china_logic.xml
+- Assets/Live/wall_china/flash/index.xml
+- Assets/Live/wall_china/wall_china.xml
+- Assets/Live/wall_china/flash/wall_china_visualization.xml
+Dependencies: []

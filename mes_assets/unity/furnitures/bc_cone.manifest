@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2012373595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 883edc7a60c07e4e61302f9e1be7964f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_cone/flash/bc_cone_64_c_0_1.png
+- Assets/Live/bc_cone/flash/bc_cone_64_b_0_0.png
+- Assets/Live/bc_cone/flash/bc_cone_64_c_0_3.png
+- Assets/Live/bc_cone/flash/bc_cone_64_a_0_3.png
+- Assets/Live/bc_cone/flash/bc_cone_64_a_0_1.png
+- Assets/Live/bc_cone/flash/bc_cone_64_c_0_2.png
+- Assets/Live/bc_cone/flash/bc_cone_logic.xml
+- Assets/Live/bc_cone/flash/bc_cone_64_b_0_3.png
+- Assets/Live/bc_cone/flash/bc_cone_assets.xml
+- Assets/Live/bc_cone/flash/bc_cone_icon_a.png
+- Assets/Live/bc_cone/flash/bc_cone_64_c_0_0.png
+- Assets/Live/bc_cone/flash/bc_cone_64_a_0_0.png
+- Assets/Live/bc_cone/flash/bc_cone_64_a_0_2.png
+- Assets/Live/bc_cone/flash/manifest.xml
+- Assets/Live/bc_cone/flash/bc_cone_64_b_0_2.png
+- Assets/Live/bc_cone/flash/index.xml
+- Assets/Live/bc_cone/bc_cone.xml
+- Assets/Live/bc_cone/flash/bc_cone_64_b_0_1.png
+- Assets/Live/bc_cone/flash/bc_cone_visualization.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1960666613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c59c89de3e3df75b2564cbd93feb75e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_logic.xml
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_64_b_0_0.png
+- Assets/Live/mystics_bspike1/mystics_bspike1.xml
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_icon_a.png
+- Assets/Live/mystics_bspike1/flash/index.xml
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_64_b_0_1.png
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_64_a_0_0.png
+- Assets/Live/mystics_bspike1/flash/manifest.xml
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_assets.xml
+- Assets/Live/mystics_bspike1/flash/mystics_bspike1_visualization.xml
+Dependencies: []

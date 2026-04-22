@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 6161126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 468493c2cf1ddeb26f9ab8af2191aed5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gnome_box/flash/gnome_box_icon_a.png
+- Assets/Live/gnome_box/flash/gnome_box_visualization.xml
+- Assets/Live/gnome_box/flash/manifest.xml
+- Assets/Live/gnome_box/flash/gnome_box_64_a_0_0.png
+- Assets/Live/gnome_box/gnome_box.xml
+- Assets/Live/gnome_box/psdExport/newbie_present.psd
+- Assets/Live/gnome_box/flash/index.xml
+- Assets/Live/gnome_box/flash/gnome_box_logic.xml
+- Assets/Live/gnome_box/flash/gnome_box_assets.xml
+Dependencies: []

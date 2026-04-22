@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 13063568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f7da5d61c781d6a37150d7767179a40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_r19_gemowl/flash/manifest.xml
+- Assets/Live/fest_r19_gemowl/fest_r19_gemowl.xml
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_icon_a.png
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_visualization.xml
+- Assets/Live/fest_r19_gemowl/flash/index.xml
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_assets.xml
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_logic.xml
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_64_a_0_1.png
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_64_sd_0_0.png
+- Assets/Live/fest_r19_gemowl/flash/fest_r19_gemowl_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3631094780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b391c19598649ab11e483748090492f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_a_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_f_4_1.png
+- Assets/Live/xmas_c15_stall/xmas_c15_stall.xml
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_sd_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_c_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_l_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_j_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_icon_a.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_h_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_e_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_g_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_f_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_j_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_h_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_e_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_b_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_logic.xml
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_g_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_l_4_1.png
+- Assets/Live/xmas_c15_stall/flash/index.xml
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_i_4_0.png
+- Assets/Live/xmas_c15_stall/flash/manifest.xml
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_i_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_k_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_m_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_k_4_1.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_visualization.xml
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_m_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_64_d_4_0.png
+- Assets/Live/xmas_c15_stall/flash/xmas_c15_stall_assets.xml
+Dependencies: []

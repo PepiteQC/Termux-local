@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3729385491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b984a8ed9d10df5b73822fff8ab4afa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_icon_a.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_b_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_a_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_d_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_c_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_f_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_icon_b.png
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_assets.xml
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_e_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/index.xml
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_visualization.xml
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_sd_2_0.png
+- Assets/Live/purablk_c16_bedone/purablk_c16_bedone.xml
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_64_sd_0_0.png
+- Assets/Live/purablk_c16_bedone/flash/manifest.xml
+- Assets/Live/purablk_c16_bedone/flash/purablk_c16_bedone_logic.xml
+Dependencies: []

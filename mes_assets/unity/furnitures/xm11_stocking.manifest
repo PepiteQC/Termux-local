@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1139140756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6e2c13d27be8ca9a9cf01b420772076
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm11_stocking/flash/xm11_stocking_logic.xml
+- Assets/Live/xm11_stocking/xm11_stocking.xml
+- Assets/Live/xm11_stocking/flash/xm11_stocking_64_b_2_0.png
+- Assets/Live/xm11_stocking/flash/xm11_stocking_assets.xml
+- Assets/Live/xm11_stocking/flash/xm11_stocking_64_a_2_0.png
+- Assets/Live/xm11_stocking/flash/xm11_stocking_icon_a.png
+- Assets/Live/xm11_stocking/flash/index.xml
+- Assets/Live/xm11_stocking/flash/xm11_stocking_64_c_2_0.png
+- Assets/Live/xm11_stocking/flash/manifest.xml
+- Assets/Live/xm11_stocking/flash/xm11_stocking_visualization.xml
+Dependencies: []

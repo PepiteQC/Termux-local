@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3195494399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bd5405dc3dd54b9dfc312a91a14bf54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cyphones/flash/clothing_fishhat_64_sd_0_0.png
+- Assets/Live/clothing_cyphones/flash/manifest.xml
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_1.png
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_assets.xml
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_5.png
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_3.png
+- Assets/Live/clothing_cyphones/clothing_cyphones.xml
+- Assets/Live/clothing_cyphones/flash/index.xml
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_logic.xml
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_icon_a.png
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_2.png
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_visualization.xml
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_0.png
+- Assets/Live/clothing_cyphones/flash/clothing_cyphones_64_a_0_4.png
+Dependencies: []

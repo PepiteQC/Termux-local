@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 78014179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee2370fc2a387b5352597ae391943fdb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_b_0_0.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_64_sd_0_0.png
+- Assets/Live/xmas_c15_snwbush/xmas_c15_snwbush.xml
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_sd_0_0.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_assets.xml
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_64_b_0_0.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_b_0_1.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_64_b_0_1.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_64_a_0_0.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_logic.xml
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_a_0_0.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_icon_a.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_a_0_1.png
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_visualization.xml
+- Assets/Live/xmas_c15_snwbush/flash/index.xml
+- Assets/Live/xmas_c15_snwbush/flash/manifest.xml
+- Assets/Live/xmas_c15_snwbush/flash/xmas_c15_snwbush_64_a_0_1.png
+Dependencies: []

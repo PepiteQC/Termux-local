@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1721196856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18904ecb73be4f091f2b12e9c40c6cf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c21_crystalstall/fest_c21_crystalstall.xml
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_64_b_0_0.png
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_logic.xml
+- Assets/Live/fest_c21_crystalstall/flash/index.xml
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_64_a_0_0.png
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_assets.xml
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_icon_a.png
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_64_sd_0_0.png
+- Assets/Live/fest_c21_crystalstall/flash/manifest.xml
+- Assets/Live/fest_c21_crystalstall/flash/fest_c21_crystalstall_visualization.xml
+Dependencies: []

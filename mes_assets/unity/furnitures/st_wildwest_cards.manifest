@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2701482624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca48c59e250289bc93cdb78348be4ec6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_4_0.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_0_2.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_c_4_0.png
+- Assets/Live/st_wildwest_cards/flash/index.xml
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_4_1.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_b_4_0.png
+- Assets/Live/st_wildwest_cards/flash/manifest.xml
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_4_2.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_0_0.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_assets.xml
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_icon_a.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_logic.xml
+- Assets/Live/st_wildwest_cards/st_wildwest_cards.xml
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_0_3.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_d_4_0.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_visualization.xml
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_4_3.png
+- Assets/Live/st_wildwest_cards/flash/st_wildwest_cards_64_a_0_1.png
+Dependencies: []

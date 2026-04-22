@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 482570329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92858e4d94f01a00726aace404567909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_bench/flash/fball_bench_assets.xml
+- Assets/Live/fball_bench/flash/manifest.xml
+- Assets/Live/fball_bench/flash/fball_bench_logic.xml
+- Assets/Live/fball_bench/flash/fball_bench_64_a_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_c_2_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_b_2_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_f_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_e_2_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_a_2_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_e_0_0.png
+- Assets/Live/fball_bench/fball_bench.xml
+- Assets/Live/fball_bench/flash/fball_bench_icon_a.png
+- Assets/Live/fball_bench/flash/fball_bench_64_d_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_b_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_f_2_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_sd_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_64_c_0_0.png
+- Assets/Live/fball_bench/flash/fball_bench_visualization.xml
+- Assets/Live/fball_bench/flash/fball_bench_64_d_2_0.png
+- Assets/Live/fball_bench/flash/index.xml
+Dependencies: []

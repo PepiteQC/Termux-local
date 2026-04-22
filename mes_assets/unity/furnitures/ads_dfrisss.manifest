@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1649103737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5191ab3529ce88f474be545cf1fe426f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_assets.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_a_2_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_sd_2_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_a_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_a_4_1.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_a_2_1.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/manifest.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_sd_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_a_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_icon_a.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_a_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_a_2_0.png
+- Assets/Live/ads_dfrisss/ads_dfrisss.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfriss_camp_icon_a.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_sd_2_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/index.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_visualization.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_visualization.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_icon_a.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_sd_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_logic.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfriss_camp_icon_a.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_sd_2_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_assets.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_a_2_1.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/index.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/manifest.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_a_2_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_64_a_4_1.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_camp_icon_a.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_a_4_1.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_32_sd_4_0.png
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss/ads_dfrisss_logic.xml
+- Assets/Live/ads_dfrisss/flash/ads_dfrisss_camp/ads_dfrisss_camp_64_a_2_1.png
+Dependencies: []

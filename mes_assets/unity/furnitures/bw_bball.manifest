@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4013905156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf76a98592346c51966ba0200b9e29dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bw_bball/flash/bw_bball_assets.xml
+- Assets/Live/bw_bball/flash/index.xml
+- Assets/Live/bw_bball/flash/bw_bball_64_a_1_4.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_1_1.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_2_4.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_1_3.png
+- Assets/Live/bw_bball/flash/bw_bball_visualization.xml
+- Assets/Live/bw_bball/flash/bw_bball_icon_a.png
+- Assets/Live/bw_bball/flash/manifest.xml
+- Assets/Live/bw_bball/flash/bw_bball_64_a_3_3.png
+- Assets/Live/bw_bball/bw_bball.xml
+- Assets/Live/bw_bball/flash/bw_bball_64_a_2_2.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_3_4.png
+- Assets/Live/bw_bball/flash/bw_bball_64_sd_0_0.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_2_1.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_3_1.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_1_2.png
+- Assets/Live/bw_bball/flash/bw_bball_logic.xml
+- Assets/Live/bw_bball/flash/bw_bball_64_a_2_3.png
+- Assets/Live/bw_bball/flash/bw_bball_64_a_3_2.png
+Dependencies: []

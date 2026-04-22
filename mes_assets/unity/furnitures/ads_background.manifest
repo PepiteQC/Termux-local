@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 840628563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d6db9ba72d3d6ee3d278b47de9dff13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_background/flash/ads_background_visualization.xml
+- Assets/Live/ads_background/ads_background.xml
+- Assets/Live/ads_background/flash/ads_background_icon_a.png
+- Assets/Live/ads_background/flash/index.xml
+- Assets/Live/ads_background/flash/ads_background_logic.xml
+- Assets/Live/ads_background/flash/manifest.xml
+- Assets/Live/ads_background/flash/ads_background_assets.xml
+- Assets/Live/ads_background/flash/ads_background_64_a_4_0.png
+Dependencies: []

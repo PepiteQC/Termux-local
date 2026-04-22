@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1236132144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5d7667fc1e5bb5d4c836afd7a0fca3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/svnr_uk/svnr_uk.xml
+- Assets/Live/svnr_uk/flash/svnr_uk_visualization.xml
+- Assets/Live/svnr_uk/flash/svnr_uk_assets.xml
+- Assets/Live/svnr_uk/flash/svnr_uk_64_a_0_0.png
+- Assets/Live/svnr_uk/flash/manifest.xml
+- Assets/Live/svnr_uk/flash/svnr_uk_icon_a.png
+- Assets/Live/svnr_uk/flash/index.xml
+- Assets/Live/svnr_uk/flash/svnr_uk_logic.xml
+Dependencies: []

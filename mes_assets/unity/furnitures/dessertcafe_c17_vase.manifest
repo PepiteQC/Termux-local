@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 848932867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e9c3bcbfb083910aa39c98ceb714aa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_6_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/index.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_sd_4_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_logic.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_4_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_6_1.png
+- Assets/Live/dessertcafe_c17_vase/flash/manifest.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_2_1.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_sd_0_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_0_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_sd_2_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_icon_a.png
+- Assets/Live/dessertcafe_c17_vase/dessertcafe_c17_vase.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_assets.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_0_1.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_4_1.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_visualization.xml
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_a_2_0.png
+- Assets/Live/dessertcafe_c17_vase/flash/dessertcafe_c17_vase_64_sd_6_0.png
+Dependencies: []

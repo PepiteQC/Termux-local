@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 691096096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 984d6c1b1903f18e05e0ffaafc0b7792
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_demonoutfit/flash/clothing_demonoutfit_visualization.xml
+- Assets/Live/clothing_demonoutfit/flash/clothing_demonoutfit_icon_a.png
+- Assets/Live/clothing_demonoutfit/flash/clothing_demonoutfit_logic.xml
+- Assets/Live/clothing_demonoutfit/flash/index.xml
+- Assets/Live/clothing_demonoutfit/clothing_demonoutfit.xml
+- Assets/Live/clothing_demonoutfit/flash/clothing_demonoutfit_assets.xml
+- Assets/Live/clothing_demonoutfit/flash/clothing_demonoutfit_64_a_0_0.png
+- Assets/Live/clothing_demonoutfit/flash/manifest.xml
+Dependencies: []

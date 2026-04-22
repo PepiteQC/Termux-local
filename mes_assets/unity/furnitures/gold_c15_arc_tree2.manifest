@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3240927618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5a36f550cf667a9f72dbde12231ca4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gold_c15_arc_tree2/gold_c15_arc_tree2.xml
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_1.png
+- Assets/Live/gold_c15_arc_tree2/flash/manifest.xml
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_3.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_assets.xml
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_a_0_0.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_4.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_logic.xml
+- Assets/Live/gold_c15_arc_tree2/flash/index.xml
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_visualization.xml
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_2.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_b_0_0.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_b_0_1.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_6.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_sd_0_0.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_0.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_icon_a.png
+- Assets/Live/gold_c15_arc_tree2/flash/gold_c15_arc_tree2_64_c_0_5.png
+Dependencies: []

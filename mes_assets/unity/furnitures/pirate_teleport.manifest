@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1511733926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 187494f99e5f6b55cddf00f2963f0d61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_b_4_1.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_c_4_0.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_b_4_0.png
+- Assets/Live/pirate_teleport/flash/index.xml
+- Assets/Live/pirate_teleport/pirate_teleport.xml
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_sd_4_0.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_a_4_0.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_c_4_1.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_64_a_4_1.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_icon_a.png
+- Assets/Live/pirate_teleport/flash/pirate_teleport_visualization.xml
+- Assets/Live/pirate_teleport/flash/pirate_teleport_logic.xml
+- Assets/Live/pirate_teleport/flash/manifest.xml
+- Assets/Live/pirate_teleport/flash/pirate_teleport_assets.xml
+Dependencies: []

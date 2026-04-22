@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 708794541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93ce1cb15e72d0739876a7ee1c406ffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_7.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_22.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_21.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_15.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_6.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_13.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_2.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_3.png
+- Assets/Live/cpunk_c15_door/flash/index.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_24.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_1.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_13.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_1.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_19.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_25.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_4.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_9.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_8.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_icon_a.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_23.png
+- Assets/Live/cpunk_c15_door/cpunk_c15_door.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_2.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_e_2_0.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_17.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_11.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_20.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_9.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_3.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_14.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_logic.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_10.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_11.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_16.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_5.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_12.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_12.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_4.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_6.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_0.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_c_2_0.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_18.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_a_2_0.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_10.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_0.png
+- Assets/Live/cpunk_c15_door/flash/manifest.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_7.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_14.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_26.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_visualization.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_b_2_8.png
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_assets.xml
+- Assets/Live/cpunk_c15_door/flash/cpunk_c15_door_64_d_2_5.png
+Dependencies: []

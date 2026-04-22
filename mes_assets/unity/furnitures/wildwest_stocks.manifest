@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3824677172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23ec19d1c5ee8efc20c5cf2c648e058e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_stocks/wildwest_stocks.xml
+- Assets/Live/wildwest_stocks/flash/index.xml
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_b_2_2.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_c_2_1.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_logic.xml
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_assets.xml
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_c_2_3.png
+- Assets/Live/wildwest_stocks/flash/manifest.xml
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_icon_a.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_sd_2_0.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_b_2_3.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_visualization.xml
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_b_2_0.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_c_2_0.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_b_2_1.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_c_2_2.png
+- Assets/Live/wildwest_stocks/flash/wildwest_stocks_64_a_2_0.png
+Dependencies: []

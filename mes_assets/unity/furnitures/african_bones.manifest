@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2726504631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78d3db3e9e65a698cd64c78ac7ed6396
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/african_bones/flash/african_bones_assets.xml
+- Assets/Live/african_bones/flash/african_bones_visualization.xml
+- Assets/Live/african_bones/flash/manifest.xml
+- Assets/Live/african_bones/flash/african_bones_icon_a.png
+- Assets/Live/african_bones/flash/african_bones_logic.xml
+- Assets/Live/african_bones/african_bones.xml
+- Assets/Live/african_bones/flash/african_bones_64_a_0_0.png
+- Assets/Live/african_bones/flash/index.xml
+Dependencies: []

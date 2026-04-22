@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1882914774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f6efb984b14555ba8e5c23d1334a090
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_1_coin_bronze/flash/CF_1_coin_bronze_icon_a.png
+- Assets/Live/CF_1_coin_bronze/flash/CF_1_coin_bronze_logic.xml
+- Assets/Live/CF_1_coin_bronze/flash/manifest.xml
+- Assets/Live/CF_1_coin_bronze/flash/CF_1_coin_bronze_assets.xml
+- Assets/Live/CF_1_coin_bronze/flash/CF_1_coin_bronze_64_a_0_0.png
+- Assets/Live/CF_1_coin_bronze/flash/index.xml
+- Assets/Live/CF_1_coin_bronze/flash/CF_1_coin_bronze_visualization.xml
+- Assets/Live/CF_1_coin_bronze/CF_1_coin_bronze.xml
+Dependencies: []

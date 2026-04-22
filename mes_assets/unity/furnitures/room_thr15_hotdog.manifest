@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1527588145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e2e3cf5a605a892ea454170cb33fd3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_64_a_0_0.png
+- Assets/Live/room_thr15_hotdog/flash/manifest.xml
+- Assets/Live/room_thr15_hotdog/flash/index.xml
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_logic.xml
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_visualization.xml
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_assets.xml
+- Assets/Live/room_thr15_hotdog/room_thr15_hotdog.xml
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_64_a_0_1.png
+- Assets/Live/room_thr15_hotdog/flash/room_thr15_hotdog_icon_a.png
+Dependencies: []

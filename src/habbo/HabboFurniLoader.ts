@@ -3,25 +3,33 @@ import type { HabboFurniBundle } from './HabboFurniBundle'
 
 const BUNDLE_CACHE = new Map<string, Promise<HabboFurniBundle | null>>()
 
-const BASE_PATH = '/habbo-extracted'
+const BASE_PATHS = [
+  '/habbo-extracted',
+  '/habbo-assets',
+  '/habbo-sorted'
+]
 
 export async function loadHabboBundle(className: string): Promise<HabboFurniBundle | null> {
   const cached = BUNDLE_CACHE.get(className)
   if (cached) return cached
+  
   const p = (async () => {
-    try {
-      const res = await fetch(`${BASE_PATH}/${className}/bundle.json`, { cache: 'force-cache' })
-      if (!res.ok) {
-        BUNDLE_CACHE.delete(className)
-        return null
+    for (const basePath of BASE_PATHS) {
+      try {
+        const res = await fetch(`${basePath}/${className}/bundle.json`, { cache: 'force-cache' })
+        if (res.ok) {
+          const bundle = (await res.json()) as HabboFurniBundle
+          // Injecter le chemin de base trouvé dans le bundle pour usage ultérieur
+          (bundle as any)._foundInPath = basePath
+          return bundle
+        }
+      } catch {
+        continue
       }
-      return (await res.json()) as HabboFurniBundle
-    } catch {
-      // On évite de cacher les échecs transitoires (réseau, JSON parsé) pour permettre un retry.
-      BUNDLE_CACHE.delete(className)
-      return null
     }
+    return null
   })()
+  
   BUNDLE_CACHE.set(className, p)
   return p
 }
@@ -47,9 +55,7 @@ interface BuildOptions {
 }
 
 /**
- * Construit un Container Pixi représentant la pièce Habbo, couche par couche,
- * en suivant assets.xml (offsets + flip) et visualization.xml (z-order / ink / alpha).
- * Renvoie null si l'asset n'est pas extrait.
+ * Construit un Container Pixi représentant la pièce Habbo, couche par couche.
  */
 export async function buildHabboFurniContainer(opts: BuildOptions): Promise<Container | null> {
   const { className } = opts
@@ -68,7 +74,7 @@ export async function buildHabboFurniContainer(opts: BuildOptions): Promise<Cont
   const layerInfos = sized?.layers ?? {}
   const dirOverrides = sized?.directions?.[direction.toString()] ?? {}
 
-  // Shadow first (z=-10). alpha est exprimé en 0-255 (même échelle que les XML Habbo).
+  // Shadow first (z=-10)
   await addLayer(container, bundle, className, size, 'sd', direction, frame, { z: -10, alpha: 102 })
 
   for (let li = 0; li < layerCount; li++) {
@@ -109,19 +115,19 @@ async function addLayer(
   frame: number,
   opts: LayerOpts
 ): Promise<void> {
-  // Résout le nom de l'asset pour cette direction. Fallback :
-  // direction demandée → direction demandée frame 0 → directions Habbo usuelles (2, 0, 4, 6).
-  // Certains meubles (ex: plant_yukka, plant_big_cactus) n'ont que des assets direction 0.
-  const candidates = Array.from(
-    new Set([
-      assetName(className, size, letter, direction, frame),
-      assetName(className, size, letter, direction, 0),
-      assetName(className, size, letter, 2, 0),
-      assetName(className, size, letter, 0, 0),
-      assetName(className, size, letter, 4, 0),
-      assetName(className, size, letter, 6, 0)
-    ])
-  )
+  const basePath = (bundle as any)._foundInPath || BASE_PATHS[0]
+  
+  // Stratégie de fallback exhaustive pour les assets
+  const candidateDirs = [direction, 0, 2, 4, 6]
+  const candidateFrames = [frame, 0]
+  
+  const candidates: string[] = []
+  for (const d of candidateDirs) {
+    for (const f of candidateFrames) {
+      candidates.push(assetName(className, size, letter, d, f))
+    }
+  }
+
   let chosen: string | null = null
   for (const c of candidates) {
     if (bundle.assets[c]) {
@@ -129,15 +135,34 @@ async function addLayer(
       break
     }
   }
-  if (!chosen) return
+
+  if (!chosen) {
+    // Si même le frame 0 de la direction par défaut manque, 
+    // on cherche n'importe quel asset qui commence par le même préfixe (couche)
+    const prefix = `${className}_${size}_${letter}_`
+    const fallbackAsset = Object.keys(bundle.assets).find(k => k.startsWith(prefix))
+    if (fallbackAsset) {
+      chosen = fallbackAsset
+    } else {
+      return
+    }
+  }
 
   const asset = bundle.assets[chosen]
   const sourceName = asset.source ?? chosen
-  const file = `${BASE_PATH}/${className}/${sourceName}.png`
+  const file = `${basePath}/${className}/${sourceName}.png`
+  
   let tex: Texture
   try {
-    tex = (await Assets.load(file)) as Texture
-  } catch {
+    // Vérifier si l'asset est déjà chargé pour éviter des erreurs Pixi
+    if (Assets.cache.has(file)) {
+      tex = Assets.get(file)
+    } else {
+      tex = (await Assets.load(file)) as Texture
+    }
+  } catch (err) {
+    // Si 404, on ne réessaie pas pour ce sprite précis
+    console.warn(`[HabboFurniLoader] Failed to load asset: ${file}`)
     return
   }
 
@@ -149,12 +174,15 @@ async function addLayer(
   const y = -asset.y + (opts.dy ?? 0)
   sprite.position.set(x, y)
   sprite.zIndex = opts.z
+  
   if (opts.alpha !== undefined) sprite.alpha = opts.alpha / 255
   if (opts.ink && INK_TO_BLEND[opts.ink]) sprite.blendMode = INK_TO_BLEND[opts.ink]
   if (opts.color) {
     const rgb = parseInt(opts.color, 16)
     if (!Number.isNaN(rgb)) sprite.tint = rgb
   }
+  
   sprite.eventMode = opts.ignoreMouse ? 'none' : 'static'
   container.addChild(sprite)
 }
+

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 111885401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 707e4bf7b75695efae9023bd7298c4f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_visualization.xml
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_64_sd_0_0.png
+- Assets/Live/ltd_habberge2/flash/index.xml
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_logic.xml
+- Assets/Live/ltd_habberge2/ltd_habberge2.xml
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_assets.xml
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_64_a_0_0.png
+- Assets/Live/ltd_habberge2/flash/ltd_habberge2_icon_a.png
+- Assets/Live/ltd_habberge2/flash/manifest.xml
+Dependencies: []

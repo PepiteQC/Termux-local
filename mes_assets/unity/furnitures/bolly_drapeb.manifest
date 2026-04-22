@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3313357185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fc83d5e1edd49725618367911bc3466
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_d_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_i_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_e_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_h_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_a_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_g_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_visualization.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_f_0_0.png
+- Assets/Live/bolly_drapeb/bolly_drapeb.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_g_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_c_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_i_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_assets.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_icon_a.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_logic.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_d_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_j_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_b_0_0.png
+- Assets/Live/bolly_drapeb/flash/index.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_b_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_f_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_sd_0_0.png
+- Assets/Live/bolly_drapeb/flash/manifest.xml
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_h_0_0.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_j_0_1.png
+- Assets/Live/bolly_drapeb/flash/bolly_drapeb_64_c_0_0.png
+Dependencies: []

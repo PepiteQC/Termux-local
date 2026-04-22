@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3710249773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f09d369aa2bb637db3b6001d9674e90e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_logic.xml
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_64_a_0_0.png
+- Assets/Live/easter_c17_blkberryjam/flash/index.xml
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_64_sd_0_0.png
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_icon_a.png
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_assets.xml
+- Assets/Live/easter_c17_blkberryjam/easter_c17_blkberryjam.xml
+- Assets/Live/easter_c17_blkberryjam/flash/manifest.xml
+- Assets/Live/easter_c17_blkberryjam/flash/easter_c17_blkberryjam_visualization.xml
+Dependencies: []

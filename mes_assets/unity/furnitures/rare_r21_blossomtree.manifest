@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3138545924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99008125d28efe3ba7d4c2af78797f5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_icon_a.png
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_64_a_0_0.png
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_assets.xml
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_visualization.xml
+- Assets/Live/rare_r21_blossomtree/rare_r21_blossomtree.xml
+- Assets/Live/rare_r21_blossomtree/flash/index.xml
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_64_sd_0_0.png
+- Assets/Live/rare_r21_blossomtree/flash/rare_r21_blossomtree_logic.xml
+- Assets/Live/rare_r21_blossomtree/flash/manifest.xml
+Dependencies: []

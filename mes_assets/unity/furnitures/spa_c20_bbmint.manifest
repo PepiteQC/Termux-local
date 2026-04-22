@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 90682227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 129b60a0c192d0359562d08ca8c08ee7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_64_a_2_0.png
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_visualization.xml
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_64_b_2_0.png
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_icon_a.png
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_logic.xml
+- Assets/Live/spa_c20_bbmint/flash/index.xml
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_64_c_2_0.png
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_64_sd_2_0.png
+- Assets/Live/spa_c20_bbmint/flash/spa_c20_bbmint_assets.xml
+- Assets/Live/spa_c20_bbmint/flash/manifest.xml
+- Assets/Live/spa_c20_bbmint/spa_c20_bbmint.xml
+Dependencies: []

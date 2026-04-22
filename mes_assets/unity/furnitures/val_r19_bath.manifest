@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1630003074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6541b19400c42fde9e51d53c37a12bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_l_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_i_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_assets.xml
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_l_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_g_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_h_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_f_2_3.png
+- Assets/Live/val_r19_bath/val_r19_bath.xml
+- Assets/Live/val_r19_bath/flash/manifest.xml
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_f_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_j_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_e_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_g_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_j_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_logic.xml
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_i_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_c_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_d_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_f_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_j_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_h_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_g_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_i_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_l_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_g_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_h_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_l_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_k_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_e_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_j_2_3.png
+- Assets/Live/val_r19_bath/flash/index.xml
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_k_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_h_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_l_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_e_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_k_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_k_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_i_2_1.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_sd_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_a_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_icon_a.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_i_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_f_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_h_2_4.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_j_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_e_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_e_2_3.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_g_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_visualization.xml
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_b_2_0.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_f_2_2.png
+- Assets/Live/val_r19_bath/flash/val_r19_bath_64_k_2_4.png
+Dependencies: []

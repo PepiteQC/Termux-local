@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 261687234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e0ce500767d11e7028d64df2cc3038d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_assets.xml
+- Assets/Live/party_nt_neon4/flash/manifest.xml
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_c_2_0.png
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_d_2_0.png
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_b_2_0.png
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_d_2_1.png
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_icon_a.png
+- Assets/Live/party_nt_neon4/party_nt_neon4.xml
+- Assets/Live/party_nt_neon4/flash/index.xml
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_visualization.xml
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_c_2_1.png
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_logic.xml
+- Assets/Live/party_nt_neon4/flash/party_nt_neon4_64_a_2_0.png
+Dependencies: []

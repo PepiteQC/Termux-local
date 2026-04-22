@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1198447170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a0fa40a4da596f2a0d2e15ed9f1491c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_bones/flash/anc_bones_64_a_4_1.png
+- Assets/Live/anc_bones/anc_bones.xml
+- Assets/Live/anc_bones/flash/anc_bones_64_a_4_0.png
+- Assets/Live/anc_bones/flash/anc_bones_64_a_4_3.png
+- Assets/Live/anc_bones/flash/anc_bones_assets.xml
+- Assets/Live/anc_bones/flash/anc_bones_visualization.xml
+- Assets/Live/anc_bones/flash/manifest.xml
+- Assets/Live/anc_bones/flash/anc_bones_logic.xml
+- Assets/Live/anc_bones/flash/anc_bones_icon_a.png
+- Assets/Live/anc_bones/flash/anc_bones_64_a_4_2.png
+- Assets/Live/anc_bones/flash/index.xml
+Dependencies: []

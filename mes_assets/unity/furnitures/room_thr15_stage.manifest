@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3163094164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39adb3b1d7c19f27d300d7f098cfa9f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_c_0_0.png
+- Assets/Live/room_thr15_stage/flash/manifest.xml
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_l_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_visualization.xml
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_a_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_k_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_g_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_i_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_assets.xml
+- Assets/Live/room_thr15_stage/room_thr15_stage.xml
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_e_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_logic.xml
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_h_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_b_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_f_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_j_0_0.png
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_64_d_0_0.png
+- Assets/Live/room_thr15_stage/flash/index.xml
+- Assets/Live/room_thr15_stage/flash/room_thr15_stage_icon_a.png
+Dependencies: []

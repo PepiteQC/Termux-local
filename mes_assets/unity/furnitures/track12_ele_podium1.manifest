@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3178929413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69b554eb68b13afb12bbc06b320acd0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_assets.xml
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_64_a_0_1.png
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_64_a_0_0.png
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_logic.xml
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_icon_a.png
+- Assets/Live/track12_ele_podium1/flash/index.xml
+- Assets/Live/track12_ele_podium1/track12_ele_podium1.xml
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_visualization.xml
+- Assets/Live/track12_ele_podium1/flash/manifest.xml
+- Assets/Live/track12_ele_podium1/flash/track12_ele_podium1_64_a_0_2.png
+Dependencies: []

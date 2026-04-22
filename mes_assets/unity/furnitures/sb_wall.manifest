@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4161281233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfdc44bcfe1c45d51786f8304ef25f14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sb_wall/flash/sb_wall_assets.xml
+- Assets/Live/sb_wall/flash/sb_wall_icon_a.png
+- Assets/Live/sb_wall/flash/manifest.xml
+- Assets/Live/sb_wall/flash/sb_wall_64_a_2_0.png
+- Assets/Live/sb_wall/flash/sb_wall_logic.xml
+- Assets/Live/sb_wall/flash/sb_wall_64_a_4_0.png
+- Assets/Live/sb_wall/sb_wall.xml
+- Assets/Live/sb_wall/flash/sb_wall_visualization.xml
+- Assets/Live/sb_wall/flash/index.xml
+Dependencies: []

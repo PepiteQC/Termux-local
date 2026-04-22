@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1397882626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f27e876ec1739ee41b4b5dc21d4ee45e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_b_0_0.png
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_visualization.xml
+- Assets/Live/xmas_c16_tinychair/xmas_c16_tinychair.xml
+- Assets/Live/xmas_c16_tinychair/flash/index.xml
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_icon_a.png
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_assets.xml
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_a_0_0.png
+- Assets/Live/xmas_c16_tinychair/flash/manifest.xml
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_b_4_0.png
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_logic.xml
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_a_4_0.png
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_sd_4_0.png
+- Assets/Live/xmas_c16_tinychair/flash/xmas_c16_tinychair_64_sd_0_0.png
+Dependencies: []

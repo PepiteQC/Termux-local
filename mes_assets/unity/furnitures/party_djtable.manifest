@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1867041692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af13a1d200ffc16e4021aaf5abf67b97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_4.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_3.png
+- Assets/Live/party_djtable/flash/party_djtable_visualization.xml
+- Assets/Live/party_djtable/flash/manifest.xml
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_5.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_1.png
+- Assets/Live/party_djtable/flash/party_djtable_64_a_6_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_3.png
+- Assets/Live/party_djtable/flash/party_djtable_64_d_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_2.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_5.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_4.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_4.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_0.png
+- Assets/Live/party_djtable/flash/party_djtable_logic.xml
+- Assets/Live/party_djtable/flash/index.xml
+- Assets/Live/party_djtable/party_djtable.xml
+- Assets/Live/party_djtable/flash/party_djtable_64_b_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_a_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_c_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_icon_a.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_5.png
+- Assets/Live/party_djtable/flash/party_djtable_assets.xml
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_5.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_3.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_1.png
+- Assets/Live/party_djtable/flash/party_djtable_64_c_6_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_4.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_4_2.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_6_1.png
+- Assets/Live/party_djtable/flash/party_djtable_64_sd_2_0.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_2.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_3.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_0_2.png
+- Assets/Live/party_djtable/flash/party_djtable_64_e_2_1.png
+Dependencies: []

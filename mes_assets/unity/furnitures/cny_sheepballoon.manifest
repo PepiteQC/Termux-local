@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2019456927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e022a28571d1e0ee4601b2479879e39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_icon_a.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_sd_0_0.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_4.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_logic.xml
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_9.png
+- Assets/Live/cny_sheepballoon/flash/manifest.xml
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_0.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_visualization.xml
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_1.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_5.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_assets.xml
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_6.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_7.png
+- Assets/Live/cny_sheepballoon/cny_sheepballoon.xml
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_8.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_2.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_3.png
+- Assets/Live/cny_sheepballoon/flash/cny_sheepballoon_64_a_0_10.png
+- Assets/Live/cny_sheepballoon/flash/index.xml
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2276703457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c652856779a51b8005d876b7f3c3f84b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mall_winmus/ads_mall_winmus.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_logic.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_assets.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_d_2_0.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_c_2_0.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_c_4_0.png
+- Assets/Live/ads_mall_winmus/flash/manifest.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_d_4_0.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_visualization.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_b_2_0.png
+- Assets/Live/ads_mall_winmus/flash/index.xml
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_a_4_0.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_icon_a.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_b_4_0.png
+- Assets/Live/ads_mall_winmus/flash/ads_mall_winmus_64_a_2_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 806369113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5b05e4f6fdb1ee4f873a648bff52ced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_64_a_2_0.png
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_icon_a.png
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_64_b_2_0.png
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_visualization.xml
+- Assets/Live/tiki_c15_leigiver/flash/index.xml
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_64_b_2_1.png
+- Assets/Live/tiki_c15_leigiver/flash/manifest.xml
+- Assets/Live/tiki_c15_leigiver/tiki_c15_leigiver.xml
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_assets.xml
+- Assets/Live/tiki_c15_leigiver/flash/tiki_c15_leigiver_logic.xml
+Dependencies: []

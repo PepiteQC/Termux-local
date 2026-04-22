@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1047738588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 440458bd6f009f73abeff322642e4692
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_64_d_0_0.png
+- Assets/Live/pixel_bed_black/flash/manifest.xml
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_visualization.xml
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_64_a_0_0.png
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_64_b_0_0.png
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_assets.xml
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_64_c_0_0.png
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_64_sd_0_0.png
+- Assets/Live/pixel_bed_black/pixel_bed_black.xml
+- Assets/Live/pixel_bed_black/flash/index.xml
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_logic.xml
+- Assets/Live/pixel_bed_black/flash/pixel_bed_black_icon_a.png
+Dependencies: []

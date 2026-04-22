@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 770548944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3c385119a593a6cfd7c6a7ecf38e7c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_trash/flash/ktchn_trash_icon_a.png
+- Assets/Live/ktchn_trash/flash/ktchn_trash_64_a_0_1.png
+- Assets/Live/ktchn_trash/flash/ktchn_trash_assets.xml
+- Assets/Live/ktchn_trash/flash/ktchn_trash_logic.xml
+- Assets/Live/ktchn_trash/flash/index.xml
+- Assets/Live/ktchn_trash/flash/manifest.xml
+- Assets/Live/ktchn_trash/flash/ktchn_trash_64_sd_0_0.png
+- Assets/Live/ktchn_trash/flash/ktchn_trash_visualization.xml
+- Assets/Live/ktchn_trash/flash/ktchn_trash_64_a_0_0.png
+- Assets/Live/ktchn_trash/ktchn_trash.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3892349102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50adc2f641a891d96db93b99d86fd3a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_64_sd_0_0.png
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_visualization.xml
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_assets.xml
+- Assets/Live/clothing_r17_sentinelhelm/flash/manifest.xml
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_logic.xml
+- Assets/Live/clothing_r17_sentinelhelm/flash/index.xml
+- Assets/Live/clothing_r17_sentinelhelm/clothing_r17_sentinelhelm.xml
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_icon_a.png
+- Assets/Live/clothing_r17_sentinelhelm/flash/clothing_r17_sentinelhelm_64_a_0_0.png
+Dependencies: []

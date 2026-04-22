@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1262281793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dea1af0cb01c58cdc68cd84fad8431ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_5.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_0.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_6.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_0.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_3.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_6.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_logic.xml
+- Assets/Live/wf_trg_period_long/wf_trg_period_long.xml
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_visualization.xml
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_1.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_4.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_5.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_3.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_4.png
+- Assets/Live/wf_trg_period_long/flash/manifest.xml
+- Assets/Live/wf_trg_period_long/flash/index.xml
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_1.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_icon_a.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_0_2.png
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_assets.xml
+- Assets/Live/wf_trg_period_long/flash/wf_trg_period_long_64_a_6_2.png
+Dependencies: []

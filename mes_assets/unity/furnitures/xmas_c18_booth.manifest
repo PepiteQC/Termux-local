@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1507871928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 208baab6868e2faa11a96b400b526333
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_booth/xmas_c18_booth.xml
+- Assets/Live/xmas_c18_booth/flash/manifest.xml
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_assets.xml
+- Assets/Live/xmas_c18_booth/flash/index.xml
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_c_4_0.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_a_4_0.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_icon_a.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_sd_4_0.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_d_4_0.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_b_4_0.png
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_logic.xml
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_visualization.xml
+- Assets/Live/xmas_c18_booth/flash/xmas_c18_booth_64_c_4_1.png
+Dependencies: []

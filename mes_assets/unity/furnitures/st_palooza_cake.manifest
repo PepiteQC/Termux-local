@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4051690928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4138f0e99299911e5f41ee5658c0eb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_64_a_4_0.png
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_assets.xml
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_logic.xml
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_64_a_4_1.png
+- Assets/Live/st_palooza_cake/flash/index.xml
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_visualization.xml
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_64_sd_4_0.png
+- Assets/Live/st_palooza_cake/st_palooza_cake.xml
+- Assets/Live/st_palooza_cake/flash/manifest.xml
+- Assets/Live/st_palooza_cake/flash/st_palooza_cake_icon_a.png
+Dependencies: []

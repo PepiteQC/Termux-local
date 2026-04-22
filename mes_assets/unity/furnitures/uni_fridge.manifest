@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 852362423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2b4ac15197cd062e83c677ff24afeaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_fridge/flash/uni_fridge_64_sd_0_0.png
+- Assets/Live/uni_fridge/flash/uni_fridge_64_a_0_1.png
+- Assets/Live/uni_fridge/flash/uni_fridge_64_a_0_0.png
+- Assets/Live/uni_fridge/flash/uni_fridge_assets.xml
+- Assets/Live/uni_fridge/flash/index.xml
+- Assets/Live/uni_fridge/uni_fridge.xml
+- Assets/Live/uni_fridge/flash/manifest.xml
+- Assets/Live/uni_fridge/flash/uni_fridge_icon_a.png
+- Assets/Live/uni_fridge/flash/uni_fridge_visualization.xml
+- Assets/Live/uni_fridge/flash/uni_fridge_logic.xml
+Dependencies: []

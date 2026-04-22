@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1613430150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f326edc75f41bcca38b2c7ed7a1649c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_star/flash/cine_star_64_a_0_0.png
+- Assets/Live/cine_star/flash/cine_star_icon_a.png
+- Assets/Live/cine_star/flash/index.xml
+- Assets/Live/cine_star/flash/manifest.xml
+- Assets/Live/cine_star/flash/cine_star_visualization.xml
+- Assets/Live/cine_star/flash/cine_star_assets.xml
+- Assets/Live/cine_star/flash/cine_star_64_a_2_0.png
+- Assets/Live/cine_star/flash/cine_star_logic.xml
+- Assets/Live/cine_star/cine_star.xml
+Dependencies: []

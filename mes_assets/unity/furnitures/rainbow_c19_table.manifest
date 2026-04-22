@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1781007710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5ae36a414becbdbfbcb65eacd895e44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_c19_table/flash/index.xml
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_icon_a.png
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_visualization.xml
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_64_a_0_0.png
+- Assets/Live/rainbow_c19_table/flash/manifest.xml
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_logic.xml
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_assets.xml
+- Assets/Live/rainbow_c19_table/flash/rainbow_c19_table_64_sd_0_0.png
+- Assets/Live/rainbow_c19_table/rainbow_c19_table.xml
+Dependencies: []

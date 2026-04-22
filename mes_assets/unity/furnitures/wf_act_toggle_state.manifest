@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2576943905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba0fa29ba48ad42ac2602248eea9060
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_0.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_logic.xml
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_assets.xml
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_8.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_4.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_6.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_2.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_visualization.xml
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_3.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_icon_a.png
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_5.png
+- Assets/Live/wf_act_toggle_state/flash/index.xml
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_7.png
+- Assets/Live/wf_act_toggle_state/wf_act_toggle_state.xml
+- Assets/Live/wf_act_toggle_state/flash/manifest.xml
+- Assets/Live/wf_act_toggle_state/flash/wf_act_toggle_state_64_a_0_1.png
+Dependencies: []

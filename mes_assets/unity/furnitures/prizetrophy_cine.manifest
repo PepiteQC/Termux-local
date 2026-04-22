@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2050136168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fef2c9991a8f49aaac455aed689e42f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_cine/flash/manifest.xml
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_logic.xml
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_64_b_2_0.png
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_64_a_2_0.png
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_assets.xml
+- Assets/Live/prizetrophy_cine/prizetrophy_cine.xml
+- Assets/Live/prizetrophy_cine/flash/index.xml
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_icon_a.png
+- Assets/Live/prizetrophy_cine/flash/prizetrophy_cine_visualization.xml
+Dependencies: []

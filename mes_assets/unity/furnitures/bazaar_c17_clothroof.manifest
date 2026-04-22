@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2878154535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 229e7a1e56f8838e160470d685e582ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_assets.xml
+- Assets/Live/bazaar_c17_clothroof/flash/index.xml
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_icon_a.png
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_visualization.xml
+- Assets/Live/bazaar_c17_clothroof/flash/manifest.xml
+- Assets/Live/bazaar_c17_clothroof/bazaar_c17_clothroof.xml
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_64_a_0_0.png
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_logic.xml
+- Assets/Live/bazaar_c17_clothroof/flash/bazaar_c17_clothroof_64_a_0_1.png
+Dependencies: []

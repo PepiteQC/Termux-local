@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2126009114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 961ac9152487b4c10cb629e1b10b3945
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r20_cyborgwings/flash/manifest.xml
+- Assets/Live/clothing_r20_cyborgwings/flash/index.xml
+- Assets/Live/clothing_r20_cyborgwings/clothing_r20_cyborgwings.xml
+- Assets/Live/clothing_r20_cyborgwings/flash/clothing_r20_cyborgwings_icon_a.png
+- Assets/Live/clothing_r20_cyborgwings/flash/clothing_r20_cyborgwings_assets.xml
+- Assets/Live/clothing_r20_cyborgwings/flash/clothing_r20_cyborgwings_visualization.xml
+- Assets/Live/clothing_r20_cyborgwings/flash/clothing_r20_cyborgwings_64_a_0_0.png
+- Assets/Live/clothing_r20_cyborgwings/flash/clothing_r20_cyborgwings_logic.xml
+Dependencies: []

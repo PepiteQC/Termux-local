@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2481891419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66e51cc78ab2978b19e06a730f81172d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_icon_a.png
+- Assets/Live/wildwest_milkcan/flash/manifest.xml
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_64_a_4_2.png
+- Assets/Live/wildwest_milkcan/wildwest_milkcan.xml
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_logic.xml
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_assets.xml
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_64_a_4_1.png
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_visualization.xml
+- Assets/Live/wildwest_milkcan/flash/index.xml
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_64_a_4_3.png
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_64_a_4_4.png
+- Assets/Live/wildwest_milkcan/flash/wildwest_milkcan_64_a_4_0.png
+Dependencies: []

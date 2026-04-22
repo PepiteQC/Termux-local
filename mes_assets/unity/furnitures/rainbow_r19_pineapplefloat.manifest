@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2333093313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e273548bf47c92ce37691f4b402fd35f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_64_a_0_1.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_64_a_0_0.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_64_b_0_1.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_64_b_0_0.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_assets.xml
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_logic.xml
+- Assets/Live/rainbow_r19_pineapplefloat/rainbow_r19_pineapplefloat.xml
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_visualization.xml
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_icon_a.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/manifest.xml
+- Assets/Live/rainbow_r19_pineapplefloat/flash/rainbow_r19_pineapplefloat_64_sd_0_0.png
+- Assets/Live/rainbow_r19_pineapplefloat/flash/index.xml
+Dependencies: []

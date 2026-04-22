@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1526522111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c2bebe816bd891eafd910c8d85766b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_gamershelf/flash/manifest.xml
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_assets.xml
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_visualization.xml
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_d_4_0.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_d_4_2.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_b_4_0.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_c_4_1.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_c_4_0.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_icon_a.png
+- Assets/Live/uni_gamershelf/flash/index.xml
+- Assets/Live/uni_gamershelf/uni_gamershelf.xml
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_logic.xml
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_a_4_0.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_sd_4_0.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_d_4_1.png
+- Assets/Live/uni_gamershelf/flash/uni_gamershelf_64_c_4_2.png
+Dependencies: []

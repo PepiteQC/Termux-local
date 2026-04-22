@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3713591090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc282e88b5ae53e184969c6b7d88417c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_64_b_0_0.png
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_icon_a.png
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_64_d_0_0.png
+- Assets/Live/bc_flowerhedge/flash/index.xml
+- Assets/Live/bc_flowerhedge/flash/manifest.xml
+- Assets/Live/bc_flowerhedge/bc_flowerhedge.xml
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_64_a_0_0.png
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_assets.xml
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_64_c_0_0.png
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_logic.xml
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_visualization.xml
+- Assets/Live/bc_flowerhedge/flash/bc_flowerhedge_icon_b.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 184785802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa414aa9942616077b25ef3297d27b9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_3.png
+- Assets/Live/runway_fabric/flash/index.xml
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_4.png
+- Assets/Live/runway_fabric/flash/manifest.xml
+- Assets/Live/runway_fabric/flash/runway_fabric_logic.xml
+- Assets/Live/runway_fabric/flash/runway_fabric_visualization.xml
+- Assets/Live/runway_fabric/runway_fabric.xml
+- Assets/Live/runway_fabric/flash/runway_fabric_assets.xml
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_0.png
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_6.png
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_2.png
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_1.png
+- Assets/Live/runway_fabric/flash/runway_fabric_icon_a.png
+- Assets/Live/runway_fabric/flash/runway_fabric_64_a_2_5.png
+Dependencies: []

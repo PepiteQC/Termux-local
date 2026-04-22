@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 206342192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d55e9c8aa643d67b2e7354dc0807ab0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_flo3/flash/garden_flo3_icon_a.png
+- Assets/Live/garden_flo3/flash/garden_flo3_visualization.xml
+- Assets/Live/garden_flo3/flash/manifest.xml
+- Assets/Live/garden_flo3/flash/garden_flo3_64_a_0_0.png
+- Assets/Live/garden_flo3/flash/garden_flo3_logic.xml
+- Assets/Live/garden_flo3/flash/index.xml
+- Assets/Live/garden_flo3/flash/garden_flo3_64_a_2_0.png
+- Assets/Live/garden_flo3/flash/garden_flo3_64_b_0_0.png
+- Assets/Live/garden_flo3/flash/garden_flo3_64_b_2_0.png
+- Assets/Live/garden_flo3/garden_flo3.xml
+- Assets/Live/garden_flo3/flash/garden_flo3_assets.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1818790322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c96c23e36add0fdff0093943cbb68ef8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_logic.xml
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_64_sd_0_0.png
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_icon_a.png
+- Assets/Live/jp_r18_asiandoll/jp_r18_asiandoll.xml
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_64_a_0_1.png
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_assets.xml
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_visualization.xml
+- Assets/Live/jp_r18_asiandoll/flash/manifest.xml
+- Assets/Live/jp_r18_asiandoll/flash/index.xml
+- Assets/Live/jp_r18_asiandoll/flash/jp_r18_asiandoll_64_a_0_0.png
+Dependencies: []

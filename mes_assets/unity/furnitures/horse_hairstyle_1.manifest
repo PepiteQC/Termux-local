@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3848053419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f37fd97befb482868d6674b89d03ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_hairstyle_1/flash/horse_hairstyle_1_64_a_2_0.png
+- Assets/Live/horse_hairstyle_1/flash/index.xml
+- Assets/Live/horse_hairstyle_1/flash/horse_hairstyle_1_icon_a.png
+- Assets/Live/horse_hairstyle_1/flash/horse_hairstyle_1_assets.xml
+- Assets/Live/horse_hairstyle_1/horse_hairstyle_1.xml
+- Assets/Live/horse_hairstyle_1/flash/manifest.xml
+- Assets/Live/horse_hairstyle_1/flash/horse_hairstyle_1_visualization.xml
+- Assets/Live/horse_hairstyle_1/flash/horse_hairstyle_1_logic.xml
+Dependencies: []

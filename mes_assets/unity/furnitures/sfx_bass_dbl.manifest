@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3346865250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbc44d0dce68b8bdb9b47d121ff8fe0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_logic.xml
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_icon.png
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_assets.xml
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_visualization.xml
+- Assets/Live/sfx_bass_dbl/sfx_bass_dbl.xml
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_64_a_0_2.png
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_64_a_0_1.png
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_64_a_0_0.png
+- Assets/Live/sfx_bass_dbl/flash/manifest.xml
+- Assets/Live/sfx_bass_dbl/flash/index.xml
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_64_sd_0_0.png
+- Assets/Live/sfx_bass_dbl/flash/sfx_bass_dbl_icon_a.png
+Dependencies: []

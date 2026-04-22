@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2234392909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7dc464ca686052bbcdf03190525ae079
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_dog/flash/index.xml
+- Assets/Live/china_dog/flash/china_dog_64_sd_0_0.png
+- Assets/Live/china_dog/china_dog.xml
+- Assets/Live/china_dog/flash/china_dog_64_a_0_0.png
+- Assets/Live/china_dog/flash/china_dog_icon_a.png
+- Assets/Live/china_dog/flash/china_dog_visualization.xml
+- Assets/Live/china_dog/flash/china_dog_assets.xml
+- Assets/Live/china_dog/flash/china_dog_logic.xml
+- Assets/Live/china_dog/flash/manifest.xml
+Dependencies: []

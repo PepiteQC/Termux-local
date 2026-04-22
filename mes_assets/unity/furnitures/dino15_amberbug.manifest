@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1752150954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bdf1d41dd9acc7a9eef111f2965b7cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_64_a_4_0.png
+- Assets/Live/dino15_amberbug/dino15_amberbug.xml
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_visualization.xml
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_assets.xml
+- Assets/Live/dino15_amberbug/flash/manifest.xml
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_logic.xml
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_64_sd_4_0.png
+- Assets/Live/dino15_amberbug/flash/dino15_amberbug_icon_a.png
+- Assets/Live/dino15_amberbug/flash/index.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3310805660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7643daeb9ac79abaa85e5fa2667bb8a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_ptch6/flash/fball_ptch6_visualization.xml
+- Assets/Live/fball_ptch6/flash/fball_ptch6_assets.xml
+- Assets/Live/fball_ptch6/fball_ptch6.xml
+- Assets/Live/fball_ptch6/flash/fball_ptch6_64_c_0_0.png
+- Assets/Live/fball_ptch6/flash/fball_ptch6_64_c_2_0.png
+- Assets/Live/fball_ptch6/flash/fball_ptch6_64_a_0_0.png
+- Assets/Live/fball_ptch6/flash/fball_ptch6_64_b_0_0.png
+- Assets/Live/fball_ptch6/flash/index.xml
+- Assets/Live/fball_ptch6/flash/manifest.xml
+- Assets/Live/fball_ptch6/flash/fball_ptch6_icon_a.png
+- Assets/Live/fball_ptch6/flash/fball_ptch6_logic.xml
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2833317252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08a5c8e2a0ad3e50b7212d6284485ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/toy2/flash/toy2_64_a_0_2.png
+- Assets/Live/toy2/flash/toy2_64_a_0_0.png
+- Assets/Live/toy2/flash/toy2_64_a_0_4.png
+- Assets/Live/toy2/flash/toy2_64_a_0_1.png
+- Assets/Live/toy2/flash/manifest.xml
+- Assets/Live/toy2/flash/toy2_64_a_0_5.png
+- Assets/Live/toy2/flash/toy2_64_a_0_3.png
+- Assets/Live/toy2/flash/toy2_64_b_0_0.png
+- Assets/Live/toy2/flash/toy2_64_a_0_8.png
+- Assets/Live/toy2/flash/toy2_icon_a.png
+- Assets/Live/toy2/flash/toy2_logic.xml
+- Assets/Live/toy2/flash/toy2_64_a_0_6.png
+- Assets/Live/toy2/flash/toy2_64_a_0_9.png
+- Assets/Live/toy2/toy2.xml
+- Assets/Live/toy2/flash/toy2_assets.xml
+- Assets/Live/toy2/flash/toy2_64_a_0_7.png
+- Assets/Live/toy2/flash/toy2_visualization.xml
+- Assets/Live/toy2/flash/index.xml
+Dependencies: []

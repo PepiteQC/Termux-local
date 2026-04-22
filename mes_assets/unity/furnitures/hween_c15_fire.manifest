@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 672590789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b0d73ae9b677d79b7f68164545d8b6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_b_0_0.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_assets.xml
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_c_0_0.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_b_0_1.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_logic.xml
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_b_0_4.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_visualization.xml
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_a_0_4.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_a_0_0.png
+- Assets/Live/hween_c15_fire/flash/manifest.xml
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_a_0_2.png
+- Assets/Live/hween_c15_fire/flash/index.xml
+- Assets/Live/hween_c15_fire/hween_c15_fire.xml
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_b_0_2.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_c_0_2.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_icon_a.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_c_0_3.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_c_0_1.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_a_0_1.png
+- Assets/Live/hween_c15_fire/flash/hween_c15_fire_64_b_0_3.png
+Dependencies: []

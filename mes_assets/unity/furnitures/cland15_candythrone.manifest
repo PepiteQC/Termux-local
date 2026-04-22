@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4088052442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bed9f97614996d15d8174e731085ee81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland15_candythrone/flash/index.xml
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_logic.xml
+- Assets/Live/cland15_candythrone/cland15_candythrone.xml
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_64_a_4_0.png
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_icon_a.png
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_visualization.xml
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_assets.xml
+- Assets/Live/cland15_candythrone/flash/cland15_candythrone_64_b_4_0.png
+- Assets/Live/cland15_candythrone/flash/manifest.xml
+Dependencies: []

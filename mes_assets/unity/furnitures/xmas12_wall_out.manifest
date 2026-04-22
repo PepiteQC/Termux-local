@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2103595637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11ff5c60011efc2e5b5271effb46c94a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_64_a_2_0.png
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_64_a_2_1.png
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_assets.xml
+- Assets/Live/xmas12_wall_out/xmas12_wall_out.xml
+- Assets/Live/xmas12_wall_out/flash/index.xml
+- Assets/Live/xmas12_wall_out/flash/manifest.xml
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_64_a_4_1.png
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_64_a_4_0.png
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_visualization.xml
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_icon_a.png
+- Assets/Live/xmas12_wall_out/flash/xmas12_wall_out_logic.xml
+Dependencies: []

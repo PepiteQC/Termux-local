@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3054852578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbbb6ba1664db95fb4c52eaca8eee416
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/present_gen/flash/present_gen_assets.xml
+- Assets/Live/present_gen/flash/index.xml
+- Assets/Live/present_gen/flash/present_gen_64_a_0_0.png
+- Assets/Live/present_gen/present_gen.xml
+- Assets/Live/present_gen/flash/manifest.xml
+- Assets/Live/present_gen/flash/present_gen_logic.xml
+- Assets/Live/present_gen/flash/present_gen_visualization.xml
+- Assets/Live/present_gen/flash/present_gen_icon_a.png
+Dependencies: []

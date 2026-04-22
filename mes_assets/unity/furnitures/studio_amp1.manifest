@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1035219342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 977e965d9ea2b9ff8c10f7562eabd913
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_amp1/flash/studio_amp1_logic.xml
+- Assets/Live/studio_amp1/studio_amp1.xml
+- Assets/Live/studio_amp1/flash/studio_amp1_64_a_6_0.png
+- Assets/Live/studio_amp1/flash/studio_amp1_icon_a.png
+- Assets/Live/studio_amp1/flash/studio_amp1_64_b_0_0.png
+- Assets/Live/studio_amp1/flash/studio_amp1_64_sd_6_0.png
+- Assets/Live/studio_amp1/flash/studio_amp1_visualization.xml
+- Assets/Live/studio_amp1/flash/studio_amp1_64_a_0_0.png
+- Assets/Live/studio_amp1/flash/manifest.xml
+- Assets/Live/studio_amp1/flash/studio_amp1_64_sd_0_0.png
+- Assets/Live/studio_amp1/flash/index.xml
+- Assets/Live/studio_amp1/flash/studio_amp1_64_b_6_0.png
+- Assets/Live/studio_amp1/flash/studio_amp1_assets.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1506158400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f14b6a6ad0f2f164f5ac82b13de1563
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_64_b_0_0.png
+- Assets/Live/xmas2011_icefall/flash/index.xml
+- Assets/Live/xmas2011_icefall/xmas2011_icefall.xml
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_logic.xml
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_assets.xml
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_64_a_0_1.png
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_64_a_0_0.png
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_icon_a.png
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_64_b_0_2.png
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_visualization.xml
+- Assets/Live/xmas2011_icefall/flash/xmas2011_icefall_64_b_0_1.png
+- Assets/Live/xmas2011_icefall/flash/manifest.xml
+Dependencies: []

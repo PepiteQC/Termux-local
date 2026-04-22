@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1788976327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8d6c871a2fa6680cc1e1ebaa8cd1beb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_1.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_sd_6_0.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_c_6_0.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_icon_a.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_2.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_4.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_assets.xml
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_5.png
+- Assets/Live/xmas12_santathrone/xmas12_santathrone.xml
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_logic.xml
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_visualization.xml
+- Assets/Live/xmas12_santathrone/flash/manifest.xml
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_0.png
+- Assets/Live/xmas12_santathrone/flash/index.xml
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_b_6_3.png
+- Assets/Live/xmas12_santathrone/flash/xmas12_santathrone_64_a_6_0.png
+Dependencies: []

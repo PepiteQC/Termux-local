@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1026835080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 672295478cd8c9b5ac7306a07fdc8cc2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_icon_a.png
+- Assets/Live/easter_c20_camprug/flash/index.xml
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_visualization.xml
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_logic.xml
+- Assets/Live/easter_c20_camprug/easter_c20_camprug.xml
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_64_a_0_0.png
+- Assets/Live/easter_c20_camprug/flash/manifest.xml
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_assets.xml
+- Assets/Live/easter_c20_camprug/flash/easter_c20_camprug_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,132 @@
+ManifestFileVersion: 0
+CRC: 2960851383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 608e1c69b03824e1f16aff8209ce6c1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_28.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_30.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_1.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_13.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_14.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_15.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_25.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_41.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_17.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_32.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_icon_a.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_45.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_b_4_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_46.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_a_4_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_8.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_1.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_6.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_32.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_38.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_15.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_16.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_48.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_18.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_4.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_20.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_34.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_9.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_22.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_21.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_43.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_2.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_36.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_23.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_10.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_7.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_12.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_44.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_8.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_16.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_34.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_31.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_20.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_39.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_47.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_24.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_31.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_19.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_33.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_46.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_d_2_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_5.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_28.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_13.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_27.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_18.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_41.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_33.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_17.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_11.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_assets.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_25.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_44.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_48.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_47.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_24.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_27.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_39.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_sd_2_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_29.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_12.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_29.png
+- Assets/Live/olympics_c16_adsboard/olympics_c16_adsboard.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_7.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_40.png
+- Assets/Live/olympics_c16_adsboard/flash/manifest.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_37.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_b_2_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_9.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_21.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_35.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_26.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_6.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_35.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_22.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_37.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_23.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_19.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_3.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_45.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_visualization.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_42.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_4.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_40.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_10.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_a_2_0.png
+- Assets/Live/olympics_c16_adsboard/flash/index.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_d_4_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_42.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_11.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_36.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_3.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_sd_4_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_43.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_logic.xml
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_2.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_0.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_5.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_30.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_4_14.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_26.png
+- Assets/Live/olympics_c16_adsboard/flash/olympics_c16_adsboard_64_c_2_38.png
+Dependencies: []

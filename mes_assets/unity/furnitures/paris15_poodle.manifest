@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 919047034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a906034aea8413b9fb668994893c75fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris15_poodle/flash/paris15_poodle_logic.xml
+- Assets/Live/paris15_poodle/flash/paris15_poodle_64_a_0_1.png
+- Assets/Live/paris15_poodle/flash/manifest.xml
+- Assets/Live/paris15_poodle/flash/paris15_poodle_visualization.xml
+- Assets/Live/paris15_poodle/flash/index.xml
+- Assets/Live/paris15_poodle/flash/paris15_poodle_64_a_0_0.png
+- Assets/Live/paris15_poodle/flash/paris15_poodle_64_sd_0_0.png
+- Assets/Live/paris15_poodle/flash/paris15_poodle_64_a_0_2.png
+- Assets/Live/paris15_poodle/flash/paris15_poodle_icon_a.png
+- Assets/Live/paris15_poodle/flash/paris15_poodle_64_a_0_3.png
+- Assets/Live/paris15_poodle/paris15_poodle.xml
+- Assets/Live/paris15_poodle/flash/paris15_poodle_assets.xml
+Dependencies: []

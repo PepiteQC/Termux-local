@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 1460773637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6aa8676d4f3b6aedbe712b79a9d08979
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hockey_score/flash/s_hockey_score_2_5.png
+- Assets/Live/hockey_score/flash/hockey_score_assets.xml
+- Assets/Live/hockey_score/flash/s_hockey_score_2_2.png
+- Assets/Live/hockey_score/flash/hockey_score_icon_a.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_0.png
+- Assets/Live/hockey_score/hockey_score.xml
+- Assets/Live/hockey_score/flash/s_hockey_score_2_4.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_9.png
+- Assets/Live/hockey_score/flash/hockey_score_4_1.png
+- Assets/Live/hockey_score/flash/index.xml
+- Assets/Live/hockey_score/flash/hockey_score_4_4.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_4.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_8.png
+- Assets/Live/hockey_score/flash/s_hockey_score_pixel.png
+- Assets/Live/hockey_score/flash/hockey_score_2_7.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_1.png
+- Assets/Live/hockey_score/flash/hockey_score_4_8.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_1.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_8.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_5.png
+- Assets/Live/hockey_score/flash/hockey_score_2_8.png
+- Assets/Live/hockey_score/flash/hockey_score_4_9.png
+- Assets/Live/hockey_score/flash/manifest.xml
+- Assets/Live/hockey_score/flash/s_hockey_score_2_3.png
+- Assets/Live/hockey_score/flash/hockey_score_pixel.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_6.png
+- Assets/Live/hockey_score/flash/hockey_score_2_1.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_2.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_6.png
+- Assets/Live/hockey_score/flash/hockey_score_64_e_2_0.png
+- Assets/Live/hockey_score/flash/hockey_score_64_b_2_0.png
+- Assets/Live/hockey_score/flash/hockey_score_2_2.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_0.png
+- Assets/Live/hockey_score/flash/hockey_score_2_0.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_7.png
+- Assets/Live/hockey_score/flash/hockey_score_4_5.png
+- Assets/Live/hockey_score/flash/hockey_score_small.png
+- Assets/Live/hockey_score/flash/hockey_score_4_0.png
+- Assets/Live/hockey_score/flash/hockey_score_visualization.xml
+- Assets/Live/hockey_score/flash/hockey_score_2_5.png
+- Assets/Live/hockey_score/flash/hockey_score_2_4.png
+- Assets/Live/hockey_score/flash/hockey_score_64_a_2_0.png
+- Assets/Live/hockey_score/flash/hockey_score_4_2.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_9.png
+- Assets/Live/hockey_score/flash/hockey_score_4_3.png
+- Assets/Live/hockey_score/flash/hockey_score_2_9.png
+- Assets/Live/hockey_score/flash/s_hockey_score_4_3.png
+- Assets/Live/hockey_score/flash/hockey_score_64_f_2_0.png
+- Assets/Live/hockey_score/flash/hockey_score_4_6.png
+- Assets/Live/hockey_score/flash/s_hockey_score_2_7.png
+- Assets/Live/hockey_score/flash/hockey_score_2_6.png
+- Assets/Live/hockey_score/flash/hockey_score_2_3.png
+- Assets/Live/hockey_score/flash/hockey_score_4_7.png
+- Assets/Live/hockey_score/flash/hockey_score_logic.xml
+Dependencies: []

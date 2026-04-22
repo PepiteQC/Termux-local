@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1709236358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec351a4bdaae655840c2417e89c3f22d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_visualization.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_64_a_0_0.png
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_assets.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_64_sd_0_0.png
+- Assets/Live/fest_c19_palm/flash/index.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_icon_a.png
+- Assets/Live/fest_c19_palm/fest_c19_palm.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_logic.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_64_b_0_1.png
+- Assets/Live/fest_c19_palm/flash/manifest.xml
+- Assets/Live/fest_c19_palm/flash/fest_c19_palm_64_b_0_0.png
+Dependencies: []

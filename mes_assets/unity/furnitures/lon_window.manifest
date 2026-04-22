@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2440268934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bca6266b65f67f543b1ff83045a5b532
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lon_window/flash/lon_window_logic.xml
+- Assets/Live/lon_window/flash/lon_window_64_a_2_1.png
+- Assets/Live/lon_window/lon_window.xml
+- Assets/Live/lon_window/flash/lon_window_64_a_0_0.png
+- Assets/Live/lon_window/flash/lon_window_64_d_0_0.png
+- Assets/Live/lon_window/flash/index.xml
+- Assets/Live/lon_window/flash/lon_window_64_b_0_1.png
+- Assets/Live/lon_window/flash/lon_window_visualization.xml
+- Assets/Live/lon_window/flash/lon_window_64_a_0_1.png
+- Assets/Live/lon_window/flash/lon_window_icon_a.png
+- Assets/Live/lon_window/flash/lon_window_64_b_2_1.png
+- Assets/Live/lon_window/flash/lon_window_64_c_2_0.png
+- Assets/Live/lon_window/flash/lon_window_64_b_2_0.png
+- Assets/Live/lon_window/flash/lon_window_assets.xml
+- Assets/Live/lon_window/flash/lon_window_64_d_2_0.png
+- Assets/Live/lon_window/flash/lon_window_64_a_2_0.png
+- Assets/Live/lon_window/flash/lon_window_64_c_0_1.png
+- Assets/Live/lon_window/flash/lon_window_64_d_2_1.png
+- Assets/Live/lon_window/flash/lon_window_64_c_2_1.png
+- Assets/Live/lon_window/flash/lon_window_64_d_0_1.png
+- Assets/Live/lon_window/flash/lon_window_64_c_0_0.png
+- Assets/Live/lon_window/flash/lon_window_64_b_0_0.png
+- Assets/Live/lon_window/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3953229923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b338d0f38d69b06feef4c31c0456eb14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_sage/flash/rare_sage_64_a_0_3.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_19.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_20.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_7.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_4.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_11.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_6_2.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_6.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_8.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_14.png
+- Assets/Live/rare_sage/flash/index.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_20.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_0_0.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_0_1.png
+- Assets/Live/rare_sage/flash/rare_sage_logic.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_5.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_6_3.png
+- Assets/Live/rare_sage/rare_sage.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_1.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_2.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_10.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_0.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_2.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_19.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_3.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_3.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_16.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_15.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_0.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_6.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_17.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_13.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_6_18.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_11.png
+- Assets/Live/rare_sage/flash/rare_sage_icon_a.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_0_4.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_6_1.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_0_2.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_8.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_16.png
+- Assets/Live/rare_sage/flash/rare_sage_assets.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_a_6_0.png
+- Assets/Live/rare_sage/flash/manifest.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_5.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_4.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_9.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_9.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_1.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_18.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_7.png
+- Assets/Live/rare_sage/flash/rare_sage_64_c_0_10.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_17.png
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_12.png
+- Assets/Live/rare_sage/flash/rare_sage_64_a_6_4.png
+- Assets/Live/rare_sage/flash/rare_sage_visualization.xml
+- Assets/Live/rare_sage/flash/rare_sage_64_b_0_15.png
+Dependencies: []

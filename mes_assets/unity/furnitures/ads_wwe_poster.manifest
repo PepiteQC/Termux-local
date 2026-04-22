@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3000385734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7b56480d1e358babc245d63207d96ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_icon_a.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_logic.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_64_b_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_32_a_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_64_a_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_logic.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_64_a_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_icon_a.png
+- Assets/Live/ads_wwe_poster/ads_wwe_poster.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_64_b_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_32_a_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_32_b_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/index.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_visualization.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/index.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_64_a_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_assets.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_64_a_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_64_b_2_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/manifest.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_32_b_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/ads_wwe_poster_64_b_4_0.png
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_poster/manifest.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_visualization.xml
+- Assets/Live/ads_wwe_poster/flash/ads_wwe_postercmp/ads_wwe_postercmp_assets.xml
+Dependencies: []

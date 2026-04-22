@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 748644130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e75968ac12bff6e8009979ab9fe50b97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_visualization.xml
+- Assets/Live/xmas_c17_thread/flash/index.xml
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_64_a_0_0.png
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_64_sd_0_0.png
+- Assets/Live/xmas_c17_thread/flash/manifest.xml
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_icon_a.png
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_logic.xml
+- Assets/Live/xmas_c17_thread/xmas_c17_thread.xml
+- Assets/Live/xmas_c17_thread/flash/xmas_c17_thread_assets.xml
+Dependencies: []

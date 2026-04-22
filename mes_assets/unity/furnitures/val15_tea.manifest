@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2692052625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbb7494cedf8cce13fdab521542a1623
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val15_tea/flash/manifest.xml
+- Assets/Live/val15_tea/flash/val15_tea_icon_a.png
+- Assets/Live/val15_tea/flash/index.xml
+- Assets/Live/val15_tea/flash/val15_tea_assets.xml
+- Assets/Live/val15_tea/flash/val15_tea_visualization.xml
+- Assets/Live/val15_tea/val15_tea.xml
+- Assets/Live/val15_tea/flash/val15_tea_64_sd_4_0.png
+- Assets/Live/val15_tea/flash/val15_tea_logic.xml
+- Assets/Live/val15_tea/flash/val15_tea_64_a_4_0.png
+Dependencies: []

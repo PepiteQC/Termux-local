@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2002097749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87d863448495b99ca5b2c1c487867e7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_b_2_1.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_a_4_0.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_b_4_1.png
+- Assets/Live/hween_c19_smallroof/hween_c19_smallroof.xml
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_logic.xml
+- Assets/Live/hween_c19_smallroof/flash/index.xml
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_a_2_0.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_b_4_0.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_icon_a.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_visualization.xml
+- Assets/Live/hween_c19_smallroof/flash/manifest.xml
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_64_b_2_0.png
+- Assets/Live/hween_c19_smallroof/flash/hween_c19_smallroof_assets.xml
+Dependencies: []

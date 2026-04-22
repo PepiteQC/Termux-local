@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4191064534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d25bc5ed7deb5e9594b3b6a079eec37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_64_a_2_2.png
+- Assets/Live/wf_cnd_wearing_badge/flash/index.xml
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_assets.xml
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_64_a_2_0.png
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_64_a_2_4.png
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_logic.xml
+- Assets/Live/wf_cnd_wearing_badge/flash/manifest.xml
+- Assets/Live/wf_cnd_wearing_badge/wf_cnd_wearing_badge.xml
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_64_a_2_1.png
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_visualization.xml
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_icon_a.png
+- Assets/Live/wf_cnd_wearing_badge/flash/wf_cnd_wearing_badge_64_a_2_3.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1863936840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d53f5ecc9d5661d9ebf30277e87008e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hs_lightstrip_blue/hs_lightstrip_blue.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_icon_a.png
+- Assets/Live/hs_lightstrip_blue/flash/index.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_64_a_0_1.png
+- Assets/Live/hs_lightstrip_blue/flash/manifest.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_assets.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_visualization.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_64_b_0_1.png
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_logic.xml
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_64_b_0_0.png
+- Assets/Live/hs_lightstrip_blue/flash/hs_lightstrip_blue_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 4032374847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9123a9dba50dac412c64f9c0d07b5337
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_e_2_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_3.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_2.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_d_4_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_f_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_f_4_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_4.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_4.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_2.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_6.png
+- Assets/Live/ads_tv_chocapic_01/flash/index.xml
+- Assets/Live/ads_tv_chocapic_01/flash/manifest.xml
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_visualization.xml
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_6.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_f_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_a_2_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_0.png
+- Assets/Live/ads_tv_chocapic_01/ads_tv_chocapic_01.xml
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_3.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_a_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_d_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_a_4_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_icon_a.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_5.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_a_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_7.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_5.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_2.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_e_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_3.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_3.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_4.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_5.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_5.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_2_2.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_f_2_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_d_2_0.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_d_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_logic.xml
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_b_4_4.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_e_2_1.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_c_4_7.png
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_assets.xml
+- Assets/Live/ads_tv_chocapic_01/flash/ads_tv_chocapic_01_64_e_4_0.png
+Dependencies: []

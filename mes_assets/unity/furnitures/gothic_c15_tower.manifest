@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2304199933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed3122bc1b8bb852cf79bd88b458d9e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_2_2.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_a_0_0.png
+- Assets/Live/gothic_c15_tower/gothic_c15_tower.xml
+- Assets/Live/gothic_c15_tower/flash/manifest.xml
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_assets.xml
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_0_0.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_visualization.xml
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_0_2.png
+- Assets/Live/gothic_c15_tower/flash/index.xml
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_icon_a.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_2_1.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_2_0.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_b_0_1.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_64_a_2_0.png
+- Assets/Live/gothic_c15_tower/flash/gothic_c15_tower_logic.xml
+Dependencies: []

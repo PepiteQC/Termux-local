@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1133716447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4786ef404e041cf9324231b17b6657d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_a_0_3.png
+- Assets/Live/sfx_dubstep3/sfx_dubstep3.xml
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_icon_a.png
+- Assets/Live/sfx_dubstep3/flash/index.xml
+- Assets/Live/sfx_dubstep3/flash/manifest.xml
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_a_0_1.png
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_sd_0_0.png
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_assets.xml
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_a_0_0.png
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_a_0_2.png
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_visualization.xml
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_64_a_0_4.png
+- Assets/Live/sfx_dubstep3/flash/sfx_dubstep3_logic.xml
+Dependencies: []

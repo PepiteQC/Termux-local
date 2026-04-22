@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1748923199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f86c06310a72c2bb625a89933155f5b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/SF_crate_1/flash/SF_crate_1_icon_a.png
+- Assets/Live/SF_crate_1/SF_crate_1.xml
+- Assets/Live/SF_crate_1/flash/SF_crate_1_64_a_2_1.png
+- Assets/Live/SF_crate_1/flash/SF_crate_1_64_a_0_0.png
+- Assets/Live/SF_crate_1/flash/SF_crate_1_64_a_2_0.png
+- Assets/Live/SF_crate_1/flash/manifest.xml
+- Assets/Live/SF_crate_1/flash/SF_crate_1_visualization.xml
+- Assets/Live/SF_crate_1/flash/SF_crate_1_logic.xml
+- Assets/Live/SF_crate_1/flash/SF_crate_1_64_a_0_1.png
+- Assets/Live/SF_crate_1/flash/SF_crate_1_assets.xml
+- Assets/Live/SF_crate_1/flash/index.xml
+Dependencies: []

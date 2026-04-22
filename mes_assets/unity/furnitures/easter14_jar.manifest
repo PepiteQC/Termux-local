@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3221181067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 829c1413673eda2a17592285e56a2d43
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_jar/easter14_jar.xml
+- Assets/Live/easter14_jar/flash/easter14_jar_64_a_6_0.png
+- Assets/Live/easter14_jar/flash/easter14_jar_assets.xml
+- Assets/Live/easter14_jar/flash/index.xml
+- Assets/Live/easter14_jar/flash/easter14_jar_64_a_2_0.png
+- Assets/Live/easter14_jar/flash/easter14_jar_icon_a.png
+- Assets/Live/easter14_jar/flash/easter14_jar_64_a_2_1.png
+- Assets/Live/easter14_jar/flash/manifest.xml
+- Assets/Live/easter14_jar/flash/easter14_jar_64_a_6_1.png
+- Assets/Live/easter14_jar/flash/easter14_jar_visualization.xml
+- Assets/Live/easter14_jar/flash/easter14_jar_64_sd_2_0.png
+- Assets/Live/easter14_jar/flash/easter14_jar_logic.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2003003445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3883d6375cc64f11e6e3385916e887cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/newbie_nest/newbie_nest.xml
+- Assets/Live/newbie_nest/flash/index.xml
+- Assets/Live/newbie_nest/flash/newbie_nest_icon_a.png
+- Assets/Live/newbie_nest/flash/newbie_nest_logic.xml
+- Assets/Live/newbie_nest/flash/newbie_nest_64_b_0_0.png
+- Assets/Live/newbie_nest/flash/newbie_nest_64_a_0_0.png
+- Assets/Live/newbie_nest/flash/newbie_nest_assets.xml
+- Assets/Live/newbie_nest/flash/manifest.xml
+- Assets/Live/newbie_nest/flash/newbie_nest_64_sd_0_0.png
+- Assets/Live/newbie_nest/flash/newbie_nest_64_c_0_0.png
+- Assets/Live/newbie_nest/flash/newbie_nest_visualization.xml
+Dependencies: []

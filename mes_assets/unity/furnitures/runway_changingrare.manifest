@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2040964275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46b00c71dab5223c2789d2b67f970fda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_changingrare/flash/runway_changingrare_64_b_2_1.png
+- Assets/Live/runway_changingrare/flash/index.xml
+- Assets/Live/runway_changingrare/flash/manifest.xml
+- Assets/Live/runway_changingrare/flash/runway_changingrare_assets.xml
+- Assets/Live/runway_changingrare/flash/runway_changingrare_logic.xml
+- Assets/Live/runway_changingrare/flash/runway_changingrare_64_a_2_0.png
+- Assets/Live/runway_changingrare/flash/runway_changingrare_64_b_2_0.png
+- Assets/Live/runway_changingrare/runway_changingrare.xml
+- Assets/Live/runway_changingrare/flash/runway_changingrare_icon_a.png
+- Assets/Live/runway_changingrare/flash/runway_changingrare_visualization.xml
+- Assets/Live/runway_changingrare/flash/runway_changingrare_64_sd_2_0.png
+Dependencies: []

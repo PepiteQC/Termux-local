@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 862825820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6900128e0528985602a535f8d7024f34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_deer_donna/flash/manifest.xml
+- Assets/Live/xmas_c18_deer_donna/xmas_c18_deer_donna.xml
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_visualization.xml
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_assets.xml
+- Assets/Live/xmas_c18_deer_donna/flash/index.xml
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_icon_a.png
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_64_sd_4_0.png
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_64_a_4_0.png
+- Assets/Live/xmas_c18_deer_donna/flash/xmas_c18_deer_donna_logic.xml
+Dependencies: []

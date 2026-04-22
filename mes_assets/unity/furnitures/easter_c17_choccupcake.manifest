@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2387191974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3879462ac1864626883ed99b8a4161fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_choccupcake/flash/manifest.xml
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_64_a_0_0.png
+- Assets/Live/easter_c17_choccupcake/flash/index.xml
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_64_sd_0_0.png
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_icon_a.png
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_assets.xml
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_visualization.xml
+- Assets/Live/easter_c17_choccupcake/flash/easter_c17_choccupcake_logic.xml
+- Assets/Live/easter_c17_choccupcake/easter_c17_choccupcake.xml
+Dependencies: []

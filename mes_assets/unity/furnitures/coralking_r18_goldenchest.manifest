@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1809846227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a26e2a6aa45038c912de9bb2d68ce74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_11.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_2.png
+- Assets/Live/coralking_r18_goldenchest/flash/manifest.xml
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_visualization.xml
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_assets.xml
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_7.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_sd_0_0.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_10.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_icon_a.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_b_0_1.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_6.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_3.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_5.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_13.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_9.png
+- Assets/Live/coralking_r18_goldenchest/coralking_r18_goldenchest.xml
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_12.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_8.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_14.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_0.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_4.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_1.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_b_0_0.png
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_logic.xml
+- Assets/Live/coralking_r18_goldenchest/flash/coralking_r18_goldenchest_64_a_0_15.png
+- Assets/Live/coralking_r18_goldenchest/flash/index.xml
+Dependencies: []

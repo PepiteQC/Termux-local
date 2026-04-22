@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2141660393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 462edf8e5e4b9892221c08199f50ca79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_4_4.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_4_3.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_4_2.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_6_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_4_1.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_4_1.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_visualization.xml
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_4_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_6_3.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_a_4_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_6_4.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_32_b_4_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_icon_a.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_assets.xml
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_4_3.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_6_2.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_6_1.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_4_0.png
+- Assets/Live/hween13_castlegarg/hween13_castlegarg.xml
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_6_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_b_4_4.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_32_b_6_0.png
+- Assets/Live/hween13_castlegarg/flash/hween_castlegarg_64_b_4_2.png
+- Assets/Live/hween13_castlegarg/flash/index.xml
+- Assets/Live/hween13_castlegarg/flash/manifest.xml
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_logic.xml
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_sd_0_0.png
+- Assets/Live/hween13_castlegarg/flash/hween13_castlegarg_64_a_6_0.png
+Dependencies: []

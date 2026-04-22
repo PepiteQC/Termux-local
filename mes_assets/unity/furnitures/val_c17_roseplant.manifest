@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 532643169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1786bb43a38e85d1220bbc1dae932608
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_64_sd_0_0.png
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_visualization.xml
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_icon_a.png
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_64_b_0_1.png
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_logic.xml
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_64_a_0_0.png
+- Assets/Live/val_c17_roseplant/flash/index.xml
+- Assets/Live/val_c17_roseplant/val_c17_roseplant.xml
+- Assets/Live/val_c17_roseplant/flash/manifest.xml
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_assets.xml
+- Assets/Live/val_c17_roseplant/flash/val_c17_roseplant_64_b_0_0.png
+Dependencies: []

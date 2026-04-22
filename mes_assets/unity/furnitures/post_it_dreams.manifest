@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3255468578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c60f17ae3d262ce29e77e4db0275677
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/post_it_dreams/flash/post_it_dreams_logic.xml
+- Assets/Live/post_it_dreams/post_it_dreams.xml
+- Assets/Live/post_it_dreams/flash/post_it_dreams_64_a_2_0.png
+- Assets/Live/post_it_dreams/flash/index.xml
+- Assets/Live/post_it_dreams/flash/post_it_dreams_visualization.xml
+- Assets/Live/post_it_dreams/flash/post_it_dreams_assets.xml
+- Assets/Live/post_it_dreams/flash/post_it_dreams_icon_a.png
+- Assets/Live/post_it_dreams/flash/manifest.xml
+- Assets/Live/post_it_dreams/flash/post_it_dreams_64_a_4_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 838953462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b9927b42c611aa58d44a413a6df0490
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_visualization.xml
+- Assets/Live/easter14_techtreebrkn/easter14_techtreebrkn.xml
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_64_a_2_0.png
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_64_sd_2_0.png
+- Assets/Live/easter14_techtreebrkn/flash/manifest.xml
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_assets.xml
+- Assets/Live/easter14_techtreebrkn/flash/index.xml
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_64_b_2_0.png
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_logic.xml
+- Assets/Live/easter14_techtreebrkn/flash/easter14_techtreebrkn_icon_a.png
+Dependencies: []

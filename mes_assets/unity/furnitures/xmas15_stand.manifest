@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2140673048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f407c30ab639c0f5e34e2770479f9722
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas15_stand/flash/xxmas15_stand_64_a_2_0.png
+- Assets/Live/xmas15_stand/flash/xxmas15_stand_64_b_2_0.png
+- Assets/Live/xmas15_stand/flash/xmas15_stand_assets.xml
+- Assets/Live/xmas15_stand/flash/manifest.xml
+- Assets/Live/xmas15_stand/flash/xmas15_stand_64_sd_2_0.png
+- Assets/Live/xmas15_stand/flash/xmas15_stand_64_b_2_0.png
+- Assets/Live/xmas15_stand/flash/xmas15_stand_visualization.xml
+- Assets/Live/xmas15_stand/xmas15_stand.xml
+- Assets/Live/xmas15_stand/flash/xmas15_stand_64_a_2_0.png
+- Assets/Live/xmas15_stand/flash/xmas15_stand_logic.xml
+- Assets/Live/xmas15_stand/flash/index.xml
+- Assets/Live/xmas15_stand/flash/xmas15_stand_icon_a.png
+Dependencies: []

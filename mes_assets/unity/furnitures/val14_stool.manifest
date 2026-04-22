@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2017716252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e28598b3337d90a78f796431c713d034
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_stool/flash/val14_stool_64_sd_4_0.png
+- Assets/Live/val14_stool/flash/val14_stool_64_b_4_0.png
+- Assets/Live/val14_stool/flash/val14_stool_icon_a.png
+- Assets/Live/val14_stool/flash/val14_stool_assets.xml
+- Assets/Live/val14_stool/flash/val14_stool_visualization.xml
+- Assets/Live/val14_stool/flash/val14_stool_64_a_0_0.png
+- Assets/Live/val14_stool/flash/val14_stool_64_sd_0_0.png
+- Assets/Live/val14_stool/val14_stool.xml
+- Assets/Live/val14_stool/flash/manifest.xml
+- Assets/Live/val14_stool/flash/val14_stool_logic.xml
+- Assets/Live/val14_stool/flash/val14_stool_64_a_4_0.png
+- Assets/Live/val14_stool/flash/val14_stool_64_b_0_0.png
+- Assets/Live/val14_stool/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2214511901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5a3527388c64b1028943a73c2e1f356
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_silo_one/flash/bed_silo_one_icon_a.png
+- Assets/Live/bed_silo_one/flash/bed_silo_one_visualization.xml
+- Assets/Live/bed_silo_one/flash/bed_silo_one_64_sd_0_0.png
+- Assets/Live/bed_silo_one/flash/bed_silo_one_64_c_0_0.png
+- Assets/Live/bed_silo_one/flash/index.xml
+- Assets/Live/bed_silo_one/bed_silo_one.xml
+- Assets/Live/bed_silo_one/flash/bed_silo_one_logic.xml
+- Assets/Live/bed_silo_one/flash/bed_silo_one_64_b_0_0.png
+- Assets/Live/bed_silo_one/flash/bed_silo_one_assets.xml
+- Assets/Live/bed_silo_one/flash/bed_silo_one_64_a_0_0.png
+- Assets/Live/bed_silo_one/flash/bed_silo_one_64_sd_2_0.png
+- Assets/Live/bed_silo_one/flash/manifest.xml
+Dependencies: []

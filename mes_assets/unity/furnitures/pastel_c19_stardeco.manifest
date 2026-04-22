@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 766903530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab5483ce651fe49e5219581d77bb4d58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_64_a_0_0.png
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_assets.xml
+- Assets/Live/pastel_c19_stardeco/flash/manifest.xml
+- Assets/Live/pastel_c19_stardeco/pastel_c19_stardeco.xml
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_logic.xml
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_icon_a.png
+- Assets/Live/pastel_c19_stardeco/flash/index.xml
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_visualization.xml
+- Assets/Live/pastel_c19_stardeco/flash/pastel_c19_stardeco_64_sd_0_0.png
+Dependencies: []

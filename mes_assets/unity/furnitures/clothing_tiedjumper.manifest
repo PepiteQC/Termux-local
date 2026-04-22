@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3858909011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 754833f5abc0668a6262adfe094cb100
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_tiedjumper/flash/manifest.xml
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_visualization.xml
+- Assets/Live/clothing_tiedjumper/clothing_tiedjumper.xml
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_64_sd_0_0.png
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_icon_a.png
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_logic.xml
+- Assets/Live/clothing_tiedjumper/flash/index.xml
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_64_a_0_0.png
+- Assets/Live/clothing_tiedjumper/flash/clothing_tiedjumper_assets.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1614077163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaea8d95e5312d50fe4f52b1e3c16ca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/paris15_paintings/flash/paris15_paintings_icon_a.png
+- Assets/Live/paris15_paintings/flash/paris15_paintings_visualization.xml
+- Assets/Live/paris15_paintings/flash/paris15_paintings_logic.xml
+- Assets/Live/paris15_paintings/flash/paris15_paintings_64_sd_4_0.png
+- Assets/Live/paris15_paintings/flash/paris15_paintings_64_b_4_0.png
+- Assets/Live/paris15_paintings/flash/index.xml
+- Assets/Live/paris15_paintings/flash/manifest.xml
+- Assets/Live/paris15_paintings/paris15_paintings.xml
+- Assets/Live/paris15_paintings/flash/paris15_paintings_assets.xml
+- Assets/Live/paris15_paintings/flash/paris15_paintings_64_a_4_0.png
+Dependencies: []

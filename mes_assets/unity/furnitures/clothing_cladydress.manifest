@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3402336575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 729273edb9b60a764ff96f4b8deb7bb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_icon_a.png
+- Assets/Live/clothing_cladydress/flash/manifest.xml
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_64_sd_0_0.png
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_logic.xml
+- Assets/Live/clothing_cladydress/flash/index.xml
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_assets.xml
+- Assets/Live/clothing_cladydress/clothing_cladydress.xml
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_64_a_0_1.png
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_64_a_0_0.png
+- Assets/Live/clothing_cladydress/flash/clothing_cladydress_visualization.xml
+Dependencies: []

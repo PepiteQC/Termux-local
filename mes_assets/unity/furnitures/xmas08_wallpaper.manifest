@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2865096235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3335b0fa28027358614d1ffe42477056
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_logic.xml
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_2.png
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_3.png
+- Assets/Live/xmas08_wallpaper/flash/index.xml
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_4.png
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_icon_a.png
+- Assets/Live/xmas08_wallpaper/xmas08_wallpaper.xml
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_1.png
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_visualization.xml
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_5.png
+- Assets/Live/xmas08_wallpaper/flash/manifest.xml
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_b_2_0.png
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_64_a_2_0.png
+- Assets/Live/xmas08_wallpaper/flash/xmas08_wallpaper_assets.xml
+Dependencies: []

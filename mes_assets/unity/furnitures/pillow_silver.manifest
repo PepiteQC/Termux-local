@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1440659614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d0b5dd0bf1922511c8c8116c61a90d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pillow_silver/flash/pillow_silver_logic.xml
+- Assets/Live/pillow_silver/flash/pillow_silver_64_a_0_0.png
+- Assets/Live/pillow_silver/flash/pillow_silver_64_sd_0_0.png
+- Assets/Live/pillow_silver/flash/pillow_silver_visualization.xml
+- Assets/Live/pillow_silver/flash/pillow_silver_icon_a.png
+- Assets/Live/pillow_silver/flash/manifest.xml
+- Assets/Live/pillow_silver/pillow_silver.xml
+- Assets/Live/pillow_silver/flash/index.xml
+- Assets/Live/pillow_silver/flash/pillow_silver_assets.xml
+Dependencies: []

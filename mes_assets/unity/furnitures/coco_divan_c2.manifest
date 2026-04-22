@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3603308479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f9b6a493e0fc775db72452b6982978c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_logic.xml
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_64_a_2_0.png
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_visualization.xml
+- Assets/Live/coco_divan_c2/coco_divan_c2.xml
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_icon_a.png
+- Assets/Live/coco_divan_c2/flash/index.xml
+- Assets/Live/coco_divan_c2/flash/manifest.xml
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_64_b_2_0.png
+- Assets/Live/coco_divan_c2/flash/coco_divan_c2_assets.xml
+Dependencies: []

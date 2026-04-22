@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3601694062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f10552da435102c3ad4a9b1c40df418
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_arab_tray3/flash/hc_arab_tray3_logic.xml
+- Assets/Live/hc_arab_tray3/flash/hc_arab_tray3_icon_a.png
+- Assets/Live/hc_arab_tray3/flash/hc_arab_tray3_assets.xml
+- Assets/Live/hc_arab_tray3/flash/manifest.xml
+- Assets/Live/hc_arab_tray3/flash/hc_arab_tray3_visualization.xml
+- Assets/Live/hc_arab_tray3/flash/hc_arab_tray3_64_a_0_0.png
+- Assets/Live/hc_arab_tray3/hc_arab_tray3.xml
+- Assets/Live/hc_arab_tray3/flash/index.xml
+Dependencies: []

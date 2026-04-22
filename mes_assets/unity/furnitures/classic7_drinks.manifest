@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2276797590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13da563e084c664730132b726c1b1a8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic7_drinks/classic7_drinks.xml
+- Assets/Live/classic7_drinks/flash/classic7_drinks_logic.xml
+- Assets/Live/classic7_drinks/flash/classic7_drinks_64_a_0_2.png
+- Assets/Live/classic7_drinks/flash/classic7_drinks_64_a_0_0.png
+- Assets/Live/classic7_drinks/flash/classic7_drinks_assets.xml
+- Assets/Live/classic7_drinks/flash/classic7_drinks_visualization.xml
+- Assets/Live/classic7_drinks/flash/classic7_drinks_64_a_0_3.png
+- Assets/Live/classic7_drinks/flash/classic7_drinks_icon_a.png
+- Assets/Live/classic7_drinks/flash/index.xml
+- Assets/Live/classic7_drinks/flash/manifest.xml
+- Assets/Live/classic7_drinks/flash/classic7_drinks_64_a_0_1.png
+Dependencies: []

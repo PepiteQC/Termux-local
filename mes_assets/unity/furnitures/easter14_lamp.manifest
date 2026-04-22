@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4123695236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 965c4866af73bead87723675c209e643
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_lamp/flash/easter14_lamp_assets.xml
+- Assets/Live/easter14_lamp/flash/manifest.xml
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_c_0_0.png
+- Assets/Live/easter14_lamp/flash/index.xml
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_c_0_2.png
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_b_0_1.png
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_c_0_1.png
+- Assets/Live/easter14_lamp/flash/easter14_lamp_logic.xml
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_b_0_0.png
+- Assets/Live/easter14_lamp/flash/easter14_lamp_icon_a.png
+- Assets/Live/easter14_lamp/flash/easter14_lamp_64_a_0_0.png
+- Assets/Live/easter14_lamp/easter14_lamp.xml
+- Assets/Live/easter14_lamp/flash/easter14_lamp_visualization.xml
+Dependencies: []

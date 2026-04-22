@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1746321848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3d95a784c172b5db561ce681c91d050
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_nick_faketile/flash/ads_nick_faketile_icon_a.png
+- Assets/Live/ads_nick_faketile/flash/ads_nick_faketile_logic.xml
+- Assets/Live/ads_nick_faketile/flash/ads_nick_faketile_64_a_0_0.png
+- Assets/Live/ads_nick_faketile/flash/ads_nick_faketile_assets.xml
+- Assets/Live/ads_nick_faketile/flash/index.xml
+- Assets/Live/ads_nick_faketile/ads_nick_faketile.xml
+- Assets/Live/ads_nick_faketile/flash/ads_nick_faketile_visualization.xml
+- Assets/Live/ads_nick_faketile/flash/manifest.xml
+Dependencies: []

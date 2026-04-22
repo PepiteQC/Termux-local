@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1688630871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f2390d11fe3319209a4ded3b7a04cae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_4.png
+- Assets/Live/wf_glassdoor/flash/manifest.xml
+- Assets/Live/wf_glassdoor/flash/index.xml
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_7.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_logic.xml
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_0.png
+- Assets/Live/wf_glassdoor/wf_glassdoor.xml
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_assets.xml
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_visualization.xml
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_icon_a.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_1.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_5.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_10.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_9.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_8.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_2.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_6.png
+- Assets/Live/wf_glassdoor/flash/wf_glassdoor_64_a_0_3.png
+Dependencies: []

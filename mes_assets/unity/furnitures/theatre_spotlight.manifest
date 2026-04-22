@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2881975133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9af53c87594ab68f3c3489a3ede47e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_64_a_0_1.png
+- Assets/Live/theatre_spotlight/flash/index.xml
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_logic.xml
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_64_a_0_0.png
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_assets.xml
+- Assets/Live/theatre_spotlight/theatre_spotlight.xml
+- Assets/Live/theatre_spotlight/flash/manifest.xml
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_icon_a.png
+- Assets/Live/theatre_spotlight/flash/theatre_spotlight_visualization.xml
+Dependencies: []

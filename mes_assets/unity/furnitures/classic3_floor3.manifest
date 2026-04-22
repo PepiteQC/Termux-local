@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1447922653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec47d091abac1fd98d46deb003ccebf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic3_floor3/flash/classic3_floor3_assets.xml
+- Assets/Live/classic3_floor3/flash/classic3_floor3_64_b_0_0.png
+- Assets/Live/classic3_floor3/flash/manifest.xml
+- Assets/Live/classic3_floor3/classic3_floor3.xml
+- Assets/Live/classic3_floor3/flash/classic3_floor3_64_a_0_0.png
+- Assets/Live/classic3_floor3/flash/classic3_floor3_icon_a.png
+- Assets/Live/classic3_floor3/flash/classic3_floor3_logic.xml
+- Assets/Live/classic3_floor3/flash/classic3_floor3_visualization.xml
+- Assets/Live/classic3_floor3/flash/index.xml
+Dependencies: []

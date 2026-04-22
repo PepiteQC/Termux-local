@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3273425967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7595e0c11278be28d1ba639c462766e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/guild_forum/flash/guild_forum_64_e_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_64_h_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_64_i_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_64_f_0_2.png
+- Assets/Live/guild_forum/flash/guild_forum_64_f_0_3.png
+- Assets/Live/guild_forum/flash/guild_forum_64_d_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_icon_a.png
+- Assets/Live/guild_forum/guild_forum.xml
+- Assets/Live/guild_forum/flash/guild_forum_64_b_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_64_f_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_icon_b.png
+- Assets/Live/guild_forum/flash/guild_forum_assets.xml
+- Assets/Live/guild_forum/flash/guild_forum_64_e_0_1.png
+- Assets/Live/guild_forum/flash/guild_forum_64_h_0_1.png
+- Assets/Live/guild_forum/flash/guild_forum_64_g_0_1.png
+- Assets/Live/guild_forum/flash/guild_forum_64_g_0_0.png
+- Assets/Live/guild_forum/flash/manifest.xml
+- Assets/Live/guild_forum/flash/guild_forum_64_c_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_logic.xml
+- Assets/Live/guild_forum/flash/guild_forum_64_f_0_1.png
+- Assets/Live/guild_forum/flash/guild_forum_64_e_0_4.png
+- Assets/Live/guild_forum/flash/guild_forum_visualization.xml
+- Assets/Live/guild_forum/flash/guild_forum_64_a_0_0.png
+- Assets/Live/guild_forum/flash/guild_forum_64_e_0_2.png
+- Assets/Live/guild_forum/flash/guild_forum_64_f_0_4.png
+- Assets/Live/guild_forum/flash/guild_forum_64_e_0_3.png
+- Assets/Live/guild_forum/flash/index.xml
+Dependencies: []

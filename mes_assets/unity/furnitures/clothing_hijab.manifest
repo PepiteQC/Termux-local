@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3063881837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ab15834b432a199d0f763c03b4a3a83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_hijab/flash/index.xml
+- Assets/Live/clothing_hijab/flash/clothing_hijab_64_a_0_0.png
+- Assets/Live/clothing_hijab/flash/clothing_hijab_assets.xml
+- Assets/Live/clothing_hijab/flash/clothing_hijab_icon_a.png
+- Assets/Live/clothing_hijab/clothing_hijab.xml
+- Assets/Live/clothing_hijab/flash/manifest.xml
+- Assets/Live/clothing_hijab/flash/clothing_hijab_visualization.xml
+- Assets/Live/clothing_hijab/flash/clothing_hijab_logic.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2415934277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf39bc2afcaf5cca764a65018c829d4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_64_sd_4_0.png
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_visualization.xml
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_logic.xml
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_icon_a.png
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_64_a_4_0.png
+- Assets/Live/st_uni_testtubes/flash/manifest.xml
+- Assets/Live/st_uni_testtubes/flash/st_uni_testtubes_assets.xml
+- Assets/Live/st_uni_testtubes/flash/index.xml
+- Assets/Live/st_uni_testtubes/st_uni_testtubes.xml
+Dependencies: []

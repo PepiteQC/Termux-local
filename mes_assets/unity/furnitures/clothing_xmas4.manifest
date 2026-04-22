@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2819853858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16647ec53fac1ad32cd54f243eee5b2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_xmas4/flash/clothing_xmas4_visualization.xml
+- Assets/Live/clothing_xmas4/flash/index.xml
+- Assets/Live/clothing_xmas4/flash/clothing_xmas4_assets.xml
+- Assets/Live/clothing_xmas4/clothing_xmas4.xml
+- Assets/Live/clothing_xmas4/flash/clothing_xmas4_64_a_0_0.png
+- Assets/Live/clothing_xmas4/flash/manifest.xml
+- Assets/Live/clothing_xmas4/flash/clothing_xmas4_logic.xml
+- Assets/Live/clothing_xmas4/flash/clothing_xmas4_icon_a.png
+Dependencies: []

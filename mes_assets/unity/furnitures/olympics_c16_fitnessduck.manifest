@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3101466729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0954259effeb02269679e967b1137d68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/olympics_c16_fitnessduck/olympics_c16_fitnessduck.xml
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_64_sd_4_0.png
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_icon_a.png
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_assets.xml
+- Assets/Live/olympics_c16_fitnessduck/flash/index.xml
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_logic.xml
+- Assets/Live/olympics_c16_fitnessduck/flash/manifest.xml
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_64_a_4_0.png
+- Assets/Live/olympics_c16_fitnessduck/flash/olympics_c16_fitnessduck_visualization.xml
+Dependencies: []

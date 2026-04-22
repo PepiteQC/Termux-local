@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1558429999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b40daef3380b07b369d66cdcbea061a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_a_2_0.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_c_2_0.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_b_2_0.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_logic.xml
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_32_2_mask.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_icon_a.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_b_2_1.png
+- Assets/Live/external_image_wallitem_photo/external_image_wallitem_photo.xml
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_visualization.xml
+- Assets/Live/external_image_wallitem_photo/flash/index.xml
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_2_mask.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_64_c_4_0.png
+- Assets/Live/external_image_wallitem_photo/flash/external_image_wallitem_photo_assets.xml
+- Assets/Live/external_image_wallitem_photo/flash/manifest.xml
+Dependencies: []

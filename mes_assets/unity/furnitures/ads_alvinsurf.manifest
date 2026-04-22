@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1925953886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 220b79db3aad33e6ab96e131024fe7d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_icon_a.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_visualization.xml
+- Assets/Live/ads_alvinsurf/ads_alvinsurf.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_64_a_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/index.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_64_a_2_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_64_a_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_assets.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_64_b_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/manifest.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_32_b_2_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_logic.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_icon_a.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/manifest.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_32_a_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_64_a_2_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/index.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_logic.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_64_b_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_32_a_2_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_assets.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_64_b_2_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_32_b_4_0.png
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurf/ads_alvinsurf_visualization.xml
+- Assets/Live/ads_alvinsurf/flash/ads_alvinsurfcmp/ads_alvinsurfcmp_64_b_2_0.png
+Dependencies: []

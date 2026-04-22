@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1782351441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9673f4d3f08801029be3a6f4feb66c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_throne/flash/xmas13_throne_64_c_2_0.png
+- Assets/Live/xmas13_throne/flash/xmas13_throne_logic.xml
+- Assets/Live/xmas13_throne/flash/xmas13_throne_64_b_2_0.png
+- Assets/Live/xmas13_throne/flash/xmas13_throne_visualization.xml
+- Assets/Live/xmas13_throne/flash/xmas13_throne_icon_a.png
+- Assets/Live/xmas13_throne/flash/xmas13_throne_assets.xml
+- Assets/Live/xmas13_throne/flash/xmas13_throne_64_a_2_0.png
+- Assets/Live/xmas13_throne/flash/manifest.xml
+- Assets/Live/xmas13_throne/flash/index.xml
+- Assets/Live/xmas13_throne/xmas13_throne.xml
+Dependencies: []

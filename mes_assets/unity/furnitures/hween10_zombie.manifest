@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1029454728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1b710ab39d11b81425028c514715b14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween10_zombie/flash/hween10_zombie_64_sd_2_0.png
+- Assets/Live/hween10_zombie/flash/manifest.xml
+- Assets/Live/hween10_zombie/flash/hween10_zombiel_icon_a.png
+- Assets/Live/hween10_zombie/flash/hween10_zombie_64_a_2_1.png
+- Assets/Live/hween10_zombie/flash/hween10_zombie_64_a_2_0.png
+- Assets/Live/hween10_zombie/flash/hween10_zombie_visualization.xml
+- Assets/Live/hween10_zombie/hween10_zombie.xml
+- Assets/Live/hween10_zombie/flash/hween10_zombie_assets.xml
+- Assets/Live/hween10_zombie/flash/hween10_zombie_logic.xml
+- Assets/Live/hween10_zombie/flash/index.xml
+Dependencies: []

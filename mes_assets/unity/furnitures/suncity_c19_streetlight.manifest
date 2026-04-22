@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3992757046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71cabd37a45b8923e8e64ac605ee6d2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_visualization.xml
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_64_c_0_0.png
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_logic.xml
+- Assets/Live/suncity_c19_streetlight/flash/index.xml
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_64_b_0_0.png
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_assets.xml
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_64_sd_0_0.png
+- Assets/Live/suncity_c19_streetlight/suncity_c19_streetlight.xml
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_icon_a.png
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_64_a_0_0.png
+- Assets/Live/suncity_c19_streetlight/flash/suncity_c19_streetlight_64_b_0_1.png
+- Assets/Live/suncity_c19_streetlight/flash/manifest.xml
+Dependencies: []

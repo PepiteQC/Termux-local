@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3295040643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f4891151d9d5476f33ee4752d76370f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_64_b_0_0.png
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_visualization.xml
+- Assets/Live/classic5_table_yel/flash/manifest.xml
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_icon_a.png
+- Assets/Live/classic5_table_yel/flash/index.xml
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_logic.xml
+- Assets/Live/classic5_table_yel/classic5_table_yel.xml
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_assets.xml
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_64_a_0_0.png
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_64_sd_0_0.png
+- Assets/Live/classic5_table_yel/flash/classic5_table_yel_64_c_0_0.png
+Dependencies: []

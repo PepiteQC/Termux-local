@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2777627193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46afa29bfb30ad99fcb9c6fac8499b35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/giftflowers/flash/giftflowers_64_a_2_0.png
+- Assets/Live/giftflowers/flash/manifest.xml
+- Assets/Live/giftflowers/flash/index.xml
+- Assets/Live/giftflowers/flash/giftflowers_icon_a.png
+- Assets/Live/giftflowers/flash/giftflowers_64_a_2_1.png
+- Assets/Live/giftflowers/flash/giftflowers_64_sd_0_0.png
+- Assets/Live/giftflowers/flash/giftflowers_visualization.xml
+- Assets/Live/giftflowers/giftflowers.xml
+- Assets/Live/giftflowers/flash/giftflowers_assets.xml
+- Assets/Live/giftflowers/flash/giftflowers_logic.xml
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 743761895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04301989cddcfb35e0b822ca64a1f9f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_11.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_sd_0_0.png
+- Assets/Live/garden_volcano/flash/index.xml
+- Assets/Live/garden_volcano/flash/garden_volcano_assets.xml
+- Assets/Live/garden_volcano/flash/manifest.xml
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_9.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_7.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_4.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_2.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_0.png
+- Assets/Live/garden_volcano/garden_volcano.xml
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_14.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_10.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_8.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_12.png
+- Assets/Live/garden_volcano/flash/garden_volcano_icon_a.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_13.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_1.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_6.png
+- Assets/Live/garden_volcano/flash/garden_volcano_logic.xml
+- Assets/Live/garden_volcano/flash/garden_volcano_64_sd.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_5.png
+- Assets/Live/garden_volcano/flash/garden_volcano_64_a_4_3.png
+- Assets/Live/garden_volcano/flash/garden_volcano_visualization.xml
+Dependencies: []

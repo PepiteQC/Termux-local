@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1751695363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16ff90dd66826975c604aff7f973ae1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c20_stonetable/flash/index.xml
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_icon_a.png
+- Assets/Live/zengarden_c20_stonetable/zengarden_c20_stonetable.xml
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_visualization.xml
+- Assets/Live/zengarden_c20_stonetable/flash/manifest.xml
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_logic.xml
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_assets.xml
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_64_a_0_0.png
+- Assets/Live/zengarden_c20_stonetable/flash/zengarden_c20_stonetable_64_sd_0_0.png
+Dependencies: []

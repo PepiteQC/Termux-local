@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3650669883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b60ffb79683ed7e176e32c546cb9c80f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_visualization.xml
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_64_sd_0_0.png
+- Assets/Live/dessertcafe_c17_mochi/flash/manifest.xml
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_assets.xml
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_64_a_0_0.png
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_icon_a.png
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_64_a_0_3.png
+- Assets/Live/dessertcafe_c17_mochi/flash/index.xml
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_logic.xml
+- Assets/Live/dessertcafe_c17_mochi/dessertcafe_c17_mochi.xml
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_64_a_0_1.png
+- Assets/Live/dessertcafe_c17_mochi/flash/dessertcafe_c17_mochi_64_a_0_2.png
+Dependencies: []

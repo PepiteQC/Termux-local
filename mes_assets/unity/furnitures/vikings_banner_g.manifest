@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 729544816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17542820540bcc5c01dffb872928f468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_banner_g/flash/vikings_banner_g_assets.xml
+- Assets/Live/vikings_banner_g/flash/vikings_banner_g_64_a_2_0.png
+- Assets/Live/vikings_banner_g/flash/vikings_banner_g_logic.xml
+- Assets/Live/vikings_banner_g/flash/vikings_banner_g_icon_a.png
+- Assets/Live/vikings_banner_g/flash/manifest.xml
+- Assets/Live/vikings_banner_g/flash/index.xml
+- Assets/Live/vikings_banner_g/flash/vikings_banner_g_visualization.xml
+- Assets/Live/vikings_banner_g/vikings_banner_g.xml
+Dependencies: []

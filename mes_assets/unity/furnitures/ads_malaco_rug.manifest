@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 345513407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc904df7432a382eeb037c7d3ba73ddc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_malaco_rug/flash/index.xml
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_icon_a.png
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_64_a_0_0.png
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_64_a_6_0.png
+- Assets/Live/ads_malaco_rug/ads_malaco_rug.xml
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_assets.xml
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_visualization.xml
+- Assets/Live/ads_malaco_rug/flash/manifest.xml
+- Assets/Live/ads_malaco_rug/flash/ads_malaco_rug_logic.xml
+Dependencies: []

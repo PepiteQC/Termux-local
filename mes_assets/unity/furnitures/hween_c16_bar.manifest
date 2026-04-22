@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3168670070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db53d4276e94f2b75c11a501960e03f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_icon_a.png
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_visualization.xml
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_64_sd_0_0.png
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_logic.xml
+- Assets/Live/hween_c16_bar/flash/index.xml
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_64_b_0_1.png
+- Assets/Live/hween_c16_bar/hween_c16_bar.xml
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_assets.xml
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_64_b_0_0.png
+- Assets/Live/hween_c16_bar/flash/manifest.xml
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_64_a_0_1.png
+- Assets/Live/hween_c16_bar/flash/hween_c16_bar_64_a_0_0.png
+Dependencies: []

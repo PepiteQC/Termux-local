@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3703203895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ceaffbe3b7f56e89de6ddf49fd41056
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bandage/flash/index.xml
+- Assets/Live/clothing_bandage/clothing_bandage.xml
+- Assets/Live/clothing_bandage/flash/clothing_bandage_visualization.xml
+- Assets/Live/clothing_bandage/flash/clothing_bandage_logic.xml
+- Assets/Live/clothing_bandage/flash/clothing_bandage_icon_a.png
+- Assets/Live/clothing_bandage/flash/manifest.xml
+- Assets/Live/clothing_bandage/flash/clothing_bandage_assets.xml
+- Assets/Live/clothing_bandage/flash/clothing_bandage_64_a_0_0.png
+Dependencies: []

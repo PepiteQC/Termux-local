@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 209059517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b018b8da27953c42ed33ce6626ff0030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_5.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_a_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_a_4_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_6.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_5.png
+- Assets/Live/xmas_c19_curtain/flash/index.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_logic.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_3.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_6.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_5.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_2.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_3.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_b_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_5.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_4.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_sd_4_0.png
+- Assets/Live/xmas_c19_curtain/xmas_c19_curtain.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_2.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_c_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_assets.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_2.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_f_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_f_4_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_visualization.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_f_2_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_f_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_sd_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_icon_a.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_6.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_a_2_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_c_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_c_4_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_4.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_3.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_2_4.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_4.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_6.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_2_2.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_b_2_0.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_a_4_0.png
+- Assets/Live/xmas_c19_curtain/flash/manifest.xml
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_d_4_3.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_c_2_1.png
+- Assets/Live/xmas_c19_curtain/flash/xmas_c19_curtain_64_e_4_1.png
+Dependencies: []

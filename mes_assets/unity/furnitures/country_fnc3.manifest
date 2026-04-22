@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2645213554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1071512d4a25a4e56f22fb4ad6803312
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/country_fnc3/flash/manifest.xml
+- Assets/Live/country_fnc3/flash/country_fnc3_assets.xml
+- Assets/Live/country_fnc3/country_fnc3.xml
+- Assets/Live/country_fnc3/flash/country_fnc3_icon_a.png
+- Assets/Live/country_fnc3/flash/country_fnc3_64_a_0_0.png
+- Assets/Live/country_fnc3/flash/country_fnc3_logic.xml
+- Assets/Live/country_fnc3/flash/country_fnc3_64_sd_0_0.png
+- Assets/Live/country_fnc3/flash/index.xml
+- Assets/Live/country_fnc3/flash/country_fnc3_visualization.xml
+Dependencies: []

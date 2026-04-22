@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2646198471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48a9a55b7db21c0c8fef71d74a9b2874
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_wirerig/flash/matic_wirerig_assets.xml
+- Assets/Live/matic_wirerig/flash/matic_wirerig_visualization.xml
+- Assets/Live/matic_wirerig/flash/matic_wirerig_logic.xml
+- Assets/Live/matic_wirerig/flash/manifest.xml
+- Assets/Live/matic_wirerig/matic_wirerig.xml
+- Assets/Live/matic_wirerig/flash/matic_wirerig_64_a_0_0.png
+- Assets/Live/matic_wirerig/flash/matic_wirerig_icon_a.png
+- Assets/Live/matic_wirerig/flash/index.xml
+Dependencies: []

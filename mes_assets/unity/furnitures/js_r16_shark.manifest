@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 144456825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0e9f55f89a9da4a126c9a60e249e73c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_13.png
+- Assets/Live/js_r16_shark/js_r16_shark.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_8.png
+- Assets/Live/js_r16_shark/flash/manifest.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_a_0_0.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_2.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_visualization.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_a_0_2.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_10.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_6.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_sd_0_0.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_5.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_4.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_14.png
+- Assets/Live/js_r16_shark/flash/index.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_assets.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_a_0_1.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_11.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_12.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_7.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_3.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_0.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_9.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_64_b_0_1.png
+- Assets/Live/js_r16_shark/flash/js_r16_shark_logic.xml
+- Assets/Live/js_r16_shark/flash/js_r16_shark_icon_a.png
+Dependencies: []

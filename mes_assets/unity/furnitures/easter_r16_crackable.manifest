@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3758777541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fba5645dce597ae72ace1b3ba03f553c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_0.png
+- Assets/Live/easter_r16_crackable/flash/manifest.xml
+- Assets/Live/easter_r16_crackable/easter_r16_crackable.xml
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_logic.xml
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_4.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_visualization.xml
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_5.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_7.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_3.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_1.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_icon_a.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_assets.xml
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_sd_2_0.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_2.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_6.png
+- Assets/Live/easter_r16_crackable/flash/easter_r16_crackable_64_a_2_8.png
+- Assets/Live/easter_r16_crackable/flash/index.xml
+Dependencies: []

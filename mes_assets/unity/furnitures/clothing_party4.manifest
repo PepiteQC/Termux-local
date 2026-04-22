@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1166239997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac2788ad693ac0e782c8e45363fd4ecc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_party4/flash/clothing_party4_64_sd_2_0.png
+- Assets/Live/clothing_party4/flash/clothing_party4_visualization.xml
+- Assets/Live/clothing_party4/flash/manifest.xml
+- Assets/Live/clothing_party4/flash/clothing_party4_assets.xml
+- Assets/Live/clothing_party4/clothing_party4.xml
+- Assets/Live/clothing_party4/flash/clothing_party4_64_a_2_0.png
+- Assets/Live/clothing_party4/flash/clothing_party4_logic.xml
+- Assets/Live/clothing_party4/flash/clothing_party4_icon_a.png
+- Assets/Live/clothing_party4/flash/index.xml
+- Assets/Live/clothing_party4/flash/clothing_party4_64_a_2_1.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1067651165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 870b9c0d93864f560051df4ee49f3c04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_lupin2/flash/garden_lupin2_visualization.xml
+- Assets/Live/garden_lupin2/flash/garden_lupin2_icon_a.png
+- Assets/Live/garden_lupin2/flash/garden_lupin2_logic.xml
+- Assets/Live/garden_lupin2/flash/garden_lupin2_64_a_0_1.png
+- Assets/Live/garden_lupin2/flash/garden_lupin2_64_a_0_0.png
+- Assets/Live/garden_lupin2/flash/index.xml
+- Assets/Live/garden_lupin2/flash/manifest.xml
+- Assets/Live/garden_lupin2/flash/garden_lupin2_assets.xml
+- Assets/Live/garden_lupin2/garden_lupin2.xml
+- Assets/Live/garden_lupin2/flash/garden_lupin2_64_a_0_2.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 148332928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d05d670f10dae69a13c1f3f80696e4d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/runway_display/flash/runway_display_icon_a.png
+- Assets/Live/runway_display/runway_display.xml
+- Assets/Live/runway_display/flash/manifest.xml
+- Assets/Live/runway_display/flash/runway_display_64_a_4_0.png
+- Assets/Live/runway_display/flash/runway_display_logic.xml
+- Assets/Live/runway_display/flash/runway_display_assets.xml
+- Assets/Live/runway_display/flash/index.xml
+- Assets/Live/runway_display/flash/runway_display_visualization.xml
+- Assets/Live/runway_display/flash/runway_display_64_sd_4_0.png
+Dependencies: []

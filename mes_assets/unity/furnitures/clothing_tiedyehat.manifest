@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 579022178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f8642c06106dc3972edd3ee86707ccb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_tiedyehat/flash/clothing_tiedyehat_logic.xml
+- Assets/Live/clothing_tiedyehat/flash/clothing_tiedyehat_assets.xml
+- Assets/Live/clothing_tiedyehat/flash/index.xml
+- Assets/Live/clothing_tiedyehat/flash/manifest.xml
+- Assets/Live/clothing_tiedyehat/flash/clothing_tiedyehat_icon_a.png
+- Assets/Live/clothing_tiedyehat/flash/clothing_tiedyehat_visualization.xml
+- Assets/Live/clothing_tiedyehat/clothing_tiedyehat.xml
+- Assets/Live/clothing_tiedyehat/flash/clothing_tiedyehat_64_a_0_0.png
+Dependencies: []

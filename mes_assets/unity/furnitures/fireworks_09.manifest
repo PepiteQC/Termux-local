@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1502913295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09302eb760e55b44a59ecaaf1f1dd213
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fireworks_09/flash/fireworks_09_64_c_0_0.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_b_0_1.png
+- Assets/Live/fireworks_09/fireworks_09.xml
+- Assets/Live/fireworks_09/flash/fireworks_09_64_c_0_1.png
+- Assets/Live/fireworks_09/flash/index.xml
+- Assets/Live/fireworks_09/flash/manifest.xml
+- Assets/Live/fireworks_09/flash/fireworks_09_64_c_0_2.png
+- Assets/Live/fireworks_09/flash/fireworks_09_icon_a.png
+- Assets/Live/fireworks_09/flash/fireworks_09_assets.xml
+- Assets/Live/fireworks_09/flash/fireworks_09_64_d_0_1.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_b_0_3.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_d_0_0.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_c_0_4.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_e_0_0.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_b_0_0.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_a_0_0.png
+- Assets/Live/fireworks_09/flash/fireworks_09_64_b_0_2.png
+- Assets/Live/fireworks_09/flash/fireworks_09_visualization.xml
+- Assets/Live/fireworks_09/flash/fireworks_09_64_c_0_3.png
+- Assets/Live/fireworks_09/flash/fireworks_09_logic.xml
+- Assets/Live/fireworks_09/flash/fireworks_09_64_a_0_1.png
+Dependencies: []

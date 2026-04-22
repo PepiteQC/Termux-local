@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2839633058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 802c56b4ec51b8c2b9e755933df958d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_9.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_sd_4_0.png
+- Assets/Live/vikings_thor/flash/index.xml
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_8.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_5.png
+- Assets/Live/vikings_thor/flash/manifest.xml
+- Assets/Live/vikings_thor/flash/vikings_thor_64_a_4_0.png
+- Assets/Live/vikings_thor/vikings_thor.xml
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_10.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_0.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_6.png
+- Assets/Live/vikings_thor/flash/vikings_thor_logic.xml
+- Assets/Live/vikings_thor/flash/vikings_thor_visualization.xml
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_7.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_4.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_3.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_2.png
+- Assets/Live/vikings_thor/flash/vikings_thor_icon_a.png
+- Assets/Live/vikings_thor/flash/vikings_thor_64_b_4_1.png
+- Assets/Live/vikings_thor/flash/vikings_thor_assets.xml
+Dependencies: []

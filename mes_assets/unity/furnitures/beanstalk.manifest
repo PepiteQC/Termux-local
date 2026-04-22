@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 448670036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30764993139223537247d01156f93114
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/beanstalk/flash/beanstalk_64_a_0_1.png
+- Assets/Live/beanstalk/flash/beanstalk_64_b_0_0.png
+- Assets/Live/beanstalk/flash/beanstalk_64_a_0_3.png
+- Assets/Live/beanstalk/beanstalk.xml
+- Assets/Live/beanstalk/flash/beanstalk_64_a_0_4.png
+- Assets/Live/beanstalk/flash/beanstalk_64_a_0_2.png
+- Assets/Live/beanstalk/flash/index.xml
+- Assets/Live/beanstalk/flash/beanstalk_icon_a.png
+- Assets/Live/beanstalk/flash/beanstalk_visualization.xml
+- Assets/Live/beanstalk/flash/beanstalk_assets.xml
+- Assets/Live/beanstalk/flash/beanstalk_64_b_0_1.png
+- Assets/Live/beanstalk/flash/manifest.xml
+- Assets/Live/beanstalk/flash/beanstalk_logic.xml
+- Assets/Live/beanstalk/flash/beanstalk_64_a_0_0.png
+Dependencies: []

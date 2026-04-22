@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1510693781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3367d36b05fb940c58572dccf2f37ff3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_logic.xml
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_64_a_0_0.png
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/index.xml
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_64_a_0_1.png
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_visualization.xml
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_icon_a.png
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_64_a_0_2.png
+- Assets/Live/sfx_bigfinish_jamesbrown/sfx_bigfinish_jamesbrown.xml
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/sfx_bigfinish_jamesbrown_assets.xml
+- Assets/Live/sfx_bigfinish_jamesbrown/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 509997636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dff719f84c5ca28411f3634e3ff752a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_icon_a.png
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_64_a_2_2.png
+- Assets/Live/petfood7_horseshoe/flash/index.xml
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_64_a_2_4.png
+- Assets/Live/petfood7_horseshoe/petfood7_horseshoe.xml
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_logic.xml
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_64_a_2_3.png
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_visualization.xml
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_64_a_2_0.png
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_64_a_2_1.png
+- Assets/Live/petfood7_horseshoe/flash/manifest.xml
+- Assets/Live/petfood7_horseshoe/flash/petfood7_horseshoe_assets.xml
+Dependencies: []

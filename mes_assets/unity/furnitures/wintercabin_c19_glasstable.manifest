@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3575015746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15ca272243b05bd09bfa85b0dd8d50e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_64_sd_0_0.png
+- Assets/Live/wintercabin_c19_glasstable/flash/manifest.xml
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_visualization.xml
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_64_a_0_0.png
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_logic.xml
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_assets.xml
+- Assets/Live/wintercabin_c19_glasstable/flash/wintercabin_c19_glasstable_icon_a.png
+- Assets/Live/wintercabin_c19_glasstable/flash/index.xml
+- Assets/Live/wintercabin_c19_glasstable/wintercabin_c19_glasstable.xml
+Dependencies: []

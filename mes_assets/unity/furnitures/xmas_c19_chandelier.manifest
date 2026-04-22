@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1848296423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fd844ec33ab480eca2b6ce0e7474a0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_icon_a.png
+- Assets/Live/xmas_c19_chandelier/flash/manifest.xml
+- Assets/Live/xmas_c19_chandelier/xmas_c19_chandelier.xml
+- Assets/Live/xmas_c19_chandelier/flash/index.xml
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_64_b_2_0.png
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_visualization.xml
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_64_sd_2_0.png
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_assets.xml
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_logic.xml
+- Assets/Live/xmas_c19_chandelier/flash/xmas_c19_chandelier_64_a_2_0.png
+Dependencies: []

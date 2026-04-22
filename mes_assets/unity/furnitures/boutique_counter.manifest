@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 547034510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e495cc6cd6d1e34346b07da260c39029
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/boutique_counter/flash/boutique_counter_64_sd_2_0.png
+- Assets/Live/boutique_counter/boutique_counter.xml
+- Assets/Live/boutique_counter/flash/boutique_counter_visualization.xml
+- Assets/Live/boutique_counter/flash/index.xml
+- Assets/Live/boutique_counter/flash/boutique_counter_icon_a.png
+- Assets/Live/boutique_counter/flash/boutique_counter_64_a_2_0.png
+- Assets/Live/boutique_counter/flash/boutique_counter_logic.xml
+- Assets/Live/boutique_counter/flash/boutique_counter_assets.xml
+- Assets/Live/boutique_counter/flash/boutique_counter_64_b_2_0.png
+- Assets/Live/boutique_counter/flash/boutique_counter_64_a_2_1.png
+- Assets/Live/boutique_counter/flash/manifest.xml
+- Assets/Live/boutique_counter/flash/boutique_counter_64_b_2_1.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 482834040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42c7faa12c24b3023bfd530bef33332c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ktchn_oven/flash/ktchn_oven_logic.xml
+- Assets/Live/ktchn_oven/flash/ktchn_oven_64_a_2_0.png
+- Assets/Live/ktchn_oven/ktchn_oven.xml
+- Assets/Live/ktchn_oven/flash/index.xml
+- Assets/Live/ktchn_oven/flash/ktchn_oven_visualization.xml
+- Assets/Live/ktchn_oven/flash/ktchn_oven_64_b_2_0.png
+- Assets/Live/ktchn_oven/flash/ktchn_oven_assets.xml
+- Assets/Live/ktchn_oven/flash/ktchn_oven_icon_a.png
+- Assets/Live/ktchn_oven/flash/ktchn_oven_64_a_2_1.png
+- Assets/Live/ktchn_oven/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1487433181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c021f6847adc6014724ab13f2adca9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_64_a_2_0.png
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_icon_a.png
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_64_a_4_0.png
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_logic.xml
+- Assets/Live/post_it_shakesp/flash/manifest.xml
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_assets.xml
+- Assets/Live/post_it_shakesp/post_it_shakesp.xml
+- Assets/Live/post_it_shakesp/flash/index.xml
+- Assets/Live/post_it_shakesp/flash/post_it_shakesp_visualization.xml
+Dependencies: []

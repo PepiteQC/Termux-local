@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2532550616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f96083c69e5143e71f90d7dd2fc4d580
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_3.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_11.png
+- Assets/Live/easter13_egg_1/easter13_egg_1.xml
+- Assets/Live/easter13_egg_1/flash/index.xml
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_0.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_sd_0_0.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_3.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_4.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_icon_a.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_logic.xml
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_9.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_2.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_visualization.xml
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_8.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_4.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_1.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_1.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_2.png
+- Assets/Live/easter13_egg_1/flash/manifest.xml
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_6.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_12.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_6.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_7.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_5.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_a_0_0.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_assets.xml
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_10.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_5.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_13.png
+- Assets/Live/easter13_egg_1/flash/easter13_egg_1_64_b_0_7.png
+Dependencies: []

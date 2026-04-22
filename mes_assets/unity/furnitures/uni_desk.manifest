@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2402802234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88caee741d3f0df441965dd1983f15ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_desk/flash/uni_desk_assets.xml
+- Assets/Live/uni_desk/flash/uni_desk_logic.xml
+- Assets/Live/uni_desk/flash/uni_desk_64_b_2_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_b_0_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_a_4_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_b_6_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_a_2_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_a_6_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_a_0_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_b_4_0.png
+- Assets/Live/uni_desk/flash/uni_desk_64_sd_0_0.png
+- Assets/Live/uni_desk/flash/manifest.xml
+- Assets/Live/uni_desk/flash/uni_desk_visualization.xml
+- Assets/Live/uni_desk/uni_desk.xml
+- Assets/Live/uni_desk/flash/index.xml
+- Assets/Live/uni_desk/flash/uni_desk_icon_a.png
+Dependencies: []
