@@ -134,8 +134,8 @@ export const PANTS: Record<Gender, FigureSet[]> = {
 }
 
 // Shoes are gender-specific in figuredata.xml — male 290-305 don't exist
-// for F, female 725-740 don't exist for M. Palette id 906 is the only truly
-// unisex set we keep in both lists.
+// for F, female 725-740 don't exist for M. 905 and 906 are unisex (gender=U)
+// and kept in both lists.
 export const SHOES: Record<Gender, FigureSet[]> = {
 	M: [
 		{ id: 290, label: "Baskets" },
