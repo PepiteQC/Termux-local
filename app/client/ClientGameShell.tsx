@@ -368,12 +368,19 @@ export default function ClientGameShell() {
 		if (!habbo) return
 		if (!figurestring) return
 		let tries = 0
+		let cancelled = false
+		let timer: number | null = null
 		const apply = () => {
+			if (cancelled) return
 			if (habbo.setPrimaryAvatarFigurestring?.(figurestring)) return
 			if (tries++ > 20) return
-			window.setTimeout(apply, 120)
+			timer = window.setTimeout(apply, 120)
 		}
 		apply()
+		return () => {
+			cancelled = true
+			if (timer !== null) window.clearTimeout(timer)
+		}
 	}, [habbo, figurestring])
 
 	useEffect(() => {

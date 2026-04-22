@@ -78,7 +78,21 @@ export default function HomePage() {
 
   const switchGender = useCallback((next: Gender) => {
     setGender(next);
-    setSelection((prev) => ({ ...DEFAULT_SELECTION[next], hd: prev.hd, hr: prev.hr, sh: prev.sh }));
+    setSelection((prev) => {
+      const fresh = DEFAULT_SELECTION[next];
+      // Hair & head set IDs are gender-specific (males: hr 100-3163 / hd 180-209,
+      // females: hr 500-595 / hd 600-627), so keep the user's picked colours but
+      // swap in the default sets for the new gender.
+      return {
+        hr: { set: fresh.hr.set, color1: prev.hr.color1 },
+        hd: { set: fresh.hd.set, color1: prev.hd.color1 },
+        ch: { set: fresh.ch.set, color1: prev.ch.color1 },
+        lg: { set: fresh.lg.set, color1: prev.lg.color1 },
+        sh: { set: fresh.sh.set, color1: prev.sh.color1 },
+        ha: fresh.ha,
+        fa: fresh.fa
+      };
+    });
   }, []);
 
   const pickSet = useCallback((part: FigurePart, setId: number) => {
