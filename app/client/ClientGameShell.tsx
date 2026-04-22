@@ -1,6 +1,8 @@
 "use client"
 
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
+import { ChatInput } from "@/components/chat/ChatInput"
+import { ChatBubble } from "@/components/chat/ChatBubble"
 
 type RoomSummary = {
 	id: string
@@ -72,9 +74,21 @@ type HabboLike = {
 	rotateFurnitureById: (id: string) => number | null
 	moveFurnitureById: (id: string, x: number, y: number) => boolean
 	setAvatarMovementEnabled: (enabled: boolean) => void
+	getPrimaryAvatarScreenPosition?: () => { x: number; y: number } | null
 	gangState: GangStateLike
 	destroy?: () => void
 }
+
+type WorldChatBubble = {
+	id: string
+	author: string
+	text: string
+	x: number
+	y: number
+	createdAt: number
+}
+
+const WORLD_CHAT_BUBBLE_DURATION = 5000
 
 type TileTapDetail = {
 	x: number
@@ -484,6 +498,60 @@ export default function ClientGameShell() {
 
 	const handleFurniClose = useCallback(() => setFurniTap(null), [])
 
+	const [worldBubbles, setWorldBubbles] = useState<WorldChatBubble[]>([])
+	const bubbleIdRef = useRef(0)
+
+	const handleSendWorldChat = useCallback(
+		async (message: string) => {
+			const trimmed = message.trim()
+			if (!trimmed) return
+			const anchor = habbo?.getPrimaryAvatarScreenPosition?.() ?? null
+			if (!anchor) {
+				flashStatus("Avatar indisponible")
+				return
+			}
+			bubbleIdRef.current += 1
+			const bubble: WorldChatBubble = {
+				id: `local-${Date.now()}-${bubbleIdRef.current}`,
+				author: username || "Invité",
+				text: trimmed.slice(0, 90),
+				x: anchor.x,
+				y: anchor.y,
+				createdAt: Date.now()
+			}
+			setWorldBubbles((prev) => {
+				const fresh = prev.filter((b) => Date.now() - b.createdAt < WORLD_CHAT_BUBBLE_DURATION)
+				const dedupedByAuthor = fresh.filter((b) => b.author !== bubble.author)
+				return [...dedupedByAuthor, bubble]
+			})
+
+			// Best-effort persistence to Firestore if configured
+			try {
+				const roomId = habbo?.getCurrentRoomId?.() ?? null
+				if (!roomId) return
+				const { getFirebaseDb } = await import("@/lib/firebase/client")
+				const db = getFirebaseDb()
+				if (!db) return
+				const { initializeChatService } = await import("@/lib/chat/ChatService")
+				const chat = initializeChatService(db)
+				await chat.sendMessage(roomId, username || "guest", username || "Invité", trimmed)
+			} catch (error) {
+				if (process.env.NODE_ENV !== "production") {
+					console.warn("world chat persistence skipped:", error)
+				}
+			}
+		},
+		[habbo, username, flashStatus]
+	)
+
+	useEffect(() => {
+		if (worldBubbles.length === 0) return
+		const interval = window.setInterval(() => {
+			setWorldBubbles((prev) => prev.filter((b) => Date.now() - b.createdAt < WORLD_CHAT_BUBBLE_DURATION))
+		}, 500)
+		return () => window.clearInterval(interval)
+	}, [worldBubbles.length])
+
 	const handleFurniMove = useCallback(() => {
 		if (!habbo || !furniTap) return
 		if (!furniTap.habboClassName) {
@@ -587,6 +655,11 @@ export default function ClientGameShell() {
 					onClose={handleInspectClose}
 				/>
 			) : null}
+
+			<WorldChatOverlay
+				bubbles={worldBubbles}
+				onSend={handleSendWorldChat}
+			/>
 
 			<button
 				className="ew-client-action-bubble"
@@ -1310,5 +1383,28 @@ function RoomGroup({
 				))}
 			</div>
 		</section>
+	)
+}
+
+function WorldChatOverlay({
+	bubbles,
+	onSend
+}: {
+	bubbles: WorldChatBubble[]
+	onSend: (message: string) => Promise<void>
+}) {
+	return (
+		<>
+			{bubbles.map((bubble) => (
+				<ChatBubble
+					key={bubble.id}
+					message={`${bubble.author} : ${bubble.text}`}
+					x={bubble.x - 120}
+					y={bubble.y - 60}
+					duration={WORLD_CHAT_BUBBLE_DURATION}
+				/>
+			))}
+			<ChatInput onSendMessage={onSend} />
+		</>
 	)
 }

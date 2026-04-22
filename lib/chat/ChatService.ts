@@ -10,14 +10,8 @@ import {
   Firestore
 } from "firebase/firestore";
 
-export interface ChatMessage {
-  id: string;
-  userId: string;
-  username: string;
-  message: string;
-  createdAt: Date;
-  roomId: string;
-}
+export type { ChatMessage } from "./types";
+import type { ChatMessage } from "./types";
 
 export class ChatService {
   private db: Firestore;

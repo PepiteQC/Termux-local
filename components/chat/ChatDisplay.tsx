@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import { ChatBubble } from "./ChatBubble";
-import type { ChatMessage } from "@/lib/chat/ChatService";
+import type { ChatMessage } from "@/lib/chat/types";
 
 interface ChatDisplayProps {
   messages: ChatMessage[];
