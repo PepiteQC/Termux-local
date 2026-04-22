@@ -195,6 +195,74 @@ export default class RoomMap {
 		)
 	}
 
+	/**
+	 * Breadth-first search through walkable tiles.
+	 *
+	 * Uses 8-way connectivity, forbids height jumps greater than `maxStep`,
+	 * and lets the caller mark tiles as blocked (e.g. non-walkable furniture).
+	 *
+	 * Returns the ordered list of tiles from the first step up to and including
+	 * the destination, or an empty array if no path exists. The starting tile
+	 * is intentionally excluded.
+	 */
+	public findPath(
+		fromX: number,
+		fromY: number,
+		toX: number,
+		toY: number,
+		options: {
+			isBlocked?: (x: number, y: number) => boolean
+			maxStep?: number
+		} = {}
+	): HeightMapPosition[] {
+		const isBlocked = options.isBlocked ?? (() => false)
+		const maxStep = options.maxStep ?? 1
+
+		const start = this.getTilePositionAt(fromX, fromY)
+		const end = this.getTilePositionAt(toX, toY)
+		if (!start || !end) return []
+		if (fromX === toX && fromY === toY) return []
+		if (isBlocked(toX, toY)) return []
+
+		const toKey = this.toKey.bind(this)
+		const startKey = toKey(fromX, fromY)
+		const endKey = toKey(toX, toY)
+
+		const queue: HeightMapPosition[] = [start]
+		const cameFrom = new Map<string, string>()
+		const visited = new Set<string>([startKey])
+
+		while (queue.length) {
+			const current = queue.shift()!
+			if (current.x === toX && current.y === toY) break
+			for (const neighbor of this.getNeighbors(current.x, current.y, true)) {
+				const key = toKey(neighbor.x, neighbor.y)
+				if (visited.has(key)) continue
+				if (Math.abs(neighbor.height - current.height) > maxStep) continue
+				const isDestination = neighbor.x === toX && neighbor.y === toY
+				if (!isDestination && isBlocked(neighbor.x, neighbor.y)) continue
+				visited.add(key)
+				cameFrom.set(key, toKey(current.x, current.y))
+				queue.push(neighbor)
+			}
+		}
+
+		if (!cameFrom.has(endKey)) return []
+
+		const path: HeightMapPosition[] = []
+		let cursor = endKey
+		while (cursor !== startKey) {
+			const [xs, ys] = cursor.split(':')
+			const tile = this.getTilePositionAt(Number(xs), Number(ys))
+			if (!tile) return []
+			path.unshift(tile)
+			const prev = cameFrom.get(cursor)
+			if (!prev) return []
+			cursor = prev
+		}
+		return path
+	}
+
 	public canWalkTo(fromX: number, fromY: number, toX: number, toY: number, maxStep = 1): boolean {
 		const from = this.getTilePositionAt(fromX, fromY)
 		const to = this.getTilePositionAt(toX, toY)

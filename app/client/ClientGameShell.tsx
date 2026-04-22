@@ -556,6 +556,34 @@ export default function ClientGameShell() {
 		return () => window.clearInterval(interval)
 	}, [worldBubbles.length])
 
+	// Re-anchor local bubbles to the primary avatar every frame so bubbles
+	// follow the avatar while it walks instead of staying pinned to the click
+	// position.
+	useEffect(() => {
+		if (!habbo) return
+		if (worldBubbles.length === 0) return
+		const localAuthor = username || "Invité"
+		let frame = 0
+		const tick = (): void => {
+			const anchor = habbo.getPrimaryAvatarScreenPosition?.()
+			if (anchor) {
+				setWorldBubbles((prev) => {
+					let dirty = false
+					const next = prev.map((b) => {
+						if (b.author !== localAuthor) return b
+						if (b.x === anchor.x && b.y === anchor.y) return b
+						dirty = true
+						return { ...b, x: anchor.x, y: anchor.y }
+					})
+					return dirty ? next : prev
+				})
+			}
+			frame = window.requestAnimationFrame(tick)
+		}
+		frame = window.requestAnimationFrame(tick)
+		return () => window.cancelAnimationFrame(frame)
+	}, [habbo, worldBubbles.length, username])
+
 	const handleFurniMove = useCallback(() => {
 		if (!habbo || !furniTap) return
 		if (!furniTap.habboClassName) {
