@@ -158,6 +158,49 @@ export default class Habbo {
 		this.avatarMovementEnabled = enabled
 	}
 
+	public setPrimaryAvatarFigurestring(figurestring: string): boolean {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return false
+		const container = (room as unknown as {
+			roomContainer?: {
+				avatarsContainer?: {
+					setPrimaryAvatarFigurestring?: (s: string) => boolean
+				}
+			}
+		}).roomContainer
+		return container?.avatarsContainer?.setPrimaryAvatarFigurestring?.(figurestring) ?? false
+	}
+
+	public setPrimaryAvatarUsername(username: string): boolean {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return false
+		const container = (room as unknown as {
+			roomContainer?: {
+				avatarsContainer?: {
+					setPrimaryAvatarUsername?: (s: string) => boolean
+				}
+			}
+		}).roomContainer
+		return container?.avatarsContainer?.setPrimaryAvatarUsername?.(username) ?? false
+	}
+
+	/**
+	 * Remove a furniture item from the active room by id.
+	 * Used by the inventory / pickup flows.
+	 */
+	public removeFurnitureById(id: string): boolean {
+		const room = this.roomManager.getCurrentRoom()
+		if (!room) return false
+		const container = (room as unknown as {
+			roomContainer?: {
+				furnituresContainer?: {
+					removeFurniture?: (id: string) => boolean
+				}
+			}
+		}).roomContainer
+		return container?.furnituresContainer?.removeFurniture?.(id) ?? false
+	}
+
 	public handleTileTap(
 		position: { x: number; y: number; height: number },
 		moveAvatar: () => void

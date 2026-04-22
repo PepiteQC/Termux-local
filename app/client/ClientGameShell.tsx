@@ -3,6 +3,21 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 import { ChatInput } from "@/components/chat/ChatInput"
 import { ChatBubble } from "@/components/chat/ChatBubble"
+import {
+	DEFAULT_SELECTION,
+	HAIRS,
+	HEADS,
+	PALETTE as FIGURE_PALETTE,
+	PANTS,
+	SHIRTS,
+	SHOES,
+	figurestringToSelection,
+	previewAvatarUrl,
+	selectionToFigurestring,
+	type FigurePart,
+	type FigureSelection,
+	type Gender
+} from "@/lib/habbo/wardrobe"
 
 type RoomSummary = {
 	id: string
@@ -73,10 +88,23 @@ type HabboLike = {
 	placeHabboFurni: (className: string, options?: { x?: number; y?: number; direction?: number; label?: string; width?: number; depth?: number }) => boolean
 	rotateFurnitureById: (id: string) => number | null
 	moveFurnitureById: (id: string, x: number, y: number) => boolean
+	removeFurnitureById?: (id: string) => boolean
 	setAvatarMovementEnabled: (enabled: boolean) => void
+	setPrimaryAvatarFigurestring?: (figure: string) => boolean
+	setPrimaryAvatarUsername?: (name: string) => boolean
 	getPrimaryAvatarScreenPosition?: () => { x: number; y: number } | null
 	gangState: GangStateLike
 	destroy?: () => void
+}
+
+type InventoryItem = {
+	uid: string
+	className: string
+	name: string
+	xdim: number
+	ydim: number
+	icon: string | null
+	category: string | null
 }
 
 type WorldChatBubble = {
@@ -157,15 +185,6 @@ const FACTIONS: Array<{ id: FactionId; name: string; color: string; tagline: str
 	{ id: "quebec", name: "Québec", color: "#4f8ba7", tagline: "Froid · QC" }
 ]
 
-const OUTFITS = [
-	{ id: "casual", name: "Casual urbain", look: { top: "#4a7fb0", bottom: "#272b33" } },
-	{ id: "employee-weed", name: "Employé Weed Shop", look: { top: "#2e5f3d", bottom: "#1a1a1a" } },
-	{ id: "street", name: "Streetwear", look: { top: "#0a0a0a", bottom: "#5a5a66" } },
-	{ id: "vip-noir", name: "VIP noir néon", look: { top: "#1a0f2a", bottom: "#0a0a14" } },
-	{ id: "cyber", name: "Cyber", look: { top: "#4a2a6e", bottom: "#1e1a3a" } },
-	{ id: "ice-quebec", name: "Ice Québec", look: { top: "#4f8ba7", bottom: "#172c3e" } }
-]
-
 const SHOP_ITEMS = [
 	{ id: "jar-diamond", name: "Diamond Sauce", tier: "Rare", price: "4 200 EW", emoji: "💎" },
 	{ id: "jar-liveresin", name: "Live Resin", tier: "Premium", price: "2 800 EW", emoji: "🧪" },
@@ -242,7 +261,6 @@ export default function ClientGameShell() {
 	const [panel, setPanel] = useState<PanelKey>(null)
 	const [currentRoomId, setCurrentRoomId] = useState<string | null>(null)
 	const [rooms, setRooms] = useState<RoomSummary[]>([])
-	const [outfit, setOutfit] = useState<string>("casual")
 	const [username, setUsername] = useState<string>("")
 	const [teleportX, setTeleportX] = useState("2")
 	const [teleportY, setTeleportY] = useState("4")
@@ -257,19 +275,112 @@ export default function ClientGameShell() {
 	const [furniTap, setFurniTap] = useState<FurnitureTapDetail | null>(null)
 	const [placement, setPlacement] = useState<PlacementState | null>(null)
 	const [inspector, setInspector] = useState<FurnitureTapDetail | null>(null)
+	const [gender, setGender] = useState<Gender>("M")
+	const [figureSelection, setFigureSelection] = useState<FigureSelection>(DEFAULT_SELECTION.M)
+	const [wardrobePart, setWardrobePart] = useState<FigurePart>("hr")
+	const [inventory, setInventory] = useState<InventoryItem[]>([])
+	const [dragItemUid, setDragItemUid] = useState<string | null>(null)
+	const [dropHover, setDropHover] = useState(false)
 	const placementRef = useRef<PlacementState | null>(null)
+	const inventoryRef = useRef<InventoryItem[]>(inventory)
+	const dragItemRef = useRef<string | null>(null)
 	useEffect(() => { placementRef.current = placement }, [placement])
+	useEffect(() => { inventoryRef.current = inventory }, [inventory])
+	useEffect(() => { dragItemRef.current = dragItemUid }, [dragItemUid])
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
 		const stored = window.localStorage.getItem("ew-username")
 		if (stored) setUsername(stored)
+		const storedGender = window.localStorage.getItem("ew-gender") as Gender | null
+		if (storedGender === "M" || storedGender === "F") setGender(storedGender)
+		const storedFigure = window.localStorage.getItem("ew-figurestring")
+		if (storedFigure) {
+			setFigureSelection(figurestringToSelection(
+				storedFigure,
+				DEFAULT_SELECTION[storedGender === "F" ? "F" : "M"]
+			))
+		}
+		try {
+			const storedInv = window.localStorage.getItem("ew-inventory")
+			if (storedInv) {
+				const parsed = JSON.parse(storedInv) as InventoryItem[]
+				if (Array.isArray(parsed)) setInventory(parsed)
+			}
+		} catch {
+			/* ignore malformed inventory */
+		}
 	}, [])
+
+	// Persist inventory whenever it changes so items survive a reload.
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		try {
+			window.localStorage.setItem("ew-inventory", JSON.stringify(inventory))
+		} catch {
+			/* quota — ignore */
+		}
+	}, [inventory])
+
+	// Seed a small starter inventory once the Habbo catalog is loaded.
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		if (habboCatalog.length === 0) return
+		if (inventoryRef.current.length > 0) return
+		if (window.localStorage.getItem("ew-inventory-seeded") === "1") return
+		const preferred = ["club_sofa", "table_polyfon", "plant_yukka", "shelves_norja", "rare_dragonlamp", "rare_daffodil_rug"]
+		const picks = preferred
+			.map((cn) => habboCatalog.find((e) => e.className === cn))
+			.filter((e): e is HabboCatalogEntry => Boolean(e))
+		const fallback = picks.length > 0
+			? picks
+			: habboCatalog.filter((e) => e.hasSwf).slice(0, 6)
+		const seeded: InventoryItem[] = fallback.map((entry, i) => ({
+			uid: `inv-${Date.now()}-${i}`,
+			className: entry.className,
+			name: entry.name || entry.className,
+			xdim: entry.xdim,
+			ydim: entry.ydim,
+			icon: entry.icon,
+			category: entry.category
+		}))
+		setInventory(seeded)
+		window.localStorage.setItem("ew-inventory-seeded", "1")
+	}, [habboCatalog])
 
 	useEffect(() => {
 		if (!habbo || !username) return
 		habbo.gangState.setPlayerName(username)
+		habbo.setPrimaryAvatarUsername?.(username)
 	}, [habbo, username])
+
+	// Keep the in-world avatar's figurestring in sync with the wardrobe state.
+	const figurestring = useMemo(
+		() => selectionToFigurestring(figureSelection),
+		[figureSelection]
+	)
+	const figurePreviewUrl = useMemo(
+		() => previewAvatarUrl(figurestring, 2, "l"),
+		[figurestring]
+	)
+
+	useEffect(() => {
+		if (!habbo) return
+		if (!figurestring) return
+		let tries = 0
+		const apply = () => {
+			if (habbo.setPrimaryAvatarFigurestring?.(figurestring)) return
+			if (tries++ > 20) return
+			window.setTimeout(apply, 120)
+		}
+		apply()
+	}, [habbo, figurestring])
+
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		window.localStorage.setItem("ew-figurestring", figurestring)
+		window.localStorage.setItem("ew-gender", gender)
+	}, [figurestring, gender])
 
 	useEffect(() => {
 		if (typeof window === "undefined") return
@@ -629,6 +740,136 @@ export default function ClientGameShell() {
 
 	const handleInspectClose = useCallback(() => setInspector(null), [])
 
+	const getSets = useCallback((part: FigurePart, g: Gender) => {
+		switch (part) {
+			case "hr":
+				return HAIRS[g]
+			case "hd":
+				return HEADS[g]
+			case "ch":
+				return SHIRTS[g]
+			case "lg":
+				return PANTS[g]
+			case "sh":
+				return SHOES
+			default:
+				return HAIRS[g]
+		}
+	}, [])
+
+	const handleGenderChange = useCallback((next: Gender) => {
+		setGender(next)
+		setFigureSelection((prev) => {
+			const fresh = DEFAULT_SELECTION[next]
+			// keep colours if possible, swap in gender-specific default sets
+			return {
+				hr: { set: fresh.hr.set, color1: prev.hr.color1 },
+				hd: { set: fresh.hd.set, color1: prev.hd.color1 },
+				ch: { set: fresh.ch.set, color1: prev.ch.color1 },
+				lg: { set: fresh.lg.set, color1: prev.lg.color1 },
+				sh: { set: fresh.sh.set, color1: prev.sh.color1 },
+				ha: fresh.ha,
+				fa: fresh.fa
+			}
+		})
+	}, [])
+
+	const pickFigurePart = useCallback((part: FigurePart, setId: number) => {
+		setFigureSelection((prev) => ({
+			...prev,
+			[part]: { ...prev[part], set: setId }
+		}))
+	}, [])
+
+	const pickFigureColor = useCallback((part: FigurePart, colorId: number) => {
+		setFigureSelection((prev) => ({
+			...prev,
+			[part]: { ...prev[part], color1: colorId }
+		}))
+	}, [])
+
+	const handleInventoryPlace = useCallback(
+		(item: InventoryItem, x?: number, y?: number) => {
+			if (!habbo) return
+			const placeX = typeof x === "number" ? x : 3
+			const placeY = typeof y === "number" ? y : 3
+			const ok = habbo.placeHabboFurni(item.className, {
+				x: placeX,
+				y: placeY,
+				width: item.xdim,
+				depth: item.ydim,
+				label: item.name
+			})
+			if (ok) {
+				setInventory((prev) => prev.filter((i) => i.uid !== item.uid))
+				flashStatus(`${item.name} posé dans la chambre — clique pour le déplacer`)
+				setPanel(null)
+			} else {
+				flashStatus("Impossible de poser cet objet ici.")
+			}
+		},
+		[habbo, flashStatus]
+	)
+
+	// Drag & drop: allow the inventory slots to be dropped onto the game canvas.
+	useEffect(() => {
+		if (typeof window === "undefined") return
+		const root = gameRootRef.current
+		if (!root) return
+		const onDragOver = (e: DragEvent) => {
+			if (!dragItemRef.current) return
+			e.preventDefault()
+			if (e.dataTransfer) e.dataTransfer.dropEffect = "move"
+			setDropHover(true)
+		}
+		const onDragLeave = () => setDropHover(false)
+		const onDrop = (e: DragEvent) => {
+			e.preventDefault()
+			setDropHover(false)
+			const uid = e.dataTransfer?.getData("text/ew-inventory") || dragItemRef.current
+			if (!uid) return
+			const item = inventoryRef.current.find((i) => i.uid === uid)
+			if (!item) return
+			handleInventoryPlace(item)
+			setDragItemUid(null)
+		}
+		root.addEventListener("dragover", onDragOver)
+		root.addEventListener("dragleave", onDragLeave)
+		root.addEventListener("drop", onDrop)
+		return () => {
+			root.removeEventListener("dragover", onDragOver)
+			root.removeEventListener("dragleave", onDragLeave)
+			root.removeEventListener("drop", onDrop)
+		}
+	}, [handleInventoryPlace])
+
+	const handleFurniPickup = useCallback(() => {
+		if (!habbo || !furniTap) return
+		if (!furniTap.habboClassName) {
+			flashStatus("Cet objet ne peut pas être ramassé.")
+			return
+		}
+		const removed = habbo.removeFurnitureById?.(furniTap.id) ?? false
+		if (!removed) {
+			flashStatus("Ramassage impossible.")
+			return
+		}
+		setInventory((prev) => [
+			...prev,
+			{
+				uid: `inv-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`,
+				className: furniTap.habboClassName!,
+				name: furniTap.label,
+				xdim: Math.max(1, Math.round(furniTap.width)),
+				ydim: Math.max(1, Math.round(furniTap.depth)),
+				icon: null,
+				category: null
+			}
+		])
+		flashStatus(`${furniTap.label} rangé dans l'inventaire`)
+		setFurniTap(null)
+	}, [habbo, furniTap, flashStatus])
+
 	const gangRooms = rooms.filter((r) => r.category === "gang")
 	const shopRooms = rooms.filter((r) => r.category === "shop")
 	const mainRooms = rooms.filter((r) => r.category !== "gang" && r.category !== "shop")
@@ -639,7 +880,11 @@ export default function ClientGameShell() {
 
 	return (
 		<div className="ew-client-shell">
-			<div id="etherworld-game-root" ref={gameRootRef} className="ew-client-canvas-root" />
+			<div
+				id="etherworld-game-root"
+				ref={gameRootRef}
+				className={`ew-client-canvas-root ${dropHover ? "drop-active" : ""}`}
+			/>
 
 			<div className="ew-client-overlay-top">
 				<div className="ew-client-logo">
@@ -668,6 +913,7 @@ export default function ClientGameShell() {
 					onSit={handleFurniSit}
 					onTurn={handleFurniTurn}
 					onMove={handleFurniMove}
+					onPickup={handleFurniPickup}
 					onInspect={handleFurniInspect}
 					onClose={handleFurniClose}
 				/>
@@ -785,21 +1031,73 @@ export default function ClientGameShell() {
 						) : null}
 
 						{panel === "wardrobe" ? (
-							<div className="ew-panel-body ew-panel-grid">
-								{OUTFITS.map((item) => (
-									<button
-										key={item.id}
-										className={`ew-card ${outfit === item.id ? "selected" : ""}`}
-										onClick={() => setOutfit(item.id)}
-									>
-										<div
-											className="ew-card-swatch"
-											style={{ background: `linear-gradient(180deg, ${item.look.top} 0%, ${item.look.bottom} 100%)` }}
+							<div className="ew-panel-body">
+								<div className="ew-wardrobe-layout">
+									<div className="ew-wardrobe-preview">
+										<img
+											src={figurePreviewUrl}
+											alt="Aperçu avatar"
+											referrerPolicy="no-referrer"
 										/>
-										<div className="ew-card-name">{item.name}</div>
-										{outfit === item.id ? <div className="ew-card-tag">ACTIF</div> : null}
-									</button>
-								))}
+										<div className="ew-char-gender">
+											<button
+												type="button"
+												className={`ew-char-gender-btn ${gender === "M" ? "active" : ""}`}
+												onClick={() => handleGenderChange("M")}
+											>
+												<span>♂</span> Homme
+											</button>
+											<button
+												type="button"
+												className={`ew-char-gender-btn ${gender === "F" ? "active" : ""}`}
+												onClick={() => handleGenderChange("F")}
+											>
+												<span>♀</span> Femme
+											</button>
+										</div>
+										<div className="ew-wardrobe-figure">{figurestring}</div>
+									</div>
+									<div className="ew-wardrobe-editor">
+										<div className="ew-char-tabs">
+											{(["hr", "hd", "ch", "lg", "sh"] as FigurePart[]).map((key) => (
+												<button
+													key={key}
+													type="button"
+													className={`ew-char-tab ${wardrobePart === key ? "active" : ""}`}
+													onClick={() => setWardrobePart(key)}
+												>
+													<span className="ew-char-tab-emoji">{wardrobeTabEmoji(key)}</span>
+													<span className="ew-char-tab-label">{wardrobeTabLabel(key)}</span>
+												</button>
+											))}
+										</div>
+										<div className="ew-char-sets">
+											{getSets(wardrobePart, gender).map((set) => (
+												<button
+													key={set.id}
+													type="button"
+													className={`ew-char-set ${figureSelection[wardrobePart].set === set.id ? "active" : ""}`}
+													onClick={() => pickFigurePart(wardrobePart, set.id)}
+												>
+													{set.label}
+												</button>
+											))}
+										</div>
+										<div className="ew-char-palette">
+											{FIGURE_PALETTE.map((color) => (
+												<button
+													key={color.id}
+													type="button"
+													className={`ew-char-swatch ${figureSelection[wardrobePart].color1 === color.id ? "active" : ""}`}
+													style={{ background: color.hex }}
+													onClick={() => pickFigureColor(wardrobePart, color.id)}
+													aria-label={color.label}
+													title={color.label}
+												/>
+											))}
+										</div>
+									</div>
+								</div>
 							</div>
 						) : null}
 
@@ -821,22 +1119,74 @@ export default function ClientGameShell() {
 
 						{panel === "inventory" ? (
 							<div className="ew-panel-body">
-								{playerGang ? (
-									<div className="ew-stock-grid">
-										{(Object.keys(DRUG_LABELS) as DrugType[]).map((drug) => (
-											<div key={drug} className="ew-stock-card">
-												<div className="ew-stock-emoji">{DRUG_LABELS[drug].emoji}</div>
-												<div className="ew-stock-name">{DRUG_LABELS[drug].name}</div>
-												<div className="ew-stock-qty">{playerGang.stock[drug]} u.</div>
-												<div className="ew-stock-price">
-													{gangSnapshot?.prices[drug] ?? 0}$ / u.
+								<div className="ew-inventory-toolbar">
+									<div className="ew-inventory-toolbar-title">Mes meubles ({inventory.length})</div>
+									<div className="ew-inventory-hint">
+										Glisse un meuble sur la chambre, ou clique pour le poser.
+									</div>
+								</div>
+								{inventory.length === 0 ? (
+									<div className="ew-inventory-empty">
+										Ton inventaire est vide. Ouvre l&apos;onglet Admin → Catalogue Habbo pour en ajouter.
+									</div>
+								) : (
+									<div className="ew-inventory-grid">
+										{inventory.map((item) => (
+											<div
+												key={item.uid}
+												className={`ew-inventory-slot ${dragItemUid === item.uid ? "dragging" : ""}`}
+												draggable
+												onDragStart={(e) => {
+													e.dataTransfer.setData("text/ew-inventory", item.uid)
+													e.dataTransfer.effectAllowed = "move"
+													setDragItemUid(item.uid)
+												}}
+												onDragEnd={() => {
+													setDragItemUid(null)
+													setDropHover(false)
+												}}
+												onClick={() => handleInventoryPlace(item)}
+												title={`${item.name} · ${item.xdim}×${item.ydim} — clique ou glisse pour placer`}
+											>
+												<div className="ew-inventory-icon">
+													{item.icon ? (
+														<img
+															src={item.icon}
+															alt=""
+															referrerPolicy="no-referrer"
+															onError={(e) => {
+																(e.currentTarget as HTMLImageElement).style.visibility = "hidden"
+															}}
+														/>
+													) : (
+														<div className="ew-inventory-icon-fallback" />
+													)}
 												</div>
+												<div className="ew-inventory-name">{item.name}</div>
+												<div className="ew-inventory-qty">{item.xdim}×{item.ydim}</div>
 											</div>
 										))}
 									</div>
-								) : (
-									<div className="ew-empty-slot">Rejoins une faction dans l&apos;onglet Gangs pour voir ton stock.</div>
 								)}
+								{playerGang ? (
+									<>
+										<div className="ew-inventory-toolbar" style={{ marginTop: 22 }}>
+											<div className="ew-inventory-toolbar-title">Stock crew · {playerGang.name}</div>
+										</div>
+										<div className="ew-stock-grid">
+											{(Object.keys(DRUG_LABELS) as DrugType[]).map((drug) => (
+												<div key={drug} className="ew-stock-card">
+													<div className="ew-stock-emoji">{DRUG_LABELS[drug].emoji}</div>
+													<div className="ew-stock-name">{DRUG_LABELS[drug].name}</div>
+													<div className="ew-stock-qty">{playerGang.stock[drug]} u.</div>
+													<div className="ew-stock-price">
+														{gangSnapshot?.prices[drug] ?? 0}$ / u.
+													</div>
+												</div>
+											))}
+										</div>
+									</>
+								) : null}
 							</div>
 						) : null}
 
@@ -1169,6 +1519,7 @@ function FurnitureActionMenu({
 	onSit,
 	onTurn,
 	onMove,
+	onPickup,
 	onInspect,
 	onClose
 }: {
@@ -1176,6 +1527,7 @@ function FurnitureActionMenu({
 	onSit: () => void
 	onTurn: () => void
 	onMove: () => void
+	onPickup: () => void
 	onInspect: () => void
 	onClose: () => void
 }) {
@@ -1268,6 +1620,19 @@ function FurnitureActionMenu({
 						<div className="ew-furni-menu-action-title">Déplacer</div>
 						<div className="ew-furni-menu-action-sub">
 							{canMove ? "Tape une case pour poser" : "Indisponible"}
+						</div>
+					</div>
+				</button>
+				<button
+					className="ew-furni-menu-action"
+					onClick={onPickup}
+					disabled={!canMove}
+				>
+					<span className="ew-furni-menu-icon">🎒</span>
+					<div>
+						<div className="ew-furni-menu-action-title">Ramasser</div>
+						<div className="ew-furni-menu-action-sub">
+							{canMove ? "Retour dans l'inventaire" : "Indisponible"}
 						</div>
 					</div>
 				</button>
@@ -1416,6 +1781,28 @@ function RoomGroup({
 			</div>
 		</section>
 	)
+}
+
+function wardrobeTabEmoji(part: FigurePart): string {
+	switch (part) {
+		case "hr": return "💇"
+		case "hd": return "🙂"
+		case "ch": return "👕"
+		case "lg": return "👖"
+		case "sh": return "👟"
+		default: return "✨"
+	}
+}
+
+function wardrobeTabLabel(part: FigurePart): string {
+	switch (part) {
+		case "hr": return "Cheveux"
+		case "hd": return "Visage"
+		case "ch": return "Haut"
+		case "lg": return "Bas"
+		case "sh": return "Chaussures"
+		default: return part
+	}
 }
 
 function WorldChatOverlay({

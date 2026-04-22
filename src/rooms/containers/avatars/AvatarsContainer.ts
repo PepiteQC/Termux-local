@@ -54,6 +54,20 @@ export default class AvatarsContainer extends Container {
 		return avatar.getCurrentTile()
 	}
 
+	public setPrimaryAvatarFigurestring(figurestring: string): boolean {
+		const avatar = this.avatars[0]
+		if (!avatar) return false
+		avatar.setFigurestring(figurestring)
+		return true
+	}
+
+	public setPrimaryAvatarUsername(username: string): boolean {
+		const avatar = this.avatars[0]
+		if (!avatar) return false
+		avatar.setUsername(username)
+		return true
+	}
+
 	private isTileBlockedByFurniture(x: number, y: number): boolean {
 		for (const item of this.room.data.furnitures) {
 			if (item.walkable) continue

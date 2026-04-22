@@ -46,4 +46,31 @@ export default class FurnituresContainer extends Container {
 
 		return sprite
 	}
+
+	/**
+	 * Remove a furniture sprite by id. Returns true if the item was found and
+	 * removed from both the scene graph and the room's data model so that
+	 * pathfinding / collision immediately ignore it.
+	 */
+	public removeFurniture(id: string): boolean {
+		const index = this.furnitures.findIndex((sprite) => sprite.getItemId() === id)
+		if (index === -1) return false
+		const sprite = this.furnitures[index]
+		this.furnitures.splice(index, 1)
+
+		const sceneHost = (this.room as unknown as { roomContainer?: Container }).roomContainer
+		if (sceneHost && sprite.parent === sceneHost) {
+			sceneHost.removeChild(sprite)
+		} else if (sprite.parent) {
+			sprite.parent.removeChild(sprite)
+		}
+		sprite.destroy({ children: true })
+
+		const roomData = this.room.data as { furnitures: Array<{ id: string }> }
+		const dataIndex = roomData.furnitures.findIndex((item) => item.id === id)
+		if (dataIndex !== -1) {
+			roomData.furnitures.splice(dataIndex, 1)
+		}
+		return true
+	}
 }
