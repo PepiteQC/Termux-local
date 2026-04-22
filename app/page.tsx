@@ -1,6 +1,6 @@
 "use client"
 
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import {
   DEFAULT_SELECTION,
@@ -18,43 +18,25 @@ import {
   type Gender
 } from "@/lib/habbo/wardrobe";
 
-type Phase = "gate" | "character" | "connect" | "done";
+type Phase = "login" | "character" | "entering";
 
-const CONNECT_STEPS = [
-  { label: "Authentification EtherWorld…", pct: 14 },
-  { label: "Chargement des avatars…", pct: 26 },
-  { label: "Chargement des meubles…", pct: 40 },
-  { label: "Chargement des items…", pct: 54 },
-  { label: "Chargement des chambres…", pct: 66 },
-  { label: "Injection du Green Shop…", pct: 78 },
-  { label: "Initialisation du moteur iso…", pct: 90 },
-  { label: "Synchronisation finale…", pct: 97 },
-  { label: "PRÊT.", pct: 100 }
-];
-
-const PART_TABS: Array<{ key: FigurePart; label: string; emoji: string }> = [
-  { key: "hr", label: "Cheveux", emoji: "💇" },
-  { key: "hd", label: "Visage", emoji: "🙂" },
-  { key: "ch", label: "Haut", emoji: "👕" },
-  { key: "lg", label: "Bas", emoji: "👖" },
-  { key: "sh", label: "Chaussures", emoji: "👟" }
+const PART_TABS: Array<{ key: FigurePart; label: string }> = [
+  { key: "hr", label: "Cheveux" },
+  { key: "hd", label: "Visage" },
+  { key: "ch", label: "Haut" },
+  { key: "lg", label: "Bas" },
+  { key: "sh", label: "Chaussures" }
 ];
 
 export default function HomePage() {
   const router = useRouter();
-  const [phase, setPhase] = useState<Phase>("gate");
-  const [stepIndex, setStepIndex] = useState(0);
-  const [progress, setProgress] = useState(0);
-  const [label, setLabel] = useState("");
-  const stars = useMemo(() => generateStars(70), []);
-  const canvasRef = useRef<HTMLCanvasElement | null>(null);
-
+  const [phase, setPhase] = useState<Phase>("login");
   const [username, setUsername] = useState<string>("");
   const [gender, setGender] = useState<Gender>("M");
   const [selection, setSelection] = useState<FigureSelection>(DEFAULT_SELECTION.M);
   const [activePart, setActivePart] = useState<FigurePart>("hr");
+  const [hasExistingCharacter, setHasExistingCharacter] = useState(false);
 
-  // Load previously saved look / username if any
   useEffect(() => {
     if (typeof window === "undefined") return;
     const savedUser = window.localStorage.getItem("ew-username");
@@ -63,7 +45,8 @@ export default function HomePage() {
     if (savedGender === "M" || savedGender === "F") setGender(savedGender);
     const savedFigure = window.localStorage.getItem("ew-figurestring");
     if (savedFigure) {
-      setSelection((_prev) =>
+      setHasExistingCharacter(true);
+      setSelection(
         figurestringToSelection(
           savedFigure,
           DEFAULT_SELECTION[(savedGender === "F" ? "F" : "M") as Gender]
@@ -80,9 +63,6 @@ export default function HomePage() {
     setGender(next);
     setSelection((prev) => {
       const fresh = DEFAULT_SELECTION[next];
-      // Hair & head set IDs are gender-specific (males: hr 100-3163 / hd 180-209,
-      // females: hr 500-595 / hd 600-627), so keep the user's picked colours but
-      // swap in the default sets for the new gender.
       return {
         hr: { set: fresh.hr.set, color1: prev.hr.color1 },
         hd: { set: fresh.hd.set, color1: prev.hd.color1 },
@@ -105,313 +85,187 @@ export default function HomePage() {
 
   const sets = useMemo(() => {
     switch (activePart) {
-      case "hr":
-        return HAIRS[gender];
-      case "hd":
-        return HEADS[gender];
-      case "ch":
-        return SHIRTS[gender];
-      case "lg":
-        return PANTS[gender];
-      case "sh":
-        return SHOES[gender];
-      default:
-        return [];
+      case "hr": return HAIRS[gender];
+      case "hd": return HEADS[gender];
+      case "ch": return SHIRTS[gender];
+      case "lg": return PANTS[gender];
+      case "sh": return SHOES[gender];
+      default: return [];
     }
   }, [activePart, gender]);
 
-  useEffect(() => {
-    if (phase !== "connect") return;
-
-    if (stepIndex >= CONNECT_STEPS.length) {
-      const t = window.setTimeout(() => {
-        setPhase("done");
-        router.push("/room");
-      }, 420);
-      return () => window.clearTimeout(t);
-    }
-
-    const step = CONNECT_STEPS[stepIndex];
-    const delay = 220 + Math.random() * 180;
-    const t = window.setTimeout(() => {
-      setProgress(step.pct);
-      setLabel(step.label);
-      setStepIndex((i) => i + 1);
-    }, delay);
-    return () => window.clearTimeout(t);
-  }, [phase, router, stepIndex]);
-
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
-
-    const dpr = window.devicePixelRatio || 1;
-    let raf = 0;
-    let running = true;
-    const t0 = performance.now();
-
-    const resize = () => {
-      const rect = canvas.getBoundingClientRect();
-      canvas.width = rect.width * dpr;
-      canvas.height = rect.height * dpr;
-    };
-    resize();
-    window.addEventListener("resize", resize);
-
-    const draw = () => {
-      if (!running) return;
-      const now = performance.now();
-      const t = (now - t0) / 1000;
-      const w = canvas.width;
-      const h = canvas.height;
-
-      const grad = ctx.createLinearGradient(0, 0, 0, h);
-      grad.addColorStop(0, "#071121");
-      grad.addColorStop(0.55, "#050817");
-      grad.addColorStop(1, "#02030a");
-      ctx.fillStyle = grad;
-      ctx.fillRect(0, 0, w, h);
-
-      const cx = w / 2;
-      const cy = h * 0.55;
-      const tileW = Math.min(w, h) * 0.06;
-      const tileH = tileW * 0.5;
-      const pulse = 0.45 + 0.25 * Math.sin(t * 1.4);
-
-      ctx.save();
-      ctx.translate(cx, cy);
-      ctx.strokeStyle = `rgba(95, 255, 142, ${0.08 + pulse * 0.05})`;
-      ctx.lineWidth = 1 * dpr;
-      const size = 7;
-      for (let x = -size; x <= size; x++) {
-        for (let z = -size; z <= size; z++) {
-          const sx = (x - z) * (tileW / 2);
-          const sy = (x + z) * (tileH / 2);
-          ctx.beginPath();
-          ctx.moveTo(sx, sy - tileH / 2);
-          ctx.lineTo(sx + tileW / 2, sy);
-          ctx.lineTo(sx, sy + tileH / 2);
-          ctx.lineTo(sx - tileW / 2, sy);
-          ctx.closePath();
-          ctx.stroke();
-        }
-      }
-
-      const rgrad = ctx.createRadialGradient(0, 0, 0, 0, 0, tileW * 4);
-      rgrad.addColorStop(0, `rgba(79, 195, 247, ${0.18 + pulse * 0.18})`);
-      rgrad.addColorStop(1, "rgba(79, 195, 247, 0)");
-      ctx.fillStyle = rgrad;
-      ctx.fillRect(-tileW * 5, -tileW * 5, tileW * 10, tileW * 10);
-      ctx.restore();
-
-      raf = requestAnimationFrame(draw);
-    };
-    raf = requestAnimationFrame(draw);
-
-    return () => {
-      running = false;
-      cancelAnimationFrame(raf);
-      window.removeEventListener("resize", resize);
-    };
-  }, []);
-
-  const startCharacter = useCallback(() => {
-    setPhase("character");
-  }, []);
-
-  const startConnect = useCallback(() => {
+  const enterGame = useCallback(() => {
     if (typeof window !== "undefined") {
-      const trimmed = username.trim() || "Invité";
+      const trimmed = username.trim() || "Invit\u00e9";
       window.localStorage.setItem("ew-username", trimmed);
       window.localStorage.setItem("ew-gender", gender);
       window.localStorage.setItem("ew-figurestring", figurestring);
     }
-    setPhase("connect");
-    setStepIndex(0);
-    setProgress(0);
-    setLabel(CONNECT_STEPS[0].label);
-  }, [username, gender, figurestring]);
+    setPhase("entering");
+    router.push("/client");
+  }, [username, gender, figurestring, router]);
+
+  const handleLogin = useCallback(() => {
+    if (!username.trim()) return;
+    if (hasExistingCharacter) {
+      enterGame();
+    } else {
+      setPhase("character");
+    }
+  }, [username, hasExistingCharacter, enterGame]);
+
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === "Enter") handleLogin();
+  }, [handleLogin]);
 
   return (
-    <main className="ew-entry">
-      <canvas ref={canvasRef} className="ew-entry-canvas" />
-      <div className="ew-entry-stars" aria-hidden>
-        {stars.map((s, i) => (
-          <span
-            key={i}
-            style={{
-              left: `${s.x}%`,
-              top: `${s.y}%`,
-              width: `${s.r}px`,
-              height: `${s.r}px`,
-              opacity: s.o,
-              animationDelay: `${s.d}s`
-            }}
-          />
-        ))}
-      </div>
-      <div className="ew-entry-glow ew-entry-glow--tl" />
-      <div className="ew-entry-glow ew-entry-glow--br" />
+    <main className="habbo-login-page">
+      {phase === "login" && (
+        <div className="habbo-login-container">
+          <div className="habbo-login-header">
+            <h1 className="habbo-login-title">EtherWorld</h1>
+            <p className="habbo-login-subtitle">H&ocirc;tel virtuel</p>
+          </div>
 
-      {phase === "gate" ? (
-        <section className="ew-entry-minimal">
-          <h1 className="ew-entry-logo">
-            ETHER<span>WORLD</span>
-          </h1>
-          <button
-            type="button"
-            className="ew-entry-enter"
-            onClick={startCharacter}
-            autoFocus
-          >
-            ENTRER
-          </button>
-        </section>
-      ) : null}
-
-      {phase === "character" ? (
-        <section className="ew-entry-character">
-          <h1 className="ew-entry-logo">
-            ETHER<span>WORLD</span>
-          </h1>
-          <div className="ew-char-grid">
-            <div className="ew-char-preview">
-              <div className="ew-char-preview-stage">
-                <img
-                  src={previewUrl}
-                  alt="Avatar face"
-                  className="ew-char-avatar ew-char-avatar-front"
-                  referrerPolicy="no-referrer"
-                />
-                <img
-                  src={previewSideUrl}
-                  alt="Avatar profil"
-                  className="ew-char-avatar ew-char-avatar-side"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
-
-              <label className="ew-char-field">
-                <span>Nom</span>
+          <div className="habbo-login-card">
+            <div className="habbo-login-form">
+              <label className="habbo-login-label">
+                Nom d&apos;utilisateur
                 <input
+                  className="habbo-login-input"
+                  type="text"
                   value={username}
                   onChange={(e) => setUsername(e.target.value.slice(0, 20))}
-                  placeholder="Ton pseudo"
+                  onKeyDown={handleKeyDown}
+                  placeholder="Entre ton pseudo"
                   maxLength={20}
+                  autoFocus
                 />
               </label>
 
-              <div className="ew-char-gender">
-                <button
-                  type="button"
-                  className={`ew-char-gender-btn ${gender === "M" ? "active" : ""}`}
-                  onClick={() => switchGender("M")}
-                >
-                  <span>♂</span> Homme
-                </button>
-                <button
-                  type="button"
-                  className={`ew-char-gender-btn ${gender === "F" ? "active" : ""}`}
-                  onClick={() => switchGender("F")}
-                >
-                  <span>♀</span> Femme
-                </button>
-              </div>
-            </div>
-
-            <div className="ew-char-editor">
-              <div className="ew-char-tabs">
-                {PART_TABS.map((tab) => (
-                  <button
-                    key={tab.key}
-                    type="button"
-                    className={`ew-char-tab ${activePart === tab.key ? "active" : ""}`}
-                    onClick={() => setActivePart(tab.key)}
-                    aria-label={tab.label}
-                  >
-                    <span className="ew-char-tab-emoji">{tab.emoji}</span>
-                    <span className="ew-char-tab-label">{tab.label}</span>
-                  </button>
-                ))}
-              </div>
-
-              <div className="ew-char-sets">
-                {sets.map((set) => (
-                  <button
-                    key={set.id}
-                    type="button"
-                    className={`ew-char-set ${selection[activePart].set === set.id ? "active" : ""}`}
-                    onClick={() => pickSet(activePart, set.id)}
-                  >
-                    {set.label}
-                  </button>
-                ))}
-              </div>
-
-              <div className="ew-char-palette">
-                {PALETTE.map((color) => (
-                  <button
-                    key={color.id}
-                    type="button"
-                    className={`ew-char-swatch ${selection[activePart].color1 === color.id ? "active" : ""}`}
-                    style={{ background: color.hex }}
-                    onClick={() => pickColor(activePart, color.id)}
-                    aria-label={color.label}
-                    title={color.label}
-                  />
-                ))}
-              </div>
-
               <button
                 type="button"
-                className="ew-entry-enter ew-char-confirm"
-                onClick={startConnect}
+                className="habbo-login-btn"
+                onClick={handleLogin}
                 disabled={!username.trim()}
               >
-                ENTRER DANS LA ROOM
+                CONNEXION
               </button>
             </div>
-          </div>
-        </section>
-      ) : null}
 
-      {phase === "connect" || phase === "done" ? (
-        <section className="ew-entry-minimal">
-          <h1 className="ew-entry-logo">
-            ETHER<span>WORLD</span>
-          </h1>
-          <div className="ew-entry-connecting">
-            <div className="ew-entry-bar">
-              <div className="ew-entry-fill" style={{ width: `${progress}%` }} />
-              <div className="ew-entry-bar-shine" />
+            <div className="habbo-login-footer">
+              <span>EtherWorld v1.0</span>
+              <span className="habbo-login-dot" />
+              <span>Gratuit</span>
             </div>
-            <div className="ew-entry-status">{label || "Connexion…"}</div>
           </div>
-        </section>
-      ) : null}
+        </div>
+      )}
+
+      {phase === "character" && (
+        <div className="habbo-login-container">
+          <div className="habbo-login-header">
+            <h1 className="habbo-login-title">EtherWorld</h1>
+            <p className="habbo-login-subtitle">Cr&eacute;e ton personnage</p>
+          </div>
+
+          <div className="habbo-char-card">
+            <div className="habbo-char-layout">
+              <div className="habbo-char-left">
+                <div className="habbo-char-stage">
+                  <img
+                    src={previewUrl}
+                    alt="Avatar face"
+                    className="habbo-char-avatar"
+                    referrerPolicy="no-referrer"
+                  />
+                  <img
+                    src={previewSideUrl}
+                    alt="Avatar profil"
+                    className="habbo-char-avatar habbo-char-avatar-side"
+                    referrerPolicy="no-referrer"
+                  />
+                </div>
+
+                <div className="habbo-char-gender">
+                  <button
+                    type="button"
+                    className={`habbo-gender-btn ${gender === "M" ? "active" : ""}`}
+                    onClick={() => switchGender("M")}
+                  >
+                    Homme
+                  </button>
+                  <button
+                    type="button"
+                    className={`habbo-gender-btn ${gender === "F" ? "active" : ""}`}
+                    onClick={() => switchGender("F")}
+                  >
+                    Femme
+                  </button>
+                </div>
+              </div>
+
+              <div className="habbo-char-right">
+                <div className="habbo-char-tabs">
+                  {PART_TABS.map((tab) => (
+                    <button
+                      key={tab.key}
+                      type="button"
+                      className={`habbo-char-tab ${activePart === tab.key ? "active" : ""}`}
+                      onClick={() => setActivePart(tab.key)}
+                    >
+                      {tab.label}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="habbo-char-sets">
+                  {sets.map((set) => (
+                    <button
+                      key={set.id}
+                      type="button"
+                      className={`habbo-char-set-btn ${selection[activePart].set === set.id ? "active" : ""}`}
+                      onClick={() => pickSet(activePart, set.id)}
+                    >
+                      {set.label}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="habbo-char-colors">
+                  {PALETTE.map((color) => (
+                    <button
+                      key={color.id}
+                      type="button"
+                      className={`habbo-char-color ${selection[activePart].color1 === color.id ? "active" : ""}`}
+                      style={{ background: color.hex }}
+                      onClick={() => pickColor(activePart, color.id)}
+                      title={color.label}
+                    />
+                  ))}
+                </div>
+
+                <button
+                  type="button"
+                  className="habbo-login-btn habbo-char-enter"
+                  onClick={enterGame}
+                >
+                  ENTRER DANS L&apos;H&Ocirc;TEL
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {phase === "entering" && (
+        <div className="habbo-login-container">
+          <div className="habbo-login-header">
+            <h1 className="habbo-login-title">EtherWorld</h1>
+            <p className="habbo-login-subtitle">Connexion en cours&hellip;</p>
+          </div>
+        </div>
+      )}
     </main>
   );
-}
-
-type Star = { x: number; y: number; r: number; o: number; d: number };
-
-function generateStars(count: number): Star[] {
-  const out: Star[] = [];
-  let seed = 1337;
-  const rand = () => {
-    seed = (seed * 1664525 + 1013904223) % 4294967296;
-    return seed / 4294967296;
-  };
-  for (let i = 0; i < count; i++) {
-    out.push({
-      x: rand() * 100,
-      y: rand() * 100,
-      r: 1 + rand() * 2,
-      o: 0.3 + rand() * 0.7,
-      d: rand() * 4
-    });
-  }
-  return out;
 }
