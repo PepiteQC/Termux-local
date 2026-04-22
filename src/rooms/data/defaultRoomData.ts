@@ -40,7 +40,8 @@ const defaultRoomData: RoomData = {
 				shirt: '/sprites/avatar/shirt/shirt-tshirt.png',
 				jacket: '/sprites/avatar/jacket/jacket-bomber.png',
 				pants: '/sprites/avatar/pants/pants-shorts.png',
-				shoes: '/sprites/avatar/shoes/shoes-hi-tops.png'
+				shoes: '/sprites/avatar/shoes/shoes-hi-tops.png',
+				figurestring: 'hr-100-61.hd-180-1.ch-210-66.lg-270-82.sh-290-80'
 			}
 		}
 	],

@@ -5,6 +5,13 @@ export interface AvatarLook {
 	pants?: string
 	shirt?: string
 	shoes?: string
+	/**
+	 * Habbo figurestring describing the full look (e.g.
+	 * `hr-100-61.hd-180-1.ch-210-66.lg-270-82.sh-290-80`). When set, the
+	 * avatar is rendered using the official Habbo imaging service instead
+	 * of the procedural placeholder.
+	 */
+	figurestring?: string
 }
 
 export default interface AvatarFigure {
