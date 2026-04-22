@@ -1398,7 +1398,8 @@ function WorldChatOverlay({
 			{bubbles.map((bubble) => (
 				<ChatBubble
 					key={bubble.id}
-					message={`${bubble.author} : ${bubble.text}`}
+					author={bubble.author}
+					message={bubble.text}
 					x={bubble.x - 120}
 					y={bubble.y - 60}
 					duration={WORLD_CHAT_BUBBLE_DURATION}
