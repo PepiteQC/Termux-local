@@ -114,7 +114,7 @@ export default function HomePage() {
       case "lg":
         return PANTS[gender];
       case "sh":
-        return SHOES;
+        return SHOES[gender];
       default:
         return [];
     }

@@ -758,7 +758,7 @@ export default function ClientGameShell() {
 			case "lg":
 				return PANTS[g]
 			case "sh":
-				return SHOES
+				return SHOES[g]
 			default:
 				return HAIRS[g]
 		}
