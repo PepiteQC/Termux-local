@@ -27,6 +27,7 @@ export default class AvatarSprite extends Container {
 	private currentTile: HeightMapPosition
 	private isMounted = false
 	private targetPosition: { x: number; y: number } | null = null
+	private pathQueue: HeightMapPosition[] = []
 
 	private direction: HabboDirection = 4
 	private headDirection: HabboDirection = 4
@@ -84,6 +85,24 @@ export default class AvatarSprite extends Container {
 	}
 
 	public moveToTile(heightMapPosition: HeightMapPosition): void {
+		this.pathQueue = []
+		this.stepToTile(heightMapPosition)
+	}
+
+	/**
+	 * Walk along an ordered sequence of tiles (typically produced by
+	 * `RoomMap.findPath`). The starting tile is expected to be excluded :
+	 * only the tiles to traverse should be passed. Supersedes any in-flight
+	 * movement.
+	 */
+	public followPath(path: HeightMapPosition[]): void {
+		if (path.length === 0) return
+		const [first, ...rest] = path
+		this.pathQueue = rest
+		this.stepToTile(first)
+	}
+
+	private stepToTile(heightMapPosition: HeightMapPosition): void {
 		const previousTile = this.currentTile
 		this.currentTile = heightMapPosition
 		this.targetPosition = this.getScreenPosition(heightMapPosition)
@@ -194,7 +213,12 @@ export default class AvatarSprite extends Container {
 			if (distance <= speed) {
 				this.position.set(this.targetPosition.x, this.targetPosition.y)
 				this.targetPosition = null
-				this.setAction('std')
+				const nextTile = this.pathQueue.shift()
+				if (nextTile) {
+					this.stepToTile(nextTile)
+				} else {
+					this.setAction('std')
+				}
 			} else {
 				this.position.set(
 					this.position.x + (dx / distance) * speed,
