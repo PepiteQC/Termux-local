@@ -102,14 +102,14 @@ export const SHIRTS: Record<Gender, FigureSet[]> = {
 		{ id: 3030, label: "Débardeur" }
 	],
 	F: [
-		{ id: 710, label: "T-shirt" },
-		{ id: 715, label: "Col V" },
-		{ id: 720, label: "Débardeur" },
-		{ id: 725, label: "Chemisier" },
-		{ id: 730, label: "Pull" },
-		{ id: 735, label: "Crop top" },
-		{ id: 740, label: "Veste" },
-		{ id: 745, label: "Hoodie" }
+		{ id: 630, label: "T-shirt" },
+		{ id: 635, label: "Col V" },
+		{ id: 645, label: "Débardeur" },
+		{ id: 655, label: "Chemisier" },
+		{ id: 665, label: "Pull" },
+		{ id: 675, label: "Crop top" },
+		{ id: 685, label: "Veste" },
+		{ id: 690, label: "Hoodie" }
 	]
 }
 
@@ -124,24 +124,38 @@ export const PANTS: Record<Gender, FigureSet[]> = {
 		{ id: 3116, label: "Slim" }
 	],
 	F: [
-		{ id: 716, label: "Jean" },
-		{ id: 720, label: "Jupe" },
-		{ id: 725, label: "Short" },
-		{ id: 730, label: "Legging" },
-		{ id: 735, label: "Pantalon" },
-		{ id: 895, label: "Jogger" }
+		{ id: 695, label: "Jean" },
+		{ id: 700, label: "Jupe" },
+		{ id: 705, label: "Short" },
+		{ id: 710, label: "Legging" },
+		{ id: 715, label: "Pantalon" },
+		{ id: 716, label: "Jogger" }
 	]
 }
 
-export const SHOES: FigureSet[] = [
-	{ id: 290, label: "Baskets" },
-	{ id: 295, label: "Running" },
-	{ id: 300, label: "Bottines" },
-	{ id: 305, label: "Mocassins" },
-	{ id: 725, label: "High-tops" },
-	{ id: 730, label: "Bottes" },
-	{ id: 906, label: "Talons" }
-]
+// Shoes are gender-specific in figuredata.xml — male 290-305 don't exist
+// for F, female 725-740 don't exist for M. 905 and 906 are unisex (gender=U)
+// and kept in both lists.
+export const SHOES: Record<Gender, FigureSet[]> = {
+	M: [
+		{ id: 290, label: "Baskets" },
+		{ id: 295, label: "Running" },
+		{ id: 300, label: "Bottines" },
+		{ id: 305, label: "Mocassins" },
+		{ id: 905, label: "Sandales" },
+		{ id: 906, label: "Bottes" },
+		{ id: 908, label: "Chic" }
+	],
+	F: [
+		{ id: 725, label: "Baskets" },
+		{ id: 730, label: "Bottes" },
+		{ id: 735, label: "Bottines" },
+		{ id: 740, label: "Mocassins" },
+		{ id: 905, label: "Sandales" },
+		{ id: 906, label: "Talons" },
+		{ id: 907, label: "Escarpins" }
+	]
+}
 
 export const DEFAULT_SELECTION: Record<Gender, FigureSelection> = {
 	M: {
@@ -156,9 +170,9 @@ export const DEFAULT_SELECTION: Record<Gender, FigureSelection> = {
 	F: {
 		hr: { set: 515, color1: 31 },
 		hd: { set: 600, color1: 7 },
-		ch: { set: 710, color1: 100 },
-		lg: { set: 716, color1: 82 },
-		sh: { set: 290, color1: 80 },
+		ch: { set: 630, color1: 100 },
+		lg: { set: 695, color1: 82 },
+		sh: { set: 725, color1: 80 },
 		ha: { set: 0, color1: 0 },
 		fa: { set: 0, color1: 0 }
 	}
