@@ -291,41 +291,28 @@ export default function ClientGameShell() {
 	useEffect(() => { dragItemRef.current = dragItemUid }, [dragItemUid])
 
 	useEffect(() => {
-                if (typeof window === "undefined") return
-                const stored = window.localStorage.getItem("ew-username")
-                if (stored) setUsername(stored)
-
-                const storedGender = window.localStorage.getItem("ew-gender") as Gender | null
-                if (storedGender === "M" || storedGender === "F") setGender(storedGender)
-
-                const storedFigure = window.localStorage.getItem("ew-figurestring")
-                if (storedFigure) {
-                        setFigureSelection(
-                                figurestringToSelection(
-                                        storedFigure,
-                                        DEFAULT_SELECTION[storedGender === "F" ? "F" : "M"]
-                                )
-                        )
-                }
-
-                const complete = window.localStorage.getItem("ew-character-complete") === "1"
-                setCharacterComplete(complete)
-                setProfileLoaded(true)
-
-                if (!complete) {
-                        setPanel("wardrobe")
-                }
-
-                try {
-                        const storedInv = window.localStorage.getItem("ew-inventory")
-                        if (storedInv) {
-                                const parsed = JSON.parse(storedInv) as InventoryItem[]
-                                if (Array.isArray(parsed)) setInventory(parsed)
-                        }
-                } catch {
-                        /* ignore malformed inventory */
-                }
-        }, [])
+		if (typeof window === "undefined") return
+		const stored = window.localStorage.getItem("ew-username")
+		if (stored) setUsername(stored)
+		const storedGender = window.localStorage.getItem("ew-gender") as Gender | null
+		if (storedGender === "M" || storedGender === "F") setGender(storedGender)
+		const storedFigure = window.localStorage.getItem("ew-figurestring")
+		if (storedFigure) {
+			setFigureSelection(figurestringToSelection(
+				storedFigure,
+				DEFAULT_SELECTION[storedGender === "F" ? "F" : "M"]
+			))
+		}
+		try {
+			const storedInv = window.localStorage.getItem("ew-inventory")
+			if (storedInv) {
+				const parsed = JSON.parse(storedInv) as InventoryItem[]
+				if (Array.isArray(parsed)) setInventory(parsed)
+			}
+		} catch {
+			/* ignore malformed inventory */
+		}
+	}, [])
 
 	// Persist inventory whenever it changes so items survive a reload.
 	useEffect(() => {
@@ -375,33 +362,9 @@ export default function ClientGameShell() {
 		[figureSelection]
 	)
 	const figurePreviewUrl = useMemo(
-                () => previewAvatarUrl(figurestring, 2, "l"),
-                [figurestring]
-        )
-
-        const handleCompleteCharacter = useCallback(() => {
-                if (typeof window === "undefined") return
-
-                const cleanName = username.trim()
-                if (!cleanName) {
-                        flashStatus("Choisis un nom de personnage")
-                        return
-                }
-
-                window.localStorage.setItem("ew-username", cleanName)
-                window.localStorage.setItem("ew-gender", gender)
-                window.localStorage.setItem("ew-figurestring", figurestring)
-                window.localStorage.setItem("ew-character-complete", "1")
-
-                setUsername(cleanName)
-                setCharacterComplete(true)
-                setPanel(null)
-
-                habbo?.setPrimaryAvatarUsername?.(cleanName)
-                habbo?.setPrimaryAvatarFigurestring?.(figurestring)
-
-                flashStatus("Personnage créé")
-        }, [username, gender, figurestring, habbo, flashStatus])
+		() => previewAvatarUrl(figurestring, 2, "l"),
+		[figurestring]
+	)
 
 	useEffect(() => {
 		if (!habbo) return
@@ -1061,25 +1024,11 @@ export default function ClientGameShell() {
 			</div>
 
 			{panel ? (
-				<div
-                                        className="ew-panel-backdrop"
-                                        onClick={() => {
-                                                if (!characterComplete && panel === "wardrobe") return
-                                                setPanel(null)
-                                        }}
-                                >
+				<div className="ew-panel-backdrop" onClick={() => setPanel(null)}>
 					<div className="ew-panel" onClick={(e) => e.stopPropagation()}>
 						<header className="ew-panel-head">
 							<h2 className="ew-panel-title">{panelTitle(panel)}</h2>
-							<button
-                                                                className="ew-panel-close"
-                                                                onClick={() => {
-                                                                        if (!characterComplete && panel === "wardrobe") return
-                                                                        setPanel(null)
-                                                                }}
-                                                        >
-                                                                ×
-                                                        </button>
+							<button className="ew-panel-close" onClick={() => setPanel(null)}>×</button>
 						</header>
 
 						{panel === "rooms" ? (
@@ -1116,24 +1065,6 @@ export default function ClientGameShell() {
 											</button>
 										</div>
 										<div className="ew-wardrobe-figure">{figurestring}</div>
-                                                                                <div className="ew-char-name-block">
-                                                                                        <input
-                                                                                                className="ew-char-name-input"
-                                                                                                value={username}
-                                                                                                onChange={(e) => setUsername(e.target.value)}
-                                                                                                maxLength={20}
-                                                                                                placeholder="Nom du personnage"
-                                                                                        />
-                                                                                        {!characterComplete ? (
-                                                                                                <button
-                                                                                                        type="button"
-                                                                                                        className="ew-char-create-btn"
-                                                                                                        onClick={handleCompleteCharacter}
-                                                                                                >
-                                                                                                        Créer mon personnage
-                                                                                                </button>
-                                                                                        ) : null}
-                                                                                </div>
 									</div>
 									<div className="ew-wardrobe-editor">
 										<div className="ew-char-tabs">

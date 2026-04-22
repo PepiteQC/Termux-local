@@ -1,22 +1,7 @@
-"use client"
+"use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import {
-  DEFAULT_SELECTION,
-  HAIRS,
-  HEADS,
-  PALETTE,
-  PANTS,
-  SHIRTS,
-  SHOES,
-  figurestringToSelection,
-  previewAvatarUrl,
-  selectionToFigurestring,
-  type FigurePart,
-  type FigureSelection,
-  type Gender
-} from "@/lib/habbo/wardrobe";
 
 type Phase = "login" | "character" | "entering";
 

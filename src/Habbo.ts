@@ -32,6 +32,9 @@ export default class Habbo {
 	private resizeObserver: ResizeObserver | null = null
 	private windowResizeHandler: (() => void) | null = null
 	private avatarMovementEnabled = true
+	private lastResizeWidth = 0
+	private lastResizeHeight = 0
+	private resizeRaf = 0
 
 	public async init(parentElement: HTMLElement): Promise<void> {
 		initializeHabboTheme()
@@ -44,7 +47,29 @@ export default class Habbo {
 			return { w, h }
 		}
 
+		const applyPixelArtMode = () => {
+			const rendererAny = this.application.renderer as unknown as {
+				texture?: { style?: { scaleMode?: string } }
+				textureGC?: { maxIdle?: number; checkCountMax?: number }
+			}
+
+			// Nearest scaling si l'API existe dans cette build Pixi
+			if (rendererAny.texture?.style) {
+				rendererAny.texture.style.scaleMode = 'nearest'
+			}
+
+			// Texture GC un peu plus tolérant sur mobile / changements de rooms
+			if (rendererAny.textureGC) {
+				rendererAny.textureGC.maxIdle = 60 * 10
+				rendererAny.textureGC.checkCountMax = 600
+			}
+		}
+
 		const { w: width, h: height } = measure()
+		this.lastResizeWidth = width
+		this.lastResizeHeight = height
+
+		this.application = new Application()
 
 		await this.application.init({
 			width,
@@ -53,13 +78,15 @@ export default class Habbo {
 			antialias: false,
 			backgroundAlpha: 0,
 			preference: 'webgl',
-			resolution: window.devicePixelRatio || 1,
+			powerPreference: 'high-performance',
+			preferWebGLVersion: 2,
+			resolution: Math.min(window.devicePixelRatio || 1, 2),
 			roundPixels: true,
+			clearBeforeRender: true,
 			hello: false
 		})
 
-		// Forcer le mode de mise à l'échelle global pour PixiJS v8
-		this.application.renderer.texture.style.scaleMode = 'nearest'
+		applyPixelArtMode()
 
 		this.viewport = new Viewport({
 			screenWidth: width,
@@ -73,6 +100,8 @@ export default class Habbo {
 
 		this.viewport.sortableChildren = true
 		this.viewport.eventMode = 'static'
+		this.viewport.interactiveChildren = true
+
 		this.viewport
 			.drag({
 				wheel: false,
@@ -90,29 +119,40 @@ export default class Habbo {
 			})
 
 		this.application.stage.sortableChildren = true
+		this.application.stage.eventMode = 'passive'
 		this.application.stage.addChild(this.viewport)
+
 		this.application.canvas.style.width = '100%'
 		this.application.canvas.style.height = '100%'
 		this.application.canvas.style.display = 'block'
 		this.application.canvas.style.imageRendering = 'pixelated'
+		;(this.application.canvas.style as CSSStyleDeclaration & { imageRendering?: string }).imageRendering = 'crisp-edges'
 
 		parentElement.replaceChildren(this.application.canvas)
 		this.cullManager.setViewport(this.viewport)
 
 		const applyResize = () => {
-			const { w, h } = measure()
-			if (w <= 0 || h <= 0) return
-			if (w === this.application.renderer.width && h === this.application.renderer.height) return
-			this.resize(w, h)
+			if (this.resizeRaf) cancelAnimationFrame(this.resizeRaf)
+
+			this.resizeRaf = requestAnimationFrame(() => {
+				const { w, h } = measure()
+				if (w <= 0 || h <= 0) return
+				if (w === this.lastResizeWidth && h === this.lastResizeHeight) return
+
+				this.lastResizeWidth = w
+				this.lastResizeHeight = h
+				this.resize(w, h)
+			})
 		}
 
 		if (typeof ResizeObserver !== 'undefined') {
 			this.resizeObserver = new ResizeObserver(() => applyResize())
 			this.resizeObserver.observe(parentElement)
 		}
+
 		this.windowResizeHandler = () => applyResize()
-		window.addEventListener('resize', this.windowResizeHandler)
-		window.addEventListener('orientationchange', this.windowResizeHandler)
+		window.addEventListener('resize', this.windowResizeHandler, { passive: true })
+		window.addEventListener('orientationchange', this.windowResizeHandler, { passive: true })
 
 		const initialRoomData = getRoomById(DEFAULT_ROOM_ID) ?? defaultRoomData
 		const room = this.roomManager.createRoom(initialRoomData)
@@ -120,7 +160,9 @@ export default class Habbo {
 		this.currentRoomId = initialRoomData.id
 
 		this.smokeLayer = new SmokePuffLayer()
+		this.smokeLayer.eventMode = 'none'
 		this.viewport.addChild(this.smokeLayer)
+
 		this.gangState.startTicks()
 
 		if (typeof window !== 'undefined') {
@@ -187,10 +229,6 @@ export default class Habbo {
 		return container?.avatarsContainer?.setPrimaryAvatarUsername?.(username) ?? false
 	}
 
-	/**
-	 * Remove a furniture item from the active room by id.
-	 * Used by the inventory / pickup flows.
-	 */
 	public removeFurnitureById(id: string): boolean {
 		const room = this.roomManager.getCurrentRoom()
 		if (!room) return false
@@ -260,7 +298,10 @@ export default class Habbo {
 		return sprites.find((sprite) => sprite.getItemId?.() === id) ?? null
 	}
 
-	public placeHabboFurni(className: string, options?: { x?: number; y?: number; width?: number; depth?: number; direction?: number; label?: string }): boolean {
+	public placeHabboFurni(
+		className: string,
+		options?: { x?: number; y?: number; width?: number; depth?: number; direction?: number; label?: string }
+	): boolean {
 		const room = this.roomManager.getCurrentRoom()
 		if (!room) return false
 		const container = (room as unknown as {
@@ -303,18 +344,9 @@ export default class Habbo {
 		if (position) {
 			return this.emitSmokeAtTile(position.x, position.y, tint, count)
 		}
-		// fallback: puff somewhere in the middle of the room
 		return this.emitSmokeAtTile(5, 5, tint, count)
 	}
 
-	/**
-	 * Screen coordinates (page-relative, in CSS pixels) of the primary avatar's head,
-	 * suitable for anchoring an HTML overlay such as a chat bubble.
-	 *
-	 * Uses the Pixi display object's global position so we correctly account for
-	 * the roomContainer offset, viewport transform, and any nested container
-	 * positions — not just the bare tile screen coordinates.
-	 */
 	public getPrimaryAvatarScreenPosition(): { x: number; y: number } | null {
 		if (!this.application?.canvas) return null
 		const room = this.roomManager.getCurrentRoom() as unknown as {
@@ -340,6 +372,12 @@ export default class Habbo {
 	public destroy(): void {
 		this.gangState.stopTicks()
 		this.currentRoom = null
+
+		if (this.resizeRaf) {
+			cancelAnimationFrame(this.resizeRaf)
+			this.resizeRaf = 0
+		}
+
 		if (this.smokeLayer) {
 			this.smokeLayer.destroy()
 			this.smokeLayer = null
@@ -370,7 +408,7 @@ export default class Habbo {
 		}
 
 		this.currentRoom = room
-		this.viewport.addChild(room)
+		this.viewport.addChildAt(room, 0)
 		this.applyRoomMetrics(room)
 		this.viewport.sortChildren()
 		this.cullManager.handleMove()
