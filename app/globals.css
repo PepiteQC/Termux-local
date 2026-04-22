@@ -3064,3 +3064,411 @@ body {
 	margin-top: 4px;
 	padding-right: 8px;
 }
+
+/* ── Character creator ─────────────────────────────────────────── */
+
+.ew-entry-character {
+	position: relative;
+	z-index: 2;
+	width: min(100%, 980px);
+	padding: 28px 20px 32px;
+	display: flex;
+	flex-direction: column;
+	gap: 26px;
+	align-items: center;
+}
+
+.ew-entry-character .ew-entry-logo {
+	margin: 0;
+}
+
+.ew-char-grid {
+	display: grid;
+	grid-template-columns: 320px 1fr;
+	gap: 28px;
+	width: 100%;
+	max-width: 920px;
+}
+
+@media (max-width: 760px) {
+	.ew-char-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+.ew-char-preview {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	padding: 20px;
+	background: rgba(8, 12, 24, 0.82);
+	border: 1px solid rgba(95, 228, 255, 0.18);
+	border-radius: 18px;
+	box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.ew-char-preview-stage {
+	position: relative;
+	height: 220px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	gap: 16px;
+	padding-bottom: 4px;
+	background:
+		radial-gradient(ellipse at 50% 100%, rgba(95, 228, 255, 0.22), transparent 65%),
+		linear-gradient(180deg, rgba(15, 22, 40, 0.9), rgba(4, 8, 18, 0.9));
+	border-radius: 14px;
+	overflow: hidden;
+}
+
+.ew-char-avatar {
+	height: 180px;
+	width: auto;
+	image-rendering: pixelated;
+	filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.6));
+}
+
+.ew-char-avatar-side {
+	height: 150px;
+	opacity: 0.85;
+}
+
+.ew-char-field {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	color: #cfddf0;
+	font-size: 0.78rem;
+	letter-spacing: 0.08rem;
+	text-transform: uppercase;
+}
+
+.ew-char-field input {
+	height: 42px;
+	padding: 0 14px;
+	border-radius: 10px;
+	border: 1px solid rgba(135, 191, 255, 0.2);
+	background: rgba(2, 6, 18, 0.8);
+	color: #f5f7ff;
+	font-size: 0.95rem;
+	font-weight: 600;
+	letter-spacing: 0.04rem;
+	outline: none;
+	transition: border-color 0.15s ease;
+}
+
+.ew-char-field input:focus {
+	border-color: rgba(95, 228, 255, 0.7);
+}
+
+.ew-char-gender {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 10px;
+}
+
+.ew-char-gender-btn {
+	appearance: none;
+	height: 44px;
+	border-radius: 12px;
+	border: 1px solid rgba(135, 191, 255, 0.2);
+	background: rgba(8, 14, 28, 0.7);
+	color: #cfddf0;
+	font-weight: 700;
+	letter-spacing: 0.12rem;
+	text-transform: uppercase;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	transition: border-color 0.15s ease, transform 0.12s ease, background 0.2s ease;
+}
+
+.ew-char-gender-btn span {
+	font-size: 1.2rem;
+}
+
+.ew-char-gender-btn.active {
+	border-color: #5fe4ff;
+	background: linear-gradient(90deg, rgba(95, 228, 255, 0.2), rgba(95, 255, 142, 0.15));
+	color: #f5f7ff;
+}
+
+.ew-char-editor {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	padding: 22px;
+	background: rgba(8, 12, 24, 0.82);
+	border: 1px solid rgba(95, 228, 255, 0.18);
+	border-radius: 18px;
+	box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.ew-char-tabs {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	gap: 8px;
+}
+
+.ew-char-tab {
+	appearance: none;
+	border-radius: 10px;
+	background: rgba(2, 6, 18, 0.7);
+	border: 1px solid rgba(135, 191, 255, 0.15);
+	color: #cfddf0;
+	padding: 10px 6px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 4px;
+	cursor: pointer;
+	transition: border-color 0.15s ease, transform 0.12s ease;
+}
+
+.ew-char-tab-emoji {
+	font-size: 1.2rem;
+}
+
+.ew-char-tab-label {
+	font-size: 0.66rem;
+	letter-spacing: 0.14rem;
+	text-transform: uppercase;
+}
+
+.ew-char-tab.active {
+	border-color: #5fe4ff;
+	background: rgba(95, 228, 255, 0.15);
+	color: #f5f7ff;
+}
+
+.ew-char-sets {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+}
+
+.ew-char-set {
+	appearance: none;
+	padding: 8px 14px;
+	border-radius: 999px;
+	border: 1px solid rgba(135, 191, 255, 0.2);
+	background: rgba(2, 6, 18, 0.7);
+	color: #cfddf0;
+	font-size: 0.78rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.ew-char-set.active {
+	border-color: #5fff8e;
+	background: linear-gradient(90deg, rgba(95, 255, 142, 0.2), rgba(95, 228, 255, 0.15));
+	color: #f5f7ff;
+}
+
+.ew-char-palette {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+}
+
+.ew-char-swatch {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	border: 2px solid rgba(255, 255, 255, 0.12);
+	cursor: pointer;
+	transition: transform 0.12s ease, border-color 0.15s ease;
+	padding: 0;
+}
+
+.ew-char-swatch:hover {
+	transform: scale(1.12);
+}
+
+.ew-char-swatch.active {
+	border-color: #f5f7ff;
+	box-shadow: 0 0 0 2px rgba(95, 228, 255, 0.5);
+}
+
+.ew-char-confirm {
+	margin-top: 8px;
+}
+
+/* ── In-game wardrobe editor ───────────────────────────────────── */
+
+.ew-wardrobe-layout {
+	display: grid;
+	grid-template-columns: 260px 1fr;
+	gap: 18px;
+}
+
+@media (max-width: 680px) {
+	.ew-wardrobe-layout {
+		grid-template-columns: 1fr;
+	}
+}
+
+.ew-wardrobe-preview {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 10px;
+	padding: 14px;
+	background: rgba(4, 8, 18, 0.7);
+	border: 1px solid rgba(135, 191, 255, 0.18);
+	border-radius: 14px;
+}
+
+.ew-wardrobe-preview img {
+	height: 170px;
+	image-rendering: pixelated;
+	filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.55));
+}
+
+.ew-wardrobe-figure {
+	font-family: 'Menlo', 'Consolas', monospace;
+	font-size: 0.72rem;
+	color: rgba(245, 247, 255, 0.55);
+	word-break: break-all;
+	text-align: center;
+}
+
+.ew-wardrobe-editor {
+	display: flex;
+	flex-direction: column;
+	gap: 14px;
+}
+
+/* ── Furniture inventory with drag-drop ────────────────────────── */
+
+.ew-inventory-toolbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid rgba(135, 191, 255, 0.15);
+	margin-bottom: 12px;
+}
+
+.ew-inventory-toolbar-title {
+	font-size: 0.8rem;
+	letter-spacing: 0.14rem;
+	text-transform: uppercase;
+	color: #cfddf0;
+}
+
+.ew-inventory-hint {
+	font-size: 0.72rem;
+	color: rgba(245, 247, 255, 0.55);
+	letter-spacing: 0.04rem;
+}
+
+.ew-inventory-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+	gap: 10px;
+}
+
+.ew-inventory-slot {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 4px;
+	padding: 10px 6px 8px;
+	border-radius: 12px;
+	background: rgba(4, 8, 18, 0.78);
+	border: 1px solid rgba(135, 191, 255, 0.18);
+	cursor: grab;
+	transition: border-color 0.15s ease, transform 0.12s ease;
+	user-select: none;
+}
+
+.ew-inventory-slot:hover {
+	border-color: rgba(95, 228, 255, 0.6);
+	transform: translateY(-1px);
+}
+
+.ew-inventory-slot:active,
+.ew-inventory-slot.dragging {
+	cursor: grabbing;
+	opacity: 0.6;
+}
+
+.ew-inventory-icon {
+	width: 64px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	image-rendering: pixelated;
+	pointer-events: none;
+}
+
+.ew-inventory-icon img {
+	max-width: 100%;
+	max-height: 100%;
+	image-rendering: pixelated;
+}
+
+.ew-inventory-icon-fallback {
+	width: 48px;
+	height: 48px;
+	border-radius: 10px;
+	background: linear-gradient(135deg, rgba(95, 228, 255, 0.2), rgba(95, 255, 142, 0.15));
+}
+
+.ew-inventory-name {
+	font-size: 0.68rem;
+	text-align: center;
+	color: #cfddf0;
+	letter-spacing: 0.04rem;
+	line-height: 1.15;
+}
+
+.ew-inventory-qty {
+	position: absolute;
+	top: 6px;
+	right: 6px;
+	font-size: 0.65rem;
+	font-weight: 800;
+	padding: 2px 6px;
+	border-radius: 999px;
+	background: rgba(95, 228, 255, 0.2);
+	color: #cfeeff;
+	border: 1px solid rgba(95, 228, 255, 0.4);
+}
+
+.ew-inventory-empty {
+	padding: 24px 16px;
+	text-align: center;
+	border: 1px dashed rgba(135, 191, 255, 0.3);
+	border-radius: 12px;
+	color: rgba(245, 247, 255, 0.55);
+	font-size: 0.8rem;
+}
+
+.ew-client-canvas-root.ew-droptarget,
+.ew-client-canvas-root.drop-active {
+	outline: 3px dashed rgba(95, 255, 142, 0.6);
+	outline-offset: -8px;
+}
+
+.ew-client-canvas-root.drop-active::after {
+	content: "Relâche pour poser";
+	position: absolute;
+	inset: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Press Start 2P", monospace;
+	font-size: 12px;
+	color: rgba(95, 255, 142, 0.95);
+	text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+	pointer-events: none;
+}

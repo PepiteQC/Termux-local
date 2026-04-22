@@ -128,6 +128,26 @@ export default class AvatarSprite extends Container {
 		return this.currentTile
 	}
 
+	/**
+	 * Update the avatar's Habbo figurestring and refresh the rendered sprite.
+	 * Used by the wardrobe and character-creation flows.
+	 */
+	public setFigurestring(figurestring: string): void {
+		const next = figurestring.trim()
+		if (!next) return
+		if (this.figure.look.figurestring === next) return
+		this.figure.look.figurestring = next
+		this.currentLookKey = null
+		this.pendingLookKey = null
+		void this.refreshHabboLook()
+	}
+
+	public setUsername(username: string): void {
+		const next = username.trim()
+		if (!next) return
+		this.figure.username = next
+	}
+
 	public setPositionFromTile(heightMapPosition: HeightMapPosition): void {
 		this.currentTile = heightMapPosition
 		const screenPosition = this.getScreenPosition(heightMapPosition)

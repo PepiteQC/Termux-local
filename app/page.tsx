@@ -2,8 +2,23 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
+import {
+  DEFAULT_SELECTION,
+  HAIRS,
+  HEADS,
+  PALETTE,
+  PANTS,
+  SHIRTS,
+  SHOES,
+  figurestringToSelection,
+  previewAvatarUrl,
+  selectionToFigurestring,
+  type FigurePart,
+  type FigureSelection,
+  type Gender
+} from "@/lib/habbo/wardrobe";
 
-type Phase = "gate" | "connect" | "done";
+type Phase = "gate" | "character" | "connect" | "done";
 
 const CONNECT_STEPS = [
   { label: "Authentification EtherWorld…", pct: 14 },
@@ -17,6 +32,14 @@ const CONNECT_STEPS = [
   { label: "PRÊT.", pct: 100 }
 ];
 
+const PART_TABS: Array<{ key: FigurePart; label: string; emoji: string }> = [
+  { key: "hr", label: "Cheveux", emoji: "💇" },
+  { key: "hd", label: "Visage", emoji: "🙂" },
+  { key: "ch", label: "Haut", emoji: "👕" },
+  { key: "lg", label: "Bas", emoji: "👖" },
+  { key: "sh", label: "Chaussures", emoji: "👟" }
+];
+
 export default function HomePage() {
   const router = useRouter();
   const [phase, setPhase] = useState<Phase>("gate");
@@ -25,6 +48,77 @@ export default function HomePage() {
   const [label, setLabel] = useState("");
   const stars = useMemo(() => generateStars(70), []);
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
+
+  const [username, setUsername] = useState<string>("");
+  const [gender, setGender] = useState<Gender>("M");
+  const [selection, setSelection] = useState<FigureSelection>(DEFAULT_SELECTION.M);
+  const [activePart, setActivePart] = useState<FigurePart>("hr");
+
+  // Load previously saved look / username if any
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const savedUser = window.localStorage.getItem("ew-username");
+    if (savedUser) setUsername(savedUser);
+    const savedGender = window.localStorage.getItem("ew-gender") as Gender | null;
+    if (savedGender === "M" || savedGender === "F") setGender(savedGender);
+    const savedFigure = window.localStorage.getItem("ew-figurestring");
+    if (savedFigure) {
+      setSelection((_prev) =>
+        figurestringToSelection(
+          savedFigure,
+          DEFAULT_SELECTION[(savedGender === "F" ? "F" : "M") as Gender]
+        )
+      );
+    }
+  }, []);
+
+  const figurestring = useMemo(() => selectionToFigurestring(selection), [selection]);
+  const previewUrl = useMemo(() => previewAvatarUrl(figurestring, 2, "l"), [figurestring]);
+  const previewSideUrl = useMemo(() => previewAvatarUrl(figurestring, 4, "l"), [figurestring]);
+
+  const switchGender = useCallback((next: Gender) => {
+    setGender(next);
+    setSelection((prev) => {
+      const fresh = DEFAULT_SELECTION[next];
+      // Hair & head set IDs are gender-specific (males: hr 100-3163 / hd 180-209,
+      // females: hr 500-595 / hd 600-627), so keep the user's picked colours but
+      // swap in the default sets for the new gender.
+      return {
+        hr: { set: fresh.hr.set, color1: prev.hr.color1 },
+        hd: { set: fresh.hd.set, color1: prev.hd.color1 },
+        ch: { set: fresh.ch.set, color1: prev.ch.color1 },
+        lg: { set: fresh.lg.set, color1: prev.lg.color1 },
+        sh: { set: fresh.sh.set, color1: prev.sh.color1 },
+        ha: fresh.ha,
+        fa: fresh.fa
+      };
+    });
+  }, []);
+
+  const pickSet = useCallback((part: FigurePart, setId: number) => {
+    setSelection((prev) => ({ ...prev, [part]: { ...prev[part], set: setId } }));
+  }, []);
+
+  const pickColor = useCallback((part: FigurePart, colorId: number) => {
+    setSelection((prev) => ({ ...prev, [part]: { ...prev[part], color1: colorId } }));
+  }, []);
+
+  const sets = useMemo(() => {
+    switch (activePart) {
+      case "hr":
+        return HAIRS[gender];
+      case "hd":
+        return HEADS[gender];
+      case "ch":
+        return SHIRTS[gender];
+      case "lg":
+        return PANTS[gender];
+      case "sh":
+        return SHOES;
+      default:
+        return [];
+    }
+  }, [activePart, gender]);
 
   useEffect(() => {
     if (phase !== "connect") return;
@@ -56,7 +150,7 @@ export default function HomePage() {
     const dpr = window.devicePixelRatio || 1;
     let raf = 0;
     let running = true;
-    let t0 = performance.now();
+    const t0 = performance.now();
 
     const resize = () => {
       const rect = canvas.getBoundingClientRect();
@@ -123,12 +217,22 @@ export default function HomePage() {
     };
   }, []);
 
+  const startCharacter = useCallback(() => {
+    setPhase("character");
+  }, []);
+
   const startConnect = useCallback(() => {
+    if (typeof window !== "undefined") {
+      const trimmed = username.trim() || "Invité";
+      window.localStorage.setItem("ew-username", trimmed);
+      window.localStorage.setItem("ew-gender", gender);
+      window.localStorage.setItem("ew-figurestring", figurestring);
+    }
     setPhase("connect");
     setStepIndex(0);
     setProgress(0);
     setLabel(CONNECT_STEPS[0].label);
-  }, []);
+  }, [username, gender, figurestring]);
 
   return (
     <main className="ew-entry">
@@ -151,21 +255,133 @@ export default function HomePage() {
       <div className="ew-entry-glow ew-entry-glow--tl" />
       <div className="ew-entry-glow ew-entry-glow--br" />
 
-      <section className="ew-entry-minimal">
-        <h1 className="ew-entry-logo">
-          ETHER<span>WORLD</span>
-        </h1>
-
-        {phase === "gate" ? (
+      {phase === "gate" ? (
+        <section className="ew-entry-minimal">
+          <h1 className="ew-entry-logo">
+            ETHER<span>WORLD</span>
+          </h1>
           <button
             type="button"
             className="ew-entry-enter"
-            onClick={startConnect}
+            onClick={startCharacter}
             autoFocus
           >
             ENTRER
           </button>
-        ) : (
+        </section>
+      ) : null}
+
+      {phase === "character" ? (
+        <section className="ew-entry-character">
+          <h1 className="ew-entry-logo">
+            ETHER<span>WORLD</span>
+          </h1>
+          <div className="ew-char-grid">
+            <div className="ew-char-preview">
+              <div className="ew-char-preview-stage">
+                <img
+                  src={previewUrl}
+                  alt="Avatar face"
+                  className="ew-char-avatar ew-char-avatar-front"
+                  referrerPolicy="no-referrer"
+                />
+                <img
+                  src={previewSideUrl}
+                  alt="Avatar profil"
+                  className="ew-char-avatar ew-char-avatar-side"
+                  referrerPolicy="no-referrer"
+                />
+              </div>
+
+              <label className="ew-char-field">
+                <span>Nom</span>
+                <input
+                  value={username}
+                  onChange={(e) => setUsername(e.target.value.slice(0, 20))}
+                  placeholder="Ton pseudo"
+                  maxLength={20}
+                />
+              </label>
+
+              <div className="ew-char-gender">
+                <button
+                  type="button"
+                  className={`ew-char-gender-btn ${gender === "M" ? "active" : ""}`}
+                  onClick={() => switchGender("M")}
+                >
+                  <span>♂</span> Homme
+                </button>
+                <button
+                  type="button"
+                  className={`ew-char-gender-btn ${gender === "F" ? "active" : ""}`}
+                  onClick={() => switchGender("F")}
+                >
+                  <span>♀</span> Femme
+                </button>
+              </div>
+            </div>
+
+            <div className="ew-char-editor">
+              <div className="ew-char-tabs">
+                {PART_TABS.map((tab) => (
+                  <button
+                    key={tab.key}
+                    type="button"
+                    className={`ew-char-tab ${activePart === tab.key ? "active" : ""}`}
+                    onClick={() => setActivePart(tab.key)}
+                    aria-label={tab.label}
+                  >
+                    <span className="ew-char-tab-emoji">{tab.emoji}</span>
+                    <span className="ew-char-tab-label">{tab.label}</span>
+                  </button>
+                ))}
+              </div>
+
+              <div className="ew-char-sets">
+                {sets.map((set) => (
+                  <button
+                    key={set.id}
+                    type="button"
+                    className={`ew-char-set ${selection[activePart].set === set.id ? "active" : ""}`}
+                    onClick={() => pickSet(activePart, set.id)}
+                  >
+                    {set.label}
+                  </button>
+                ))}
+              </div>
+
+              <div className="ew-char-palette">
+                {PALETTE.map((color) => (
+                  <button
+                    key={color.id}
+                    type="button"
+                    className={`ew-char-swatch ${selection[activePart].color1 === color.id ? "active" : ""}`}
+                    style={{ background: color.hex }}
+                    onClick={() => pickColor(activePart, color.id)}
+                    aria-label={color.label}
+                    title={color.label}
+                  />
+                ))}
+              </div>
+
+              <button
+                type="button"
+                className="ew-entry-enter ew-char-confirm"
+                onClick={startConnect}
+                disabled={!username.trim()}
+              >
+                ENTRER DANS LA ROOM
+              </button>
+            </div>
+          </div>
+        </section>
+      ) : null}
+
+      {phase === "connect" || phase === "done" ? (
+        <section className="ew-entry-minimal">
+          <h1 className="ew-entry-logo">
+            ETHER<span>WORLD</span>
+          </h1>
           <div className="ew-entry-connecting">
             <div className="ew-entry-bar">
               <div className="ew-entry-fill" style={{ width: `${progress}%` }} />
@@ -173,8 +389,8 @@ export default function HomePage() {
             </div>
             <div className="ew-entry-status">{label || "Connexion…"}</div>
           </div>
-        )}
-      </section>
+        </section>
+      ) : null}
     </main>
   );
 }
