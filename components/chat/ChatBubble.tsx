@@ -7,9 +7,22 @@ interface ChatBubbleProps {
   x: number;
   y: number;
   duration?: number;
+  author?: string;
+  authorColor?: string;
+  variant?: "say" | "shout" | "whisper";
 }
 
-export function ChatBubble({ message, x, y, duration = 4000 }: ChatBubbleProps) {
+const MAX_LENGTH = 90;
+
+export function ChatBubble({
+  message,
+  x,
+  y,
+  duration = 4000,
+  author,
+  authorColor,
+  variant = "say",
+}: ChatBubbleProps) {
   const [isVisible, setIsVisible] = useState(true);
 
   useEffect(() => {
@@ -19,8 +32,8 @@ export function ChatBubble({ message, x, y, duration = 4000 }: ChatBubbleProps) 
 
   if (!isVisible) return null;
 
-  // Truncate message to ~90 chars
-  const truncated = message.length > 90 ? message.substring(0, 87) + "..." : message;
+  const truncated =
+    message.length > MAX_LENGTH ? message.slice(0, MAX_LENGTH - 3) + "..." : message;
 
   return (
     <div
@@ -30,12 +43,20 @@ export function ChatBubble({ message, x, y, duration = 4000 }: ChatBubbleProps) 
         top: `${y}px`,
         pointerEvents: "none",
         zIndex: 100,
-        animation: `fadeOutUp 0.5s ease-out ${duration - 500}ms forwards`,
+        animation: `ewChatFadeOutUp 0.45s ease-out ${Math.max(0, duration - 450)}ms forwards`,
       }}
-      className="chat-bubble"
+      className={`chat-bubble chat-bubble-${variant}`}
     >
       <div className="chat-bubble-content">
-        {truncated}
+        {author ? (
+          <span
+            className="chat-bubble-author"
+            style={authorColor ? { color: authorColor } : undefined}
+          >
+            {author}:
+          </span>
+        ) : null}
+        <span className="chat-bubble-text">{truncated}</span>
       </div>
       <div className="chat-bubble-pointer" />
     </div>

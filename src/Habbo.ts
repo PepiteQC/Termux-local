@@ -261,6 +261,28 @@ export default class Habbo {
 		return this.emitSmokeAtTile(5, 5, tint, count)
 	}
 
+	/**
+	 * Screen coordinates (page-relative, in CSS pixels) of the primary avatar's head,
+	 * suitable for anchoring an HTML overlay such as a chat bubble.
+	 */
+	public getPrimaryAvatarScreenPosition(): { x: number; y: number } | null {
+		if (!this.application?.canvas || !this.viewport) return null
+		const room = this.roomManager.getCurrentRoom() as unknown as {
+			roomContainer?: {
+				avatarsContainer?: {
+					getPrimaryAvatarPosition?: () => { x: number; y: number; height: number } | null
+				}
+			}
+		} | null
+		const position = room?.roomContainer?.avatarsContainer?.getPrimaryAvatarPosition?.()
+		if (!position) return null
+		const worldX = TilesContainer.getScreenX(position)
+		const worldY = TilesContainer.getScreenY(position) - 48
+		const screen = this.viewport.toScreen(worldX, worldY) as { x: number; y: number }
+		const rect = this.application.canvas.getBoundingClientRect()
+		return { x: rect.left + screen.x, y: rect.top + screen.y }
+	}
+
 	public destroy(): void {
 		this.gangState.stopTicks()
 		this.currentRoom = null
