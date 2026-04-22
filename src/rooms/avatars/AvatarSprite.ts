@@ -47,10 +47,13 @@ export default class AvatarSprite extends Container {
 		this.eventMode = 'static'
 		this.cursor = 'pointer'
 
+		// Double-layer iso drop shadow : soft halo + darker core.
 		this.shadow
+			.ellipse(0, 0, 18, 8)
+			.fill({ color: 0x000000, alpha: 0.16 })
 			.ellipse(0, 0, 12, 5)
-			.fill({ color: 0x000000, alpha: 0.24 })
-		this.shadow.position.set(0, 1)
+			.fill({ color: 0x000000, alpha: 0.34 })
+		this.shadow.position.set(0, 2)
 		this.shadow.zIndex = 0
 
 		this.layers.sortableChildren = true
@@ -92,7 +95,14 @@ export default class AvatarSprite extends Container {
 			this.direction = projectDirectionToHabbo(dx, dy)
 			this.headDirection = this.direction
 		}
-		this.setAction('wlk')
+		if (this.currentAction !== 'wlk') {
+			this.setAction('wlk')
+		} else {
+			// setAction early-returns when the action is unchanged, so when the
+			// player redirects the avatar mid-walk we force a texture refresh
+			// to pick up the new direction.
+			void this.refreshHabboLook()
+		}
 	}
 
 	public getCurrentTile(): HeightMapPosition {

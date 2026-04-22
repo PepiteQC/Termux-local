@@ -525,21 +525,25 @@ export default function ClientGameShell() {
 				return [...dedupedByAuthor, bubble]
 			})
 
-			// Best-effort persistence to Firestore if configured
-			try {
-				const roomId = habbo?.getCurrentRoomId?.() ?? null
-				if (!roomId) return
-				const { getFirebaseDb } = await import("@/lib/firebase/client")
-				const db = getFirebaseDb()
-				if (!db) return
-				const { initializeChatService } = await import("@/lib/chat/ChatService")
-				const chat = initializeChatService(db)
-				await chat.sendMessage(roomId, username || "guest", username || "Invité", trimmed)
-			} catch (error) {
-				if (process.env.NODE_ENV !== "production") {
-					console.warn("world chat persistence skipped:", error)
+			// Best-effort persistence to Firestore — fire-and-forget so the
+			// chat input re-enables as soon as the bubble is added locally,
+			// even if Firestore is slow or unreachable.
+			void (async () => {
+				try {
+					const roomId = habbo?.getCurrentRoomId?.() ?? null
+					if (!roomId) return
+					const { getFirebaseDb } = await import("@/lib/firebase/client")
+					const db = getFirebaseDb()
+					if (!db) return
+					const { initializeChatService } = await import("@/lib/chat/ChatService")
+					const chat = initializeChatService(db)
+					await chat.sendMessage(roomId, username || "guest", username || "Invité", trimmed)
+				} catch (error) {
+					if (process.env.NODE_ENV !== "production") {
+						console.warn("world chat persistence skipped:", error)
+					}
 				}
-			}
+			})()
 		},
 		[habbo, username, flashStatus]
 	)

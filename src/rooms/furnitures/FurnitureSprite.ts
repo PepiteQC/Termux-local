@@ -147,6 +147,33 @@ export default class FurnitureSprite extends Container {
 		}
 	}
 
+	/**
+	 * Build a soft isometric drop-shadow that follows the furniture footprint.
+	 * Two stacked layers : a diffuse outer halo + a darker core clipped to the
+	 * footprint diamond. Keeps the Habbo look while being readable on every
+	 * floor tone.
+	 */
+	private buildFootprintShadow(base: [Point2D, Point2D, Point2D, Point2D]): Graphics {
+		const [a, b, c, d] = base
+		const cx = (a.x + c.x) / 2
+		const cy = (a.y + c.y) / 2
+		const rx = Math.abs(b.x - a.x) / 2
+		const ry = Math.abs(d.y - a.y) / 2
+		const halo = Math.max(6, Math.min(rx, ry) * 0.45)
+
+		const shadow = new Graphics()
+		// Diffuse halo (slightly larger than footprint).
+		shadow
+			.ellipse(cx, cy + 3, rx + halo, ry + halo * 0.6)
+			.fill({ color: 0x000000, alpha: 0.14 })
+		// Core diamond matching the iso footprint.
+		shadow
+			.poly(flatten([a, b, c, d]))
+			.fill({ color: 0x000000, alpha: 0.32 })
+		shadow.zIndex = 0
+		return shadow
+	}
+
 	private handlePointerTap(event: FederatedPointerEvent): void {
 		if (typeof window === 'undefined') return
 		const detail: FurnitureTapEventDetail = {
@@ -191,19 +218,18 @@ export default class FurnitureSprite extends Container {
 			return
 		}
 
-		const shadow = new Graphics()
-		const centerX = (
-			TilesContainer.getScreenX({ x: item.x + item.width / 2, y: item.y + item.depth / 2, height: baseHeight }) -
-			worldOrigin.x
-		)
-		const centerY = (
-			TilesContainer.getScreenY({ x: item.x + item.width / 2, y: item.y + item.depth / 2, height: baseHeight }) -
-			worldOrigin.y
-		)
-		shadow
-			.ellipse(centerX, centerY + 4, Math.max(18, item.width * 20), Math.max(8, item.depth * 10))
-			.fill({ color: 0x000000, alpha: 0.22 })
-		shadow.zIndex = 0
+		const projectHabbo = (x: number, y: number): Point2D => ({
+			x: TilesContainer.getScreenX({ x, y, height: baseHeight }) - worldOrigin.x,
+			y: TilesContainer.getScreenY({ x, y, height: baseHeight }) - worldOrigin.y
+		})
+		const baseA = projectHabbo(item.x, item.y)
+		const baseB = projectHabbo(item.x + item.width, item.y)
+		const baseC = projectHabbo(item.x + item.width, item.y + item.depth)
+		const baseD = projectHabbo(item.x, item.y + item.depth)
+		const centerX = (baseA.x + baseC.x) / 2
+		const centerY = (baseA.y + baseC.y) / 2
+
+		const shadow = this.buildFootprintShadow([baseA, baseB, baseC, baseD])
 		this.addChild(shadow)
 
 		container.position.set(centerX, centerY)
@@ -273,16 +299,7 @@ export default class FurnitureSprite extends Container {
 			this.item.y + this.item.depth / 2
 		)
 
-		const shadow = new Graphics()
-		shadow
-			.ellipse(
-				center.x,
-				center.y + 8,
-				Math.max(16, this.item.width * 18),
-				Math.max(8, this.item.depth * 8)
-			)
-			.fill({ color: 0x000000, alpha: 0.18 })
-		shadow.zIndex = 0
+		const shadow = this.buildFootprintShadow([baseA, baseB, baseC, baseD])
 		this.addChild(shadow)
 
 		const volume = new Graphics()
