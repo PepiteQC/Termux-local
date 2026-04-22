@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3304164473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 308d984b494906096249aa2d7e75ac4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_visualization.xml
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_5.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_c_2_1.png
+- Assets/Live/matic_sanitizer/flash/manifest.xml
+- Assets/Live/matic_sanitizer/matic_sanitizer.xml
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_c_2_0.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_3.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_1.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_a_2_0.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_2.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_b_2_0.png
+- Assets/Live/matic_sanitizer/flash/index.xml
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_a_2_1.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_sd_2_0.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_assets.xml
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_0.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_logic.xml
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_icon_a.png
+- Assets/Live/matic_sanitizer/flash/matic_sanitizer_64_d_2_4.png
+Dependencies: []

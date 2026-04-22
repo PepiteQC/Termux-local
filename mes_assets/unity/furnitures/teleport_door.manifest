@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1736494442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c83a8804066bdb1cb6b1e81433c08a02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/teleport_door/flash/teleport_door_64_c_4_0.png
+- Assets/Live/teleport_door/flash/teleport_door_logic.xml
+- Assets/Live/teleport_door/flash/teleport_door_icon_a.png
+- Assets/Live/teleport_door/flash/teleport_door_64_c_4_1.png
+- Assets/Live/teleport_door/flash/teleport_door_64_b_4_0.png
+- Assets/Live/teleport_door/flash/teleport_door_64_b_6_0.png
+- Assets/Live/teleport_door/teleport_door.xml
+- Assets/Live/teleport_door/flash/teleport_door_visualization.xml
+- Assets/Live/teleport_door/flash/teleport_door_assets.xml
+- Assets/Live/teleport_door/flash/teleport_door_64_a_6_0.png
+- Assets/Live/teleport_door/flash/index.xml
+- Assets/Live/teleport_door/flash/teleport_door_64_c_6_0.png
+- Assets/Live/teleport_door/flash/manifest.xml
+- Assets/Live/teleport_door/flash/teleport_door_64_c_6_1.png
+- Assets/Live/teleport_door/flash/teleport_door_64_a_4_0.png
+- Assets/Live/teleport_door/flash/teleport_door_64_b_4_1.png
+Dependencies: []

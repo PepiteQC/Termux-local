@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2612100642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 661ee65aee5f70f5588492acd17d6081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_chiseledface/flash/clothing_nt_chiseledface_logic.xml
+- Assets/Live/clothing_nt_chiseledface/clothing_nt_chiseledface.xml
+- Assets/Live/clothing_nt_chiseledface/flash/index.xml
+- Assets/Live/clothing_nt_chiseledface/flash/clothing_nt_chiseledface_assets.xml
+- Assets/Live/clothing_nt_chiseledface/flash/manifest.xml
+- Assets/Live/clothing_nt_chiseledface/flash/clothing_nt_chiseledface_icon_a.png
+- Assets/Live/clothing_nt_chiseledface/flash/clothing_nt_chiseledface_visualization.xml
+- Assets/Live/clothing_nt_chiseledface/flash/clothing_nt_chiseledface_64_a_0_0.png
+Dependencies: []

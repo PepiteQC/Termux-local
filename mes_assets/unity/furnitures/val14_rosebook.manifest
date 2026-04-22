@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3384071183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c6c6ac43358c2f045f7919bbd11f1c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_rosebook/flash/manifest.xml
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_b_2_0.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_d_2_0.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_sd_2_0.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_logic.xml
+- Assets/Live/val14_rosebook/flash/val14_rosebook_icon_a.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_assets.xml
+- Assets/Live/val14_rosebook/flash/index.xml
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_a_4_1.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_c_2_0.png
+- Assets/Live/val14_rosebook/val14_rosebook.xml
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_a_2_1.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_visualization.xml
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_a_2_0.png
+- Assets/Live/val14_rosebook/flash/val14_rosebook_64_a_2_2.png
+Dependencies: []

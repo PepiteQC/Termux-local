@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1517158346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83e5472dd4d6565bade78acb6747ae89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_0.png
+- Assets/Live/cine_screen/flash/index.xml
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_2.png
+- Assets/Live/cine_screen/flash/cine_screen_icon_a.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_5.png
+- Assets/Live/cine_screen/flash/cine_screen_64_a_0_0.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_1.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_8.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_3.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_7.png
+- Assets/Live/cine_screen/flash/cine_screen_64_h_0_0.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_6.png
+- Assets/Live/cine_screen/flash/cine_screen_64_i_0_4.png
+- Assets/Live/cine_screen/flash/cine_screen_64_g_0_0.png
+- Assets/Live/cine_screen/flash/cine_screen_logic.xml
+- Assets/Live/cine_screen/flash/cine_screen_assets.xml
+- Assets/Live/cine_screen/flash/cine_screen_visualization.xml
+- Assets/Live/cine_screen/flash/manifest.xml
+- Assets/Live/cine_screen/cine_screen.xml
+Dependencies: []

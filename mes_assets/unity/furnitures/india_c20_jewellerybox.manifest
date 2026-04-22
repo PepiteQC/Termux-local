@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3056824605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19a998df0cb9c927c418513234237449
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_64_a_0_1.png
+- Assets/Live/india_c20_jewellerybox/flash/manifest.xml
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_visualization.xml
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_assets.xml
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_logic.xml
+- Assets/Live/india_c20_jewellerybox/flash/index.xml
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_64_a_0_0.png
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_icon_a.png
+- Assets/Live/india_c20_jewellerybox/india_c20_jewellerybox.xml
+- Assets/Live/india_c20_jewellerybox/flash/india_c20_jewellerybox_64_sd_0_0.png
+Dependencies: []

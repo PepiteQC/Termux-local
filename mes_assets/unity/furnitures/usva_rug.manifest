@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1124055331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbfb048a0ab66b16366182a6cedb602
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/usva_rug/flash/usva_rug_assets.xml
+- Assets/Live/usva_rug/flash/manifest.xml
+- Assets/Live/usva_rug/flash/usva_rug_logic.xml
+- Assets/Live/usva_rug/flash/usva_rug_64_a_0_0.png
+- Assets/Live/usva_rug/flash/usva_rug_64_a_0_1.png
+- Assets/Live/usva_rug/flash/index.xml
+- Assets/Live/usva_rug/flash/usva_rug_64_a_0_2.png
+- Assets/Live/usva_rug/flash/usva_rug_visualization.xml
+- Assets/Live/usva_rug/usva_rug.xml
+- Assets/Live/usva_rug/flash/usva_rug_icon_a.png
+Dependencies: []

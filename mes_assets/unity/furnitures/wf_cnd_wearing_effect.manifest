@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2546856634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e2d2ef2b6f512590a6228092490c94d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_cnd_wearing_effect/wf_cnd_wearing_effect.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_icon_a.png
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_64_a_2_4.png
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_64_a_2_0.png
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_assets.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_visualization.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/index.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_logic.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/manifest.xml
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_64_a_2_1.png
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_64_a_2_2.png
+- Assets/Live/wf_cnd_wearing_effect/flash/wf_cnd_wearing_effect_64_a_2_3.png
+Dependencies: []

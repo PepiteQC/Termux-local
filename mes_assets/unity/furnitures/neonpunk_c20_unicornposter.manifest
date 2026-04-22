@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1971646502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8de03ca9609db75a98004851e455749
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_visualization.xml
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_icon_a.png
+- Assets/Live/neonpunk_c20_unicornposter/flash/index.xml
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_64_sd_0_0.png
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_logic.xml
+- Assets/Live/neonpunk_c20_unicornposter/neonpunk_c20_unicornposter.xml
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_64_a_0_1.png
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_64_a_0_0.png
+- Assets/Live/neonpunk_c20_unicornposter/flash/manifest.xml
+- Assets/Live/neonpunk_c20_unicornposter/flash/neonpunk_c20_unicornposter_assets.xml
+Dependencies: []

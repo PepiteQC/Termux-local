@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 517555829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f51c821d0193bbb1c642cc49e30c9108
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_4.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_1.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_2.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_5.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_visualization.xml
+- Assets/Live/matic_tree_red/matic_tree_red.xml
+- Assets/Live/matic_tree_red/flash/matic_tree_red_icon_a.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_0.png
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_sd_0_0.png
+- Assets/Live/matic_tree_red/flash/manifest.xml
+- Assets/Live/matic_tree_red/flash/matic_tree_red_assets.xml
+- Assets/Live/matic_tree_red/flash/index.xml
+- Assets/Live/matic_tree_red/flash/matic_tree_red_logic.xml
+- Assets/Live/matic_tree_red/flash/matic_tree_red_64_a_0_3.png
+Dependencies: []

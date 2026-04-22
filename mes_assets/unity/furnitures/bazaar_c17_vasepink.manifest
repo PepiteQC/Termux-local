@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3021546107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c488ded6c7e219c161af7ba18000f073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_icon_a.png
+- Assets/Live/bazaar_c17_vasepink/bazaar_c17_vasepink.xml
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_visualization.xml
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_64_a_0_0.png
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_64_sd_0_0.png
+- Assets/Live/bazaar_c17_vasepink/flash/index.xml
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_logic.xml
+- Assets/Live/bazaar_c17_vasepink/flash/bazaar_c17_vasepink_assets.xml
+- Assets/Live/bazaar_c17_vasepink/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3634390022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c192878aef7d2bfe28cb1f3668b7fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_0.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_3.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_1.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_icon_a.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_2.png
+- Assets/Live/clothing_headband/flash/clothing_headband_64_sd_0_0.png
+- Assets/Live/clothing_headband/flash/index.xml
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_1.png
+- Assets/Live/clothing_headband/flash/clothing_headband_icon_a.png
+- Assets/Live/clothing_headband/flash/manifest.xml
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_3.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_4.png
+- Assets/Live/clothing_headband/flash/clothing_headband_visualization.xml
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_5.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_sd_0_0.png
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_2.png
+- Assets/Live/clothing_headband/flash/clothing_geometricskirt_64_a_0_0.png
+- Assets/Live/clothing_headband/flash/clothing_headband_assets.xml
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_4.png
+- Assets/Live/clothing_headband/flash/clothing_headband_64_a_0_5.png
+- Assets/Live/clothing_headband/flash/clothing_headband_logic.xml
+- Assets/Live/clothing_headband/clothing_headband.xml
+Dependencies: []

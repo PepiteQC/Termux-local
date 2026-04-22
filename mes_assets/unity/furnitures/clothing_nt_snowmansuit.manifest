@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 618301016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72509834de0ef92d6a7a48fc513e8507
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_snowmansuit/flash/clothing_nt_snowmansuit_64_a_0_0.png
+- Assets/Live/clothing_nt_snowmansuit/flash/index.xml
+- Assets/Live/clothing_nt_snowmansuit/clothing_nt_snowmansuit.xml
+- Assets/Live/clothing_nt_snowmansuit/flash/manifest.xml
+- Assets/Live/clothing_nt_snowmansuit/flash/clothing_nt_snowmansuit_visualization.xml
+- Assets/Live/clothing_nt_snowmansuit/flash/clothing_nt_snowmansuit_icon_a.png
+- Assets/Live/clothing_nt_snowmansuit/flash/clothing_nt_snowmansuit_assets.xml
+- Assets/Live/clothing_nt_snowmansuit/flash/clothing_nt_snowmansuit_logic.xml
+Dependencies: []

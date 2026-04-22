@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1664615708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e35c24e1ece0ffe5fe440910e733b6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_b_2_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_visualization.xml
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_c_6_0.png
+- Assets/Live/darkelegant_c20_sofa/darkelegant_c20_sofa.xml
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_a_2_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_assets.xml
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_a_6_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_logic.xml
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_sd_2_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/index.xml
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_b_6_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_64_c_2_0.png
+- Assets/Live/darkelegant_c20_sofa/flash/darkelegant_c20_sofa_icon_a.png
+- Assets/Live/darkelegant_c20_sofa/flash/manifest.xml
+Dependencies: []

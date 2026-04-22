@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1963999700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 478b78218a8cdde9ce3aec965074d5a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_9.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_logic.xml
+- Assets/Live/rare_r21_aussiedog/rare_r21_aussiedog.xml
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_5.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_2.png
+- Assets/Live/rare_r21_aussiedog/flash/index.xml
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_sd_0_0.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_assets.xml
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_7.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_6.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_8.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_11.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_visualization.xml
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_4.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_0.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_13.png
+- Assets/Live/rare_r21_aussiedog/flash/manifest.xml
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_12.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_10.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_icon_a.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_3.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_14.png
+- Assets/Live/rare_r21_aussiedog/flash/rare_r21_aussiedog_64_a_0_1.png
+Dependencies: []

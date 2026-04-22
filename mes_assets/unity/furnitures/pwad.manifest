@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1394266771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c87e85720c7b8ea5abd63e69f98e23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pwad/pwad.xml
+- Assets/Live/pwad/flash/pwad_64_a_0_2.png
+- Assets/Live/pwad/flash/index.xml
+- Assets/Live/pwad/flash/pwad_visualization.xml
+- Assets/Live/pwad/flash/pwad_icon_a.png
+- Assets/Live/pwad/flash/manifest.xml
+- Assets/Live/pwad/flash/pwad_64_a_0_0.png
+- Assets/Live/pwad/flash/pwad_assets.xml
+- Assets/Live/pwad/flash/pwad_logic.xml
+- Assets/Live/pwad/flash/pwad_64_a_0_1.png
+Dependencies: []

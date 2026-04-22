@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2822047421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 396880176a56d52c7fcc73aa173c561d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_3_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_4_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_0_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_4_0.png
+- Assets/Live/room_info15_div/flash/manifest.xml
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_5_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_1_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_1_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_visualization.xml
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_0_0.png
+- Assets/Live/room_info15_div/flash/index.xml
+- Assets/Live/room_info15_div/room_info15_div.xml
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_2_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_icon_a.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_3_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_assets.xml
+- Assets/Live/room_info15_div/flash/room_info15_div_logic.xml
+- Assets/Live/room_info15_div/flash/room_info15_div_64_sd_5_0.png
+- Assets/Live/room_info15_div/flash/room_info15_div_64_a_2_0.png
+Dependencies: []

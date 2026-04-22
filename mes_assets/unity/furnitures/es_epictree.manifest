@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1898365216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 042bdb4343760314d2dffff3e1fbea96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_epictree/flash/es_epictree_icon_a.png
+- Assets/Live/es_epictree/flash/es_epictree_64_b_0_0.png
+- Assets/Live/es_epictree/flash/es_epictree_logic.xml
+- Assets/Live/es_epictree/flash/es_epictree_64_c_0_1.png
+- Assets/Live/es_epictree/flash/es_epictree_64_a_0_0.png
+- Assets/Live/es_epictree/flash/es_epictree_assets.xml
+- Assets/Live/es_epictree/flash/es_epictree_64_b_0_1.png
+- Assets/Live/es_epictree/flash/es_epictree_64_c_0_3.png
+- Assets/Live/es_epictree/flash/es_epictree_64_c_0_4.png
+- Assets/Live/es_epictree/flash/es_epictree_64_c_0_0.png
+- Assets/Live/es_epictree/es_epictree.xml
+- Assets/Live/es_epictree/flash/es_epictree_64_b_0_2.png
+- Assets/Live/es_epictree/flash/es_epictree_64_sd_0_0.png
+- Assets/Live/es_epictree/flash/es_epictree_visualization.xml
+- Assets/Live/es_epictree/flash/es_epictree_64_c_0_2.png
+- Assets/Live/es_epictree/flash/manifest.xml
+- Assets/Live/es_epictree/flash/index.xml
+Dependencies: []

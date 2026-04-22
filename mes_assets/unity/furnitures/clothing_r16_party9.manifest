@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2810792103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6256dd2f2251f456bb99a8294ea0dc27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r16_party9/flash/clothing_r16_party9_64_a_0_0.png
+- Assets/Live/clothing_r16_party9/flash/clothing_r16_party9_logic.xml
+- Assets/Live/clothing_r16_party9/clothing_r16_party9.xml
+- Assets/Live/clothing_r16_party9/flash/clothing_r16_party9_visualization.xml
+- Assets/Live/clothing_r16_party9/flash/manifest.xml
+- Assets/Live/clothing_r16_party9/flash/index.xml
+- Assets/Live/clothing_r16_party9/flash/clothing_r16_party9_icon_a.png
+- Assets/Live/clothing_r16_party9/flash/clothing_r16_party9_assets.xml
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 797066406
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce69aad9988be9de883de332cf23a1a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/trophy_display/flash/trophy_display_64_h_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_h_2_1.png
+- Assets/Live/trophy_display/flash/trophy_display_64_g_2_0.png
+- Assets/Live/trophy_display/trophy_display.xml
+- Assets/Live/trophy_display/flash/trophy_display_64_c_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_b_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_f_2_0.png
+- Assets/Live/trophy_display/flash/manifest.xml
+- Assets/Live/trophy_display/flash/trophy_display_icon_a.png
+- Assets/Live/trophy_display/flash/index.xml
+- Assets/Live/trophy_display/flash/trophy_display_64_j_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_logic.xml
+- Assets/Live/trophy_display/flash/trophy_display_assets.xml
+- Assets/Live/trophy_display/flash/trophy_display_visualization.xml
+- Assets/Live/trophy_display/flash/trophy_display_64_i_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_g_2_1.png
+- Assets/Live/trophy_display/flash/trophy_display_64_d_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_sd_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_e_2_0.png
+- Assets/Live/trophy_display/flash/trophy_display_64_a_2_0.png
+Dependencies: []

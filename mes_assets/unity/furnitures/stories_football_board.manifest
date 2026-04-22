@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3047663356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d6f68662db8a73090dd62d54df0b642
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_football_board/flash/stories_football_board_64_d_4_2.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_e_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_a_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_visualization.xml
+- Assets/Live/stories_football_board/flash/stories_football_board_64_sd_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_icon_a.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_b_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_e_4_2.png
+- Assets/Live/stories_football_board/flash/stories_football_board_assets.xml
+- Assets/Live/stories_football_board/flash/stories_football_board_logic.xml
+- Assets/Live/stories_football_board/flash/manifest.xml
+- Assets/Live/stories_football_board/flash/stories_football_board_64_e_4_1.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_f_4_2.png
+- Assets/Live/stories_football_board/stories_football_board.xml
+- Assets/Live/stories_football_board/flash/stories_football_board_64_f_4_1.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_d_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_f_4_0.png
+- Assets/Live/stories_football_board/flash/index.xml
+- Assets/Live/stories_football_board/flash/stories_football_board_64_c_4_0.png
+- Assets/Live/stories_football_board/flash/stories_football_board_64_d_4_1.png
+Dependencies: []

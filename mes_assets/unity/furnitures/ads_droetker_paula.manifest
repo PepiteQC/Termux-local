@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3791075319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e8e9d55e14500678bc46cfde6c27b7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_logic.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_assets.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_32_a_2_1.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_logic.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_32_a_4_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/index.xml
+- Assets/Live/ads_droetker_paula/ads_droetker_paula.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/manifest.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_32_a_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_32_sd_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/manifest.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/index.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_32_a_4_1.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_64_a_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_visualization.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_64_a_2_1.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_64_a_4_1.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_visualization.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_64_a_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_icon_a.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_64_sd_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_64_sd_2_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_64_a_2_1.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_64_a_4_0.png
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula/ads_droetker_paula_assets.xml
+- Assets/Live/ads_droetker_paula/flash/ads_droetker_paula_cmp/ads_droetker_paula_cmp_icon_a.png
+Dependencies: []

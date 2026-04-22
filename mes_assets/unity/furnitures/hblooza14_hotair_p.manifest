@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1111365995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69134ab989c676ce0ab528cf40cbb4a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_a_0_0.png
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_logic.xml
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_c_0_2.png
+- Assets/Live/hblooza14_hotair_p/flash/manifest.xml
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_icon_a.png
+- Assets/Live/hblooza14_hotair_p/flash/index.xml
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_visualization.xml
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_b_0_0.png
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_c_0_0.png
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_c_0_1.png
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_sd_0_0.png
+- Assets/Live/hblooza14_hotair_p/hblooza14_hotair_p.xml
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_64_c_0_3.png
+- Assets/Live/hblooza14_hotair_p/flash/hblooza14_hotair_p_assets.xml
+Dependencies: []

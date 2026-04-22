@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1593421808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36d775a937ae7713b8e831066115c7dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_hctele/flash/index.xml
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_3.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_5.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_1.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_icon_a.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_2.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_6.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_1.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_visualization.xml
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_3.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_c_4_0.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_c_4_1.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_0.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_2.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_4.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_0.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_a_4_4.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_logic.xml
+- Assets/Live/hween14_hctele/flash/hween14_hctele_assets.xml
+- Assets/Live/hween14_hctele/flash/manifest.xml
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_sd_4_0.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_5.png
+- Assets/Live/hween14_hctele/flash/hween14_hctele_64_b_4_6.png
+- Assets/Live/hween14_hctele/hween14_hctele.xml
+Dependencies: []

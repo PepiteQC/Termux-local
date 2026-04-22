@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4050693228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 776cfd5c048c1b95ebb06900412e2d89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_longhorn/flash/manifest.xml
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_visualization.xml
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_icon_a.png
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_64_sd_0_0.png
+- Assets/Live/wildwest_longhorn/wildwest_longhorn.xml
+- Assets/Live/wildwest_longhorn/flash/index.xml
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_assets.xml
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_logic.xml
+- Assets/Live/wildwest_longhorn/flash/wildwest_longhorn_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3238478596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d8b61dc05ba0bac986ae8a9611dc9b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/duck_afro/flash/duck_afro_icon_a.png
+- Assets/Live/duck_afro/flash/duck_afro_visualization.xml
+- Assets/Live/duck_afro/flash/duck_afro_64_sd_4_0.png
+- Assets/Live/duck_afro/flash/duck_afro_logic.xml
+- Assets/Live/duck_afro/flash/duck_afro_64_a_6_0.png
+- Assets/Live/duck_afro/flash/index.xml
+- Assets/Live/duck_afro/flash/duck_afro_assets.xml
+- Assets/Live/duck_afro/flash/manifest.xml
+- Assets/Live/duck_afro/duck_afro.xml
+- Assets/Live/duck_afro/flash/duck_afro_64_a_4_0.png
+Dependencies: []

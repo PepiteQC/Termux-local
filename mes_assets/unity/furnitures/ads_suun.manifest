@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3053063432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8db7792584c7b27b012b63b63dd0db7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_suun/flash/ads_suun/index.xml
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_64_a_2_0.png
+- Assets/Live/ads_suun/flash/ads_suun_camp/manifest.xml
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_logic.xml
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_64_a_4_0.png
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_32_a_2_0.png
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_icon_a.png
+- Assets/Live/ads_suun/flash/ads_suun_camp/index.xml
+- Assets/Live/ads_suun/ads_suun.xml
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_assets.xml
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_visualization.xml
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_32_a_4_0.png
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_assets.xml
+- Assets/Live/ads_suun/flash/ads_suun/manifest.xml
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_64_a_2_0.png
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_icon_a.png
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_logic.xml
+- Assets/Live/ads_suun/flash/ads_suun/ads_suun_visualization.xml
+- Assets/Live/ads_suun/flash/ads_suun_camp/ads_suun_camp_64_a_4_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 656588146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfba10fe02a456726d265f593ae777e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_pillow/flash/jp_pillow_icon_a.png
+- Assets/Live/jp_pillow/flash/manifest.xml
+- Assets/Live/jp_pillow/flash/jp_pillow_64_a_0_0.png
+- Assets/Live/jp_pillow/flash/jp_pillow_visualization.xml
+- Assets/Live/jp_pillow/flash/jp_pillow_assets.xml
+- Assets/Live/jp_pillow/flash/index.xml
+- Assets/Live/jp_pillow/flash/jp_pillow_64_sd_0_0.png
+- Assets/Live/jp_pillow/jp_pillow.xml
+- Assets/Live/jp_pillow/flash/jp_pillow_logic.xml
+Dependencies: []

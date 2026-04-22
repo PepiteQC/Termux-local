@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2238678024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfd83ddb3b5f5b4aaf7f4094f86031dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_64_a_4_0.png
+- Assets/Live/xmas_c18_deer_dasher/flash/index.xml
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_64_sd_4_0.png
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_icon_a.png
+- Assets/Live/xmas_c18_deer_dasher/flash/manifest.xml
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_logic.xml
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_assets.xml
+- Assets/Live/xmas_c18_deer_dasher/xmas_c18_deer_dasher.xml
+- Assets/Live/xmas_c18_deer_dasher/flash/xmas_c18_deer_dasher_visualization.xml
+Dependencies: []

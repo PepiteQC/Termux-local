@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 461718537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dedfc6d68fc23f92792365ef6bf849bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_64_a_2_1.png
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_logic.xml
+- Assets/Live/wf_act_move_to_dir/wf_act_move_to_dir.xml
+- Assets/Live/wf_act_move_to_dir/flash/manifest.xml
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_64_a_2_3.png
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_64_a_2_4.png
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_visualization.xml
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_64_a_2_0.png
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_64_a_2_2.png
+- Assets/Live/wf_act_move_to_dir/flash/index.xml
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_assets.xml
+- Assets/Live/wf_act_move_to_dir/flash/wf_act_move_to_dir_icon_a.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3387091078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85820e59beb5dbf45820d7d8f694e3b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pastel_c19_lights/flash/index.xml
+- Assets/Live/pastel_c19_lights/flash/manifest.xml
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_b_0_1.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_logic.xml
+- Assets/Live/pastel_c19_lights/pastel_c19_lights.xml
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_b_0_0.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_a_0_1.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_c_0_1.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_assets.xml
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_icon_a.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_c_0_0.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_d_0_0.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_a_0_2.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_sd_0_0.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_a_0_0.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_d_0_1.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_c_0_2.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_b_0_2.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_64_d_0_2.png
+- Assets/Live/pastel_c19_lights/flash/pastel_c19_lights_visualization.xml
+Dependencies: []

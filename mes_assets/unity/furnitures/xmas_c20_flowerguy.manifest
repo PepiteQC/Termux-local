@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 972813943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cfc7e4276f8c61b8f7f46d2f687732b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_logic.xml
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_icon_a.png
+- Assets/Live/xmas_c20_flowerguy/flash/index.xml
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_7.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_sd_0_0.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_visualization.xml
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_2.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_assets.xml
+- Assets/Live/xmas_c20_flowerguy/xmas_c20_flowerguy.xml
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_0.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_3.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_6.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_1.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_5.png
+- Assets/Live/xmas_c20_flowerguy/flash/manifest.xml
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_9.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_4.png
+- Assets/Live/xmas_c20_flowerguy/flash/xmas_c20_flowerguy_64_a_0_8.png
+Dependencies: []

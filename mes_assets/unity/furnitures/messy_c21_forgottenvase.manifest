@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3108520900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7e1ea00f005938056363d796cc1aee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_logic.xml
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_icon_a.png
+- Assets/Live/messy_c21_forgottenvase/messy_c21_forgottenvase.xml
+- Assets/Live/messy_c21_forgottenvase/flash/manifest.xml
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_assets.xml
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_64_a_0_0.png
+- Assets/Live/messy_c21_forgottenvase/flash/index.xml
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_64_a_0_1.png
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_visualization.xml
+- Assets/Live/messy_c21_forgottenvase/flash/messy_c21_forgottenvase_64_sd_0_0.png
+Dependencies: []

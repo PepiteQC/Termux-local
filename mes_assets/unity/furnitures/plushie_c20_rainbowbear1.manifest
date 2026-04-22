@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4056651721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fd32439800cdaa9768a2faa3e8092ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_visualization.xml
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_64_sd_0_0.png
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_icon_a.png
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_assets.xml
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_64_a_0_0.png
+- Assets/Live/plushie_c20_rainbowbear1/flash/index.xml
+- Assets/Live/plushie_c20_rainbowbear1/flash/plushie_c20_rainbowbear1_logic.xml
+- Assets/Live/plushie_c20_rainbowbear1/plushie_c20_rainbowbear1.xml
+- Assets/Live/plushie_c20_rainbowbear1/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3339581495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae3cb064404795b55c9b43b9219eb824
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_64_a_0_1.png
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_assets.xml
+- Assets/Live/clothing_bazaarfemale/clothing_bazaarfemale.xml
+- Assets/Live/clothing_bazaarfemale/flash/manifest.xml
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_icon_a.png
+- Assets/Live/clothing_bazaarfemale/flash/index.xml
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_logic.xml
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_64_a_0_0.png
+- Assets/Live/clothing_bazaarfemale/flash/clothing_bazaarfemale_visualization.xml
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 965983197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ada7665283c18b2d2328293b01eeeb15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r19_messybangs/flash/clothing_r19_messybangs_icon_a.png
+- Assets/Live/clothing_r19_messybangs/flash/clothing_r19_messybangs_64_a_0_0.png
+- Assets/Live/clothing_r19_messybangs/flash/index.xml
+- Assets/Live/clothing_r19_messybangs/flash/clothing_r19_messybangs_logic.xml
+- Assets/Live/clothing_r19_messybangs/clothing_r19_messybangs.xml
+- Assets/Live/clothing_r19_messybangs/flash/clothing_r19_messybangs_visualization.xml
+- Assets/Live/clothing_r19_messybangs/flash/manifest.xml
+- Assets/Live/clothing_r19_messybangs/flash/clothing_r19_messybangs_assets.xml
+Dependencies: []

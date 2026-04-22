@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3685139243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a41314cea1ac38f9df1968450a505e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/eco_fruits3/flash/eco_fruits3_icon_a.png
+- Assets/Live/eco_fruits3/flash/eco_fruits3_logic.xml
+- Assets/Live/eco_fruits3/flash/eco_fruits3_visualization.xml
+- Assets/Live/eco_fruits3/eco_fruits3.xml
+- Assets/Live/eco_fruits3/flash/eco_fruits3_64_a_2_0.png
+- Assets/Live/eco_fruits3/flash/eco_fruits3_64_sd_0_0.png
+- Assets/Live/eco_fruits3/flash/eco_fruits3_assets.xml
+- Assets/Live/eco_fruits3/flash/index.xml
+- Assets/Live/eco_fruits3/flash/manifest.xml
+Dependencies: []

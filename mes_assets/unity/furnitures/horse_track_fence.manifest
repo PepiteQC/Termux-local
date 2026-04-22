@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3203508088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62eae15ac5bed647ec3b7dee5e0dfd5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_4_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_4_1.png
+- Assets/Live/horse_track_fence/horse_track_fence.xml
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_6_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_2_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_0_1.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_assets.xml
+- Assets/Live/horse_track_fence/flash/index.xml
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_6_1.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_visualization.xml
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_6_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_0_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_4_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_0_1.png
+- Assets/Live/horse_track_fence/flash/manifest.xml
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_2_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_4_1.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_0_0.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_logic.xml
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_2_1.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_icon_a.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_a_6_1.png
+- Assets/Live/horse_track_fence/flash/horse_track_fence_64_b_2_1.png
+Dependencies: []

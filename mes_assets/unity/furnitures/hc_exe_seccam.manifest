@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2126699816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4ad3920def3dc728cb3c5bbbb955ff2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_logic.xml
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_icon_a.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_9.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_6.png
+- Assets/Live/hc_exe_seccam/hc_exe_seccam.xml
+- Assets/Live/hc_exe_seccam/flash/manifest.xml
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_5.png
+- Assets/Live/hc_exe_seccam/flash/index.xml
+- Assets/Live/hc_exe_seccam/flash/exe_seccam_64_sd_0_0.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_0.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_1.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_7.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_2.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_b_0_0.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_visualization.xml
+- Assets/Live/hc_exe_seccam/flash/bg.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_sd_0_0.png
+- Assets/Live/hc_exe_seccam/flash/REGPOINT.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_4.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_8.png
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_assets.xml
+- Assets/Live/hc_exe_seccam/flash/hc_exe_seccam_64_a_0_3.png
+Dependencies: []

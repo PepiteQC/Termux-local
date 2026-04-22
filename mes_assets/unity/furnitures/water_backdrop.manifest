@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1658441938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c119b4286c92f0ae417e8495acf2d0b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/water_backdrop/flash/water_backdrop_assets.xml
+- Assets/Live/water_backdrop/flash/index.xml
+- Assets/Live/water_backdrop/flash/manifest.xml
+- Assets/Live/water_backdrop/flash/water_backdrop_icon_a.png
+- Assets/Live/water_backdrop/flash/water_backdrop_visualization.xml
+- Assets/Live/water_backdrop/flash/water_backdrop_logic.xml
+- Assets/Live/water_backdrop/water_backdrop.xml
+- Assets/Live/water_backdrop/flash/water_backdrop_64_a_0_0.png
+Dependencies: []

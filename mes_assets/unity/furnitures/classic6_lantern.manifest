@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4046010630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11606358a4b2530a95d4fd4ed13834e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic6_lantern/flash/classic6_lantern_64_b_0_1.png
+- Assets/Live/classic6_lantern/flash/classic6_lantern_64_b_0_0.png
+- Assets/Live/classic6_lantern/flash/classic6_lantern_visualization.xml
+- Assets/Live/classic6_lantern/classic6_lantern.xml
+- Assets/Live/classic6_lantern/flash/index.xml
+- Assets/Live/classic6_lantern/flash/classic6_lantern_assets.xml
+- Assets/Live/classic6_lantern/flash/classic6_lantern_logic.xml
+- Assets/Live/classic6_lantern/flash/classic6_lantern_64_sd_0_0.png
+- Assets/Live/classic6_lantern/flash/classic6_lantern_64_a_0_0.png
+- Assets/Live/classic6_lantern/flash/classic6_lantern_icon_a.png
+- Assets/Live/classic6_lantern/flash/manifest.xml
+Dependencies: []

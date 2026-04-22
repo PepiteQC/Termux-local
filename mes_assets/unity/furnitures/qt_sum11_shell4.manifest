@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2533869814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1155d57219d6a19487106d5a6d0b20dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_sum11_shell4/flash/index.xml
+- Assets/Live/qt_sum11_shell4/flash/qt_sum11_shell4_visualization.xml
+- Assets/Live/qt_sum11_shell4/flash/qt_sum11_shell4_assets.xml
+- Assets/Live/qt_sum11_shell4/flash/qt_sum11_shell4_64_a_0_0.png
+- Assets/Live/qt_sum11_shell4/flash/qt_sum11_shell4_logic.xml
+- Assets/Live/qt_sum11_shell4/qt_sum11_shell4.xml
+- Assets/Live/qt_sum11_shell4/flash/qt_sum11_shell4_icon_a.png
+- Assets/Live/qt_sum11_shell4/flash/manifest.xml
+Dependencies: []

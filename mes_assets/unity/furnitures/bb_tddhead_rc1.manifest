@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2043843101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22819a126ae32bb3c189eca5d3273c74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_tddhead_rc1/flash/bb_tddhead_rc1_visualization.xml
+- Assets/Live/bb_tddhead_rc1/flash/manifest.xml
+- Assets/Live/bb_tddhead_rc1/flash/bb_tddhead_rc1_icon_a.png
+- Assets/Live/bb_tddhead_rc1/flash/bb_tddhead_rc1_64_a_0_0.png
+- Assets/Live/bb_tddhead_rc1/flash/index.xml
+- Assets/Live/bb_tddhead_rc1/bb_tddhead_rc1.xml
+- Assets/Live/bb_tddhead_rc1/flash/bb_tddhead_rc1_logic.xml
+- Assets/Live/bb_tddhead_rc1/flash/bb_tddhead_rc1_assets.xml
+Dependencies: []

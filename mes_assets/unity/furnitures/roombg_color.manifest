@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1642974029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 881b04e41c4df68a756df505b5db118d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/roombg_color/flash/roombg_color_icon_a.png
+- Assets/Live/roombg_color/flash/roombg_color_assets.xml
+- Assets/Live/roombg_color/flash/index.xml
+- Assets/Live/roombg_color/flash/roombg_color_64_a_0_1.png
+- Assets/Live/roombg_color/flash/roombg_color_64_sd_0_0.png
+- Assets/Live/roombg_color/flash/roombg_color_logic.xml
+- Assets/Live/roombg_color/roombg_color.xml
+- Assets/Live/roombg_color/flash/manifest.xml
+- Assets/Live/roombg_color/flash/roombg_color_64_a_0_0.png
+- Assets/Live/roombg_color/flash/roombg_color_visualization.xml
+Dependencies: []

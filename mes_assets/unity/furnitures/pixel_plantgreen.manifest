@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3466031460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b0b53d312f721ccd59fe1b725939012
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_64_a_0_0.png
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_logic.xml
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_64_sd_0_0.png
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_icon_a.png
+- Assets/Live/pixel_plantgreen/flash/index.xml
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_visualization.xml
+- Assets/Live/pixel_plantgreen/flash/pixel_plantgreen_assets.xml
+- Assets/Live/pixel_plantgreen/flash/manifest.xml
+- Assets/Live/pixel_plantgreen/pixel_plantgreen.xml
+Dependencies: []

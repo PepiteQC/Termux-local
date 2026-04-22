@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1617383372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e16b0abed1531c6a1141a5167d03b591
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_e_4_0.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_d_4_1.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_visualization.xml
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_logic.xml
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_e_4_1.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_e_4_4.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_c_4_1.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_b_4_0.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_a_4_0.png
+- Assets/Live/wildwest_teleport/wildwest_teleport.xml
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_icon_a.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_assets.xml
+- Assets/Live/wildwest_teleport/flash/manifest.xml
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_e_4_2.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_c_4_0.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_d_4_0.png
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_e_4_3.png
+- Assets/Live/wildwest_teleport/flash/index.xml
+- Assets/Live/wildwest_teleport/flash/wildwest_teleport_64_sd_4_0.png
+Dependencies: []

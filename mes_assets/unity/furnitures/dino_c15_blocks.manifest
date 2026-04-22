@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2835311380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ed91ec0a6b0ab634dd55163c0814d29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_visualization.xml
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_a_0_1.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_logic.xml
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_assets.xml
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_icon_a.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_b_0_3.png
+- Assets/Live/dino_c15_blocks/flash/index.xml
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_c_0_0.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_b_0_0.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_a_0_3.png
+- Assets/Live/dino_c15_blocks/dino_c15_blocks.xml
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_c_4_0.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_b_0_1.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_a_0_2.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_b_0_2.png
+- Assets/Live/dino_c15_blocks/flash/dino_c15_blocks_64_a_0_0.png
+- Assets/Live/dino_c15_blocks/flash/manifest.xml
+Dependencies: []

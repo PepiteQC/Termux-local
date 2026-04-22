@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 239436691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8836e39b4c5bfa21743e4f9e5e28e375
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ny2013_block/flash/index.xml
+- Assets/Live/ny2013_block/flash/ny2013_block_64_a_0_2.png
+- Assets/Live/ny2013_block/ny2013_block.xml
+- Assets/Live/ny2013_block/flash/ny2013_block_logic.xml
+- Assets/Live/ny2013_block/flash/ny2013_block_assets.xml
+- Assets/Live/ny2013_block/flash/ny2013_block_64_a_0_0.png
+- Assets/Live/ny2013_block/flash/ny2013_block_icon_a.png
+- Assets/Live/ny2013_block/flash/ny2013_block_visualization.xml
+- Assets/Live/ny2013_block/flash/ny2013_block_64_a_0_1.png
+- Assets/Live/ny2013_block/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 776917188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b73ecd33e53d48b7a294342f976e041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snowb_rail/flash/index.xml
+- Assets/Live/snowb_rail/flash/snowb_rail_64_a_4_0.png
+- Assets/Live/snowb_rail/flash/snowb_rail_icon_a.png
+- Assets/Live/snowb_rail/flash/manifest.xml
+- Assets/Live/snowb_rail/flash/snowb_rail_64_b_4_0.png
+- Assets/Live/snowb_rail/snowb_rail.xml
+- Assets/Live/snowb_rail/flash/snowb_rail_64_sd_4_0.png
+- Assets/Live/snowb_rail/flash/snowb_rail_visualization.xml
+- Assets/Live/snowb_rail/flash/snowb_rail_logic.xml
+- Assets/Live/snowb_rail/flash/snowb_rail_assets.xml
+Dependencies: []

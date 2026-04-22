@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2326901172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baf23314e1633d7eb1efd0184d37d59f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_0.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_2.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_4.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_5.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_icon_a.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_1.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_visualization.xml
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_4.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_logic.xml
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_3.png
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_0_3.png
+- Assets/Live/clothing_tshirt_rolled/flash/index.xml
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_assets.xml
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_2.png
+- Assets/Live/clothing_tshirt_rolled/flash/manifest.xml
+- Assets/Live/clothing_tshirt_rolled/flash/clothing_tshirt_rolled_64_a_1.png
+- Assets/Live/clothing_tshirt_rolled/clothing_tshirt_rolled.xml
+Dependencies: []

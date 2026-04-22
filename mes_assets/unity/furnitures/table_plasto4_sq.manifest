@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1540888437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b190a1d8b61e1169bada36f71a36bb88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/table_plasto4_sq/flash/manifest.xml
+- Assets/Live/table_plasto4_sq/flash/index.xml
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_64_sd_0_0.png
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_logic.xml
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_assets.xml
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_icon_a.png
+- Assets/Live/table_plasto4_sq/table_plasto4_sq.xml
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_visualization.xml
+- Assets/Live/table_plasto4_sq/flash/table_plasto4_sq_64_a_0_0.png
+Dependencies: []

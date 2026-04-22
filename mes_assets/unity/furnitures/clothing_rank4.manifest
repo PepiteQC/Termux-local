@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2833460345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b507c4c0676644c3ce6183775af7d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_rank4/flash/clothing_rank4_logic.xml
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_1.png
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_0.png
+- Assets/Live/clothing_rank4/flash/clothing_rank4_assets.xml
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_5.png
+- Assets/Live/clothing_rank4/clothing_rank4.xml
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_3.png
+- Assets/Live/clothing_rank4/flash/manifest.xml
+- Assets/Live/clothing_rank4/flash/index.xml
+- Assets/Live/clothing_rank4/flash/clothing_rank4_visualization.xml
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_4.png
+- Assets/Live/clothing_rank4/flash/clothing_rank4_icon_a.png
+- Assets/Live/clothing_rank4/flash/clothing_rank4_64_a_0_2.png
+Dependencies: []

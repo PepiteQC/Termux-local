@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1931051970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac814d70cc486f66bac56c61f69898cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bowl/flash/bowl_icon_a.png
+- Assets/Live/bowl/flash/bowl_assets.xml
+- Assets/Live/bowl/flash/bowl_logic.xml
+- Assets/Live/bowl/flash/bowl_64_a_2_1.png
+- Assets/Live/bowl/flash/index.xml
+- Assets/Live/bowl/flash/bowl_64_a_2_0.png
+- Assets/Live/bowl/bowl.xml
+- Assets/Live/bowl/flash/manifest.xml
+- Assets/Live/bowl/flash/bowl_visualization.xml
+Dependencies: []

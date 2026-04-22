@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2259026924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c8b080d2a08402913d14576e08b7f23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_64_a_2_0.png
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_assets.xml
+- Assets/Live/nest_bunny_love/nest_bunny_love.xml
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_64_sd_2_0.png
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_icon_a.png
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_logic.xml
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_64_sd_0_0.png
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_64_a_0_0.png
+- Assets/Live/nest_bunny_love/flash/index.xml
+- Assets/Live/nest_bunny_love/flash/nest_bunny_love_visualization.xml
+- Assets/Live/nest_bunny_love/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1063058876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 872373931474d27353098aafe5e770fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_lamp/hween_c16_lamp.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_a_0_1.png
+- Assets/Live/hween_c16_lamp/flash/manifest.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_c_0_1.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_b_0_0.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_icon_a.png
+- Assets/Live/hween_c16_lamp/flash/index.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_assets.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_e_0_0.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_logic.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_visualization.xml
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_e_0_1.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_b_0_1.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_d_0_0.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_c_0_0.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_a_0_0.png
+- Assets/Live/hween_c16_lamp/flash/hween_c16_lamp_64_d_0_1.png
+Dependencies: []

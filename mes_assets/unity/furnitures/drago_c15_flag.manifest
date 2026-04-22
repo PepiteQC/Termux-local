@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1266863091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73343d243d67dd85215b459e6adc8483
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/drago_c15_flag/flash/manifest.xml
+- Assets/Live/drago_c15_flag/flash/index.xml
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_assets.xml
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_b_2_2.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_a_2_0.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_c_2_0.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_c_2_2.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_b_2_0.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_c_2_1.png
+- Assets/Live/drago_c15_flag/drago_c15_flag.xml
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_b_2_1.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_logic.xml
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_b_2_3.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_c_2_3.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_icon_a.png
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_visualization.xml
+- Assets/Live/drago_c15_flag/flash/drago_c15_flag_64_a_2_1.png
+Dependencies: []

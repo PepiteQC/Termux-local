@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 583565568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cacab6f63b4ab58b204d2b9e25aca609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_assets.xml
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_logic.xml
+- Assets/Live/prizetrophy_skate/flash/index.xml
+- Assets/Live/prizetrophy_skate/prizetrophy_skate.xml
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_icon_a.png
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_64_a_0_0.png
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_64_c_0_0.png
+- Assets/Live/prizetrophy_skate/flash/manifest.xml
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_visualization.xml
+- Assets/Live/prizetrophy_skate/flash/prizetrophy_skate_64_b_0_0.png
+Dependencies: []

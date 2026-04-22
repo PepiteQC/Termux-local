@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2008668086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b476d9dfc69ac7c8f9ef4a3fa105d6b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_0.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_6.png
+- Assets/Live/easter14_flower/easter14_flower.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_7.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_8.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_0.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_4.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_sd_2_0.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_1.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_3.png
+- Assets/Live/easter14_flower/flash/manifest.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_visualization.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_2.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_5.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_8.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_6.png
+- Assets/Live/easter14_flower/flash/easter14_flower_logic.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_7.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_2.png
+- Assets/Live/easter14_flower/flash/easter14_flower_icon_a.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_3.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_0_5.png
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_1.png
+- Assets/Live/easter14_flower/flash/index.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_assets.xml
+- Assets/Live/easter14_flower/flash/easter14_flower_64_a_2_4.png
+Dependencies: []

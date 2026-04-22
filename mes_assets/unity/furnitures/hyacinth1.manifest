@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3128669000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62800ff96900adc0b3386dc6b90ccf3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hyacinth1/flash/manifest.xml
+- Assets/Live/hyacinth1/hyacinth1.xml
+- Assets/Live/hyacinth1/flash/hyacinth1_64_a_2_1.png
+- Assets/Live/hyacinth1/flash/hyacinth1_icon_a.png
+- Assets/Live/hyacinth1/flash/hyacinth1_visualization.xml
+- Assets/Live/hyacinth1/flash/hyacinth1_64_a_2_0.png
+- Assets/Live/hyacinth1/flash/index.xml
+- Assets/Live/hyacinth1/flash/hyacinth1_64_sd_0_0.png
+- Assets/Live/hyacinth1/flash/hyacinth1_assets.xml
+- Assets/Live/hyacinth1/flash/hyacinth1_logic.xml
+Dependencies: []

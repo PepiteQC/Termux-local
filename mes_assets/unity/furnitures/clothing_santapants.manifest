@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3948754204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94b7cb5eaa7bb84e19b8eab1ed6be5c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_santapants/clothing_santapants.xml
+- Assets/Live/clothing_santapants/flash/clothing_santapants_visualization.xml
+- Assets/Live/clothing_santapants/flash/manifest.xml
+- Assets/Live/clothing_santapants/flash/index.xml
+- Assets/Live/clothing_santapants/flash/clothing_santapants_icon_a.png
+- Assets/Live/clothing_santapants/flash/clothing_santapants_64_a_2_0.png
+- Assets/Live/clothing_santapants/flash/clothing_santapants_logic.xml
+- Assets/Live/clothing_santapants/flash/clothing_santapants_assets.xml
+- Assets/Live/clothing_santapants/flash/clothing_santapants_64_a_2_1.png
+Dependencies: []

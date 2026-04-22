@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1136659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9cb55f08c7f12f5c3f1104ee068baa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/garden_table/flash/garden_table_visualization.xml
+- Assets/Live/garden_table/flash/manifest.xml
+- Assets/Live/garden_table/flash/garden_table_icon_a.png
+- Assets/Live/garden_table/flash/index.xml
+- Assets/Live/garden_table/garden_table.xml
+- Assets/Live/garden_table/flash/garden_table_64_sd_0_0.png
+- Assets/Live/garden_table/flash/garden_table_64_a_0_0.png
+- Assets/Live/garden_table/flash/garden_table_assets.xml
+- Assets/Live/garden_table/flash/garden_table_logic.xml
+Dependencies: []

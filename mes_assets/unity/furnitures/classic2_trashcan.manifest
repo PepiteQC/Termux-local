@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1678782216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3155acc886962fdce6e8ddfcae041c6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic2_trashcan/flash/index.xml
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_icon_a.png
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_64_a_4_0.png
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_visualization.xml
+- Assets/Live/classic2_trashcan/flash/manifest.xml
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_logic.xml
+- Assets/Live/classic2_trashcan/classic2_trashcan.xml
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_64_a_2_0.png
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_assets.xml
+- Assets/Live/classic2_trashcan/flash/classic2_trashcan_64_sd_4_0.png
+Dependencies: []

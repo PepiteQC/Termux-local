@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1614359001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7d072eb6dbe87cdeb90716164115618
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_c_0_1.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_b_0_1.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_b_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_f_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_g_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_c_0_0.png
+- Assets/Live/ads_idol_drape/flash/index.xml
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_h_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_d_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_d_0_1.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_sd_0_0.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_assets.xml
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_e_0_0.png
+- Assets/Live/ads_idol_drape/flash/manifest.xml
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_icon_a.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_f_0_1.png
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_logic.xml
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_64_a_0_0.png
+- Assets/Live/ads_idol_drape/ads_idol_drape.xml
+- Assets/Live/ads_idol_drape/flash/ads_idol_drape_visualization.xml
+Dependencies: []

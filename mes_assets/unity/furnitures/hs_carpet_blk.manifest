@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3554846419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0c37e707237326884beb92a04d3ef14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hs_carpet_blk/flash/index.xml
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_icon_a.png
+- Assets/Live/hs_carpet_blk/flash/manifest.xml
+- Assets/Live/hs_carpet_blk/hs_carpet_blk.xml
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_assets.xml
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_64_a_0_1.png
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_visualization.xml
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_logic.xml
+- Assets/Live/hs_carpet_blk/flash/hs_carpet_blk_64_a_0_0.png
+Dependencies: []

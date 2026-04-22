@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2366722344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb24c6c98b567d06d36b1c5ff974f3c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/arabian_tray2/arabian_tray2.xml
+- Assets/Live/arabian_tray2/flash/index.xml
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_a_0_0.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_c_0_3.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_b_0_1.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_b_0_0.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_c_0_1.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_icon_a.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_b_0_2.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_visualization.xml
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_b_0_3.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_logic.xml
+- Assets/Live/arabian_tray2/flash/arabian_tray2_assets.xml
+- Assets/Live/arabian_tray2/flash/manifest.xml
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_c_0_2.png
+- Assets/Live/arabian_tray2/flash/arabian_tray2_64_c_0_0.png
+Dependencies: []

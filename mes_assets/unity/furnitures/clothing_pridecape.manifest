@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3926919610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77e04dae607861a29a2f9a2215a69ae5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_pridecape/flash/clothing_pridecape_logic.xml
+- Assets/Live/clothing_pridecape/clothing_pridecape.xml
+- Assets/Live/clothing_pridecape/flash/clothing_pridecape_assets.xml
+- Assets/Live/clothing_pridecape/flash/index.xml
+- Assets/Live/clothing_pridecape/flash/clothing_pridecape_visualization.xml
+- Assets/Live/clothing_pridecape/flash/clothing_pridecape_icon_a.png
+- Assets/Live/clothing_pridecape/flash/clothing_pridecape_64_a_0_0.png
+- Assets/Live/clothing_pridecape/flash/manifest.xml
+Dependencies: []

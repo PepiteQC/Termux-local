@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 239776606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff816616b80e7352f93b52741e173ee8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_bear/flash/clothing_bear_visualization.xml
+- Assets/Live/clothing_bear/flash/manifest.xml
+- Assets/Live/clothing_bear/flash/index.xml
+- Assets/Live/clothing_bear/clothing_bear.xml
+- Assets/Live/clothing_bear/flash/clothing_bear_assets.xml
+- Assets/Live/clothing_bear/flash/clothing_bear_64_sd_0_0.png
+- Assets/Live/clothing_bear/flash/clothing_bear_64_a_0_0.png
+- Assets/Live/clothing_bear/flash/clothing_bear_logic.xml
+- Assets/Live/clothing_bear/flash/clothing_bear_icon_a.png
+Dependencies: []

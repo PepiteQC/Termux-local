@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2711232268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fedf15722216e76358b9baf3b7423e12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gld_hangflag2/gld_hangflag2.xml
+- Assets/Live/gld_hangflag2/flash/index.xml
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_64_a_0_0.png
+- Assets/Live/gld_hangflag2/flash/manifest.xml
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_logic.xml
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_icon_b.png
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_64_sd_0_0.png
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_64_b_0_0.png
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_visualization.xml
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_icon_a.png
+- Assets/Live/gld_hangflag2/flash/gld_hangflag2_assets.xml
+Dependencies: []

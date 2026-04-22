@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1418604580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 128e2a71558cac405ce436b5e434f8e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_64_a_0_0.png
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_icon_a.png
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_visualization.xml
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_assets.xml
+- Assets/Live/suncity_c19_plantpillar/suncity_c19_plantpillar.xml
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_logic.xml
+- Assets/Live/suncity_c19_plantpillar/flash/manifest.xml
+- Assets/Live/suncity_c19_plantpillar/flash/suncity_c19_plantpillar_64_a_0_1.png
+- Assets/Live/suncity_c19_plantpillar/flash/index.xml
+Dependencies: []

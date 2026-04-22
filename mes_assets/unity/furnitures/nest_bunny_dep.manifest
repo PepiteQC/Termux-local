@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2886351957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38134651e912b4d13649de593f56cb4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_logic.xml
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_visualization.xml
+- Assets/Live/nest_bunny_dep/flash/manifest.xml
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_64_a_2_0.png
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_icon_a.png
+- Assets/Live/nest_bunny_dep/flash/index.xml
+- Assets/Live/nest_bunny_dep/nest_bunny_dep.xml
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_assets.xml
+- Assets/Live/nest_bunny_dep/flash/nest_bunny_dep_64_a_0_0.png
+Dependencies: []

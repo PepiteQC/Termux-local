@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 173183578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cccc55bf7b4a6a9e87f981fd6c862314
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_chile/flash/manifest.xml
+- Assets/Live/flag_chile/flash/flag_chile_visualization.xml
+- Assets/Live/flag_chile/flag_chile.xml
+- Assets/Live/flag_chile/flash/flag_chile_assets.xml
+- Assets/Live/flag_chile/flash/flag_chile_icon_a.png
+- Assets/Live/flag_chile/flash/flag_chile_logic.xml
+- Assets/Live/flag_chile/flash/index.xml
+- Assets/Live/flag_chile/flash/flag_chile_64_a_2_0.png
+- Assets/Live/flag_chile/flash/flag_chile_64_a_4_0.png
+Dependencies: []

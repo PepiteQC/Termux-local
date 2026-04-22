@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3055760883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 165d77cf7acb07576e9b0daf691fb9b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_recchair/flash/val14_recchair_icon_a.png
+- Assets/Live/val14_recchair/flash/val14_recchair_64_b_0_0.png
+- Assets/Live/val14_recchair/flash/val14_recchair_64_sd_0_0.png
+- Assets/Live/val14_recchair/flash/val14_recchair_visualization.xml
+- Assets/Live/val14_recchair/flash/val14_recchair_64_a_0_0.png
+- Assets/Live/val14_recchair/flash/val14_recchair_64_b_4_0.png
+- Assets/Live/val14_recchair/flash/val14_recchair_logic.xml
+- Assets/Live/val14_recchair/flash/manifest.xml
+- Assets/Live/val14_recchair/flash/val14_recchair_64_a_4_0.png
+- Assets/Live/val14_recchair/flash/val14_recchair_assets.xml
+- Assets/Live/val14_recchair/flash/index.xml
+- Assets/Live/val14_recchair/val14_recchair.xml
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1648610280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27ea57fd1f24034804d428cb6ae631fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_6_0.png
+- Assets/Live/easter14_elecdivdr/flash/manifest.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_visualization.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_4_0.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_4_3.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_assets.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_a_6_1.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_6_4.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_a_4_0.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_logic.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_a_6_0.png
+- Assets/Live/easter14_elecdivdr/flash/index.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_4_4.png
+- Assets/Live/easter14_elecdivdr/easter14_elecdivdr.xml
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_6_3.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_icon_a.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_4_2.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_6_2.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_4_1.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_b_6_1.png
+- Assets/Live/easter14_elecdivdr/flash/easter14_elecdivdr_64_a_4_1.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1573260294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c705589f738c99c7c74b6ca0e36d3480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fruit_c21_table/fruit_c21_table.xml
+- Assets/Live/fruit_c21_table/flash/index.xml
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_visualization.xml
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_assets.xml
+- Assets/Live/fruit_c21_table/flash/manifest.xml
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_icon_a.png
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_64_sd_0_0.png
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_logic.xml
+- Assets/Live/fruit_c21_table/flash/fruit_c21_table_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 150468943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a3c4336ff670b919a3210b8208f94fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_morocco/flash/index.xml
+- Assets/Live/flag_morocco/flash/flag_morocco_icon_a.png
+- Assets/Live/flag_morocco/flash/flag_morocco_64_a_2_0.png
+- Assets/Live/flag_morocco/flash/manifest.xml
+- Assets/Live/flag_morocco/flag_morocco.xml
+- Assets/Live/flag_morocco/flash/flag_morocco_64_a_4_0.png
+- Assets/Live/flag_morocco/flash/flag_morocco_assets.xml
+- Assets/Live/flag_morocco/flash/flag_morocco_logic.xml
+- Assets/Live/flag_morocco/flash/flag_morocco_visualization.xml
+Dependencies: []

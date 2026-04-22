@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2674760275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c371e98dc40ad217330684938d015b15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_mask/flash/theatre_mask_icon_a.png
+- Assets/Live/theatre_mask/flash/theatre_mask_64_a_0_0.png
+- Assets/Live/theatre_mask/flash/theatre_mask_64_a_6_0.png
+- Assets/Live/theatre_mask/flash/theatre_mask_64_a_2_0.png
+- Assets/Live/theatre_mask/flash/manifest.xml
+- Assets/Live/theatre_mask/theatre_mask.xml
+- Assets/Live/theatre_mask/flash/theatre_mask_64_a_4_0.png
+- Assets/Live/theatre_mask/flash/index.xml
+- Assets/Live/theatre_mask/flash/theatre_mask_visualization.xml
+- Assets/Live/theatre_mask/flash/theatre_mask_logic.xml
+- Assets/Live/theatre_mask/flash/theatre_mask_assets.xml
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3115297547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73a150f21513558ff342867aa51e498b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_3.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_sd_2_0.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_icon_a.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_2.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_7.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_0.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_5.png
+- Assets/Live/wildwest_minecart/wildwest_minecart.xml
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_assets.xml
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_visualization.xml
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_6.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_4.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_64_a_2_1.png
+- Assets/Live/wildwest_minecart/flash/wildwest_minecart_logic.xml
+- Assets/Live/wildwest_minecart/flash/manifest.xml
+- Assets/Live/wildwest_minecart/flash/index.xml
+Dependencies: []

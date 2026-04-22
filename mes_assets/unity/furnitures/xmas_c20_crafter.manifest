@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 59836571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed5170f1de279df3aeed04d55da5695e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_logic.xml
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_11.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_5.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_10.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_4.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_sd_4_0.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_9.png
+- Assets/Live/xmas_c20_crafter/flash/index.xml
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_6.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_visualization.xml
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_7.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_icon_a.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_assets.xml
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_1.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_2.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_8.png
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_0.png
+- Assets/Live/xmas_c20_crafter/xmas_c20_crafter.xml
+- Assets/Live/xmas_c20_crafter/flash/xmas_c20_crafter_64_a_4_3.png
+- Assets/Live/xmas_c20_crafter/flash/manifest.xml
+Dependencies: []

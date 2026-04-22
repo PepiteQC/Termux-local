@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3491873404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b14b53740b0c6308d65f583cd7940584
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_icon_a.png
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_logic.xml
+- Assets/Live/easter_c19_book1a/flash/manifest.xml
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_64_a_0_0.png
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_visualization.xml
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_64_sd_0_0.png
+- Assets/Live/easter_c19_book1a/easter_c19_book1a.xml
+- Assets/Live/easter_c19_book1a/flash/index.xml
+- Assets/Live/easter_c19_book1a/flash/easter_c19_book1a_assets.xml
+Dependencies: []

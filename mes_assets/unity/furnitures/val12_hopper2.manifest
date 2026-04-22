@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2854117567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2a141d4de63ff12a9b02d22a5e3acf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_6.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_e_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_f_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_20.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_4.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_13.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_6.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_7.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_9.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_logic.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_17.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_visualization.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_11.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_1.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_15.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_5.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_14.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_9.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_2.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_e_2_2.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_3.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_assets.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_8.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_16.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_20.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_4.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_8.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_16.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_e_2_1.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_19.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_icon_a.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_a_2_1.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_18.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_21.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_12.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_8.png
+- Assets/Live/val12_hopper2/flash/manifest.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_10.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_13.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_2.png
+- Assets/Live/val12_hopper2/val12_hopper2.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_4.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_3.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_6.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_5.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_5.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_11.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_7.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_a_2_0.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_1.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_14.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_19.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_21.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_10.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_18.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_b_2_2.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_7.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_12.png
+- Assets/Live/val12_hopper2/flash/index.xml
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_17.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_1.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_c_2_15.png
+- Assets/Live/val12_hopper2/flash/val12_hopper2_64_d_2_3.png
+Dependencies: []

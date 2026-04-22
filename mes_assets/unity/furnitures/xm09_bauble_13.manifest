@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 714816028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b34b0f66b1d46b8bc777c794c78e5b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_64_b_2_0.png
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_64_a_2_0.png
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_logic.xml
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_assets.xml
+- Assets/Live/xm09_bauble_13/flash/index.xml
+- Assets/Live/xm09_bauble_13/xm09_bauble_13.xml
+- Assets/Live/xm09_bauble_13/flash/manifest.xml
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_visualization.xml
+- Assets/Live/xm09_bauble_13/flash/xm09_bauble_13_icon_a.png
+Dependencies: []

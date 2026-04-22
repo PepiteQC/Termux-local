@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 511820979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a093e5ba469e2465800bec37ad1ce69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_woodcrn/flash/manifest.xml
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_icon_a.png
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_logic.xml
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_64_sd_0_0.png
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_visualization.xml
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_64_a_0_0.png
+- Assets/Live/vikings_woodcrn/flash/index.xml
+- Assets/Live/vikings_woodcrn/vikings_woodcrn.xml
+- Assets/Live/vikings_woodcrn/flash/vikings_woodcrn_assets.xml
+Dependencies: []

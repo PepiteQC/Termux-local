@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1944073785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac274b33747f4d702a36b4427008b8d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_6.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_icon_a.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_0.png
+- Assets/Live/classic7_drinkdispenser/classic7_drinkdispenser.xml
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_4.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_3.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_5.png
+- Assets/Live/classic7_drinkdispenser/flash/manifest.xml
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_7.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_5.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_assets.xml
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_2.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_a_4_0.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_3.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_sd_4_0.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_1.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_7.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_6.png
+- Assets/Live/classic7_drinkdispenser/flash/index.xml
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_0.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_8.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_sd_0_0.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_visualization.xml
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_1.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_8.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_0_4.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_b_4_2.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_64_a_0_0.png
+- Assets/Live/classic7_drinkdispenser/flash/classic7_drinkdispenser_logic.xml
+Dependencies: []

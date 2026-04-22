@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 487501164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 846b3784b92526acf8f94f3be8313b8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_5.png
+- Assets/Live/china_lantern/flash/china_lantern_icon_a.png
+- Assets/Live/china_lantern/flash/china_lantern_visualization.xml
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_9.png
+- Assets/Live/china_lantern/china_lantern.xml
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_0.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_6.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_8.png
+- Assets/Live/china_lantern/flash/china_lantern_64_a_0_0.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_2.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_1.png
+- Assets/Live/china_lantern/flash/china_lantern_logic.xml
+- Assets/Live/china_lantern/flash/manifest.xml
+- Assets/Live/china_lantern/flash/index.xml
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_7.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_3.png
+- Assets/Live/china_lantern/flash/china_lantern_64_b_0_4.png
+- Assets/Live/china_lantern/flash/china_lantern_assets.xml
+Dependencies: []

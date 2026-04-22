@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3411205722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39fb1301e84e4ba41ce970cdae81a431
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_5.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_1.png
+- Assets/Live/penguin_frank/flash/penguin_frank_logic.xml
+- Assets/Live/penguin_frank/flash/penguin_frank_icon_a.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_3.png
+- Assets/Live/penguin_frank/flash/manifest.xml
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_0.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_7.png
+- Assets/Live/penguin_frank/flash/index.xml
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_4.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_6.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_a_4_2.png
+- Assets/Live/penguin_frank/flash/penguin_frank_64_sd_4_0.png
+- Assets/Live/penguin_frank/flash/penguin_frank_assets.xml
+- Assets/Live/penguin_frank/penguin_frank.xml
+- Assets/Live/penguin_frank/flash/penguin_frank_visualization.xml
+Dependencies: []

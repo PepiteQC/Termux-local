@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3397534325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64ac20100f0c46da8031904f252ad5ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_b_4_2.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_assets.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_visualization.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_e_4_1.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_c_4_1.png
+- Assets/Live/mm_lemon_drink/flash/manifest.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_c_4_0.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_logic.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_b_4_0.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_d_4_0.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_a_4_0.png
+- Assets/Live/mm_lemon_drink/flash/index.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_c_4_2.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_b_4_1.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_sd_4_0.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_a_4_1.png
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_64_e_4_0.png
+- Assets/Live/mm_lemon_drink/mm_lemon_drink.xml
+- Assets/Live/mm_lemon_drink/flash/mm_lemon_drink_icon_a.png
+Dependencies: []

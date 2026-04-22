@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3059064461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1874c58c08385179c2ae0cec319d84ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r17_horse/flash/index.xml
+- Assets/Live/clothing_r17_horse/clothing_r17_horse.xml
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_64_sd_0_0.png
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_visualization.xml
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_assets.xml
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_logic.xml
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_64_a_0_0.png
+- Assets/Live/clothing_r17_horse/flash/manifest.xml
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_64_a_0_1.png
+- Assets/Live/clothing_r17_horse/flash/clothing_r17_horse_icon_a.png
+Dependencies: []

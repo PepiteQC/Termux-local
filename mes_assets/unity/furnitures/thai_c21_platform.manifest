@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3067635661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce1190806f718af7c3bc1a96476d1639
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_d_0_0.png
+- Assets/Live/thai_c21_platform/flash/manifest.xml
+- Assets/Live/thai_c21_platform/flash/index.xml
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_a_0_0.png
+- Assets/Live/thai_c21_platform/thai_c21_platform.xml
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_b_0_0.png
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_sd_0_0.png
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_logic.xml
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_visualization.xml
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_assets.xml
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_f_0_0.png
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_icon_a.png
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_c_0_0.png
+- Assets/Live/thai_c21_platform/flash/thai_c21_platform_64_e_0_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4095914749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 611e4c4399c004758af8d9f759d73885
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_assets.xml
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_visualization.xml
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_icon_a.png
+- Assets/Live/easter_c20_ancientbird/flash/manifest.xml
+- Assets/Live/easter_c20_ancientbird/flash/index.xml
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_64_a_4_0.png
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_logic.xml
+- Assets/Live/easter_c20_ancientbird/easter_c20_ancientbird.xml
+- Assets/Live/easter_c20_ancientbird/flash/easter_c20_ancientbird_64_sd_4_0.png
+Dependencies: []

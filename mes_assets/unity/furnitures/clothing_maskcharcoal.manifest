@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3657192219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76717ab88b2d578a8ce83459cc30a940
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_maskcharcoal/flash/index.xml
+- Assets/Live/clothing_maskcharcoal/flash/manifest.xml
+- Assets/Live/clothing_maskcharcoal/flash/clothing_maskcharcoal_icon_a.png
+- Assets/Live/clothing_maskcharcoal/clothing_maskcharcoal.xml
+- Assets/Live/clothing_maskcharcoal/flash/clothing_maskcharcoal_64_a_0_0.png
+- Assets/Live/clothing_maskcharcoal/flash/clothing_maskcharcoal_assets.xml
+- Assets/Live/clothing_maskcharcoal/flash/clothing_maskcharcoal_logic.xml
+- Assets/Live/clothing_maskcharcoal/flash/clothing_maskcharcoal_visualization.xml
+Dependencies: []

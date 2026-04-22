@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 549584234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfce2641aaf1f88196d3420e77ee5d22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bath/flash/bath/bath_assets.xml
+- Assets/Live/bath/flash/bath/bath_64_d_4_0.png
+- Assets/Live/bath/bath.xml
+- Assets/Live/bath/flash/bath_cola/s_bath_sd_2.png
+- Assets/Live/bath/flash/bath_cola/bath_i_0_1_2_6_0.png
+- Assets/Live/bath/flash/bath/bath_64_f_4_1.png
+- Assets/Live/bath/flash/bath_cola/bath_j_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_64_j_4_0.png
+- Assets/Live/bath/flash/bath_cola/bath_e_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath_cola/bath_c_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_e_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath_cola/s_bath_j_0_1_2_6_0.png
+- Assets/Live/bath/flash/bath_cola/bath_a_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_i_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_64_i_4_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_f_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath/bath_icon_a.png
+- Assets/Live/bath/flash/bath_cola/s_bath_h_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath/bath_64_g_4_1.png
+- Assets/Live/bath/flash/bath_cola/s_bath_c_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_64_j_0_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_a_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_logic.xml
+- Assets/Live/bath/flash/bath_cola/s_bath_e_0_1_2_0_0.png
+- Assets/Live/bath/flash/bath_cola/bath_i_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_visualization.xml
+- Assets/Live/bath/flash/bath/bath_64_e_0_0.png
+- Assets/Live/bath/flash/bath_cola/bath_f_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath_cola/bath_g_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath_cola/bath_j_0_1_2_6_0.png
+- Assets/Live/bath/flash/bath_cola/bath_d_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_b_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/manifest.xml
+- Assets/Live/bath/flash/bath_cola/bath_cola_assets.xml
+- Assets/Live/bath/flash/bath_cola/bath_cola_logic.xml
+- Assets/Live/bath/flash/bath/bath_64_h_4_1.png
+- Assets/Live/bath/flash/bath_cola/s_bath_d_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_64_sd_4_0.png
+- Assets/Live/bath/flash/bath_cola/bath_b_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_g_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath_cola/bath_e_0_1_2_0_0.png
+- Assets/Live/bath/flash/bath/bath_64_i_0_0.png
+- Assets/Live/bath/flash/bath_cola/manifest.xml
+- Assets/Live/bath/flash/bath_cola/index.xml
+- Assets/Live/bath/flash/bath_cola/bath_sd_2.png
+- Assets/Live/bath/flash/bath_cola/bath_h_0_1_2_2_1.png
+- Assets/Live/bath/flash/bath/bath_64_b_4_0.png
+- Assets/Live/bath/flash/bath_cola/s_bath_j_0_1_2_2_0.png
+- Assets/Live/bath/flash/bath/bath_64_c_4_0.png
+- Assets/Live/bath/flash/bath/bath_64_a_4_0.png
+- Assets/Live/bath/flash/bath_cola/bath_cola_visualization.xml
+- Assets/Live/bath/flash/bath/index.xml
+- Assets/Live/bath/flash/bath/bath_64_e_4_1.png
+- Assets/Live/bath/flash/bath_cola/s_bath_i_0_1_2_6_0.png
+Dependencies: []

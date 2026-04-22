@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 815117106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c18799df602cd16909a6e6a50a62a73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_palmvase/india_c20_palmvase.xml
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_assets.xml
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_64_sd_0_0.png
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_64_a_0_1.png
+- Assets/Live/india_c20_palmvase/flash/index.xml
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_icon_a.png
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_logic.xml
+- Assets/Live/india_c20_palmvase/flash/manifest.xml
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_64_a_0_0.png
+- Assets/Live/india_c20_palmvase/flash/india_c20_palmvase_visualization.xml
+Dependencies: []

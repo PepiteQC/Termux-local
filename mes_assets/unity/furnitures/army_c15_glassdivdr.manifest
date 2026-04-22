@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 751008990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1bf9da4eefb83278f6d15e88d2beb4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_glassdivdr/flash/index.xml
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_icon_a.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_visualization.xml
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_assets.xml
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_sd_2_0.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_a_2_0.png
+- Assets/Live/army_c15_glassdivdr/flash/manifest.xml
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_a_0_0.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_b_0_0.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_b_2_0.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_64_sd_0_0.png
+- Assets/Live/army_c15_glassdivdr/flash/army_c15_glassdivdr_logic.xml
+- Assets/Live/army_c15_glassdivdr/army_c15_glassdivdr.xml
+Dependencies: []

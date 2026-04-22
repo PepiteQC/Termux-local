@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 806701723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b059af261bbaeee72de2052f4da8f78b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_2.png
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_assets.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_1.png
+- Assets/Live/clothing_candyphones/flash/index.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_4.png
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_5.png
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_icon_a.png
+- Assets/Live/clothing_candyphones/clothing_candyphones.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_0.png
+- Assets/Live/clothing_candyphones/flash/manifest.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_logic.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_a_0_3.png
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_visualization.xml
+- Assets/Live/clothing_candyphones/flash/clothing_candyphones_64_sd_0_0.png
+Dependencies: []

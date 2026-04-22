@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3075789643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df9efb457fea188b5f8ff284fdc5c75a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_gogglehat/flash/clothing_googlehat_64_a_0_0.png
+- Assets/Live/clothing_gogglehat/flash/clothing_gogglehat_logic.xml
+- Assets/Live/clothing_gogglehat/flash/index.xml
+- Assets/Live/clothing_gogglehat/clothing_gogglehat.xml
+- Assets/Live/clothing_gogglehat/flash/clothing_gogglehat_visualization.xml
+- Assets/Live/clothing_gogglehat/flash/clothing_gogglehat_icon_a.png
+- Assets/Live/clothing_gogglehat/flash/clothing_googlehat_icon_a.png
+- Assets/Live/clothing_gogglehat/flash/clothing_gogglehat_assets.xml
+- Assets/Live/clothing_gogglehat/flash/manifest.xml
+- Assets/Live/clothing_gogglehat/flash/clothing_gogglehat_64_a_0_0.png
+Dependencies: []

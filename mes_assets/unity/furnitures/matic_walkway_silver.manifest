@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2873561742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6582433d7723414a8bfcc746860523f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_64_b_0_0.png
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_logic.xml
+- Assets/Live/matic_walkway_silver/matic_walkway_silver.xml
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_64_a_0_0.png
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_visualization.xml
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_assets.xml
+- Assets/Live/matic_walkway_silver/flash/manifest.xml
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_64_sd_0_0.png
+- Assets/Live/matic_walkway_silver/flash/index.xml
+- Assets/Live/matic_walkway_silver/flash/matic_walkway_silver_icon_a.png
+Dependencies: []

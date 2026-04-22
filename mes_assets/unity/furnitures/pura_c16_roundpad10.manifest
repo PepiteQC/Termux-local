@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2038972136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94af84a04f686a1dad497b465bc81391
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_64_a_6_0.png
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_icon_a.png
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_64_a_2_0.png
+- Assets/Live/pura_c16_roundpad10/pura_c16_roundpad10.xml
+- Assets/Live/pura_c16_roundpad10/flash/index.xml
+- Assets/Live/pura_c16_roundpad10/flash/manifest.xml
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_64_a_0_0.png
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_logic.xml
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_64_a_4_0.png
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_visualization.xml
+- Assets/Live/pura_c16_roundpad10/flash/pura_c16_roundpad10_assets.xml
+Dependencies: []

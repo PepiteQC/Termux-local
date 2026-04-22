@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2009194138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1ecc64eb3f08f3cbad1c9cfcfed0549
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_stuff_02/flash/manifest.xml
+- Assets/Live/school_stuff_02/flash/index.xml
+- Assets/Live/school_stuff_02/flash/school_stuff_02_logic.xml
+- Assets/Live/school_stuff_02/flash/school_stuff_02_icon_a.png
+- Assets/Live/school_stuff_02/flash/school_stuff_02_visualization.xml
+- Assets/Live/school_stuff_02/school_stuff_02.xml
+- Assets/Live/school_stuff_02/flash/school_stuff_02_64_a_0_0.png
+- Assets/Live/school_stuff_02/flash/school_stuff_02_assets.xml
+Dependencies: []

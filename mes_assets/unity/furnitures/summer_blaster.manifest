@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 602631790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfab8e5db1f3de302fdfc46f1eec4842
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/summer_blaster/flash/summer_blaster_icon_a.png
+- Assets/Live/summer_blaster/flash/summer_blaster_64_a_2_0.png
+- Assets/Live/summer_blaster/flash/summer_blaster_64_b_2_3.png
+- Assets/Live/summer_blaster/flash/summer_blaster_assets.xml
+- Assets/Live/summer_blaster/flash/summer_blaster_64_b_2_1.png
+- Assets/Live/summer_blaster/flash/manifest.xml
+- Assets/Live/summer_blaster/flash/summer_blaster_logic.xml
+- Assets/Live/summer_blaster/flash/summer_blaster_visualization.xml
+- Assets/Live/summer_blaster/summer_blaster.xml
+- Assets/Live/summer_blaster/flash/summer_blaster_64_b_2_0.png
+- Assets/Live/summer_blaster/flash/index.xml
+- Assets/Live/summer_blaster/flash/summer_blaster_64_b_2_2.png
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3779058693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04acd3879b8799af89adedfdf914488a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_a_4_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_visualization.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_d_0_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_icon_a.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_b_0_0.png
+- Assets/Live/mystics_gbench/mystics_gbench.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_d_4_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_c_0_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_logic.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_c_4_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_sd_4_0.png
+- Assets/Live/mystics_gbench/flash/manifest.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_assets.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_a_0_0.png
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_sd_0_0.png
+- Assets/Live/mystics_gbench/flash/index.xml
+- Assets/Live/mystics_gbench/flash/mystics_gbench_64_b_4_0.png
+Dependencies: []

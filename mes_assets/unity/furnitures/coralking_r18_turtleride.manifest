@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4027452574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9711505ab2b91374257404a4fd2f3a5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_5.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_6.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_3.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_0.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_4.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_2.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_assets.xml
+- Assets/Live/coralking_r18_turtleride/flash/manifest.xml
+- Assets/Live/coralking_r18_turtleride/flash/index.xml
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_visualization.xml
+- Assets/Live/coralking_r18_turtleride/coralking_r18_turtleride.xml
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_logic.xml
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_64_a_4_1.png
+- Assets/Live/coralking_r18_turtleride/flash/coralking_r18_turtleride_icon_a.png
+Dependencies: []

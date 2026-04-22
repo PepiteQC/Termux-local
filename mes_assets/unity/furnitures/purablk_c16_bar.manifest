@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2489937299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e488f2e722a7a17aaf3fc38cf05aadc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/purablk_c16_bar/flash/manifest.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_64_a_2_0.png
+- Assets/Live/purablk_c16_bar/purablk_c16_bar.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_icon_a.png
+- Assets/Live/purablk_c16_bar/flash/index.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_logic.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_visualization.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_assets.xml
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_64_sd_2_0.png
+- Assets/Live/purablk_c16_bar/flash/purablk_c16_bar_64_a_2_1.png
+Dependencies: []

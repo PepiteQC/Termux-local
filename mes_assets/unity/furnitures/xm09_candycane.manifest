@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 971469526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 328e448ccf72ec80772131c1df5204f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_assets.xml
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_64_a_2_0.png
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_64_a_2_1.png
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_64_a_2_2.png
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_64_a_2_3.png
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_icon_a.png
+- Assets/Live/xm09_candyCane/flash/manifest.xml
+- Assets/Live/xm09_candyCane/xm09_candyCane.xml
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_logic.xml
+- Assets/Live/xm09_candyCane/flash/index.xml
+- Assets/Live/xm09_candyCane/flash/xm09_candyCane_visualization.xml
+Dependencies: []

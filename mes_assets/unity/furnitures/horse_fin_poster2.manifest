@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 855632607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6caa18633314fb0a2d78c7cdd58a43a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_14.png
+- Assets/Live/horse_fin_poster2/horse_fin_poster2.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_assets.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_c_4_0.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_sd_4_0.png
+- Assets/Live/horse_fin_poster2/flash/index.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_14.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_11.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_13.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_b_4_0.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_7.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_12.png
+- Assets/Live/horse_fin_poster2/flash/manifest.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_10.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_logic.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_1.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_10.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_8.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_13.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_5.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_8.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_7.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_12.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_2.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_11.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_9.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_0.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_icon_a.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_4.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_6.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_9.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_visualization.xml
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_5.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_4_3.png
+- Assets/Live/horse_fin_poster2/flash/horse_fin_poster2_64_a_2_6.png
+Dependencies: []

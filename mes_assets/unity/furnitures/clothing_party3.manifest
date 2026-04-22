@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 664545556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03bf5beb4c51a0330db950bc1fa474f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_party3/flash/clothing_party3_64_a_2_1.png
+- Assets/Live/clothing_party3/flash/clothing_party3_64_sd_2_0.png
+- Assets/Live/clothing_party3/clothing_party3.xml
+- Assets/Live/clothing_party3/flash/index.xml
+- Assets/Live/clothing_party3/flash/clothing_party3_icon_a.png
+- Assets/Live/clothing_party3/flash/manifest.xml
+- Assets/Live/clothing_party3/flash/clothing_party3_logic.xml
+- Assets/Live/clothing_party3/flash/clothing_party3_assets.xml
+- Assets/Live/clothing_party3/flash/clothing_party3_64_a_2_0.png
+- Assets/Live/clothing_party3/flash/clothing_party3_visualization.xml
+Dependencies: []

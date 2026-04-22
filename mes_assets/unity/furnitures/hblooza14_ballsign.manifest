@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 714121232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17154cf6ef103e68dcdf24671b063ad6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_b_4_2.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_logic.xml
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_a_4_0.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_a_4_1.png
+- Assets/Live/hblooza14_ballsign/hblooza14_ballsign.xml
+- Assets/Live/hblooza14_ballsign/flash/index.xml
+- Assets/Live/hblooza14_ballsign/flash/manifest.xml
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_sd_4_0.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_b_4_1.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_b_4_0.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_assets.xml
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_64_b_4_3.png
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_visualization.xml
+- Assets/Live/hblooza14_ballsign/flash/hblooza14_ballsign_icon_a.png
+Dependencies: []

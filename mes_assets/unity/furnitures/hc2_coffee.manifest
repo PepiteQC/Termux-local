@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4233243835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2728ec7a830f9f9eb3918d8621d0ad6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc2_coffee/flash/hc2_coffee_assets.xml
+- Assets/Live/hc2_coffee/flash/hc2_coffee_visualization.xml
+- Assets/Live/hc2_coffee/flash/hc2_coffee_icon_a.png
+- Assets/Live/hc2_coffee/flash/manifest.xml
+- Assets/Live/hc2_coffee/flash/hc2_coffee_64_a_2_0.png
+- Assets/Live/hc2_coffee/hc2_coffee.xml
+- Assets/Live/hc2_coffee/flash/index.xml
+- Assets/Live/hc2_coffee/flash/hc2_coffee_logic.xml
+Dependencies: []

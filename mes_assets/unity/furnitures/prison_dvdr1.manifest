@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3866576382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9606687c903bc39ebf641db3d7cc01a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prison_dvdr1/flash/prison_dvdr1_logic.xml
+- Assets/Live/prison_dvdr1/flash/prison_dvdr1_64_a_0_0.png
+- Assets/Live/prison_dvdr1/flash/manifest.xml
+- Assets/Live/prison_dvdr1/flash/prison_dvdr1_icon_a.png
+- Assets/Live/prison_dvdr1/flash/prison_dvdr1_assets.xml
+- Assets/Live/prison_dvdr1/flash/prison_dvdr1_visualization.xml
+- Assets/Live/prison_dvdr1/prison_dvdr1.xml
+- Assets/Live/prison_dvdr1/flash/index.xml
+Dependencies: []

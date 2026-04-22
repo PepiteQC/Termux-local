@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2500118080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6a5c38fac7606a73d035b1afd355771
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_8.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_assets.xml
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_logic.xml
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_icon_a.png
+- Assets/Live/pet_breeding_dog/flash/index.xml
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_7.png
+- Assets/Live/pet_breeding_dog/pet_breeding_dog.xml
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_2.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_3.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_11.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_0.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_visualization.xml
+- Assets/Live/pet_breeding_dog/flash/manifest.xml
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_4.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_1.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_10.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_9.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_5.png
+- Assets/Live/pet_breeding_dog/flash/pet_breeding_dog_64_a_2_6.png
+Dependencies: []

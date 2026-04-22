@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2391442849
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f47c358243fab5e3dcc10ce60678ee8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_64_a_0_0.png
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_visualization.xml
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_32_sd.png
+- Assets/Live/boutique_hcsign/boutique_hcsign.xml
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_64_sd_0_0.png
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_logic.xml
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_icon_a.png
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_64_sd.png
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_assets.xml
+- Assets/Live/boutique_hcsign/flash/index.xml
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_64_a_2_0.png
+- Assets/Live/boutique_hcsign/flash/manifest.xml
+- Assets/Live/boutique_hcsign/flash/boutique_hcsign_64_sd_2_0.png
+Dependencies: []

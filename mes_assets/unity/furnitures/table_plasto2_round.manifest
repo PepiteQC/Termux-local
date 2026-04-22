@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1404688160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9f81d6214ef77237990577c126942f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_assets.xml
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_visualization.xml
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_logic.xml
+- Assets/Live/table_plasto2_round/flash/manifest.xml
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_icon_a.png
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_64_a_0_0.png
+- Assets/Live/table_plasto2_round/flash/index.xml
+- Assets/Live/table_plasto2_round/table_plasto2_round.xml
+- Assets/Live/table_plasto2_round/flash/table_plasto2_round_64_sd_0_.png
+Dependencies: []

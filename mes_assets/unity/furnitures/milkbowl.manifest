@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1766141374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6296aa58d5eb28f3874ddbf307b93374
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/milkbowl/flash/milkbowl_visualization.xml
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_0.png
+- Assets/Live/milkbowl/flash/index.xml
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_4.png
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_3.png
+- Assets/Live/milkbowl/flash/milkbowl_64_sd_2_0.png
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_2.png
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_5.png
+- Assets/Live/milkbowl/milkbowl.xml
+- Assets/Live/milkbowl/flash/manifest.xml
+- Assets/Live/milkbowl/flash/milkbowl_logic.xml
+- Assets/Live/milkbowl/flash/milkbowl_64_a_2_1.png
+- Assets/Live/milkbowl/flash/milkbowl_assets.xml
+- Assets/Live/milkbowl/flash/milkbowl_icon_a.png
+Dependencies: []

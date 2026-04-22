@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2663687017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 120416a2b492f935123c1bb4e032eb6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_nails/flash/nest_nails_icon_a.png
+- Assets/Live/nest_nails/nest_nails.xml
+- Assets/Live/nest_nails/flash/nest_nails_64_a_2_1.png
+- Assets/Live/nest_nails/flash/nest_nails_logic.xml
+- Assets/Live/nest_nails/flash/manifest.xml
+- Assets/Live/nest_nails/flash/index.xml
+- Assets/Live/nest_nails/flash/nest_nails_visualization.xml
+- Assets/Live/nest_nails/flash/nest_nails_64_a_2_0.png
+- Assets/Live/nest_nails/flash/nest_nails_assets.xml
+Dependencies: []

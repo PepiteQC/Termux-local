@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1798159459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aea92c11a504e8c2e4157df1390271b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_logic.xml
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_icon_a.png
+- Assets/Live/plushie_r21_kingbear/plushie_r21_kingbear.xml
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_visualization.xml
+- Assets/Live/plushie_r21_kingbear/flash/manifest.xml
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_64_a_0_1.png
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_64_sd_0_0.png
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_64_sd_0_1.png
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_assets.xml
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_64_a_0_2.png
+- Assets/Live/plushie_r21_kingbear/flash/index.xml
+- Assets/Live/plushie_r21_kingbear/flash/plushie_r21_kingbear_64_a_0_0.png
+Dependencies: []

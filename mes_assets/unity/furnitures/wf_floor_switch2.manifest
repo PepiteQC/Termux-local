@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2625523785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0c76f0f5038d16f8b0e35e123552144
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_logic.xml
+- Assets/Live/wf_floor_switch2/flash/index.xml
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_64_a_2_2.png
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_64_sd_2_0.png
+- Assets/Live/wf_floor_switch2/wf_floor_switch2.xml
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_64_a_2_3.png
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_visualization.xml
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_assets.xml
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_icon_a.png
+- Assets/Live/wf_floor_switch2/flash/manifest.xml
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_64_a_2_1.png
+- Assets/Live/wf_floor_switch2/flash/wf_floor_switch2_64_a_2_0.png
+Dependencies: []

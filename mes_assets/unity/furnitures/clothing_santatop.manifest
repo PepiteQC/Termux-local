@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2689997159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79c6c1ed47ba8cdb220419c2a82f97b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_santatop/flash/index.xml
+- Assets/Live/clothing_santatop/flash/clothing_santatop_64_a_2_1.png
+- Assets/Live/clothing_santatop/flash/clothing_santatop_icon_a.png
+- Assets/Live/clothing_santatop/clothing_santatop.xml
+- Assets/Live/clothing_santatop/flash/manifest.xml
+- Assets/Live/clothing_santatop/flash/clothing_santatop_logic.xml
+- Assets/Live/clothing_santatop/flash/clothing_santatop_assets.xml
+- Assets/Live/clothing_santatop/flash/clothing_santatop_visualization.xml
+- Assets/Live/clothing_santatop/flash/clothing_santatop_64_a_2_0.png
+Dependencies: []

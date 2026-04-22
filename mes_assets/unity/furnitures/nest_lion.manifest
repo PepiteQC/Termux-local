@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2127974227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfc1372ffde43c2ba3e7e68c1990f820
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_lion/flash/nest_lion_logic.xml
+- Assets/Live/nest_lion/flash/nest_lion_64_a_4_0.png
+- Assets/Live/nest_lion/nest_lion.xml
+- Assets/Live/nest_lion/flash/manifest.xml
+- Assets/Live/nest_lion/flash/nest_lion_visualization.xml
+- Assets/Live/nest_lion/flash/index.xml
+- Assets/Live/nest_lion/flash/nest_lion_64_a_0_0.png
+- Assets/Live/nest_lion/flash/nest_lion_assets.xml
+- Assets/Live/nest_lion/flash/nest_lion_icon_a.png
+Dependencies: []

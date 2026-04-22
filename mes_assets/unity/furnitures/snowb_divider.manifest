@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 879156609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e25068e97e1c31b3ae02caf361c7c04d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snowb_divider/flash/snowb_divider_visualization.xml
+- Assets/Live/snowb_divider/flash/snowb_divider_64_a_4_0.png
+- Assets/Live/snowb_divider/flash/snowb_divider_64_b_4_0.png
+- Assets/Live/snowb_divider/flash/snowb_divider_logic.xml
+- Assets/Live/snowb_divider/flash/index.xml
+- Assets/Live/snowb_divider/flash/snowb_divider_assets.xml
+- Assets/Live/snowb_divider/flash/snowb_divider_64_c_4_1.png
+- Assets/Live/snowb_divider/flash/snowb_divider_64_c_4_0.png
+- Assets/Live/snowb_divider/flash/snowb_divider_64_sd_4_0.png
+- Assets/Live/snowb_divider/flash/snowb_divider_icon_a.png
+- Assets/Live/snowb_divider/snowb_divider.xml
+- Assets/Live/snowb_divider/flash/manifest.xml
+- Assets/Live/snowb_divider/flash/snowb_divider_64_a_4_1.png
+- Assets/Live/snowb_divider/flash/snowb_divider_64_b_4_1.png
+Dependencies: []

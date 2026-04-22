@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3392637220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30f1d95c0979f9d63bc6eea92b946363
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/carpet_soft_tut/flash/manifest.xml
+- Assets/Live/carpet_soft_tut/flash/carpet_soft_tut_assets.xml
+- Assets/Live/carpet_soft_tut/carpet_soft_tut.xml
+- Assets/Live/carpet_soft_tut/flash/index.xml
+- Assets/Live/carpet_soft_tut/flash/carpet_soft_tut_64_a_0_0.png
+- Assets/Live/carpet_soft_tut/flash/carpet_soft_tut_icon_a.png
+- Assets/Live/carpet_soft_tut/flash/carpet_soft_tut_visualization.xml
+- Assets/Live/carpet_soft_tut/flash/carpet_soft_tut_logic.xml
+Dependencies: []

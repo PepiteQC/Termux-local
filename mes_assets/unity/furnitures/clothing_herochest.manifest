@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2099765020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ea15584c66e368b47f299dc54a07746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_herochest/flash/manifest.xml
+- Assets/Live/clothing_herochest/flash/clothing_herochest_assets.xml
+- Assets/Live/clothing_herochest/flash/clothing_herochest_icon_a.png
+- Assets/Live/clothing_herochest/flash/index.xml
+- Assets/Live/clothing_herochest/flash/clothing_herochest_visualization.xml
+- Assets/Live/clothing_herochest/flash/clothing_herochest_64_a_0_0.png
+- Assets/Live/clothing_herochest/clothing_herochest.xml
+- Assets/Live/clothing_herochest/flash/clothing_herochest_logic.xml
+Dependencies: []

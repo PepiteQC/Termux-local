@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 588484114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c92561b6d40427cc4510cb5c1d4e1231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hotel_c18_tree/flash/index.xml
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_icon_a.png
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_64_sd_0_0.png
+- Assets/Live/hotel_c18_tree/flash/manifest.xml
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_visualization.xml
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_logic.xml
+- Assets/Live/hotel_c18_tree/hotel_c18_tree.xml
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_64_a_0_0.png
+- Assets/Live/hotel_c18_tree/flash/hotel_c18_tree_assets.xml
+Dependencies: []

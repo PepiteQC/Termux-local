@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 769045251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d19245faacd0340590060c6df7e86cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prison_crnr/flash/prison_crnr_icon_a.png
+- Assets/Live/prison_crnr/prison_crnr.xml
+- Assets/Live/prison_crnr/flash/manifest.xml
+- Assets/Live/prison_crnr/flash/prison_crnr_64_a_4_0.png
+- Assets/Live/prison_crnr/flash/prison_crnr_64_a_2_0.png
+- Assets/Live/prison_crnr/flash/index.xml
+- Assets/Live/prison_crnr/flash/prison_crnr_assets.xml
+- Assets/Live/prison_crnr/flash/prison_crnr_64_a_0_0.png
+- Assets/Live/prison_crnr/flash/prison_crnr_logic.xml
+- Assets/Live/prison_crnr/flash/prison_crnr_visualization.xml
+- Assets/Live/prison_crnr/flash/prison_crnr_64_a_6_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2770001293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84660d9cc920e03a45bfb4bc250238d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_pstr6/flash/china_pstr6_assets.xml
+- Assets/Live/china_pstr6/flash/china_pstr6_64_a_4_0.png
+- Assets/Live/china_pstr6/china_pstr6.xml
+- Assets/Live/china_pstr6/flash/china_pstr6_64_a_2_0.png
+- Assets/Live/china_pstr6/flash/china_pstr6_visualization.xml
+- Assets/Live/china_pstr6/flash/china_pstr6_logic.xml
+- Assets/Live/china_pstr6/flash/index.xml
+- Assets/Live/china_pstr6/flash/china_pstr6_icon_a.png
+- Assets/Live/china_pstr6/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3824495714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fb9084fe705da28a35d9d931f08120e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_64_sd_0_0.png
+- Assets/Live/pixel_carpet_blue/flash/manifest.xml
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_64_a_0_0.png
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_icon_a.png
+- Assets/Live/pixel_carpet_blue/flash/index.xml
+- Assets/Live/pixel_carpet_blue/pixel_carpet_blue.xml
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_assets.xml
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_visualization.xml
+- Assets/Live/pixel_carpet_blue/flash/pixel_carpet_blue_logic.xml
+Dependencies: []

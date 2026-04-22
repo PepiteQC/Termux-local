@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2511073717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 090bd65fe77b95642a48c82a000e58de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_hopper/flash/horse_hopper_64_b_2_1.png
+- Assets/Live/horse_hopper/flash/horse_hopper_assets.xml
+- Assets/Live/horse_hopper/flash/horse_hopper_64_c_2_1.png
+- Assets/Live/horse_hopper/flash/index.xml
+- Assets/Live/horse_hopper/flash/horse_hopper_icon_a.png
+- Assets/Live/horse_hopper/flash/horse_hopper_logic.xml
+- Assets/Live/horse_hopper/horse_hopper.xml
+- Assets/Live/horse_hopper/flash/horse_hopper_64_d_2_2.png
+- Assets/Live/horse_hopper/flash/horse_hopper_64_b_2_0.png
+- Assets/Live/horse_hopper/flash/horse_hopper_64_a_2_0.png
+- Assets/Live/horse_hopper/flash/manifest.xml
+- Assets/Live/horse_hopper/flash/horse_hopper_64_c_2_0.png
+- Assets/Live/horse_hopper/flash/horse_hopper_64_d_2_1.png
+- Assets/Live/horse_hopper/flash/horse_hopper_visualization.xml
+Dependencies: []

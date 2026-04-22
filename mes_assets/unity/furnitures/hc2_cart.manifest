@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1108929647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8837ff61edfb3d9d7320b87b3e5c304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc2_cart/hc2_cart.xml
+- Assets/Live/hc2_cart/flash/hc2_cart_64_sd_2_0.png
+- Assets/Live/hc2_cart/flash/hc2_cart_assets.xml
+- Assets/Live/hc2_cart/flash/hc2_cart_visualization.xml
+- Assets/Live/hc2_cart/flash/hc2_cart_icon_a.png
+- Assets/Live/hc2_cart/flash/hc2_cart_logic.xml
+- Assets/Live/hc2_cart/flash/index.xml
+- Assets/Live/hc2_cart/flash/hc2_cart_64_a_2_0.png
+- Assets/Live/hc2_cart/flash/manifest.xml
+Dependencies: []

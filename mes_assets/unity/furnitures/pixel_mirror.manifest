@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2585259027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c84af2cb9d6ade0b04bd08bd4215c9ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_mirror/flash/manifest.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_64_a_2_0.png
+- Assets/Live/pixel_mirror/pixel_mirror.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_logic.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_assets.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_icon_a.png
+- Assets/Live/pixel_mirror/flash/index.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_visualization.xml
+- Assets/Live/pixel_mirror/flash/pixel_mirror_64_sd_2_0.png
+Dependencies: []

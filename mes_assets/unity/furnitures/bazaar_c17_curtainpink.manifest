@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 4082337943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f5c0dae16726544f7bd4e1dd8866902
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_2_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_6_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_sd_0_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_visualization.xml
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_0_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_2_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/manifest.xml
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_sd_6_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_2_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_6_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_6_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_4_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_4_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_4_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_sd_2_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_sd_4_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_0_1.png
+- Assets/Live/bazaar_c17_curtainpink/bazaar_c17_curtainpink.xml
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_b_0_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_0_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_logic.xml
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_6_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_2_1.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_assets.xml
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_icon_a.png
+- Assets/Live/bazaar_c17_curtainpink/flash/bazaar_c17_curtainpink_64_a_4_0.png
+- Assets/Live/bazaar_c17_curtainpink/flash/index.xml
+Dependencies: []

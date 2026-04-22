@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2392650501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9098e3094ecd066cb0eb2952ea115854
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_d_4_2.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_d_4_1.png
+- Assets/Live/xmas08_telep/flash/index.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_logic.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_b_4_1.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_d_4_3.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_icon_a.png
+- Assets/Live/xmas08_telep/flash/manifest.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_visualization.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_a_4_0.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_c_4_0.png
+- Assets/Live/xmas08_telep/xmas08_telep.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_assets.xml
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_d_4_4.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_d_4_0.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_c_4_1.png
+- Assets/Live/xmas08_telep/flash/xmas08_telep_64_b_4_0.png
+Dependencies: []

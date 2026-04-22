@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 4208531111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c4096a910849c8e49cc80cf6523787d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_22.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_24.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_13.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_j_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_12.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_5.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_17.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_6.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_19.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_sd_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_j_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_7.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_4.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_i_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_4.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_16.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_21.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_5.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_j_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_15.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_visualization.xml
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_5.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_4.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_i_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_f_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_27.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_13.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_6.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_3.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_11.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_6.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_10.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_26.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_assets.xml
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_5.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_25.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_10.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_i_4_2.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_9.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_logic.xml
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_i_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_c_4_7.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_j_4_1.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_f_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_8.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_20.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_23.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_28.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_8.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_b_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_6.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_12.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_4.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_a_4_0.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_icon_a.png
+- Assets/Live/hblooza14_dance/hblooza14_dance.xml
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_18.png
+- Assets/Live/hblooza14_dance/flash/index.xml
+- Assets/Live/hblooza14_dance/flash/manifest.xml
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_11.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_7.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_29.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_4.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_h_4_5.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_d_4_6.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_e_4_9.png
+- Assets/Live/hblooza14_dance/flash/hblooza14_dance_64_g_4_14.png
+Dependencies: []

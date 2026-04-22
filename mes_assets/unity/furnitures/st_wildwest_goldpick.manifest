@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4115608245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da507e61d9d75f6e691edc1b4b6bfb5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/st_wildwest_goldpick/st_wildwest_goldpick.xml
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_icon_a.png
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_64_a_4_1.png
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_assets.xml
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_64_a_4_0.png
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_64_a_4_3.png
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_64_a_4_2.png
+- Assets/Live/st_wildwest_goldpick/flash/manifest.xml
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_64_sd_4_0.png
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_visualization.xml
+- Assets/Live/st_wildwest_goldpick/flash/index.xml
+- Assets/Live/st_wildwest_goldpick/flash/st_wildwest_goldpick_logic.xml
+Dependencies: []

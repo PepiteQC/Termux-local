@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 156951841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77a5164053e35e77b1d37caed3535203
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_32_a_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/index.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_visualization.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/manifest.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_32_b_0_1.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_32_b_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_64_sd_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_visualization.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_64_b_0_1.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_64_a_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/manifest.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_logic.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/index.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_32_sd_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_icon_a.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_logic.xml
+- Assets/Live/ads_cheetos_hotdog/ads_cheetos_hotdog.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_64_b_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_assets.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_assets.xml
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog/ads_cheetos_hotdog_64_sd_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_64_a_0_0.png
+- Assets/Live/ads_cheetos_hotdog/flash/ads_cheetos_hotdog_camp/ads_cheetos_hotdog_camp_icon_a.png
+Dependencies: []

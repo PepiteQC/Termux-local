@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1390074070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71fae0c1fb57ec96d709a264c9744778
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_h20th/flash/clothing_h20th_icon_a.png
+- Assets/Live/clothing_h20th/flash/clothing_h20th_logic.xml
+- Assets/Live/clothing_h20th/flash/clothing_h20th_64_a_0_0.png
+- Assets/Live/clothing_h20th/flash/clothing_h20th_visualization.xml
+- Assets/Live/clothing_h20th/flash/manifest.xml
+- Assets/Live/clothing_h20th/flash/index.xml
+- Assets/Live/clothing_h20th/clothing_h20th.xml
+- Assets/Live/clothing_h20th/flash/clothing_h20th_assets.xml
+Dependencies: []

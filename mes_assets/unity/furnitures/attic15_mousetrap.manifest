@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 600768593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc87262857fa4a507e79747d413142f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_64_a_4_1.png
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_icon_a.png
+- Assets/Live/attic15_mousetrap/flash/manifest.xml
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_64_a_4_0.png
+- Assets/Live/attic15_mousetrap/flash/index.xml
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_assets.xml
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_visualization.xml
+- Assets/Live/attic15_mousetrap/flash/attic15_mousetrap_logic.xml
+- Assets/Live/attic15_mousetrap/attic15_mousetrap.xml
+Dependencies: []

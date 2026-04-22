@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2723375757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ab5302c0a891a8eafd098dbe0c78276
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/santorini_c17_pottedshrub/flash/index.xml
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_logic.xml
+- Assets/Live/santorini_c17_pottedshrub/flash/manifest.xml
+- Assets/Live/santorini_c17_pottedshrub/santorini_c17_pottedshrub.xml
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_visualization.xml
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_64_sd_0_0.png
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_icon_a.png
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_assets.xml
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_64_a_0_1.png
+- Assets/Live/santorini_c17_pottedshrub/flash/santorini_c17_pottedshrub_64_a_0_0.png
+Dependencies: []

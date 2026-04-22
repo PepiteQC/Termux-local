@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2856494373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64830acb5f328862b2d83d0d89a679c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_cof15_door/flash/index.xml
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_b_6_0.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_visualization.xml
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_a_6_0.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_b_2_1.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_assets.xml
+- Assets/Live/room_cof15_door/room_cof15_door.xml
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_a_2_0.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_a_2_1.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_b_2_0.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_b_6_1.png
+- Assets/Live/room_cof15_door/flash/room_cof15_door_logic.xml
+- Assets/Live/room_cof15_door/flash/room_cof15_door_64_a_6_1.png
+- Assets/Live/room_cof15_door/flash/manifest.xml
+- Assets/Live/room_cof15_door/flash/room_cof15_door_icon_a.png
+Dependencies: []

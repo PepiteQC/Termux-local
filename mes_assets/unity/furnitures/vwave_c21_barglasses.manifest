@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1282631587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 073a6099145e3a9836207d62b682a41c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_barglasses/vwave_c21_barglasses.xml
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_icon_a.png
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_64_b_0_0.png
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_logic.xml
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_64_b_0_1.png
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_64_sd_0_0.png
+- Assets/Live/vwave_c21_barglasses/flash/index.xml
+- Assets/Live/vwave_c21_barglasses/flash/manifest.xml
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_assets.xml
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_visualization.xml
+- Assets/Live/vwave_c21_barglasses/flash/vwave_c21_barglasses_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3588331610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be38837a54e8bd5c7a5466c0577ebcfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val11_present/flash/val11_present_assets.xml
+- Assets/Live/val11_present/flash/val11_present_logic.xml
+- Assets/Live/val11_present/val11_present.xml
+- Assets/Live/val11_present/flash/index.xml
+- Assets/Live/val11_present/flash/val11_present_icon_a.png
+- Assets/Live/val11_present/flash/manifest.xml
+- Assets/Live/val11_present/flash/val11_present_visualization.xml
+- Assets/Live/val11_present/flash/val11_present_64_a_0_0.png
+Dependencies: []

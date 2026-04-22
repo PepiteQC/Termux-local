@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3617148907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdf6de08fbe2a92bfdd04a8f3253cc87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wl15_infolink/flash/index.xml
+- Assets/Live/room_wl15_infolink/room_wl15_infolink.xml
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_icon_a.png
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_visualization.xml
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_64_a_2_0.png
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_assets.xml
+- Assets/Live/room_wl15_infolink/flash/manifest.xml
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_logic.xml
+- Assets/Live/room_wl15_infolink/flash/room_wl15_infolink_64_a_0_0.png
+Dependencies: []

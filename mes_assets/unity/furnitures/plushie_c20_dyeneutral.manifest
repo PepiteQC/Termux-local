@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3747855556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbd941f3fe3d59bb5e2ba748d66772f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_dyeneutral/plushie_c20_dyeneutral.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/index.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_logic.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_64_sd_0_0.png
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_assets.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_64_a_0_0.png
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_visualization.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_icon_a.png
+- Assets/Live/plushie_c20_dyeneutral/flash/manifest.xml
+- Assets/Live/plushie_c20_dyeneutral/flash/plushie_c20_dyeneutral_64_a_0_1.png
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3665547378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15adc04a6533659e1c4bcbd782b38b59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_a_0_0.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_b_0_2.png
+- Assets/Live/xmas11_balloon/flash/xmas_balloon_icon_a.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_icon_a.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_logic.xml
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_d_0_1.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_visualization.xml
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_c_0_2.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_d_0_0.png
+- Assets/Live/xmas11_balloon/xmas11_balloon.xml
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_d_0_3.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_c_0_0.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_assets.xml
+- Assets/Live/xmas11_balloon/flash/manifest.xml
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_b_0_0.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_b_0_1.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_c_0_1.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_d_0_2.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_c_0_3.png
+- Assets/Live/xmas11_balloon/flash/xmas11_balloon_64_b_0_3.png
+- Assets/Live/xmas11_balloon/flash/index.xml
+Dependencies: []

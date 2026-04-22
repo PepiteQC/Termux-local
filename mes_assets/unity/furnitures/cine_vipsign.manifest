@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3300336333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1bba1a6c09882132aa96ab4c39f9a38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_vipsign/flash/cine_vipsign_64_a_4_0.png
+- Assets/Live/cine_vipsign/flash/cine_vipsign_assets.xml
+- Assets/Live/cine_vipsign/flash/index.xml
+- Assets/Live/cine_vipsign/flash/cine_vipsign_64_a_0_0.png
+- Assets/Live/cine_vipsign/flash/manifest.xml
+- Assets/Live/cine_vipsign/cine_vipsign.xml
+- Assets/Live/cine_vipsign/flash/cine_vipsign_64_a_2_0.png
+- Assets/Live/cine_vipsign/flash/cine_vipsign_64_a_6_0.png
+- Assets/Live/cine_vipsign/flash/cine_vipsign_visualization.xml
+- Assets/Live/cine_vipsign/flash/cine_vipsign_icon_a.png
+- Assets/Live/cine_vipsign/flash/cine_vipsign_logic.xml
+Dependencies: []

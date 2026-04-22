@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 220114839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0a5f5f62e362501aff6c65ae7241aa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_2.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_sd_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_4.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_5.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_3.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_sd_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_a_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_a_2_1.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_b_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_a_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_icon_a.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_icon_a.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_c_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_6.png
+- Assets/Live/calippo/flash/calippo/calippo_logic.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_logic.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_3.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_1.png
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_5.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_e_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_c_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_5.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_f_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_6.png
+- Assets/Live/calippo/flash/calippo/calippo_64_a_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_assets.xml
+- Assets/Live/calippo/flash/calippo/calippo_64_e_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_visualization.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_visualization.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_d_2_1.png
+- Assets/Live/calippo/flash/calippo/calippo_64_f_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_1.png
+- Assets/Live/calippo/flash/calippo/index.xml
+- Assets/Live/calippo/flash/calippo/calippo_64_a_2_1.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_a_2_1.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_4.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_2.png
+- Assets/Live/calippo/flash/calippo/calippo_64_c_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_d_2_6.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_f_2_0.png
+- Assets/Live/calippo/flash/calippo/manifest.xml
+- Assets/Live/calippo/calippo.xml
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_2.png
+- Assets/Live/calippo/flash/calippo_cmp/manifest.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_32_b_2_0.png
+- Assets/Live/calippo/flash/calippo_cmp/index.xml
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_assets.xml
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_4.png
+- Assets/Live/calippo/flash/calippo_cmp/calippo_cmp_64_e_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_64_sd_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_3.png
+- Assets/Live/calippo/flash/calippo/calippo_64_b_2_0.png
+- Assets/Live/calippo/flash/calippo/calippo_64_d_2_0.png
+Dependencies: []

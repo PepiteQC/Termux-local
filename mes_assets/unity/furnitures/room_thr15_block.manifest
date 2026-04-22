@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 322728380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7228a04a02bdc4439aa008b32a981390
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_thr15_block/flash/room_thr15_block_logic.xml
+- Assets/Live/room_thr15_block/flash/room_thr15_block_64_a_0_0.png
+- Assets/Live/room_thr15_block/room_thr15_block.xml
+- Assets/Live/room_thr15_block/flash/room_thr15_block_assets.xml
+- Assets/Live/room_thr15_block/flash/room_thr15_block_icon_a.png
+- Assets/Live/room_thr15_block/flash/index.xml
+- Assets/Live/room_thr15_block/flash/manifest.xml
+- Assets/Live/room_thr15_block/flash/room_thr15_block_visualization.xml
+Dependencies: []

@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 1857241907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 382d7ca4ddddebd3438416fb7ea07de0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_ltd17_dragon/flash/manifest.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_sd_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_8.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_6.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_8.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_9.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_assets.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_5.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_c_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_a_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_5.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_5.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_6.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_logic.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_a_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_f_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_5.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_10.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_6.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_visualization.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_8.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_7.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_7.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_i_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_a_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_h_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_e_0_0.png
+- Assets/Live/hween_ltd17_dragon/hween_ltd17_dragon.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_11.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_9.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_d_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_5.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_6.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_b_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_a_0_2.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_n_0_7.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_m_0_3.png
+- Assets/Live/hween_ltd17_dragon/flash/index.xml
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_k_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_1.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_l_0_4.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_a_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_j_0_7.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_64_g_0_0.png
+- Assets/Live/hween_ltd17_dragon/flash/hween_ltd17_dragon_icon_a.png
+Dependencies: []

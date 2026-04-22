@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 291332035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e43d07d01c7e527cb5b3456b98f0343
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lidotile/flash/lidotile_64_b_0_0.png
+- Assets/Live/lidotile/flash/lidotile_assets.xml
+- Assets/Live/lidotile/flash/lidotile_icon_a.png
+- Assets/Live/lidotile/flash/lidotile_logic.xml
+- Assets/Live/lidotile/lidotile.xml
+- Assets/Live/lidotile/flash/manifest.xml
+- Assets/Live/lidotile/flash/index.xml
+- Assets/Live/lidotile/flash/lidotile_64_a_0_0.png
+- Assets/Live/lidotile/flash/lidotile_64_c_0_0.png
+- Assets/Live/lidotile/flash/lidotile_visualization.xml
+Dependencies: []

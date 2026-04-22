@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4176218555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aad3a9a4c16e5fbc37aa25f06f651f53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_diaparty/flash/clothing_r18_diaparty_visualization.xml
+- Assets/Live/clothing_r18_diaparty/flash/clothing_r18_diaparty_logic.xml
+- Assets/Live/clothing_r18_diaparty/flash/manifest.xml
+- Assets/Live/clothing_r18_diaparty/flash/index.xml
+- Assets/Live/clothing_r18_diaparty/clothing_r18_diaparty.xml
+- Assets/Live/clothing_r18_diaparty/flash/clothing_r18_diaparty_64_a_0_0.png
+- Assets/Live/clothing_r18_diaparty/flash/clothing_r18_diaparty_assets.xml
+- Assets/Live/clothing_r18_diaparty/flash/clothing_r18_diaparty_icon_a.png
+Dependencies: []

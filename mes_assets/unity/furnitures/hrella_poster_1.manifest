@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1361616261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45c9b7030a07e0dc32cc3ce64ab8b8ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hrella_poster_1/flash/hrella_poster_1_logic.xml
+- Assets/Live/hrella_poster_1/hrella_poster_1.xml
+- Assets/Live/hrella_poster_1/flash/hrella_poster_1_icon_a.png
+- Assets/Live/hrella_poster_1/flash/hrella_poster_1_64_a_2_0.png
+- Assets/Live/hrella_poster_1/flash/manifest.xml
+- Assets/Live/hrella_poster_1/flash/hrella_poster_1_visualization.xml
+- Assets/Live/hrella_poster_1/flash/index.xml
+- Assets/Live/hrella_poster_1/flash/hrella_poster_1_assets.xml
+Dependencies: []

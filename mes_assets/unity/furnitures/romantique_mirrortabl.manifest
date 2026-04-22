@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2273969810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ecd5c0cf8af36f800e2386a6ff29974
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/romantique_mirrortabl/romantique_mirrortabl.xml
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_64_sd_2_0.png
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_assets.xml
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_logic.xml
+- Assets/Live/romantique_mirrortabl/flash/index.xml
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_icon_a.png
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_64_a_2_0.png
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_visualization.xml
+- Assets/Live/romantique_mirrortabl/flash/romantique_mirrortabl_64_b_2_0.png
+- Assets/Live/romantique_mirrortabl/flash/manifest.xml
+Dependencies: []

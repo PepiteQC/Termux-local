@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1246786368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db90db1c84e9ccc8ea3c6e41ae1979b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/thai_c21_food/flash/thai_c21_food_64_a_0_0.png
+- Assets/Live/thai_c21_food/flash/thai_c21_food_logic.xml
+- Assets/Live/thai_c21_food/flash/thai_c21_food_assets.xml
+- Assets/Live/thai_c21_food/flash/thai_c21_food_visualization.xml
+- Assets/Live/thai_c21_food/flash/thai_c21_food_64_sd_0_0.png
+- Assets/Live/thai_c21_food/flash/thai_c21_food_64_a_0_2.png
+- Assets/Live/thai_c21_food/flash/manifest.xml
+- Assets/Live/thai_c21_food/flash/thai_c21_food_64_a_0_1.png
+- Assets/Live/thai_c21_food/thai_c21_food.xml
+- Assets/Live/thai_c21_food/flash/index.xml
+- Assets/Live/thai_c21_food/flash/thai_c21_food_icon_a.png
+Dependencies: []

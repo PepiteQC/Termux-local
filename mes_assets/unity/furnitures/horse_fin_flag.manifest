@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 235712319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bf48743d37824af977a908a41f4ebcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_a_4_0.png
+- Assets/Live/horse_fin_flag/flash/manifest.xml
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_sd_4_0.png
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_b_4_2.png
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_visualization.xml
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_b_4_0.png
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_icon_a.png
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_logic.xml
+- Assets/Live/horse_fin_flag/flash/index.xml
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_b_4_3.png
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_assets.xml
+- Assets/Live/horse_fin_flag/horse_fin_flag.xml
+- Assets/Live/horse_fin_flag/flash/horse_fin_flag_64_b_4_1.png
+Dependencies: []

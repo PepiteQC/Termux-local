@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1803188471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d9021b8902d8892efe71b324c1e1eb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bolly_palm/flash/bolly_palm_64_a_0_0.png
+- Assets/Live/bolly_palm/flash/manifest.xml
+- Assets/Live/bolly_palm/flash/bolly_palm_visualization.xml
+- Assets/Live/bolly_palm/flash/bolly_palm_64_a_0_1.png
+- Assets/Live/bolly_palm/flash/bolly_palm_icon_a.png
+- Assets/Live/bolly_palm/flash/index.xml
+- Assets/Live/bolly_palm/flash/bolly_palm_assets.xml
+- Assets/Live/bolly_palm/flash/bolly_palm_64_sd_0_0.png
+- Assets/Live/bolly_palm/flash/bolly_palm_logic.xml
+- Assets/Live/bolly_palm/bolly_palm.xml
+Dependencies: []

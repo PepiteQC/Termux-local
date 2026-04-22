@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4076148343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03c971436ac026647f8b448a46b9faad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tablet_vendor/flash/tablet_vendor_64_b_0_0.png
+- Assets/Live/tablet_vendor/flash/tablet_vendor_64_a_0_0.png
+- Assets/Live/tablet_vendor/flash/tablet_vendor_64_c_0_0.png
+- Assets/Live/tablet_vendor/flash/tablet_vendor_assets.xml
+- Assets/Live/tablet_vendor/flash/tablet_vendor_64_a_0_1.png
+- Assets/Live/tablet_vendor/flash/tablet_vendor_visualization.xml
+- Assets/Live/tablet_vendor/flash/tablet_vendor_logic.xml
+- Assets/Live/tablet_vendor/flash/tablet_vendor_64_sd_0_0.png
+- Assets/Live/tablet_vendor/tablet_vendor.xml
+- Assets/Live/tablet_vendor/flash/manifest.xml
+- Assets/Live/tablet_vendor/flash/index.xml
+- Assets/Live/tablet_vendor/flash/tablet_vendor_icon_a.png
+Dependencies: []

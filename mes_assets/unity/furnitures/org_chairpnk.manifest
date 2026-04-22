@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2456519365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79c1381b8dd518e65c68bfad64558e70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/org_chairpnk/flash/org_chairpnk_64_a_6_0.png
+- Assets/Live/org_chairpnk/flash/org_chairpnk_icon_a.png
+- Assets/Live/org_chairpnk/flash/org_chairpnk_visualization.xml
+- Assets/Live/org_chairpnk/flash/org_chairpnk_64_a_4_0.png
+- Assets/Live/org_chairpnk/org_chairpnk.xml
+- Assets/Live/org_chairpnk/flash/index.xml
+- Assets/Live/org_chairpnk/flash/org_chairpnk_64_b_4_0.png
+- Assets/Live/org_chairpnk/flash/org_chairpnk_assets.xml
+- Assets/Live/org_chairpnk/flash/org_chairpnk_64_sd_0_0.png
+- Assets/Live/org_chairpnk/flash/org_chairpnk_64_b_6_0.png
+- Assets/Live/org_chairpnk/flash/manifest.xml
+- Assets/Live/org_chairpnk/flash/org_chairpnk_logic.xml
+Dependencies: []

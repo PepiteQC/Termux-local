@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4124807281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f1f6248412a3b53e0b01b173b1eba4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_btlr/xmas11_btlr.xml
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_64_b_4_1.png
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_64_a_4_0.png
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_assets.xml
+- Assets/Live/xmas11_btlr/flash/manifest.xml
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_logic.xml
+- Assets/Live/xmas11_btlr/flash/index.xml
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_icon_a.png
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_64_b_4_0.png
+- Assets/Live/xmas11_btlr/flash/xmas11_btlr_visualization.xml
+Dependencies: []

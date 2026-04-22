@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3291088711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83538ddd39c365af107a18e44ee381f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_2.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_2.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_4.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_assets.xml
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_logic.xml
+- Assets/Live/wf_trg_periodically/wf_trg_periodically.xml
+- Assets/Live/wf_trg_periodically/flash/index.xml
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_4.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_3.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_0.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_1.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_5.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_6_6.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_3.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_1.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_0.png
+- Assets/Live/wf_trg_periodically/flash/manifest.xml
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_icon_a.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_5.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_64_a_0_6.png
+- Assets/Live/wf_trg_periodically/flash/wf_trg_periodically_visualization.xml
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 360003407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8964061f27ba77fda6e366017e0c208a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_0.png
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_visualization.xml
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_2.png
+- Assets/Live/hween13_bldtrail/flash/index.xml
+- Assets/Live/hween13_bldtrail/flash/manifest.xml
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_logic.xml
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_5.png
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_assets.xml
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_1.png
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_3.png
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_icon_a.png
+- Assets/Live/hween13_bldtrail/hween13_bldtrail.xml
+- Assets/Live/hween13_bldtrail/flash/hween13_bldtrail_64_a_0_4.png
+Dependencies: []

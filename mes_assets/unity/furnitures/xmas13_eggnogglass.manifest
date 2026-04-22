@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1273716279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09db41abeef12545a7d46e5b3fe994b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_logic.xml
+- Assets/Live/xmas13_eggnogglass/flash/manifest.xml
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_64_a_0_0.png
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_64_sd_0_0.png
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_64_sd_0_1.png
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_64_a_0_1.png
+- Assets/Live/xmas13_eggnogglass/flash/index.xml
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_visualization.xml
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_icon_a.png
+- Assets/Live/xmas13_eggnogglass/flash/xmas13_eggnogglass_assets.xml
+- Assets/Live/xmas13_eggnogglass/xmas13_eggnogglass.xml
+Dependencies: []

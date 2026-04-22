@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3046661650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7310f275f5b5df9c053c601b0876fed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_icon_a.png
+- Assets/Live/rainbow_ltd19_parasol/flash/index.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_logic.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_assets.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_visualization.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_64_b_0_1.png
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_64_a_0_0.png
+- Assets/Live/rainbow_ltd19_parasol/rainbow_ltd19_parasol.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/REGPOINT.png
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_64_a_0_1.png
+- Assets/Live/rainbow_ltd19_parasol/flash/rainbow_ltd19_parasol_64_b_0_0.png
+- Assets/Live/rainbow_ltd19_parasol/flash/manifest.xml
+- Assets/Live/rainbow_ltd19_parasol/flash/bg.png
+Dependencies: []

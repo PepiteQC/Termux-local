@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3555312499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cf0b9affbd8b5050381b59eea6ddbcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/byesw_hotel/flash/byesw_hotel_logic.xml
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_1.png
+- Assets/Live/byesw_hotel/byesw_hotel.xml
+- Assets/Live/byesw_hotel/flash/index.xml
+- Assets/Live/byesw_hotel/flash/byesw_hotel_visualization.xml
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_5.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_3.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_2.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_3.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_icon_a.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_4.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_0.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_assets.xml
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_4.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_0.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_4_2.png
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_5.png
+- Assets/Live/byesw_hotel/flash/manifest.xml
+- Assets/Live/byesw_hotel/flash/byesw_hotel_64_a_2_1.png
+Dependencies: []

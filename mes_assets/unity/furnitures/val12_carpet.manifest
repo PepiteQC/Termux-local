@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2642160450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e03a1c3ae19efa01c2c9c997c02afe6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val12_carpet/val12_carpet.xml
+- Assets/Live/val12_carpet/flash/val12_carpet_assets.xml
+- Assets/Live/val12_carpet/flash/val12_carpet_64_a_0_0.png
+- Assets/Live/val12_carpet/flash/manifest.xml
+- Assets/Live/val12_carpet/flash/val12_carpet_icon_a.png
+- Assets/Live/val12_carpet/flash/val12_carpet_logic.xml
+- Assets/Live/val12_carpet/flash/val12_carpet_visualization.xml
+- Assets/Live/val12_carpet/flash/index.xml
+Dependencies: []

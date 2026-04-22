@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3270605267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d40975261ae97b7b9e1b0621072256ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c17_floweringbush/flash/manifest.xml
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_assets.xml
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_logic.xml
+- Assets/Live/easter_c17_floweringbush/flash/index.xml
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_64_sd_0_0.png
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_64_a_0_0.png
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_visualization.xml
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_seedbag_icon_a.png
+- Assets/Live/easter_c17_floweringbush/easter_c17_floweringbush.xml
+- Assets/Live/easter_c17_floweringbush/flash/easter_c17_floweringbush_icon_a.png
+Dependencies: []

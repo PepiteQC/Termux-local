@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2174911783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c47ce39b9173b79f862c9b8f37d377d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_7.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_2.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_6.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_5.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_4.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_8.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_4.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_8.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_icon_a.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_logic.xml
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_7.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_2.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_1.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_assets.xml
+- Assets/Live/dino15_fossil4/flash/index.xml
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_6.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_0.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_1.png
+- Assets/Live/dino15_fossil4/dino15_fossil4.xml
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_0.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_3.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_9.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_2.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_9.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_4.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_4.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_3.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_0.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_3.png
+- Assets/Live/dino15_fossil4/flash/manifest.xml
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_6.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_3.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_0.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_1.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_6.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_1.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_d_0_5.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_b_0_5.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_visualization.xml
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_a_0_2.png
+- Assets/Live/dino15_fossil4/flash/dino15_fossil4_64_c_0_5.png
+Dependencies: []

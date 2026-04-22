@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2855873503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afe66ce57ef898b276c0751e8802a7a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pstack/flash/pstack_assets.xml
+- Assets/Live/pstack/flash/pstack_icon_a.png
+- Assets/Live/pstack/pstack.xml
+- Assets/Live/pstack/flash/pstack_visualization.xml
+- Assets/Live/pstack/flash/pstack_64_a_0_0.png
+- Assets/Live/pstack/flash/manifest.xml
+- Assets/Live/pstack/flash/index.xml
+- Assets/Live/pstack/flash/pstack_logic.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3841767707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a89b70ee5da2f81ce21c514e34c2afc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_tile/flash/bc_tile_64_a_0_0.png
+- Assets/Live/bc_tile/flash/manifest.xml
+- Assets/Live/bc_tile/flash/bc_tile_logic.xml
+- Assets/Live/bc_tile/flash/bc_tile_64_d_0_0.png
+- Assets/Live/bc_tile/flash/bc_tile_icon_a.png
+- Assets/Live/bc_tile/flash/bc_tile_64_b_0_0.png
+- Assets/Live/bc_tile/bc_tile.xml
+- Assets/Live/bc_tile/flash/index.xml
+- Assets/Live/bc_tile/flash/bc_tile_assets.xml
+- Assets/Live/bc_tile/flash/bc_tile_visualization.xml
+Dependencies: []

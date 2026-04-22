@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2674271938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17e5a716104e8f8f407b722eb9549911
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_assets.xml
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_64_a_0_1.png
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_64_a_0_0.png
+- Assets/Live/hosptl_cab1/flash/index.xml
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_icon_a.png
+- Assets/Live/hosptl_cab1/hosptl_cab1.xml
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_logic.xml
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_64_sd_0_0.png
+- Assets/Live/hosptl_cab1/flash/hosptl_cab1_visualization.xml
+- Assets/Live/hosptl_cab1/flash/manifest.xml
+Dependencies: []

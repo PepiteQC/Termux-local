@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3223728874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f0b2cb2a2aec9240ae5785e8c887395
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cine_nt_light1/flash/manifest.xml
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_icon_a.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_5.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_6.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_1.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_logic.xml
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_assets.xml
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_0.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_b_4_0.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_7.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_2.png
+- Assets/Live/cine_nt_light1/cine_nt_light1.xml
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_4.png
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_64_a_4_3.png
+- Assets/Live/cine_nt_light1/flash/index.xml
+- Assets/Live/cine_nt_light1/flash/cine_nt_light1_visualization.xml
+Dependencies: []

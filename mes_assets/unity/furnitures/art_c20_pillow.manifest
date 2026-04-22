@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3447592059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14a5af53a7f193da25e237f3d5d84adf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_64_sd_4_0.png
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_icon_a.png
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_64_a_4_0.png
+- Assets/Live/art_c20_pillow/flash/manifest.xml
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_assets.xml
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_logic.xml
+- Assets/Live/art_c20_pillow/flash/index.xml
+- Assets/Live/art_c20_pillow/art_c20_pillow.xml
+- Assets/Live/art_c20_pillow/flash/art_c20_pillow_visualization.xml
+Dependencies: []

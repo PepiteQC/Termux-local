@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4094200680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b793faca1807b7dae32e1cd1a5f04e86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/waasa_rug2/waasa_rug2.xml
+- Assets/Live/waasa_rug2/flash/manifest.xml
+- Assets/Live/waasa_rug2/flash/waasa_rug2_logic.xml
+- Assets/Live/waasa_rug2/flash/index.xml
+- Assets/Live/waasa_rug2/flash/waasa_rug2_assets.xml
+- Assets/Live/waasa_rug2/flash/waasa_rug2_icon_a.png
+- Assets/Live/waasa_rug2/flash/waasa_rug2_64_a_0_0.png
+- Assets/Live/waasa_rug2/flash/waasa_rug2_visualization.xml
+Dependencies: []

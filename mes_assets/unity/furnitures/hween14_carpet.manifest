@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2210625054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d95ca4729d36d283ec56e513c0f9dfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_carpet/flash/hween14_carpet_64_a_0_0.png
+- Assets/Live/hween14_carpet/flash/hween14_carpet_assets.xml
+- Assets/Live/hween14_carpet/flash/manifest.xml
+- Assets/Live/hween14_carpet/flash/hween14_carpet_visualization.xml
+- Assets/Live/hween14_carpet/flash/hween14_carpet_icon_a.png
+- Assets/Live/hween14_carpet/flash/hween14_carpet_logic.xml
+- Assets/Live/hween14_carpet/hween14_carpet.xml
+- Assets/Live/hween14_carpet/flash/index.xml
+Dependencies: []

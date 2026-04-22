@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1638347817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0490ec27043b0bc4d9eab022c0e24419
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_clownmask/flash/clothing_clownmask_icon_a.png
+- Assets/Live/clothing_clownmask/flash/clothing_clownmask_assets.xml
+- Assets/Live/clothing_clownmask/flash/index.xml
+- Assets/Live/clothing_clownmask/flash/manifest.xml
+- Assets/Live/clothing_clownmask/flash/clothing_clownmask_visualization.xml
+- Assets/Live/clothing_clownmask/clothing_clownmask.xml
+- Assets/Live/clothing_clownmask/flash/clothing_clownmask_logic.xml
+- Assets/Live/clothing_clownmask/flash/clothing_clownmask_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3184253545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f66b424b9a0ed02a50d97bed513062a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_c_0_1.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_d_0_1.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_d_0_3.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_c_0_3.png
+- Assets/Live/loyalty_dolphin/flash/index.xml
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_sd_0_0.png
+- Assets/Live/loyalty_dolphin/loyalty_dolphin.xml
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_assets.xml
+- Assets/Live/loyalty_dolphin/flash/manifest.xml
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_c_0_0.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_d_0_0.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_logic.xml
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_b_0_0.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_visualization.xml
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_c_0_2.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_icon_a.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_a_0_0.png
+- Assets/Live/loyalty_dolphin/flash/loyalty_dolphin_64_d_0_2.png
+Dependencies: []

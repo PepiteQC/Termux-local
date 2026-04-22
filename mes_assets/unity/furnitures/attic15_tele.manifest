@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 84134756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac7f6d0b0df66b3612fbf94b08b0ff34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/attic15_tele/flash/attic15_tele_logic.xml
+- Assets/Live/attic15_tele/flash/attic15_tele_assets.xml
+- Assets/Live/attic15_tele/flash/attic15_tele_64_c_4_1.png
+- Assets/Live/attic15_tele/flash/attic15_tele_icon_a.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_c_0_2.png
+- Assets/Live/attic15_tele/attic15_tele.xml
+- Assets/Live/attic15_tele/flash/attic_tele_64_c_0_2.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_a_4_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_c_0_1.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_b_4_1.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_a_0_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_b_4_0.png
+- Assets/Live/attic15_tele/flash/manifest.xml
+- Assets/Live/attic15_tele/flash/attic15_tele_64_c_0_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_4_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_b_0_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_c_4_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_0_1.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_b_0_1.png
+- Assets/Live/attic15_tele/flash/attic_tele_64_c_0_1.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_0_2.png
+- Assets/Live/attic15_tele/flash/attic15_tele_visualization.xml
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_4_1.png
+- Assets/Live/attic15_tele/flash/index.xml
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_0_0.png
+- Assets/Live/attic15_tele/flash/attic15_tele_64_d_4_2.png
+Dependencies: []

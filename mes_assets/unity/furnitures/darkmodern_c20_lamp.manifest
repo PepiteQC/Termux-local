@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2332054206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b9c8d0887b90ebabb7828079c42927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_4_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_visualization.xml
+- Assets/Live/darkmodern_c20_lamp/flash/index.xml
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_4_1.png
+- Assets/Live/darkmodern_c20_lamp/flash/manifest.xml
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_a_0_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_0_1.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_a_2_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_6_1.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_assets.xml
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_icon_a.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_0_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_logic.xml
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_b_4_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_b_2_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_a_6_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_b_6_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_2_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_6_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_c_2_1.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_b_0_0.png
+- Assets/Live/darkmodern_c20_lamp/flash/darkmodern_c20_lamp_64_a_4_0.png
+- Assets/Live/darkmodern_c20_lamp/darkmodern_c20_lamp.xml
+Dependencies: []

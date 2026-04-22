@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3868108524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 984171222d0ae9172e47a2f8f29a01a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_knj2/flash/bb_knj2_64_a_0_1.png
+- Assets/Live/bb_knj2/bb_knj2.xml
+- Assets/Live/bb_knj2/flash/manifest.xml
+- Assets/Live/bb_knj2/flash/bb_knj2_64_a_0_0.png
+- Assets/Live/bb_knj2/flash/bb_knj2_logic.xml
+- Assets/Live/bb_knj2/flash/bb_knj2_64_a_2_1.png
+- Assets/Live/bb_knj2/flash/index.xml
+- Assets/Live/bb_knj2/flash/bb_knj2_visualization.xml
+- Assets/Live/bb_knj2/flash/bb_knj2_assets.xml
+- Assets/Live/bb_knj2/flash/bb_knj2_64_a_2_0.png
+- Assets/Live/bb_knj2/flash/bb_knj2_icon_a.png
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2925367030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7c7c0b77fe132691bd8ea8a8072b83b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_e_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_c_0_1.png
+- Assets/Live/rare_mnstr/flash/manifest.xml
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_d_0_3.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_e_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_d_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_g_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_b_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_b_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_f_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_g_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_c_0_4.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_f_0_4.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_g_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_icon_a.png
+- Assets/Live/rare_mnstr/flash/index.xml
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_b_0_4.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_d_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_assets.xml
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_a_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_e_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_h_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_f_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_c_0_3.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_c_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_d_0_4.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_c_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_b_0_3.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_b_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_h_0_2.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_logic.xml
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_f_0_1.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_h_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_f_0_3.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_sd_0_0.png
+- Assets/Live/rare_mnstr/rare_mnstr.xml
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_d_0_0.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_64_h_0_3.png
+- Assets/Live/rare_mnstr/flash/rare_mnstr_visualization.xml
+Dependencies: []

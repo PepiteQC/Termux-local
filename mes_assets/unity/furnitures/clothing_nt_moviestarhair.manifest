@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3483130999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b133244fe55fd5e62406aa9c82c6cf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_moviestarhair/flash/clothing_nt_moviestarhair_logic.xml
+- Assets/Live/clothing_nt_moviestarhair/flash/manifest.xml
+- Assets/Live/clothing_nt_moviestarhair/flash/clothing_nt_moviestarhair_icon_a.png
+- Assets/Live/clothing_nt_moviestarhair/flash/clothing_nt_moviestarhair_visualization.xml
+- Assets/Live/clothing_nt_moviestarhair/flash/clothing_nt_moviestarhair_assets.xml
+- Assets/Live/clothing_nt_moviestarhair/flash/clothing_nt_moviestarhair_64_a_0_0.png
+- Assets/Live/clothing_nt_moviestarhair/clothing_nt_moviestarhair.xml
+- Assets/Live/clothing_nt_moviestarhair/flash/index.xml
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3344029915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcf9221c95d474723481c9051604a3b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_64_a_0_2.png
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_64_a_0_0.png
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_visualization.xml
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_assets.xml
+- Assets/Live/hween_c18_deskitems1/flash/manifest.xml
+- Assets/Live/hween_c18_deskitems1/hween_c18_deskitems1.xml
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_logic.xml
+- Assets/Live/hween_c18_deskitems1/flash/index.xml
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_64_a_0_1.png
+- Assets/Live/hween_c18_deskitems1/flash/hween_c18_deskitems1_icon_a.png
+Dependencies: []

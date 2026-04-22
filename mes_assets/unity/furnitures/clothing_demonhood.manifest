@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2425652574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c955da3c3ac4d0653688d159cc2d1782
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_demonhood/flash/clothing_demonhood_visualization.xml
+- Assets/Live/clothing_demonhood/flash/clothing_demonhood_assets.xml
+- Assets/Live/clothing_demonhood/flash/clothing_demonhood_64_a_0_0.png
+- Assets/Live/clothing_demonhood/clothing_demonhood.xml
+- Assets/Live/clothing_demonhood/flash/clothing_demonhood_logic.xml
+- Assets/Live/clothing_demonhood/flash/index.xml
+- Assets/Live/clothing_demonhood/flash/clothing_demonhood_icon_a.png
+- Assets/Live/clothing_demonhood/flash/manifest.xml
+Dependencies: []

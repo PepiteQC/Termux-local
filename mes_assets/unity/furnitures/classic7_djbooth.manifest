@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2080941779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cf07de852ac7af2e8bddf9af3430112
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_visualization.xml
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_64_sd_0_0.png
+- Assets/Live/classic7_djbooth/flash/index.xml
+- Assets/Live/classic7_djbooth/flash/manifest.xml
+- Assets/Live/classic7_djbooth/classic7_djbooth.xml
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_assets.xml
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_icon_a.png
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_64_a_0_0.png
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_logic.xml
+- Assets/Live/classic7_djbooth/flash/classic7_djbooth_64_b_0_0.png
+Dependencies: []

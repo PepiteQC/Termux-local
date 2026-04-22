@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3935835504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2978736b850fbce4f98e7132b1112f2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_painting_blue/flash/index.xml
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_icon_a.png
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_assets.xml
+- Assets/Live/pixel_painting_blue/flash/manifest.xml
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_logic.xml
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_64_a_2_2.png
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_64_a_2_0.png
+- Assets/Live/pixel_painting_blue/pixel_painting_blue.xml
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_visualization.xml
+- Assets/Live/pixel_painting_blue/flash/pixel_painting_blue_64_a_2_1.png
+Dependencies: []

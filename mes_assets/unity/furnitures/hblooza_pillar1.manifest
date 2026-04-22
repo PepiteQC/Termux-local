@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2301411098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b626e3951a3573626748bbb86dd66076
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_pillar1/hblooza_pillar1.xml
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_1.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_6.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_8.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_1.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_6.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_icon_a.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_a_0_0.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_0.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_logic.xml
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_c_0_0.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_visualization.xml
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_b_0_0.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_5.png
+- Assets/Live/hblooza_pillar1/flash/manifest.xml
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_3.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_3.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_2.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_4.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_7.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_0.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_7.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_assets.xml
+- Assets/Live/hblooza_pillar1/flash/index.xml
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_e_0_4.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_2.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_5.png
+- Assets/Live/hblooza_pillar1/flash/hblooza_pillar1_64_d_0_8.png
+Dependencies: []

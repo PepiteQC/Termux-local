@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 307912818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d97ffbe8102887c5f8bb045694b190bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_64_b_4_1.png
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_assets.xml
+- Assets/Live/stories_oldmusic_guitarcase/stories_oldmusic_guitarcase.xml
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_64_sd_4_0.png
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_visualization.xml
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_icon_a.png
+- Assets/Live/stories_oldmusic_guitarcase/flash/index.xml
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_64_a_4_0.png
+- Assets/Live/stories_oldmusic_guitarcase/flash/stories_oldmusic_guitarcase_logic.xml
+- Assets/Live/stories_oldmusic_guitarcase/flash/manifest.xml
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 676662149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8b87de753c10920b359bb9b365f1102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_a_2_0.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_1.png
+- Assets/Live/cubie_decal_3_b/flash/index.xml
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_visualization.xml
+- Assets/Live/cubie_decal_3_b/cubie_decal_3_b.xml
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_a_2_2.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_a_2_1.png
+- Assets/Live/cubie_decal_3_b/flash/manifest.xml
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_assets.xml
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_icon_a.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_4.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_5.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_logic.xml
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_0.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_2.png
+- Assets/Live/cubie_decal_3_b/flash/cubie_decal_3_b_64_b_2_3.png
+Dependencies: []

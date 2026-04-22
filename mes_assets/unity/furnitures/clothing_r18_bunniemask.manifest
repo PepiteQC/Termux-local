@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3122368687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ce2b360a8c3b2b6cfe8f31629012959
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r18_bunniemask/flash/clothing_r18_bunniemask_64_a_2_0.png
+- Assets/Live/clothing_r18_bunniemask/flash/clothing_r18_bunniemask_assets.xml
+- Assets/Live/clothing_r18_bunniemask/flash/clothing_r18_bunniemask_icon_a.png
+- Assets/Live/clothing_r18_bunniemask/flash/index.xml
+- Assets/Live/clothing_r18_bunniemask/clothing_r18_bunniemask.xml
+- Assets/Live/clothing_r18_bunniemask/flash/manifest.xml
+- Assets/Live/clothing_r18_bunniemask/flash/clothing_r18_bunniemask_visualization.xml
+- Assets/Live/clothing_r18_bunniemask/flash/clothing_r18_bunniemask_logic.xml
+Dependencies: []

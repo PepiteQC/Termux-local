@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2302745700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73557cd5022128efb07ddd4ca3b44122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_6.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_7.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_0.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_10.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_11.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_assets.xml
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_icon_a.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_3.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_1.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_4.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_2.png
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_logic.xml
+- Assets/Live/pet_breeding_pig/flash/manifest.xml
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_5.png
+- Assets/Live/pet_breeding_pig/pet_breeding_pig.xml
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_8.png
+- Assets/Live/pet_breeding_pig/flash/index.xml
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_visualization.xml
+- Assets/Live/pet_breeding_pig/flash/pet_breeding_pig_64_a_2_9.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2855990193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44fbf5062280f2f48ab3f6ad9f1cb436
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_visualization.xml
+- Assets/Live/cland_c15_waferblock/flash/manifest.xml
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_64_a_2_0.png
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_64_c_2_0.png
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_assets.xml
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_64_b_2_0.png
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_64_a_2_1.png
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_icon_a.png
+- Assets/Live/cland_c15_waferblock/flash/index.xml
+- Assets/Live/cland_c15_waferblock/cland_c15_waferblock.xml
+- Assets/Live/cland_c15_waferblock/flash/cland_c15_waferblock_logic.xml
+Dependencies: []

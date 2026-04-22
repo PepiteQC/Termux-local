@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1404745191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 934baf00d42dc1de72fb39d4e29fde3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_stone/xmas_c15_stone.xml
+- Assets/Live/xmas_c15_stone/flash/manifest.xml
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_64_a_0_1.png
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_logic.xml
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_visualization.xml
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_64_a_0_0.png
+- Assets/Live/xmas_c15_stone/flash/index.xml
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_assets.xml
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_64_b_0_0.png
+- Assets/Live/xmas_c15_stone/flash/xmas_c15_stone_icon_a.png
+Dependencies: []

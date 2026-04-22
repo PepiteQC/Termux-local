@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1148299273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aac63d5a237815c8563b43114a31736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_k_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_o_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_p_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_g_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_q_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_sd_4_0.png
+- Assets/Live/army_c15_officetent/flash/index.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_j_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_l_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_m_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_i_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_s_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_visualization.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_l_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_j_4_1.png
+- Assets/Live/army_c15_officetent/army_c15_officetent.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_r_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_logic.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_icon_a.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_n_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_i_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_assets.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_e_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_u_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_b_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_h_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_k_4_1.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_f_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_c_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_t_4_1.png
+- Assets/Live/army_c15_officetent/flash/manifest.xml
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_d_4_0.png
+- Assets/Live/army_c15_officetent/flash/army_c15_officetent_64_a_4_0.png
+Dependencies: []

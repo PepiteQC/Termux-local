@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4264508173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78240331b2a0501b23462d188cefbb53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_3.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_8.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_5.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_4.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_1.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_assets.xml
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_visualization.xml
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_icon_a.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_0.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_6.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_logic.xml
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_2.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_sd_0_0.png
+- Assets/Live/easter_c19_babyent2/easter_c19_babyent2.xml
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_10.png
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_7.png
+- Assets/Live/easter_c19_babyent2/flash/index.xml
+- Assets/Live/easter_c19_babyent2/flash/easter_c19_babyent2_64_a_0_9.png
+- Assets/Live/easter_c19_babyent2/flash/manifest.xml
+Dependencies: []

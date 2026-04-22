@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1887214540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30866154d5756f35289c8cc8c87c920f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter13_teleport/flash/easter13_teleport_icon_a.png
+- Assets/Live/easter13_teleport/flash/index.xml
+- Assets/Live/easter13_teleport/flash/easter13_teleport_logic.xml
+- Assets/Live/easter13_teleport/easter13_teleport.xml
+- Assets/Live/easter13_teleport/flash/manifest.xml
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_a_2_1.png
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_a_2_0.png
+- Assets/Live/easter13_teleport/flash/easter13_teleport_assets.xml
+- Assets/Live/easter13_teleport/flash/easter13_teleport_visualization.xml
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_b_2_1.png
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_b_2_0.png
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_c_2_1.png
+- Assets/Live/easter13_teleport/flash/easter13_teleport_64_c_2_0.png
+Dependencies: []

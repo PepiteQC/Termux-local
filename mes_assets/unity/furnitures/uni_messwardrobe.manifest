@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 676684799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd5945a0f7b0c657396e2a6248714db3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_messwardrobe/uni_messwardrobe.xml
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_64_b_2_1.png
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_icon_a.png
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_visualization.xml
+- Assets/Live/uni_messwardrobe/flash/index.xml
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_64_c_2_0.png
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_64_a_2_0.png
+- Assets/Live/uni_messwardrobe/flash/manifest.xml
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_64_b_2_0.png
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_assets.xml
+- Assets/Live/uni_messwardrobe/flash/uni_messwardrobe_logic.xml
+Dependencies: []

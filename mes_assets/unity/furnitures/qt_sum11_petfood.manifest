@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2373793508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71f289ee4955d4190a650fa5548edbd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_sum11_petfood/flash/index.xml
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_0.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_4.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_sd_2_0.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_1.png
+- Assets/Live/qt_sum11_petfood/qt_sum11_petfood.xml
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_3.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_assets.xml
+- Assets/Live/qt_sum11_petfood/flash/manifest.xml
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_logic.xml
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_visualization.xml
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_icon_a.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_2.png
+- Assets/Live/qt_sum11_petfood/flash/qt_sum11_petfood_64_a_2_5.png
+Dependencies: []

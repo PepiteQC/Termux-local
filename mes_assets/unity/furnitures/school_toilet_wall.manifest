@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3598407542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 643bf025c2d1aeb629e0a09b269d87e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_2_3.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_4_1.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_logic.xml
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_2_4.png
+- Assets/Live/school_toilet_wall/school_toilet_wall.xml
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_2_1.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_assets.xml
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_4_0.png
+- Assets/Live/school_toilet_wall/flash/index.xml
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_4_3.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_2_0.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_4_4.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_2_2.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_icon_a.png
+- Assets/Live/school_toilet_wall/flash/manifest.xml
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_64_a_4_2.png
+- Assets/Live/school_toilet_wall/flash/school_toilet_wall_visualization.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 539426868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85999340650801cf7d5853c582317658
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_logic.xml
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_visualization.xml
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_64_sd_0_0.png
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_64_a_0_1.png
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_assets.xml
+- Assets/Live/clothing_r16_helmhero/clothing_r16_helmhero.xml
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmprotect_64_sd_0_0.png
+- Assets/Live/clothing_r16_helmhero/flash/manifest.xml
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_64_a_0_0.png
+- Assets/Live/clothing_r16_helmhero/flash/index.xml
+- Assets/Live/clothing_r16_helmhero/flash/clothing_r16_helmhero_icon_a.png
+Dependencies: []

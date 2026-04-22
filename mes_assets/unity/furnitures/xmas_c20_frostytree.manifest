@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1308787294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56d5aaefc30fd895572f1aa55ec49b12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_64_sd_0_0.png
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_assets.xml
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_64_a_0_0.png
+- Assets/Live/xmas_c20_frostytree/xmas_c20_frostytree.xml
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_visualization.xml
+- Assets/Live/xmas_c20_frostytree/flash/manifest.xml
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_logic.xml
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_64_a_0_1.png
+- Assets/Live/xmas_c20_frostytree/flash/xmas_c20_frostytree_icon_a.png
+- Assets/Live/xmas_c20_frostytree/flash/index.xml
+Dependencies: []

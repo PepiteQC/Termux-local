@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1788470983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 325a8289429e58e5f40bb25158dca91d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas2011_snowlog/flash/manifest.xml
+- Assets/Live/xmas2011_snowlog/xmas2011_snowlog.xml
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_a_2_0.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_logic.xml
+- Assets/Live/xmas2011_snowlog/flash/index.xml
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_b_2_0.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_sd_0_0.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_b_6_0.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_icon_a.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_a_6_0.png
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_assets.xml
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_visualization.xml
+- Assets/Live/xmas2011_snowlog/flash/xmas2011_snowlog_64_sd_2_0.png
+Dependencies: []

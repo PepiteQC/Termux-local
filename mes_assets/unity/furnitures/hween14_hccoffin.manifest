@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3418929537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63d9456478249849cde24b746af4e32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_m_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_k_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_b_0_2.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_visualization.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_h_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_k_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_assets.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_f_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_n_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_j_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_p_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_logic.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_n_0_3.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_a_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_d_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_n_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_b_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_h_0_4.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_g_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_r_0_3.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_h_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_r_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_b_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_d_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_f_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_q_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_m_0_0.png
+- Assets/Live/hween14_hccoffin/hween14_hccoffin.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_q_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_n_0_4.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_l_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_o_0_1.png
+- Assets/Live/hween14_hccoffin/flash/index.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_b_0_3.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_a_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_r_0_4.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_i_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_h_0_2.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_e_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_c_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_i_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_j_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_o_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_h_0_3.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_p_0_0.png
+- Assets/Live/hween14_hccoffin/flash/manifest.xml
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_c_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_r_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_s_0_0.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_e_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_icon_a.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_r_0_2.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_n_0_2.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_s_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_g_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_l_0_1.png
+- Assets/Live/hween14_hccoffin/flash/hween14_hccoffin_64_b_0_4.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1430642765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3d0902d28098848d9a5090613ec0acc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/tiki_tray3/flash/tiki_tray3_64_a_0_0.png
+- Assets/Live/tiki_tray3/flash/tiki_tray3_assets.xml
+- Assets/Live/tiki_tray3/flash/tiki_tray3_visualization.xml
+- Assets/Live/tiki_tray3/flash/tiki_tray3_logic.xml
+- Assets/Live/tiki_tray3/flash/tiki_tray3_64_sd_0_0.png
+- Assets/Live/tiki_tray3/flash/tiki_tray3_icon_a.png
+- Assets/Live/tiki_tray3/flash/index.xml
+- Assets/Live/tiki_tray3/tiki_tray3.xml
+- Assets/Live/tiki_tray3/flash/manifest.xml
+Dependencies: []

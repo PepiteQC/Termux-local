@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3524457669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad839853ec9608f85792053ce7af8dd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_64_a_2_0.png
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_assets.xml
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_logic.xml
+- Assets/Live/anc_trophy_marble/flash/manifest.xml
+- Assets/Live/anc_trophy_marble/flash/index.xml
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_64_sd_2_0.png
+- Assets/Live/anc_trophy_marble/anc_trophy_marble.xml
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_64_b_2_0.png
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_visualization.xml
+- Assets/Live/anc_trophy_marble/flash/anc_trophy_marble_icon_a.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3404589534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 058052e3c620451850ce618a88077803
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_64_b_2_0.png
+- Assets/Live/sunsetcafe_c20_swordfish/flash/manifest.xml
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_assets.xml
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_64_sd_2_0.png
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_logic.xml
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_visualization.xml
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_icon_a.png
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_64_d_2_0.png
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_64_c_2_0.png
+- Assets/Live/sunsetcafe_c20_swordfish/flash/index.xml
+- Assets/Live/sunsetcafe_c20_swordfish/flash/sunsetcafe_c20_swordfish_64_a_2_0.png
+- Assets/Live/sunsetcafe_c20_swordfish/sunsetcafe_c20_swordfish.xml
+Dependencies: []

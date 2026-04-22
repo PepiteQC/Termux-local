@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1162177672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d6b032f4e61c5fbf748f3f999a80b0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_plow_red/flash/index.xml
+- Assets/Live/nest_plow_red/flash/nest_plow_red_visualization.xml
+- Assets/Live/nest_plow_red/flash/manifest.xml
+- Assets/Live/nest_plow_red/nest_plow_red.xml
+- Assets/Live/nest_plow_red/flash/nest_plow_red_logic.xml
+- Assets/Live/nest_plow_red/flash/nest_plow_red_icon_a.png
+- Assets/Live/nest_plow_red/flash/nest_plow_red_64_sd_0_0.png
+- Assets/Live/nest_plow_red/flash/nest_plow_red_64_a_2_0.png
+- Assets/Live/nest_plow_red/flash/nest_plow_red_assets.xml
+Dependencies: []

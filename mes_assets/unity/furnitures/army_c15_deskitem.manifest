@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2226633080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b042d2f62156f8607e5a6d71c627c81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_64_a_4_0.png
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_visualization.xml
+- Assets/Live/army_c15_deskitem/flash/index.xml
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_assets.xml
+- Assets/Live/army_c15_deskitem/flash/manifest.xml
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_logic.xml
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_64_a_4_2.png
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_icon_a.png
+- Assets/Live/army_c15_deskitem/flash/army_c15_deskitem_64_a_4_1.png
+- Assets/Live/army_c15_deskitem/army_c15_deskitem.xml
+Dependencies: []

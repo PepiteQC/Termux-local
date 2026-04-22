@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 500198073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2962c625d4a34273f00f8ef64e2bf80e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_64_b_4_0.png
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_64_b_0_0.png
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_64_a_4_0.png
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_assets.xml
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_visualization.xml
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_logic.xml
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_64_a_0_0.png
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_icon_a.png
+- Assets/Live/stories_sch_chair/flash/index.xml
+- Assets/Live/stories_sch_chair/stories_sch_chair.xml
+- Assets/Live/stories_sch_chair/flash/stories_sch_chair_64_sd_0_0.png
+- Assets/Live/stories_sch_chair/flash/manifest.xml
+Dependencies: []

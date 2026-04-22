@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1947565486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a47fe799f7f0d23999e0b08be8cdca55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_floor/flash/hween_c20_floor_64_a_0_0.png
+- Assets/Live/hween_c20_floor/flash/index.xml
+- Assets/Live/hween_c20_floor/hween_c20_floor.xml
+- Assets/Live/hween_c20_floor/flash/hween_c20_floor_assets.xml
+- Assets/Live/hween_c20_floor/flash/hween_c20_floor_logic.xml
+- Assets/Live/hween_c20_floor/flash/manifest.xml
+- Assets/Live/hween_c20_floor/flash/hween_c20_floor_visualization.xml
+- Assets/Live/hween_c20_floor/flash/hween_c20_floor_icon_a.png
+Dependencies: []

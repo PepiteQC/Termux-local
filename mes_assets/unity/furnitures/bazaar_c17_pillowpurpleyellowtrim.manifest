@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3203253116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a3ecd568bb6bb89aecb4ec89853a4d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_64_a_6_0.png
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_assets.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_icon_a.png
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/index.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/bazaar_c17_pillowpurpleyellowtrim.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/manifest.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_64_a_2_0.png
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_64_sd_2_0.png
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_visualization.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_logic.xml
+- Assets/Live/bazaar_c17_pillowpurpleyellowtrim/flash/bazaar_c17_pillowpurpleyellowtrim_64_sd_6_0.png
+Dependencies: []

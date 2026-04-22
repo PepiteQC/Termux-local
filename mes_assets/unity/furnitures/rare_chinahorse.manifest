@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2856601480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca32692833ea00b2542e0cf64f57acbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_chinahorse/rare_chinahorse.xml
+- Assets/Live/rare_chinahorse/flash/index.xml
+- Assets/Live/rare_chinahorse/flash/manifest.xml
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_visualization.xml
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_64_c_0_0.png
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_64_sd_0_0.png
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_icon_a.png
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_64_a_0_0.png
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_64_b_0_0.png
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_logic.xml
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_assets.xml
+- Assets/Live/rare_chinahorse/flash/rare_chinahorse_64_d_0_0.png
+Dependencies: []

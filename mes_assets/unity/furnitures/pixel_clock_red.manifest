@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 879819979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cd1b66da5968406f81746594026fe22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_clock_red/pixel_clock_red.xml
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_64_a_2_0.png
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_icon_a.png
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_64_sd_2_0.png
+- Assets/Live/pixel_clock_red/flash/manifest.xml
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_visualization.xml
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_logic.xml
+- Assets/Live/pixel_clock_red/flash/pixel_clock_red_assets.xml
+- Assets/Live/pixel_clock_red/flash/index.xml
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 307718339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ebc40f15dd3f25f73ac27b937ff7d47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c16_diningbench/flash/manifest.xml
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_logic.xml
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_c_0_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_icon_a.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_c_2_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_b_0_0.png
+- Assets/Live/xmas_c16_diningbench/xmas_c16_diningbench.xml
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_assets.xml
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_b_2_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_d_2_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_d_0_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_sd_2_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_a_2_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_sd_0_0.png
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_64_a_0_0.png
+- Assets/Live/xmas_c16_diningbench/flash/index.xml
+- Assets/Live/xmas_c16_diningbench/flash/xmas_c16_diningbench_visualization.xml
+Dependencies: []

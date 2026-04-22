@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3360600982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28d3e373a12db51e83f45763ece168d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_assets.xml
+- Assets/Live/clothing_denimvest/flash/index.xml
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_logic.xml
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_64_a_0_1.png
+- Assets/Live/clothing_denimvest/flash/manifest.xml
+- Assets/Live/clothing_denimvest/clothing_denimvest.xml
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_64_sd_0_0.png
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_64_a_0_0.png
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_visualization.xml
+- Assets/Live/clothing_denimvest/flash/clothing_denimvest_icon_a.png
+Dependencies: []

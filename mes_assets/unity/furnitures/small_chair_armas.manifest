@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1985745143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92261907beaf85fc59d76f7bf10ad80e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/small_chair_armas/flash/small_chair_armas_64_a_0_0.png
+- Assets/Live/small_chair_armas/small_chair_armas.xml
+- Assets/Live/small_chair_armas/flash/manifest.xml
+- Assets/Live/small_chair_armas/flash/small_chair_armas_visualization.xml
+- Assets/Live/small_chair_armas/flash/small_chair_armas_assets.xml
+- Assets/Live/small_chair_armas/flash/small_chair_armas_logic.xml
+- Assets/Live/small_chair_armas/flash/small_chair_armas_icon_a.png
+- Assets/Live/small_chair_armas/flash/small_chair_armas_64_sd_0_0.png
+- Assets/Live/small_chair_armas/flash/index.xml
+Dependencies: []

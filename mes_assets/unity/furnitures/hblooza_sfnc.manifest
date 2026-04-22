@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2410860499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 701ed142c7f6a764ff14def0998b5871
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_c_2_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_icon_a.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_assets.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_d_2_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_e_2_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_a_2_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_logic.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_f_0_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_visualization.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_f_2_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_b_0_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_b_2_0.png
+- Assets/Live/hblooza_sfnc/flash/index.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_icon_b.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_c_0_0.png
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_e_0_0.png
+- Assets/Live/hblooza_sfnc/hblooza_sfnc.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_d_0_0.png
+- Assets/Live/hblooza_sfnc/flash/manifest.xml
+- Assets/Live/hblooza_sfnc/flash/hblooza_sfnc_64_a_0_0.png
+Dependencies: []

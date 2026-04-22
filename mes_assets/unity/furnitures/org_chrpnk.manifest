@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2148715389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ef1377fac9f0eb667bfec97e2151674
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/org_chrpnk/flash/index.xml
+- Assets/Live/org_chrpnk/flash/org_chrpnk_64_a_0_0.png
+- Assets/Live/org_chrpnk/flash/org_chrpnk_64_b_2_0.png
+- Assets/Live/org_chrpnk/flash/org_chrpnk_logic.xml
+- Assets/Live/org_chrpnk/flash/org_chrpnk_64_b_0_0.png
+- Assets/Live/org_chrpnk/flash/org_chrpnk_visualization.xml
+- Assets/Live/org_chrpnk/flash/org_chrpnk_icon_a.png
+- Assets/Live/org_chrpnk/flash/org_chrpnk_64_sd_2_0.png
+- Assets/Live/org_chrpnk/org_chrpnk.xml
+- Assets/Live/org_chrpnk/flash/org_chrpnk_64_a_2_0.png
+- Assets/Live/org_chrpnk/flash/manifest.xml
+- Assets/Live/org_chrpnk/flash/org_chrpnk_assets.xml
+Dependencies: []

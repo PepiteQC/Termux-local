@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2290771473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14995e0303e821508dc04e5d7db7f90b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_logic.xml
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_64_a_0_3.png
+- Assets/Live/dino_c15_rocksmall/flash/manifest.xml
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_64_a_0_0.png
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_64_a_0_2.png
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_icon_a.png
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_assets.xml
+- Assets/Live/dino_c15_rocksmall/flash/index.xml
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_64_a_0_1.png
+- Assets/Live/dino_c15_rocksmall/flash/dino_c15_rocksmall_visualization.xml
+- Assets/Live/dino_c15_rocksmall/dino_c15_rocksmall.xml
+Dependencies: []

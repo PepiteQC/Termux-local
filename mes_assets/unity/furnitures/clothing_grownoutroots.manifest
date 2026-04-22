@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3448290215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72295e495c2b8204472ae16c65fe21e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_grownoutroots/flash/manifest.xml
+- Assets/Live/clothing_grownoutroots/flash/clothing_grownoutroots_64_a_0_0.png
+- Assets/Live/clothing_grownoutroots/flash/index.xml
+- Assets/Live/clothing_grownoutroots/clothing_grownoutroots.xml
+- Assets/Live/clothing_grownoutroots/flash/clothing_grownoutroots_logic.xml
+- Assets/Live/clothing_grownoutroots/flash/clothing_grownoutroots_visualization.xml
+- Assets/Live/clothing_grownoutroots/flash/clothing_grownoutroots_assets.xml
+- Assets/Live/clothing_grownoutroots/flash/clothing_grownoutroots_icon_a.png
+Dependencies: []

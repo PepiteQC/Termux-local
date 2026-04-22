@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1879551802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f04b66b9e823067958c788f349e953c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/roombg_hween12/flash/roombg_hween12_assets.xml
+- Assets/Live/roombg_hween12/flash/roombg_hween12_64_a_0_0.png
+- Assets/Live/roombg_hween12/flash/manifest.xml
+- Assets/Live/roombg_hween12/flash/index.xml
+- Assets/Live/roombg_hween12/flash/roombg_hween12_icon_a.png
+- Assets/Live/roombg_hween12/flash/roombg_hween12_visualization.xml
+- Assets/Live/roombg_hween12/flash/roombg_hween12_64_b_0_0.png
+- Assets/Live/roombg_hween12/flash/roombg_hween12_logic.xml
+- Assets/Live/roombg_hween12/roombg_hween12.xml
+Dependencies: []

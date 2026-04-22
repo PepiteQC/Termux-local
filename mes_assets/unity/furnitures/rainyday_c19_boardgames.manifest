@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2653976952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4b52c41e30c1e3befcfc005b0c87adb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_c19_boardgames/flash/manifest.xml
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_logic.xml
+- Assets/Live/rainyday_c19_boardgames/rainyday_c19_boardgames.xml
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_sd_2_0.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_b_2_0.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_a_2_2.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_icon_a.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_b_2_1.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_assets.xml
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_a_2_1.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_a_2_0.png
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_64_b_2_2.png
+- Assets/Live/rainyday_c19_boardgames/flash/index.xml
+- Assets/Live/rainyday_c19_boardgames/flash/rainyday_c19_boardgames_visualization.xml
+Dependencies: []

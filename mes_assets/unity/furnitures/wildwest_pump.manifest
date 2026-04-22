@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3953415503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b9f7a631ffdabe80a004ae86a89331e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_3.png
+- Assets/Live/wildwest_pump/wildwest_pump.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_d_4_1.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_b_4_1.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_4.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_6.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_d_4_3.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_7.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_8.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_2.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_b_4_2.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_a_4_0.png
+- Assets/Live/wildwest_pump/flash/index.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_icon_a.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_assets.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_1.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_0.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_c_4_5.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_d_4_0.png
+- Assets/Live/wildwest_pump/flash/manifest.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_d_4_2.png
+- Assets/Live/wildwest_pump/flash/wildwest_pump_visualization.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_logic.xml
+- Assets/Live/wildwest_pump/flash/wildwest_pump_64_b_4_0.png
+Dependencies: []

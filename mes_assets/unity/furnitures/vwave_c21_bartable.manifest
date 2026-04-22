@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1525307708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4511a25d7d69487255376827090bada7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_logic.xml
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_icon_a.png
+- Assets/Live/vwave_c21_bartable/flash/index.xml
+- Assets/Live/vwave_c21_bartable/flash/manifest.xml
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_d_0_0.png
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_e_0_0.png
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_visualization.xml
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_a_0_0.png
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_assets.xml
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_c_0_0.png
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_b_0_0.png
+- Assets/Live/vwave_c21_bartable/vwave_c21_bartable.xml
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_f_0_0.png
+- Assets/Live/vwave_c21_bartable/flash/vwave_c21_bartable_64_sd_0_0.png
+Dependencies: []

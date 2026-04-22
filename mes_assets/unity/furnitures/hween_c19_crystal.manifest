@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2228583573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 486ae509c0c8be202ff6693402a89906
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_64_a_0_0.png
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_visualization.xml
+- Assets/Live/hween_c19_crystal/hween_c19_crystal.xml
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_64_a_0_1.png
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_icon_a.png
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_assets.xml
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_logic.xml
+- Assets/Live/hween_c19_crystal/flash/manifest.xml
+- Assets/Live/hween_c19_crystal/flash/index.xml
+- Assets/Live/hween_c19_crystal/flash/hween_c19_crystal_64_sd_0_0.png
+Dependencies: []

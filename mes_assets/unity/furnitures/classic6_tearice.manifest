@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3984990962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e739fa5f0a21955d98cb23969c5b72c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_0_0.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_0_2.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_0_1.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_0_0.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_2_4.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_2_0.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_2_0.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_2_3.png
+- Assets/Live/classic6_tearice/classic6_tearice.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_2_2.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_visualization.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_logic.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_icon_a.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_0_4.png
+- Assets/Live/classic6_tearice/flash/index.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_0_2.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_0_3.png
+- Assets/Live/classic6_tearice/flash/manifest.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_assets.xml
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_b_2_1.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_0_3.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_2_1.png
+- Assets/Live/classic6_tearice/flash/classic6_tearice_64_a_0_1.png
+Dependencies: []

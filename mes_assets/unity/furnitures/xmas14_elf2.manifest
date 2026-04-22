@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2034702995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ab4fa08b9c882212420296cf1b7944c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_sd_0_0.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_2.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_logic.xml
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_3.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_8.png
+- Assets/Live/xmas14_elf2/xmas14_elf2.xml
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_4.png
+- Assets/Live/xmas14_elf2/flash/manifest.xml
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_assets.xml
+- Assets/Live/xmas14_elf2/flash/index.xml
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_10.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_7.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_visualization.xml
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_9.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_6.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_icon_a.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_5.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_a_0_0.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_1.png
+- Assets/Live/xmas14_elf2/flash/xmas14_elf2_64_b_0_0.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1077963328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4257bbc90a4432da79e995644385ffc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_ceilingfan/hween_c18_ceilingfan.xml
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_64_a_0_3.png
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_icon_a.png
+- Assets/Live/hween_c18_ceilingfan/flash/manifest.xml
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_64_a_0_0.png
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_64_sd_0_0.png
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_visualization.xml
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_logic.xml
+- Assets/Live/hween_c18_ceilingfan/flash/index.xml
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_64_a_0_2.png
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_assets.xml
+- Assets/Live/hween_c18_ceilingfan/flash/hween_c18_ceilingfan_64_a_0_1.png
+Dependencies: []

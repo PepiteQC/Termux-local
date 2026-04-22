@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3521053380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c5fb052ff2199efe162f81e07303f8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bb_crchair/bb_crchair.xml
+- Assets/Live/bb_crchair/flash/bb_crchair_visualization.xml
+- Assets/Live/bb_crchair/flash/bb_crchair_logic.xml
+- Assets/Live/bb_crchair/flash/index.xml
+- Assets/Live/bb_crchair/flash/bb_crchair_assets.xml
+- Assets/Live/bb_crchair/flash/manifest.xml
+- Assets/Live/bb_crchair/flash/bb_crchair_64_a_2_0.png
+- Assets/Live/bb_crchair/flash/bb_crchair_64_b_2_0.png
+- Assets/Live/bb_crchair/flash/bb_crchair_icon_a.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3867314893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 415a1f38ec8950f7cca5ccfde2199006
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas11_footstool/xmas11_footstool.xml
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_icon_a.png
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_64_sd_0_0.png
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_logic.xml
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_visualization.xml
+- Assets/Live/xmas11_footstool/flash/manifest.xml
+- Assets/Live/xmas11_footstool/flash/index.xml
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_assets.xml
+- Assets/Live/xmas11_footstool/flash/xmas11_footstool_64_a_0_0.png
+Dependencies: []

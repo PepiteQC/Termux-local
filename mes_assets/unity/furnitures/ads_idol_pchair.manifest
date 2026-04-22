@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3331763106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f64145bcf8075d256c09e9f72e1cbd61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_idol_pchair/flash/manifest.xml
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_icon_a.png
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_logic.xml
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_assets.xml
+- Assets/Live/ads_idol_pchair/ads_idol_pchair.xml
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_64_sd_0_0.png
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_visualization.xml
+- Assets/Live/ads_idol_pchair/flash/index.xml
+- Assets/Live/ads_idol_pchair/flash/ads_idol_pchair_64_a_0_0.png
+Dependencies: []

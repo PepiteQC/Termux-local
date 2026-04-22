@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1024380601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60806181efe4b6a81391cf9fa9fcf74e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_witchhat2/clothing_witchhat2.xml
+- Assets/Live/clothing_witchhat2/flash/clothing_witchhat2_icon_a.png
+- Assets/Live/clothing_witchhat2/flash/manifest.xml
+- Assets/Live/clothing_witchhat2/flash/index.xml
+- Assets/Live/clothing_witchhat2/flash/clothing_witchhat2_assets.xml
+- Assets/Live/clothing_witchhat2/flash/clothing_witchhat2_logic.xml
+- Assets/Live/clothing_witchhat2/flash/clothing_witchhat2_visualization.xml
+- Assets/Live/clothing_witchhat2/flash/clothing_witchhat2_64_a_0_0.png
+Dependencies: []

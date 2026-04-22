@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1165718618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d18303a254cd2c98a62fb6b8eb9bd173
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino15_throne/flash/dino15_throne_64_a_4_0.png
+- Assets/Live/dino15_throne/flash/dino15_throne_64_b_4_0.png
+- Assets/Live/dino15_throne/dino15_throne.xml
+- Assets/Live/dino15_throne/flash/dino15_throne_visualization.xml
+- Assets/Live/dino15_throne/flash/manifest.xml
+- Assets/Live/dino15_throne/flash/index.xml
+- Assets/Live/dino15_throne/flash/dino15_throne_icon_a.png
+- Assets/Live/dino15_throne/flash/dino15_throne_logic.xml
+- Assets/Live/dino15_throne/flash/dino15_throne_assets.xml
+Dependencies: []

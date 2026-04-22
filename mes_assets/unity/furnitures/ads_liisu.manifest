@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2545945331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2657c83f73d732edab06b0ee569bc9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_logic.xml
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/index.xml
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_visualization.xml
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_assets.xml
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_logic.xml
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_visualization.xml
+- Assets/Live/ads_liisu/flash/ads_liisu/manifest.xml
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_64_a_2_0.png
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_icon_a.png
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_icon_a.png
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_64_a_4_0.png
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_32_a_4_0.png
+- Assets/Live/ads_liisu/flash/ads_liisu/index.xml
+- Assets/Live/ads_liisu/ads_liisu.xml
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_64_a_4_0.png
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_assets.xml
+- Assets/Live/ads_liisu/flash/ads_liisu/ads_liisu_64_a_2_0.png
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/manifest.xml
+- Assets/Live/ads_liisu/flash/ads_liisu_camp/ads_liisu_camp_32_a_2_0.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2804335994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b93c796f6fc26f3471a8d10e1cd5eb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/es_build4/flash/es_build4_64_b_2_1.png
+- Assets/Live/es_build4/flash/manifest.xml
+- Assets/Live/es_build4/es_build4.xml
+- Assets/Live/es_build4/flash/es_build4_icon_a.png
+- Assets/Live/es_build4/flash/es_build4_logic.xml
+- Assets/Live/es_build4/flash/es_build4_64_a_2_0.png
+- Assets/Live/es_build4/flash/es_build4_64_b_2_0.png
+- Assets/Live/es_build4/flash/es_build4_assets.xml
+- Assets/Live/es_build4/flash/index.xml
+- Assets/Live/es_build4/flash/es_build4_visualization.xml
+Dependencies: []

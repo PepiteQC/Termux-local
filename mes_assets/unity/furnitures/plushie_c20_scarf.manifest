@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2156055160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a233ad0ba20f4fad4770ea2e507bb9fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_scarf/flash/manifest.xml
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_64_sd_0_0.png
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_visualization.xml
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_icon_a.png
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_64_a_0_0.png
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_logic.xml
+- Assets/Live/plushie_c20_scarf/flash/index.xml
+- Assets/Live/plushie_c20_scarf/flash/plushie_c20_scarf_assets.xml
+- Assets/Live/plushie_c20_scarf/plushie_c20_scarf.xml
+Dependencies: []

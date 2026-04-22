@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 654534111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e7825569c170e9787527d265a4bc011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_64_a_2_0.png
+- Assets/Live/ads_mad3_edit/flash/manifest.xml
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_64_a_4_0.png
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_logic.xml
+- Assets/Live/ads_mad3_edit/flash/index.xml
+- Assets/Live/ads_mad3_edit/ads_mad3_edit.xml
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_visualization.xml
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_assets.xml
+- Assets/Live/ads_mad3_edit/flash/ads_mad3_edit_icon_a.png
+Dependencies: []

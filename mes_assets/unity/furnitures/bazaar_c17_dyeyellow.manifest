@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1070111162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d194e62acaf706039e4cbe6d59813e3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_icon_a.png
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_assets.xml
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_64_sd_0_0.png
+- Assets/Live/bazaar_c17_dyeyellow/bazaar_c17_dyeyellow.xml
+- Assets/Live/bazaar_c17_dyeyellow/flash/manifest.xml
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_64_a_0_0.png
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_visualization.xml
+- Assets/Live/bazaar_c17_dyeyellow/flash/bazaar_c17_dyeyellow_logic.xml
+- Assets/Live/bazaar_c17_dyeyellow/flash/index.xml
+Dependencies: []

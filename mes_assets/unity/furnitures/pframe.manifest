@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 807696363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbf408f00503729ea0db0bcf60d375e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pframe/flash/manifest.xml
+- Assets/Live/pframe/flash/pframe_64_a_0_0.png
+- Assets/Live/pframe/pframe.xml
+- Assets/Live/pframe/flash/pframe_64_b_0_1.png
+- Assets/Live/pframe/flash/pframe_icon_a.png
+- Assets/Live/pframe/flash/pframe_logic.xml
+- Assets/Live/pframe/flash/pframe_assets.xml
+- Assets/Live/pframe/flash/index.xml
+- Assets/Live/pframe/flash/pframe_64_b_0_2.png
+- Assets/Live/pframe/flash/pframe_64_b_0_0.png
+- Assets/Live/pframe/flash/pframe_64_sd_0_0.png
+- Assets/Live/pframe/flash/pframe_visualization.xml
+Dependencies: []

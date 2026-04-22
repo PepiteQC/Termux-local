@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1841492956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 316a6341e125d60540a6b7f309580d52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val11_playa/flash/manifest.xml
+- Assets/Live/val11_playa/flash/val11_playa_assets.xml
+- Assets/Live/val11_playa/flash/val11_playa_icon_a.png
+- Assets/Live/val11_playa/flash/index.xml
+- Assets/Live/val11_playa/flash/val11_playa_logic.xml
+- Assets/Live/val11_playa/flash/val11_playa_64_a_0_0.png
+- Assets/Live/val11_playa/flash/val11_playa_visualization.xml
+- Assets/Live/val11_playa/flash/val11_playa_64_a_0_3.png
+- Assets/Live/val11_playa/val11_playa.xml
+- Assets/Live/val11_playa/flash/val11_playa_64_a_0_2.png
+- Assets/Live/val11_playa/flash/val11_playa_64_a_0_1.png
+Dependencies: []

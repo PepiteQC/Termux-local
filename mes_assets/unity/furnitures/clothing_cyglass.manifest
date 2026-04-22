@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4160956620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94978b7e4930a1e26f5e8d49866887e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_icon_a.png
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_0.png
+- Assets/Live/clothing_cyglass/clothing_cyglass.xml
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_4.png
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_assets.xml
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_1.png
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_visualization.xml
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_logic.xml
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_3.png
+- Assets/Live/clothing_cyglass/flash/manifest.xml
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_5.png
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_a_0_2.png
+- Assets/Live/clothing_cyglass/flash/clothing_cyglass_64_sd_0_0.png
+- Assets/Live/clothing_cyglass/flash/index.xml
+Dependencies: []

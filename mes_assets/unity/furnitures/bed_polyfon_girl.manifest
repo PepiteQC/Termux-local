@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2420091350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 327afafea3694b76617a71f8f3d1f923
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_sd_0_0.png
+- Assets/Live/bed_polyfon_girl/flash/manifest.xml
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_b_0_0.png
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_c_0_0.png
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_logic.xml
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_icon_b.png
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_icon_a.png
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_visualization.xml
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_d_0_0.png
+- Assets/Live/bed_polyfon_girl/bed_polyfon_girl.xml
+- Assets/Live/bed_polyfon_girl/flash/index.xml
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_assets.xml
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_sd_2_0.png
+- Assets/Live/bed_polyfon_girl/flash/bed_polyfon_girl_64_a_0_0.png
+Dependencies: []

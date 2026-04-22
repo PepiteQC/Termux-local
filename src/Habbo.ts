@@ -46,7 +46,6 @@ export default class Habbo {
 
 		const { w: width, h: height } = measure()
 
-		this.application = new Application()
 		await this.application.init({
 			width,
 			height,
@@ -55,8 +54,12 @@ export default class Habbo {
 			backgroundAlpha: 0,
 			preference: 'webgl',
 			resolution: window.devicePixelRatio || 1,
-			roundPixels: true
+			roundPixels: true,
+			hello: false
 		})
+
+		// Forcer le mode de mise à l'échelle global pour PixiJS v8
+		this.application.renderer.texture.style.scaleMode = 'nearest'
 
 		this.viewport = new Viewport({
 			screenWidth: width,

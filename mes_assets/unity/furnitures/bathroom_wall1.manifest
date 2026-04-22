@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1574017141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87c14b2ff3ab628d216e4fdf3ad477e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_wall1/flash/manifest.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_64_a_2_0.png
+- Assets/Live/bathroom_wall1/bathroom_wall1.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_64_b_2_0.png
+- Assets/Live/bathroom_wall1/flash/index.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_64_a_4_0.png
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_visualization.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_logic.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_64_b_4_0.png
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_assets.xml
+- Assets/Live/bathroom_wall1/flash/bathroom_wall1_icon_a.png
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1186018075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b015ca8409ee0047a1163b2c5774a92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_6.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_2.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_logic.xml
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_3.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_icon_a.png
+- Assets/Live/snowb_snowpuff/snowb_snowpuff.xml
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_1.png
+- Assets/Live/snowb_snowpuff/flash/index.xml
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_4.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_7.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_visualization.xml
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_10.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_9.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_0.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_0.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_assets.xml
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_2.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_3.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_4.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_1.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_a_2_5.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_5.png
+- Assets/Live/snowb_snowpuff/flash/snowb_snowpuff_64_b_2_8.png
+- Assets/Live/snowb_snowpuff/flash/manifest.xml
+Dependencies: []

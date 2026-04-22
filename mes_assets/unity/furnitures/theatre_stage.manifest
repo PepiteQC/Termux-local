@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3791543231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5856670ab2762f09160cd2cd1e7ca0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_3.png
+- Assets/Live/theatre_stage/flash/theatre_stage_logic.xml
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_0.png
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_1.png
+- Assets/Live/theatre_stage/flash/theatre_stage_assets.xml
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_2.png
+- Assets/Live/theatre_stage/flash/index.xml
+- Assets/Live/theatre_stage/flash/manifest.xml
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_5.png
+- Assets/Live/theatre_stage/flash/theatre_stage_64_a_0_4.png
+- Assets/Live/theatre_stage/flash/theatre_stage_visualization.xml
+- Assets/Live/theatre_stage/theatre_stage.xml
+- Assets/Live/theatre_stage/flash/theatre_stage_icon_a.png
+Dependencies: []

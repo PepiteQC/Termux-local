@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3092912947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aac4125766615aed9b48678e2d9a02e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xm09_trophy/xm09_trophy.xml
+- Assets/Live/xm09_trophy/flash/manifest.xml
+- Assets/Live/xm09_trophy/flash/xm09_trophy_visualization.xml
+- Assets/Live/xm09_trophy/flash/xm09_trophy_logic.xml
+- Assets/Live/xm09_trophy/flash/xm09_trophy_64_a_2_0.png
+- Assets/Live/xm09_trophy/flash/xm09_trophy_64_b_2_0.png
+- Assets/Live/xm09_trophy/flash/index.xml
+- Assets/Live/xm09_trophy/flash/xm09_trophy_icon_a.png
+- Assets/Live/xm09_trophy/flash/xm09_trophy_64_b_4_0.png
+- Assets/Live/xm09_trophy/flash/xm09_trophy_64_c_4_0.png
+- Assets/Live/xm09_trophy/flash/xm09_trophy_64_c_2_0.png
+- Assets/Live/xm09_trophy/flash/xm09_trophy_assets.xml
+Dependencies: []

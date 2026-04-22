@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 453818242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c822d78f742f0520a7a48c2b3f22b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_sd_6_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_a_4_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_a_0_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_logic.xml
+- Assets/Live/easter_c20_kayak/flash/index.xml
+- Assets/Live/easter_c20_kayak/flash/manifest.xml
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_assets.xml
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_sd_4_0.png
+- Assets/Live/easter_c20_kayak/easter_c20_kayak.xml
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_visualization.xml
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_b_0_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_sd_0_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_b_6_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_a_6_0.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_icon_a.png
+- Assets/Live/easter_c20_kayak/flash/easter_c20_kayak_64_b_4_0.png
+Dependencies: []

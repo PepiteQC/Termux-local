@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1889058891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8521b0ee6f0fcd418469370c2f077060
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_a_2_1.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_2.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_logic.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_3.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_d_2_1.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_c_2_1.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_a_2_0.png
+- Assets/Live/hween_c15_telewire/hween_c15_telewire.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_sd_2_0.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_visualization.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_d_2_3.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_1.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_d_2_4.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_d_2_0.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_d_2_2.png
+- Assets/Live/hween_c15_telewire/flash/manifest.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_assets.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_c_2_4.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_icon_a.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_6.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_b_2_0.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_5.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_b_2_1.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_c_2_3.png
+- Assets/Live/hween_c15_telewire/flash/index.xml
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_c_2_2.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_e_2_4.png
+- Assets/Live/hween_c15_telewire/flash/hween_c15_telewire_64_c_2_0.png
+Dependencies: []

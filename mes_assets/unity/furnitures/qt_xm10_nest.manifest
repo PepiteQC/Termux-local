@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2466698900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 319d0701021a03efdfa199e064a33708
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/qt_xm10_nest/flash/qt_xm10_nest_visualization.xml
+- Assets/Live/qt_xm10_nest/flash/qt_xm10_nest_icon_a.png
+- Assets/Live/qt_xm10_nest/flash/qt_xm10_nest_64_a_2_0.png
+- Assets/Live/qt_xm10_nest/flash/manifest.xml
+- Assets/Live/qt_xm10_nest/qt_xm10_nest.xml
+- Assets/Live/qt_xm10_nest/flash/qt_xm10_nest_logic.xml
+- Assets/Live/qt_xm10_nest/flash/index.xml
+- Assets/Live/qt_xm10_nest/flash/qt_xm10_nest_assets.xml
+Dependencies: []

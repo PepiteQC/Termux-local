@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1339409435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05b54efb82173b93fb9d7e83f3e53666
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_b_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_b_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_c_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_logic.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_assets.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_c_0_1.png
+- Assets/Live/ads_calip_parasol/ads_calip_parasol.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_d_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_a_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_e_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/manifest.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_d_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_d_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_c_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_a_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_assets.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_b_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_e_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_b_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_visualization.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/manifest.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_e_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_c_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_b_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_c_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_c_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_a_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_a_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_icon_a.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_b_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_d_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_icon_a.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_a_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_e_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_64_e_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_logic.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/index.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/index.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_e_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_visualization.xml
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_d_0_1.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol/ads_calip_parasol_64_d_0_0.png
+- Assets/Live/ads_calip_parasol/flash/ads_calip_parasol_cmp/ads_calip_parasol_cmp_32_a_0_0.png
+Dependencies: []

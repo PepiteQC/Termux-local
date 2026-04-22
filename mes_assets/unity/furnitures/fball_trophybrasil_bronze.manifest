@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 839105327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: faf389d0be3ea23f619f5555bb221cef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_assets.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_visualization.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_logic.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_64_a_0_0.png
+- Assets/Live/fball_trophybrasil_bronze/fball_trophybrasil_bronze.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/manifest.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_64_sd_0_0.png
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_icon_a.png
+- Assets/Live/fball_trophybrasil_bronze/flash/index.xml
+- Assets/Live/fball_trophybrasil_bronze/flash/fball_trophybrasil_bronze_64_b_0_0.png
+Dependencies: []

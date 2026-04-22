@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2147100282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5cf21d0dee0147583ae90434da194cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c16_chair/hween_c16_chair.xml
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_b_6_0.png
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_assets.xml
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_sd_6_0.png
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_a_2_0.png
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_icon_a.png
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_visualization.xml
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_logic.xml
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_b_2_0.png
+- Assets/Live/hween_c16_chair/flash/manifest.xml
+- Assets/Live/hween_c16_chair/flash/index.xml
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_a_6_0.png
+- Assets/Live/hween_c16_chair/flash/hween_c16_chair_64_sd_2_0.png
+Dependencies: []

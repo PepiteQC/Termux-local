@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1908685631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 741534991ed716dcaa89356820a30667
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wintercabin_c19_cabinrug/flash/index.xml
+- Assets/Live/wintercabin_c19_cabinrug/flash/wintercabin_c19_cabinrug_64_a_0_0.png
+- Assets/Live/wintercabin_c19_cabinrug/flash/wintercabin_c19_cabinrug_icon_a.png
+- Assets/Live/wintercabin_c19_cabinrug/flash/manifest.xml
+- Assets/Live/wintercabin_c19_cabinrug/flash/wintercabin_c19_cabinrug_visualization.xml
+- Assets/Live/wintercabin_c19_cabinrug/flash/wintercabin_c19_cabinrug_logic.xml
+- Assets/Live/wintercabin_c19_cabinrug/wintercabin_c19_cabinrug.xml
+- Assets/Live/wintercabin_c19_cabinrug/flash/wintercabin_c19_cabinrug_assets.xml
+Dependencies: []

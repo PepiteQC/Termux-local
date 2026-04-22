@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2833016407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d2a0f53a7fa337eeb7191e8ecef2ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_6.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_visualization.xml
+- Assets/Live/rare_r20_corgi/rare_r20_corgi.xml
+- Assets/Live/rare_r20_corgi/flash/manifest.xml
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_logic.xml
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_1.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_11.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_3.png
+- Assets/Live/rare_r20_corgi/flash/index.xml
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_7.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_5.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_2.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_4.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_assets.xml
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_sd_0_0.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_0.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_8.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_9.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_64_a_0_10.png
+- Assets/Live/rare_r20_corgi/flash/rare_r20_corgi_icon_a.png
+Dependencies: []

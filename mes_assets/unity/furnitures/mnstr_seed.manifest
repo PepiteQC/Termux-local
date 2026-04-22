@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3765608481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16287810a9f904c6728d88a2117c3d49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/mnstr_seed/flash/index.xml
+- Assets/Live/mnstr_seed/flash/mnstr_seed_assets.xml
+- Assets/Live/mnstr_seed/flash/manifest.xml
+- Assets/Live/mnstr_seed/mnstr_seed.xml
+- Assets/Live/mnstr_seed/flash/mnstr_seed_64_a_0_0.png
+- Assets/Live/mnstr_seed/flash/mnstr_seed_visualization.xml
+- Assets/Live/mnstr_seed/flash/mnstr_seed_logic.xml
+- Assets/Live/mnstr_seed/flash/mnstr_seed_icon_a.png
+Dependencies: []

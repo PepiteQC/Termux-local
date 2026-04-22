@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2109850298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 953ef12339f93f5d7c987294c6dca7e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_visualization.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_icon_a.png
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_64_sd_2_0.png
+- Assets/Live/valentines_lovelock5/flash/manifest.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_assets.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_64_sd_2_1.png
+- Assets/Live/valentines_lovelock5/valentines_lovelock5.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_64_a_2_0.png
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock_starblue_ic.png
+- Assets/Live/valentines_lovelock5/flash/index.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_64_a_2_1.png
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock5_logic.xml
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock_starblue_64.png
+- Assets/Live/valentines_lovelock5/flash/valentines_lovelock_starblue_32.png
+Dependencies: []

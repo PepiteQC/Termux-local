@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1064275506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c800ec3bb33d2663e0a54deeb97cae64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_spiderman_trophy/ads_spiderman_trophy.xml
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_64_a_2_0.png
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_visualization.xml
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_logic.xml
+- Assets/Live/ads_spiderman_trophy/flash/manifest.xml
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_icon_a.png
+- Assets/Live/ads_spiderman_trophy/flash/index.xml
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_64_a_4_0.png
+- Assets/Live/ads_spiderman_trophy/flash/ads_spiderman_trophy_assets.xml
+Dependencies: []

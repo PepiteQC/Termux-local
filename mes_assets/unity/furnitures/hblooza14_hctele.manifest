@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 845759937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96702ee178e0e36928494f5e10a71073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_c_4_3.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_logic.xml
+- Assets/Live/hblooza14_hctele/hblooza14_hctele.xml
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_5.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_1.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_b_4_0.png
+- Assets/Live/hblooza14_hctele/flash/manifest.xml
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_visualization.xml
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_icon_a.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_assets.xml
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_4.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_c_4_2.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_3.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_0.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_c_4_0.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_d_4_2.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_a_4_0.png
+- Assets/Live/hblooza14_hctele/flash/hblooza14_hctele_64_c_4_1.png
+- Assets/Live/hblooza14_hctele/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 540024996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1efd7e5327bcf024223199bfb530fa3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_64_a_4_0.png
+- Assets/Live/hc_exe_cubelight/flash/index.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_icon_a.png
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_64_c_4_2.png
+- Assets/Live/hc_exe_cubelight/flash/manifest.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_logic.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_assets.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_visualization.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_64_c_4_0.png
+- Assets/Live/hc_exe_cubelight/hc_exe_cubelight.xml
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_64_b_4_0.png
+- Assets/Live/hc_exe_cubelight/flash/hc_exe_cubelight_64_c_4_1.png
+Dependencies: []

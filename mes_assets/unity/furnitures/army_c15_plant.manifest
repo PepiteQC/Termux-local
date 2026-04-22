@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2423507630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4ca525b448b569209380c3496bc1f05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_plant/flash/army_c15_plant_visualization.xml
+- Assets/Live/army_c15_plant/flash/army_c15_plant_64_a_2_0.png
+- Assets/Live/army_c15_plant/flash/army_c15_plant_64_sd_2_0.png
+- Assets/Live/army_c15_plant/flash/army_c15_plant_assets.xml
+- Assets/Live/army_c15_plant/flash/army_c15_plant_logic.xml
+- Assets/Live/army_c15_plant/flash/army_c15_plant_icon_a.png
+- Assets/Live/army_c15_plant/army_c15_plant.xml
+- Assets/Live/army_c15_plant/flash/index.xml
+- Assets/Live/army_c15_plant/flash/manifest.xml
+Dependencies: []

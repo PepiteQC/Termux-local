@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2044366324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08333fe3c59c2d0d1b3014d9dce79607
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_64_a_0_0.png
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_64_sd_0_0.png
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_icon_a.png
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_assets.xml
+- Assets/Live/pixel_carpet_green/flash/manifest.xml
+- Assets/Live/pixel_carpet_green/flash/index.xml
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_64_sd_a_0_0.png
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_logic.xml
+- Assets/Live/pixel_carpet_green/pixel_carpet_green.xml
+- Assets/Live/pixel_carpet_green/flash/pixel_carpet_green_visualization.xml
+Dependencies: []

@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 762965502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 710274ee504ac0976e620b39c0d77790
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_38.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_icon_a.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_76.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_16.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_71.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_19.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_66.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_21.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_40.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_78.png
+- Assets/Live/darkmodern_c20_hoomba/darkmodern_c20_hoomba.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_37.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_56.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_0.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_67.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_47.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_69.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_45.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_42.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_36.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_7.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_75.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_2.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_logic.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_34.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_52.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_14.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_63.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_15.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_35.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_48.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_49.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_5.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_29.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_51.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_30.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_assets.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_70.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_55.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_25.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_74.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_33.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_6.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_57.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_18.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_41.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_26.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_visualization.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_20.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_32.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_8.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_24.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_9.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_53.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_46.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_44.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_77.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_4.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_64.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_61.png
+- Assets/Live/darkmodern_c20_hoomba/flash/manifest.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_17.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_73.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_39.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_28.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_10.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_13.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_72.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_11.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_43.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_59.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_50.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_3.png
+- Assets/Live/darkmodern_c20_hoomba/flash/index.xml
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_22.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_23.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_62.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_58.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_1.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_27.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_68.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_60.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_12.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_65.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_54.png
+- Assets/Live/darkmodern_c20_hoomba/flash/darkmodern_c20_hoomba_64_a_0_31.png
+Dependencies: []

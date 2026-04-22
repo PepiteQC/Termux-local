@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 966694241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dce104fb1db9722175b8975167dcaf7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_nt_shortscarf/flash/clothing_nt_shortscarf_icon_a.png
+- Assets/Live/clothing_nt_shortscarf/flash/clothing_nt_shortscarf_64_a_0_0.png
+- Assets/Live/clothing_nt_shortscarf/flash/manifest.xml
+- Assets/Live/clothing_nt_shortscarf/flash/clothing_nt_shortscarf_visualization.xml
+- Assets/Live/clothing_nt_shortscarf/flash/clothing_nt_shortscarf_logic.xml
+- Assets/Live/clothing_nt_shortscarf/flash/index.xml
+- Assets/Live/clothing_nt_shortscarf/flash/clothing_nt_shortscarf_assets.xml
+- Assets/Live/clothing_nt_shortscarf/clothing_nt_shortscarf.xml
+Dependencies: []

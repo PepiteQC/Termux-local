@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1758764047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a9f2f26a197ec950ad22241561ebbf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/pirate_crate/flash/pirate_crate_64_sd_0_0.png
+- Assets/Live/pirate_crate/flash/pirate_crate_64_a_0_0.png
+- Assets/Live/pirate_crate/flash/pirate_crate_logic.xml
+- Assets/Live/pirate_crate/flash/pirate_crate_icon_a.png
+- Assets/Live/pirate_crate/flash/pirate_crate_assets.xml
+- Assets/Live/pirate_crate/flash/manifest.xml
+- Assets/Live/pirate_crate/pirate_crate.xml
+- Assets/Live/pirate_crate/flash/index.xml
+- Assets/Live/pirate_crate/flash/pirate_crate_visualization.xml
+Dependencies: []

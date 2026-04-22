@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2133508574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e857724af318fad1990ccbea8c348aec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc2_barchair/flash/hc2_barchair_visualization.xml
+- Assets/Live/hc2_barchair/flash/hc2_barchair_64_b_0_0.png
+- Assets/Live/hc2_barchair/flash/hc2_barchair_64_a_0_0.png
+- Assets/Live/hc2_barchair/flash/hc2_barchair_logic.xml
+- Assets/Live/hc2_barchair/flash/hc2_barchair_64_a_2_0.png
+- Assets/Live/hc2_barchair/flash/index.xml
+- Assets/Live/hc2_barchair/hc2_barchair.xml
+- Assets/Live/hc2_barchair/flash/hc2_barchair_64_b_2_0.png
+- Assets/Live/hc2_barchair/flash/manifest.xml
+- Assets/Live/hc2_barchair/flash/hc2_barchair_icon_a.png
+- Assets/Live/hc2_barchair/flash/hc2_barchair_assets.xml
+Dependencies: []

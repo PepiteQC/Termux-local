@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1353028657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ef487fea35e2dc72728e5872570b76b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_sd_4_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_b_2_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_d_6_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_d_4_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_b_6_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_visualization.xml
+- Assets/Live/urban_carsofa/flash/manifest.xml
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_sd_0_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_sd_2_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_icon_a.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_a_2_0.png
+- Assets/Live/urban_carsofa/flash/index.xml
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_c_2_0.png
+- Assets/Live/urban_carsofa/urban_carsofa.xml
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_a_6_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_c_6_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_sd_6_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_64_c_4_0.png
+- Assets/Live/urban_carsofa/flash/urban_carsofa_logic.xml
+- Assets/Live/urban_carsofa/flash/urban_carsofa_assets.xml
+Dependencies: []

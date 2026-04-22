@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 599107909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a292a501c9d3e4dab183c1d6e71b6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_tiger/flash/china_tiger_visualization.xml
+- Assets/Live/china_tiger/flash/china_tiger_assets.xml
+- Assets/Live/china_tiger/china_tiger.xml
+- Assets/Live/china_tiger/flash/china_tiger_icon_a.png
+- Assets/Live/china_tiger/flash/china_tiger_64_b_6_0.png
+- Assets/Live/china_tiger/flash/china_tiger_logic.xml
+- Assets/Live/china_tiger/flash/manifest.xml
+- Assets/Live/china_tiger/flash/china_tiger_64_a_4_0.png
+- Assets/Live/china_tiger/flash/china_tiger_64_b_4_0.png
+- Assets/Live/china_tiger/flash/china_tiger_64_a_6_0.png
+- Assets/Live/china_tiger/flash/index.xml
+Dependencies: []

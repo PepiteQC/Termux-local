@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 602215702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ae17fec63f754f83db75d2253086dd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_9.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_16.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_7.png
+- Assets/Live/xmas_c18_doll2/flash/index.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_2.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_8.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_4.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_5.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_13.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_15.png
+- Assets/Live/xmas_c18_doll2/flash/manifest.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_11.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_sd_0_0.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_3.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_icon_a.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_visualization.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_14.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_0.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_12.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_assets.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_10.png
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_6.png
+- Assets/Live/xmas_c18_doll2/xmas_c18_doll2.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_logic.xml
+- Assets/Live/xmas_c18_doll2/flash/xmas_c18_doll2_64_a_0_1.png
+Dependencies: []

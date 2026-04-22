@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 433830131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b2c7045bc02a51cc1a3696f3f28d5d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween11_dish4/hween11_dish4.xml
+- Assets/Live/hween11_dish4/flash/manifest.xml
+- Assets/Live/hween11_dish4/flash/hween11_dish4_icon_a.png
+- Assets/Live/hween11_dish4/flash/hween11_dish4_64_a_0_0.png
+- Assets/Live/hween11_dish4/flash/hween11_dish4_visualization.xml
+- Assets/Live/hween11_dish4/flash/hween11_dish4_assets.xml
+- Assets/Live/hween11_dish4/flash/hween11_dish4_64_a_0_1.png
+- Assets/Live/hween11_dish4/flash/index.xml
+- Assets/Live/hween11_dish4/flash/hween11_dish4_logic.xml
+Dependencies: []

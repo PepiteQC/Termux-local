@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 248362842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6643020fba4f69217a22f3358fd78281
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_64_sd_0_0.png
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_64_b_0_0.png
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_visualization.xml
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_64_a_0_0.png
+- Assets/Live/room_noob_barchair/flash/manifest.xml
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_assets.xml
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_icon_a.png
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_logic.xml
+- Assets/Live/room_noob_barchair/flash/room_noob_barchair_64_b_0_1.png
+- Assets/Live/room_noob_barchair/room_noob_barchair.xml
+- Assets/Live/room_noob_barchair/flash/index.xml
+Dependencies: []

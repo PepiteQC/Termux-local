@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2450715094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caaf8d5c68701412cc4af16087372a4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_assets.xml
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_9.png
+- Assets/Live/room_gh15_rtele/room_gh15_rtele.xml
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_logic.xml
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_a_0_0.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_7.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_8.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_4.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_a_2_0.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_3.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_10.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_2.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_0.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_6.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_icon_a.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_1.png
+- Assets/Live/room_gh15_rtele/flash/manifest.xml
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_11.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_64_b_0_5.png
+- Assets/Live/room_gh15_rtele/flash/room_gh15_rtele_visualization.xml
+- Assets/Live/room_gh15_rtele/flash/index.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 150776698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a107c9ac4a5b5f73a28522bc8d1e959d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_64_a_0_0.png
+- Assets/Live/steampunk_table_2/steampunk_table_2.xml
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_64_sd_0_0.png
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_icon_a.png
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_64_b_0_0.png
+- Assets/Live/steampunk_table_2/flash/index.xml
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_visualization.xml
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_64_c_0_0.png
+- Assets/Live/steampunk_table_2/flash/manifest.xml
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_assets.xml
+- Assets/Live/steampunk_table_2/flash/steampunk_table_2_logic.xml
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1389696720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0992247ad36e59eb029d75f6a0b2008
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/toilet/flash/index.xml
+- Assets/Live/toilet/flash/toilet_64_b_6_1.png
+- Assets/Live/toilet/flash/toilet_icon_a.png
+- Assets/Live/toilet/flash/toilet_64_sd_0_0.png
+- Assets/Live/toilet/flash/manifest.xml
+- Assets/Live/toilet/flash/toilet_64_a_6_1.png
+- Assets/Live/toilet/flash/toilet_64_a_6_0.png
+- Assets/Live/toilet/flash/toilet_64_a_4_0.png
+- Assets/Live/toilet/flash/toilet_logic.xml
+- Assets/Live/toilet/toilet.xml
+- Assets/Live/toilet/flash/toilet_64_b_4_1.png
+- Assets/Live/toilet/flash/toilet_visualization.xml
+- Assets/Live/toilet/flash/toilet_64_a_4_1.png
+- Assets/Live/toilet/flash/toilet_64_b_4_0.png
+- Assets/Live/toilet/flash/toilet_assets.xml
+- Assets/Live/toilet/flash/toilet_64_b_6_0.png
+Dependencies: []

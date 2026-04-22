@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4054037107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ce72a754512a1d7894179ea03775162
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/classic9_floor2/flash/manifest.xml
+- Assets/Live/classic9_floor2/flash/classic9_floor2_visualization.xml
+- Assets/Live/classic9_floor2/flash/classic9_floor2_64_a_0_0.png
+- Assets/Live/classic9_floor2/classic9_floor2.xml
+- Assets/Live/classic9_floor2/flash/Layer 1 copy.png
+- Assets/Live/classic9_floor2/flash/index.xml
+- Assets/Live/classic9_floor2/flash/classic9_floor2_64_b_0_0.png
+- Assets/Live/classic9_floor2/flash/classic9_floor2_logic.xml
+- Assets/Live/classic9_floor2/flash/classic9_floor2_icon_a.png
+- Assets/Live/classic9_floor2/flash/classic9_floor2_assets.xml
+Dependencies: []

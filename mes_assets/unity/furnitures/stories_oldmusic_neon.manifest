@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2998819689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d1be720727c3e1ae07612ef7fef1fc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_6.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_a_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_3.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_7.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_3.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_logic.xml
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_sd_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_b_2_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_6.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_3.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_9.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_7.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_b_4_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_9.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_d_2_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_sd_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_3.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_8.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_5.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_5.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_4.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_b_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_b_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_2.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_6.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_2.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_4.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_5.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_d_4_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_8.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_8.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_visualization.xml
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_icon_a.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_d_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_7.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_7.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_assets.xml
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_2.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_5.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_2.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_6.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_4.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_1.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_9.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_e_4_8.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_4_9.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_4.png
+- Assets/Live/stories_oldmusic_neon/stories_oldmusic_neon.xml
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_d_4_0.png
+- Assets/Live/stories_oldmusic_neon/flash/manifest.xml
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_c_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/stories_oldmusic_neon_64_a_2_0.png
+- Assets/Live/stories_oldmusic_neon/flash/index.xml
+Dependencies: []

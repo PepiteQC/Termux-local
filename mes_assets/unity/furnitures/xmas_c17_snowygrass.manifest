@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3328374706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3beb4ab01fbb4a40140674edd3b765f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_logic.xml
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_visualization.xml
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_icon_a.png
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_64_b_0_0.png
+- Assets/Live/xmas_c17_snowygrass/flash/manifest.xml
+- Assets/Live/xmas_c17_snowygrass/xmas_c17_snowygrass.xml
+- Assets/Live/xmas_c17_snowygrass/flash/index.xml
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_64_a_0_0.png
+- Assets/Live/xmas_c17_snowygrass/flash/xmas_c17_snowygrass_assets.xml
+Dependencies: []

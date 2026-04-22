@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 429466279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86ebc11643a50e7a9a4dd0af99db6a9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/lido_chair/flash/lido_chair_assets.xml
+- Assets/Live/lido_chair/flash/lido_chair_icon_a.png
+- Assets/Live/lido_chair/flash/lido_chair_64_a_2_0.png
+- Assets/Live/lido_chair/flash/index.xml
+- Assets/Live/lido_chair/lido_chair.xml
+- Assets/Live/lido_chair/flash/lido_chair_logic.xml
+- Assets/Live/lido_chair/flash/lido_chair_64_b_2_0.png
+- Assets/Live/lido_chair/flash/lido_chair_visualization.xml
+- Assets/Live/lido_chair/flash/lido_chair_64_sd_0_0.png
+- Assets/Live/lido_chair/flash/manifest.xml
+- Assets/Live/lido_chair/flash/lido_chair_64_a_0_0.png
+- Assets/Live/lido_chair/flash/lido_chair_64_b_0_0.png
+Dependencies: []

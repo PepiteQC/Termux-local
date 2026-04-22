@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1727287223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2218e51c6ca3108624993bf41bfde9b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_visualization.xml
+- Assets/Live/bazaar_c17_pillowblue/bazaar_c17_pillowblue.xml
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_logic.xml
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_64_a_2_0.png
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_64_a_6_0.png
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_64_sd_6_0.png
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_64_sd_2_0.png
+- Assets/Live/bazaar_c17_pillowblue/flash/manifest.xml
+- Assets/Live/bazaar_c17_pillowblue/flash/index.xml
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_assets.xml
+- Assets/Live/bazaar_c17_pillowblue/flash/bazaar_c17_pillowblue_icon_a.png
+Dependencies: []

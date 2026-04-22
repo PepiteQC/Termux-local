@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4040171195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51857b95258275848389d5ce3a0a5cfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wl15_sink/flash/index.xml
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_a_2_0.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_6_0.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_6_3.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_6_1.png
+- Assets/Live/room_wl15_sink/room_wl15_sink.xml
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_visualization.xml
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_logic.xml
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_icon_a.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_2_1.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_2_3.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_a_6_0.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_2_2.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_assets.xml
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_6_2.png
+- Assets/Live/room_wl15_sink/flash/room_wl15_sink_64_b_2_0.png
+- Assets/Live/room_wl15_sink/flash/manifest.xml
+Dependencies: []

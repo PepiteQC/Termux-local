@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 494441678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 860bca4fd4c12548da123297e1e12fa3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_64_b_0_0.png
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_visualization.xml
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_assets.xml
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_logic.xml
+- Assets/Live/prizetrophy_breed/flash/index.xml
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_64_c_0_0.png
+- Assets/Live/prizetrophy_breed/flash/manifest.xml
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_icon_a.png
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_64_sd_0_0.png
+- Assets/Live/prizetrophy_breed/flash/prizetrophy_breed_64_a_0_0.png
+- Assets/Live/prizetrophy_breed/prizetrophy_breed.xml
+Dependencies: []

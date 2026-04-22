@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2734959889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf672eb65a9c9c4766ccc9c6b4bc748f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_120_sapphire_small/CF_120_sapphire_small.xml
+- Assets/Live/CF_120_sapphire_small/flash/CF_120_sapphire_small_64_a_0_0.png
+- Assets/Live/CF_120_sapphire_small/flash/CF_120_sapphire_small_logic.xml
+- Assets/Live/CF_120_sapphire_small/flash/CF_120_sapphire_small_visualization.xml
+- Assets/Live/CF_120_sapphire_small/flash/CF_120_sapphire_small_icon_a.png
+- Assets/Live/CF_120_sapphire_small/flash/manifest.xml
+- Assets/Live/CF_120_sapphire_small/flash/CF_120_sapphire_small_assets.xml
+- Assets/Live/CF_120_sapphire_small/flash/index.xml
+Dependencies: []

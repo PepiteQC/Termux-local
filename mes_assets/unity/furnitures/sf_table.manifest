@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1176705942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d231f13c5e1630be40e33934d0bc4c73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/SF_table/flash/SF_table_64_a_0_0.png
+- Assets/Live/SF_table/flash/SF_table_icon_a.png
+- Assets/Live/SF_table/SF_table.xml
+- Assets/Live/SF_table/flash/SF_table_64_c_0_1.png
+- Assets/Live/SF_table/flash/SF_table_64_f_0_0.png
+- Assets/Live/SF_table/flash/SF_table_assets.xml
+- Assets/Live/SF_table/flash/SF_table_64_e_0_1.png
+- Assets/Live/SF_table/flash/SF_table_64_b_0_0.png
+- Assets/Live/SF_table/flash/SF_table_64_sd_0_0.png
+- Assets/Live/SF_table/flash/SF_table_visualization.xml
+- Assets/Live/SF_table/flash/index.xml
+- Assets/Live/SF_table/flash/SF_table_64_a_0_1.png
+- Assets/Live/SF_table/flash/SF_table_64_b_0_1.png
+- Assets/Live/SF_table/flash/manifest.xml
+- Assets/Live/SF_table/flash/SF_table_logic.xml
+- Assets/Live/SF_table/flash/SF_table_64_f_0_1.png
+- Assets/Live/SF_table/flash/SF_table_64_d_0_1.png
+- Assets/Live/SF_table/flash/SF_table_64_c_0_0.png
+- Assets/Live/SF_table/flash/SF_table_64_e_0_0.png
+- Assets/Live/SF_table/flash/SF_table_64_d_0_0.png
+Dependencies: []

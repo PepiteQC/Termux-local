@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2128981568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb0ca1c8bdd125310bb67ce4ebbb1b9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 917e1bed46d49393a1e427c1f3c79b6a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sound_set_12/flash/manifest.xml
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_104.mp3
+- Assets/Live/sound_set_12/flash/sound_set_12_visualization.xml
+- Assets/Live/sound_set_12/sound_set_12.xml
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_105.mp3
+- Assets/Live/sound_set_12/flash/sound_set_12_64_a_0_0.png
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_106.mp3
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_101.mp3
+- Assets/Live/sound_set_12/flash/index.xml
+- Assets/Live/sound_set_12/flash/sound_set_12_logic.xml
+- Assets/Live/sound_set_12/flash/sound_set_12_icon_a.png
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_102.mp3
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_107.mp3
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_103.mp3
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_108.mp3
+- Assets/Live/sound_set_12/mp3/sound_machine_sample_100.mp3
+- Assets/Live/sound_set_12/flash/sound_set_12_assets.xml
+Dependencies: []

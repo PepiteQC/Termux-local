@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1355372283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4f9534580ecc324596c3c211c09ba97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/teddy_pendergrass/flash/manifest.xml
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_assets.xml
+- Assets/Live/teddy_pendergrass/teddy_pendergrass.xml
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_64_a_2_0.png
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_logic.xml
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_64_sd_2_0.png
+- Assets/Live/teddy_pendergrass/flash/index.xml
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_64_a_2_1.png
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_icon_a.png
+- Assets/Live/teddy_pendergrass/flash/teddy_pendergrass_visualization.xml
+Dependencies: []

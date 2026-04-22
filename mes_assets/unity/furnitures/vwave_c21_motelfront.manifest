@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3664385817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d2b50ee5999a67e14b1db818bb0a7b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vwave_c21_motelfront/flash/index.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_f_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_sd_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_2_1.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_icon_a.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_4_3.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_assets.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_2_1.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_logic.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_4_2.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_4_3.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_e_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_2_2.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_2_4.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_2_4.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_2_3.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_4_4.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_visualization.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_b_2_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_4_2.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_sd_2_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_4_4.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_a_2_0.png
+- Assets/Live/vwave_c21_motelfront/vwave_c21_motelfront.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_4_1.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_2_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_4_1.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_2_3.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_d_2_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_b_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_c_2_2.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_e_2_0.png
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_a_4_0.png
+- Assets/Live/vwave_c21_motelfront/flash/manifest.xml
+- Assets/Live/vwave_c21_motelfront/flash/vwave_c21_motelfront_64_f_2_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 122439543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6749b17577be59f06ea4c9b5b349538
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_assets.xml
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_visualization.xml
+- Assets/Live/SID_c21_plush/flash/manifest.xml
+- Assets/Live/SID_c21_plush/SID_c21_plush.xml
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_logic.xml
+- Assets/Live/SID_c21_plush/flash/index.xml
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_icon_a.png
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_64_sd_0_0.png
+- Assets/Live/SID_c21_plush/flash/SID_c21_plush_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2435041228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be61910f97f14ee6bb44a6139181612
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/penguin_infected/flash/index.xml
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_11.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_0.png
+- Assets/Live/penguin_infected/penguin_infected.xml
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_1.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_10.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_6.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_8.png
+- Assets/Live/penguin_infected/flash/penguin_infected_assets.xml
+- Assets/Live/penguin_infected/flash/penguin_infected_logic.xml
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_5.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_9.png
+- Assets/Live/penguin_infected/flash/penguin_infected_icon_a.png
+- Assets/Live/penguin_infected/flash/manifest.xml
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_7.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_13.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_12.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_3.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_2.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_a_4_4.png
+- Assets/Live/penguin_infected/flash/penguin_infected_64_sd_4_0.png
+- Assets/Live/penguin_infected/flash/penguin_infected_visualization.xml
+Dependencies: []

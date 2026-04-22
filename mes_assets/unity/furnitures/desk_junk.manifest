@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 558750741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d380863bc293320903396eaa5f69baae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/desk_junk/flash/desk_junk_64_a_6_0.png
+- Assets/Live/desk_junk/flash/desk_junk_icon_a.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_2_2.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_4_1.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_2_0.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_4_2.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_2_1.png
+- Assets/Live/desk_junk/flash/desk_junk_logic.xml
+- Assets/Live/desk_junk/flash/desk_junk_64_a_4_0.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_6_1.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_0_2.png
+- Assets/Live/desk_junk/flash/desk_junk_64_a_0_1.png
+- Assets/Live/desk_junk/flash/desk_junk_visualization.xml
+- Assets/Live/desk_junk/flash/index.xml
+- Assets/Live/desk_junk/flash/desk_junk_64_a_6_2.png
+- Assets/Live/desk_junk/desk_junk.xml
+- Assets/Live/desk_junk/flash/desk_junk_64_a_0_0.png
+- Assets/Live/desk_junk/flash/desk_junk_assets.xml
+- Assets/Live/desk_junk/flash/manifest.xml
+Dependencies: []

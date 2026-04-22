@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2285896935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 497d58dbaab8a03e3065b0f8587dc134
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_4.png
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_1.png
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_5.png
+- Assets/Live/sfx_bells/flash/manifest.xml
+- Assets/Live/sfx_bells/sfx_bells.xml
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_8.png
+- Assets/Live/sfx_bells/flash/index.xml
+- Assets/Live/sfx_bells/flash/sfx_bells_logic.xml
+- Assets/Live/sfx_bells/flash/sfx_bells_assets.xml
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_7.png
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_6.png
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_0.png
+- Assets/Live/sfx_bells/flash/sfx_bells_icon_a.png
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_3.png
+- Assets/Live/sfx_bells/flash/sfx_bells_visualization.xml
+- Assets/Live/sfx_bells/flash/sfx_bells_64_a_0_2.png
+Dependencies: []

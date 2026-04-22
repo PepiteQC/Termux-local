@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 107794169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 237bfcadebab67c4f9cfc554f9d463f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_assets.xml
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_a_2_0.png
+- Assets/Live/ads_mall_wingar/flash/index.xml
+- Assets/Live/ads_mall_wingar/ads_mall_wingar.xml
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_b_4_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_d_4_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_c_4_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_icon_a.png
+- Assets/Live/ads_mall_wingar/flash/manifest.xml
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_b_2_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_e_2_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_a_4_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_logic.xml
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_e_4_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_c_2_0.png
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_visualization.xml
+- Assets/Live/ads_mall_wingar/flash/ads_mall_wingar_64_d_2_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1624697291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2236c4dd567b993f63c6a88cf81ff3b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/nest_with_egg/flash/manifest.xml
+- Assets/Live/nest_with_egg/flash/index.xml
+- Assets/Live/nest_with_egg/flash/nest_with_egg_logic.xml
+- Assets/Live/nest_with_egg/flash/nest_with_egg_visualization.xml
+- Assets/Live/nest_with_egg/flash/nest_with_egg_64_a_0_0.png
+- Assets/Live/nest_with_egg/flash/nest_with_egg_icon_a.png
+- Assets/Live/nest_with_egg/flash/nest_with_egg_assets.xml
+- Assets/Live/nest_with_egg/nest_with_egg.xml
+Dependencies: []

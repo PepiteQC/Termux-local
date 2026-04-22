@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 263676947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69e0387f47af6543910be47c5d0b690f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/art_c20_window/flash/manifest.xml
+- Assets/Live/art_c20_window/flash/art_c20_window_64_a_2_0.png
+- Assets/Live/art_c20_window/flash/art_c20_window_icon_a.png
+- Assets/Live/art_c20_window/art_c20_window.xml
+- Assets/Live/art_c20_window/flash/art_c20_window_64_a_2_1.png
+- Assets/Live/art_c20_window/flash/art_c20_window_visualization.xml
+- Assets/Live/art_c20_window/flash/art_c20_window_assets.xml
+- Assets/Live/art_c20_window/flash/art_c20_window_logic.xml
+- Assets/Live/art_c20_window/flash/index.xml
+- Assets/Live/art_c20_window/flash/art_c20_window_64_a_2_2.png
+Dependencies: []

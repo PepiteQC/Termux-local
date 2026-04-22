@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3667182227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7348215dee504eea94d6696268b8dea1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_logic.xml
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_b_4_1.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_visualization.xml
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_a_4_2.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_b_4_2.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_sd_4_0.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_assets.xml
+- Assets/Live/rainyday_r19_rainbear/rainyday_r19_rainbear.xml
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_icon_a.png
+- Assets/Live/rainyday_r19_rainbear/flash/manifest.xml
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_b_4_3.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_a_4_1.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_a_4_0.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_b_4_4.png
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_a_4_3.png
+- Assets/Live/rainyday_r19_rainbear/flash/index.xml
+- Assets/Live/rainyday_r19_rainbear/flash/rainyday_r19_rainbear_64_b_4_5.png
+Dependencies: []

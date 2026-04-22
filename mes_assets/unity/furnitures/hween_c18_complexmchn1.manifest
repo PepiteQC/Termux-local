@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 2065031251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 489f4d7ba63e8a60970ffff4011b2a5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_icon_a.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_7.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_3.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_e_4_2.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_3.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_f_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_5.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_11.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_d_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_2.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_10.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_7.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_visualization.xml
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_b_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_6.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_assets.xml
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_10.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_b_4_2.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_f_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_e_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_11.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_6.png
+- Assets/Live/hween_c18_complexmchn1/hween_c18_complexmchn1.xml
+- Assets/Live/hween_c18_complexmchn1/flash/index.xml
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_e_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_a_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_b_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_8.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_5.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_9.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_e_4_4.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_i_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_c_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_4.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_f_4_2.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_4.png
+- Assets/Live/hween_c18_complexmchn1/flash/manifest.xml
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_logic.xml
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_1.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_sd_4_0.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_b_4_3.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_9.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_g_4_8.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_e_4_3.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_b_4_4.png
+- Assets/Live/hween_c18_complexmchn1/flash/hween_c18_complexmchn1_64_h_4_2.png
+Dependencies: []

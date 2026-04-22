@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3123389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99170293ddfe0422601c617700a43b31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/india_c20_blueprint/flash/index.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_assets.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_11.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_logic.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_visualization.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_6.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_4.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_3.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_2.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_5.png
+- Assets/Live/india_c20_blueprint/india_c20_blueprint.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_10.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_1.png
+- Assets/Live/india_c20_blueprint/flash/manifest.xml
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_icon_a.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_9.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_8.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_0.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_sd_0_0.png
+- Assets/Live/india_c20_blueprint/flash/india_c20_blueprint_64_a_0_7.png
+Dependencies: []

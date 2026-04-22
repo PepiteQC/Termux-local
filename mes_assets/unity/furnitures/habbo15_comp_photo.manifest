@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 249980716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2825b48d6a56d057481292319ce10d77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_icon_a.png
+- Assets/Live/habbo15_comp_photo/flash/manifest.xml
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_visualization.xml
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_logic.xml
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_64_a_0_0.png
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_64_b_0_0.png
+- Assets/Live/habbo15_comp_photo/flash/habbo15_comp_photo_assets.xml
+- Assets/Live/habbo15_comp_photo/habbo15_comp_photo.xml
+- Assets/Live/habbo15_comp_photo/flash/index.xml
+Dependencies: []

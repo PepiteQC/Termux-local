@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 897458693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c751507dba8e4b29d6a19de02a3a7e8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/china_rooster/flash/china_rooster_visualization.xml
+- Assets/Live/china_rooster/flash/manifest.xml
+- Assets/Live/china_rooster/flash/index.xml
+- Assets/Live/china_rooster/china_rooster.xml
+- Assets/Live/china_rooster/flash/china_rooster_64_sd_0_0.png
+- Assets/Live/china_rooster/flash/china_rooster_64_a_0_0.png
+- Assets/Live/china_rooster/flash/china_rooster_assets.xml
+- Assets/Live/china_rooster/flash/china_rooster_logic.xml
+- Assets/Live/china_rooster/flash/china_rooster_icon_a.png
+Dependencies: []

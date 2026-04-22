@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3519646976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9a226fe45abfb294cd926c6e810b5c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/greek_c19_table/flash/greek_c19_table_visualization.xml
+- Assets/Live/greek_c19_table/flash/greek_c19_table_64_a_0_0.png
+- Assets/Live/greek_c19_table/flash/greek_c19_table_logic.xml
+- Assets/Live/greek_c19_table/flash/manifest.xml
+- Assets/Live/greek_c19_table/flash/greek_c19_table_icon_a.png
+- Assets/Live/greek_c19_table/flash/greek_c19_table_assets.xml
+- Assets/Live/greek_c19_table/greek_c19_table.xml
+- Assets/Live/greek_c19_table/flash/index.xml
+- Assets/Live/greek_c19_table/flash/greek_c19_table_64_sd_0_0.png
+Dependencies: []

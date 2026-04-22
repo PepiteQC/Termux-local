@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3743728255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 364434164f97e4a3405f178baf6eadd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_64_a_2_0.png
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_64_a_2_1.png
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_64_b_2_0.png
+- Assets/Live/bling_sofa_mu/flash/index.xml
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_visualization.xml
+- Assets/Live/bling_sofa_mu/flash/manifest.xml
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_64_sd_2_0.png
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_icon_a.png
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_assets.xml
+- Assets/Live/bling_sofa_mu/bling_sofa_mu.xml
+- Assets/Live/bling_sofa_mu/flash/bling_sofa_mu_logic.xml
+Dependencies: []

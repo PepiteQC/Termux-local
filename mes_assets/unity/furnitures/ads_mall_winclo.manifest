@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2679019502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7679b7d392f5590e0ccbd6866c6a1eb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_logic.xml
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_visualization.xml
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_e_4_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_b_4_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_d_4_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_icon_a.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_c_4_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_b_2_0.png
+- Assets/Live/ads_mall_winclo/flash/index.xml
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_c_2_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_e_2_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_d_2_0.png
+- Assets/Live/ads_mall_winclo/ads_mall_winclo.xml
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_a_2_0.png
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_assets.xml
+- Assets/Live/ads_mall_winclo/flash/manifest.xml
+- Assets/Live/ads_mall_winclo/flash/ads_mall_winclo_64_a_4_0.png
+Dependencies: []

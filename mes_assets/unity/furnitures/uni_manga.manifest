@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1505775275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9387b02e3aa9ef4fbef26f2b30a4bd6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_manga/flash/uni_manga_logic.xml
+- Assets/Live/uni_manga/flash/uni_manga_icon_a.png
+- Assets/Live/uni_manga/flash/uni_manga_64_a_0_0.png
+- Assets/Live/uni_manga/flash/index.xml
+- Assets/Live/uni_manga/flash/manifest.xml
+- Assets/Live/uni_manga/flash/uni_manga_visualization.xml
+- Assets/Live/uni_manga/flash/uni_manga_assets.xml
+- Assets/Live/uni_manga/uni_manga.xml
+- Assets/Live/uni_manga/flash/uni_manga_64_sd_0_0.png
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2177054243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8389c94b08c9273808eb62e540b1177b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_visualization.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_b_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_d_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/manifest.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_visualization.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_c_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_logic.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_c_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/index.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_a_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_icon_a.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_b_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_a_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_icon_a.png
+- Assets/Live/ads_1800tele/ads_1800tele.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_b_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/index.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_d_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_a_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_b_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_a_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_a_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_64_c_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_logic.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_a_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/manifest.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_32_b_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_b_4_1.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele/ads_1800tele_assets.xml
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_64_d_4_0.png
+- Assets/Live/ads_1800tele/flash/ads_1800tele_cmp/ads_1800tele_cmp_assets.xml
+Dependencies: []

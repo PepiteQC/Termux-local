@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2459856825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c29234cf203b657a619745500c8a83f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_64_sd_4_0.png
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_visualization.xml
+- Assets/Live/xmas_c15_bushy1/xmas_c15_bushy1.xml
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_icon_a.png
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_assets.xml
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_64_a_4_0.png
+- Assets/Live/xmas_c15_bushy1/flash/manifest.xml
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_logic.xml
+- Assets/Live/xmas_c15_bushy1/flash/index.xml
+- Assets/Live/xmas_c15_bushy1/flash/xmas_c15_bushy1_64_a_4_1.png
+Dependencies: []

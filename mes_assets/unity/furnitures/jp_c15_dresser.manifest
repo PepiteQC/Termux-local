@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3369788119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49cd36625611a19e9db2c80dc923b8ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_visualization.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_f_4_2.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_f_4_1.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_e_4_2.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_e_4_0.png
+- Assets/Live/jp_c15_dresser/jp_c15_dresser.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_icon_a.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_a_4_1.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_a_4_0.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_logic.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_b_4_0.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_f_4_0.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_d_4_1.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_e_4_1.png
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_assets.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_c_4_1.png
+- Assets/Live/jp_c15_dresser/flash/index.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_d_4_0.png
+- Assets/Live/jp_c15_dresser/flash/manifest.xml
+- Assets/Live/jp_c15_dresser/flash/jp_c15_dresser_64_c_4_0.png
+Dependencies: []

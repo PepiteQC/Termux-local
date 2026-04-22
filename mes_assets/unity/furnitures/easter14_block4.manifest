@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 29068471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c16c499ded9ae558ece118d67050db3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_block4/flash/easter14_block4_64_sd_0_0.png
+- Assets/Live/easter14_block4/flash/easter14_block4_64_a_0_1.png
+- Assets/Live/easter14_block4/flash/easter14_block4_64_a_0_0.png
+- Assets/Live/easter14_block4/flash/easter14_block4_logic.xml
+- Assets/Live/easter14_block4/flash/manifest.xml
+- Assets/Live/easter14_block4/flash/easter14_block4_assets.xml
+- Assets/Live/easter14_block4/easter14_block4.xml
+- Assets/Live/easter14_block4/flash/easter14_block4_visualization.xml
+- Assets/Live/easter14_block4/flash/easter14_block4_icon_a.png
+- Assets/Live/easter14_block4/flash/index.xml
+Dependencies: []

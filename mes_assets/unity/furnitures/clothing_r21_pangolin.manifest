@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2725535086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 419db1e3d196e38dc3e0a32fb41eb4b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_r21_pangolin/flash/clothing_r21_pangolin_visualization.xml
+- Assets/Live/clothing_r21_pangolin/flash/clothing_r21_pangolin_logic.xml
+- Assets/Live/clothing_r21_pangolin/flash/clothing_r21_pangolin_icon_a.png
+- Assets/Live/clothing_r21_pangolin/flash/clothing_r21_pangolin_64_a_0_0.png
+- Assets/Live/clothing_r21_pangolin/flash/clothing_r21_pangolin_assets.xml
+- Assets/Live/clothing_r21_pangolin/flash/index.xml
+- Assets/Live/clothing_r21_pangolin/clothing_r21_pangolin.xml
+- Assets/Live/clothing_r21_pangolin/flash/manifest.xml
+Dependencies: []

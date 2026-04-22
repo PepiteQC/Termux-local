@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3772253447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b4c773ccffe02826753ef8a0aa156be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_a_0_0.png
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_visualization.xml
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_a_0_4.png
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_sd_0_0.png
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_a_0_1.png
+- Assets/Live/modern_c17_pillow/modern_c17_pillow.xml
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_a_0_3.png
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_logic.xml
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_64_a_0_2.png
+- Assets/Live/modern_c17_pillow/flash/index.xml
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_assets.xml
+- Assets/Live/modern_c17_pillow/flash/modern_c17_pillow_icon_a.png
+- Assets/Live/modern_c17_pillow/flash/manifest.xml
+Dependencies: []

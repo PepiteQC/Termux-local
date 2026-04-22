@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2372361699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 077cc7246e69449efa8aed63b3ac541e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_c_4_1.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_b_4_3.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_d_4_1.png
+- Assets/Live/hween10_fogwall/flash/manifest.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_visualization.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_b_4_1.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_assets.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_d_4_2.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_d_4_0.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_a_4_0.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_c_4_0.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_a_4_1.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_b_4_0.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_c_4_3.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_a_4_3.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_logic.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_c_4_2.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_b_4_2.png
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_a_4_2.png
+- Assets/Live/hween10_fogwall/flash/index.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_icon_a.png
+- Assets/Live/hween10_fogwall/hween10_fogwall.xml
+- Assets/Live/hween10_fogwall/flash/hween10_fogwall_64_d_4_3.png
+Dependencies: []

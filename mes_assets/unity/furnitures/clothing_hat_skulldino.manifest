@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 567310009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8bb3151bba4ad89323bbf492e48b22f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_1.png
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_visualization.xml
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_2.png
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_5.png
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_logic.xml
+- Assets/Live/clothing_hat_skulldino/clothing_hat_skulldino.xml
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_icon_a.png
+- Assets/Live/clothing_hat_skulldino/flash/index.xml
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_assets.xml
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_sd_0_0.png
+- Assets/Live/clothing_hat_skulldino/flash/manifest.xml
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_3.png
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_4.png
+- Assets/Live/clothing_hat_skulldino/flash/clothing_hat_skulldino_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1440246415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9f1210b81d5e5352f80c8758d35cb53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/CF_diamond_1000/CF_diamond_1000.xml
+- Assets/Live/CF_diamond_1000/flash/CF_diamond_1000_64_a_0_0.png
+- Assets/Live/CF_diamond_1000/flash/CF_diamond_1000_logic.xml
+- Assets/Live/CF_diamond_1000/flash/index.xml
+- Assets/Live/CF_diamond_1000/flash/manifest.xml
+- Assets/Live/CF_diamond_1000/flash/CF_diamond_1000_icon_a.png
+- Assets/Live/CF_diamond_1000/flash/CF_diamond_1000_assets.xml
+- Assets/Live/CF_diamond_1000/flash/CF_diamond_1000_visualization.xml
+Dependencies: []

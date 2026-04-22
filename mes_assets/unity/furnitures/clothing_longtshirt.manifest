@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2835571454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50d0115c9d56ee266408a32ec349dbbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_longtshirt/flash/clothing_longtshirt_64_a_0_0.png
+- Assets/Live/clothing_longtshirt/flash/index.xml
+- Assets/Live/clothing_longtshirt/flash/manifest.xml
+- Assets/Live/clothing_longtshirt/flash/clothing_longtshirt_icon_a.png
+- Assets/Live/clothing_longtshirt/flash/clothing_longtshirt_assets.xml
+- Assets/Live/clothing_longtshirt/flash/clothing_longtshirt_logic.xml
+- Assets/Live/clothing_longtshirt/flash/clothing_longtshirt_visualization.xml
+- Assets/Live/clothing_longtshirt/clothing_longtshirt.xml
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3998146488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 404e2286a97b89f3e68659e90be6f927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/shelves_norja/flash/shelves_norja_visualization.xml
+- Assets/Live/shelves_norja/flash/shelves_norja_64_a_0_0.png
+- Assets/Live/shelves_norja/flash/shelves_norja_64_sd_0_0.png
+- Assets/Live/shelves_norja/shelves_norja.xml
+- Assets/Live/shelves_norja/flash/index.xml
+- Assets/Live/shelves_norja/flash/shelves_norja_icon_b.png
+- Assets/Live/shelves_norja/flash/manifest.xml
+- Assets/Live/shelves_norja/flash/shelves_norja_logic.xml
+- Assets/Live/shelves_norja/flash/shelves_norja_64_b_0_0.png
+- Assets/Live/shelves_norja/flash/shelves_norja_assets.xml
+- Assets/Live/shelves_norja/flash/shelves_norja_icon_a.png
+Dependencies: []

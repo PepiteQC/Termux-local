@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2547306147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41dd5c18f51c839d210e7e35b9d0dafa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_bridgeend3/flash/manifest.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_sd_0_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_d_0_1.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_d_4_1.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_d_0_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_logic.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/index.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_b_0_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_a_0_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_a_4_0.png
+- Assets/Live/jungle_c16_bridgeend3/jungle_c16_bridgeend3.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_c_4_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_visualization.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_assets.xml
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_b_4_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_c_0_1.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_c_4_1.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_icon_a.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_d_4_0.png
+- Assets/Live/jungle_c16_bridgeend3/flash/jungle_c16_bridgeend3_64_c_0_0.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 944303383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f3cf340d790b9ed824286bb533c1502
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/divider_nor3/flash/divider_nor3_icon_a.png
+- Assets/Live/divider_nor3/flash/manifest.xml
+- Assets/Live/divider_nor3/flash/divider_nor3_visualization.xml
+- Assets/Live/divider_nor3/flash/index.xml
+- Assets/Live/divider_nor3/flash/divider_nor3_logic.xml
+- Assets/Live/divider_nor3/divider_nor3.xml
+- Assets/Live/divider_nor3/flash/divider_nor3_icon_b.png
+- Assets/Live/divider_nor3/flash/divider_nor3_64_b_0_1.png
+- Assets/Live/divider_nor3/flash/divider_nor3_64_d_0_1.png
+- Assets/Live/divider_nor3/flash/divider_nor3_assets.xml
+- Assets/Live/divider_nor3/flash/divider_nor3_64_d_0_0.png
+- Assets/Live/divider_nor3/flash/divider_nor3_64_a_0_0.png
+- Assets/Live/divider_nor3/flash/divider_nor3_64_b_0_0.png
+- Assets/Live/divider_nor3/flash/divider_nor3_64_c_0_0.png
+Dependencies: []

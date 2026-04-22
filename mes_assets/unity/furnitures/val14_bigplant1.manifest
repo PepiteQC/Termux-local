@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 44566031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d0cb0ba2269f5e8d4a174009e4eca9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_sd_0_0.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_2_1.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_0_2.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_2_2.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_icon_a.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_logic.xml
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_visualization.xml
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_0_1.png
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_assets.xml
+- Assets/Live/val14_bigplant1/flash/manifest.xml
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_0_0.png
+- Assets/Live/val14_bigplant1/val14_bigplant1.xml
+- Assets/Live/val14_bigplant1/flash/val14_bigplant1_64_a_2_0.png
+- Assets/Live/val14_bigplant1/flash/index.xml
+Dependencies: []

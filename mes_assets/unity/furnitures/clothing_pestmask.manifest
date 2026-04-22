@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1805500699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a99bb06c373ca499283636b43ff589
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_0.png
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_5.png
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_assets.xml
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_logic.xml
+- Assets/Live/clothing_pestmask/flash/index.xml
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_2.png
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_4.png
+- Assets/Live/clothing_pestmask/flash/manifest.xml
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_1.png
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_visualization.xml
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_sd_0_0.png
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_icon_a.png
+- Assets/Live/clothing_pestmask/clothing_pestmask.xml
+- Assets/Live/clothing_pestmask/flash/clothing_pestmask_64_a_0_3.png
+Dependencies: []

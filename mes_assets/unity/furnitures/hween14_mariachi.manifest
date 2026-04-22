@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3777054308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f23c58cbeb3266f1861d66f3ca37abb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_visualization.xml
+- Assets/Live/hween14_mariachi/flash/manifest.xml
+- Assets/Live/hween14_mariachi/hween14_mariachi.xml
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_a_0_1.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_c_0_2.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_d_0_1.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_a_0_0.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_icon_a.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_c_0_0.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_a_0_3.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_c_0_3.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_b_0_0.png
+- Assets/Live/hween14_mariachi/flash/index.xml
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_assets.xml
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_logic.xml
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_a_0_2.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_d_0_0.png
+- Assets/Live/hween14_mariachi/flash/hween14_mariachi_64_c_0_1.png
+Dependencies: []

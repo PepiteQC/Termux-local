@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 577513564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2ae3241f7eb705cf0a78ca1746db17f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_5.png
+- Assets/Live/wf_cnd_match_snapshot/wf_cnd_match_snapshot.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_14.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_7.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_12.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_3.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_13.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_15.png
+- Assets/Live/wf_cnd_match_snapshot/flash/index.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_11.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_6.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_icon_a.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_visualization.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_16.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_logic.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_8.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_9.png
+- Assets/Live/wf_cnd_match_snapshot/flash/manifest.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_4.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_assets.xml
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_10.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_2.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_1.png
+- Assets/Live/wf_cnd_match_snapshot/flash/wf_cnd_match_snapshot_64_a_2_0.png
+Dependencies: []

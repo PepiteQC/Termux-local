@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 117667756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24db4b017f8d9deec44938183f1e8cb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/flag_portugal/flash/manifest.xml
+- Assets/Live/flag_portugal/flash/flag_portugal_assets.xml
+- Assets/Live/flag_portugal/flash/flag_portugal_64_a_2_0.png
+- Assets/Live/flag_portugal/flash/flag_portugal_icon_a.png
+- Assets/Live/flag_portugal/flash/flag_portugal_logic.xml
+- Assets/Live/flag_portugal/flash/flag_portugal_64_a_4_0.png
+- Assets/Live/flag_portugal/flag_portugal.xml
+- Assets/Live/flag_portugal/flash/flag_portugal_visualization.xml
+- Assets/Live/flag_portugal/flash/index.xml
+Dependencies: []

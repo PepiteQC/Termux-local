@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2162842130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b251944067fbef0f16a567aebd0d20a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/buildarea_sign/flash/buildarea_sign_assets.xml
+- Assets/Live/buildarea_sign/flash/buildarea_sign_icon_a.png
+- Assets/Live/buildarea_sign/flash/buildarea_sign_visualization.xml
+- Assets/Live/buildarea_sign/flash/index.xml
+- Assets/Live/buildarea_sign/flash/buildarea_sign_logic.xml
+- Assets/Live/buildarea_sign/buildarea_sign.xml
+- Assets/Live/buildarea_sign/flash/manifest.xml
+- Assets/Live/buildarea_sign/flash/buildarea_sign_64_a_0_0.png
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4093245331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a2b8200c2f761292d2f3326ea6b633b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/gardening_box/flash/gardening_box_icon_a.png
+- Assets/Live/gardening_box/flash/index.xml
+- Assets/Live/gardening_box/flash/gardening_box_logic.xml
+- Assets/Live/gardening_box/flash/gardening_box_visualization.xml
+- Assets/Live/gardening_box/flash/gardening_box_64_sd_0_0.png
+- Assets/Live/gardening_box/flash/gardening_box_64_a_0_0.png
+- Assets/Live/gardening_box/flash/manifest.xml
+- Assets/Live/gardening_box/gardening_box.xml
+- Assets/Live/gardening_box/flash/gardening_box_assets.xml
+Dependencies: []

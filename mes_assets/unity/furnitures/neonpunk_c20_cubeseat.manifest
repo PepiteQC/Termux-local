@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4052374982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58c03ae2812dab4154b81726f9c98f73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/neonpunk_c20_cubeseat/neonpunk_c20_cubeseat.xml
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_icon_a.png
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_64_a_0_1.png
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_assets.xml
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_64_sd_0_0.png
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_logic.xml
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_visualization.xml
+- Assets/Live/neonpunk_c20_cubeseat/flash/neonpunk_c20_cubeseat_64_a_0_0.png
+- Assets/Live/neonpunk_c20_cubeseat/flash/index.xml
+- Assets/Live/neonpunk_c20_cubeseat/flash/manifest.xml
+Dependencies: []

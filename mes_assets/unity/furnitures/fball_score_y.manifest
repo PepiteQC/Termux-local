@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1706047304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 894d0e96ff909a7d8b0e34fe2f74f1f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_assets.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_64_e_2_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_4.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_5.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_8.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_d_2_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_f_2_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_3.png
+- Assets/Live/fball_score_y/fball_score_y.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_1.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_1.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_9.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_7.png
+- Assets/Live/fball_score_y/flash/index.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_icon_a.png
+- Assets/Live/fball_score_y/flash/fball_score_y_visualization.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_3.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_2.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_8.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_6.png
+- Assets/Live/fball_score_y/flash/manifest.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_7.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_4.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_2.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_6.png
+- Assets/Live/fball_score_y/flash/fball_score_y_logic.xml
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_5.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_4_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_b_2_9.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_a_2_0.png
+- Assets/Live/fball_score_y/flash/fball_score_y_64_sd_2_0.png
+Dependencies: []

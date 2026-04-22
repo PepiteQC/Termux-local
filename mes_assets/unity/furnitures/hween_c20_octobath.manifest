@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1937329969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b008648519ae60510c316c0005fcc654
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_13.png
+- Assets/Live/hween_c20_octobath/flash/index.xml
+- Assets/Live/hween_c20_octobath/flash/manifest.xml
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_sd_0_0.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_8.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_18.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_2.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_icon_a.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_14.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_sd_6_0.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_11.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_visualization.xml
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_4.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_0.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_logic.xml
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_3.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_1.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_0.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_5.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_12.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_17.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_1.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_4.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_9.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_2.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_7.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_13.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_10.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_11.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_6.png
+- Assets/Live/hween_c20_octobath/hween_c20_octobath.xml
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_19.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_7.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_9.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_3.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_19.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_16.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_8.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_18.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_16.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_assets.xml
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_17.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_15.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_5.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_12.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_6.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_10.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_0_15.png
+- Assets/Live/hween_c20_octobath/flash/hween_c20_octobath_64_a_6_14.png
+Dependencies: []

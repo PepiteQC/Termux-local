@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3307007458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4cc3850e8de92d3e5203f779919a9f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/diner_tray_4/flash/index.xml
+- Assets/Live/diner_tray_4/flash/diner_tray_4_assets.xml
+- Assets/Live/diner_tray_4/flash/diner_tray_4_64_a_0_0.png
+- Assets/Live/diner_tray_4/flash/diner_tray_4_icon_a.png
+- Assets/Live/diner_tray_4/flash/diner_tray_4_visualization.xml
+- Assets/Live/diner_tray_4/diner_tray_4.xml
+- Assets/Live/diner_tray_4/flash/diner_tray_4_logic.xml
+- Assets/Live/diner_tray_4/flash/manifest.xml
+Dependencies: []

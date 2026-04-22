@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2199328344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec0771d31e5c58bc5622776f8ac9045e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_logic.xml
+- Assets/Live/jungle_c16_dvdr2/flash/manifest.xml
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_assets.xml
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_icon_a.png
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_64_b_0_0.png
+- Assets/Live/jungle_c16_dvdr2/flash/index.xml
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_64_a_0_0.png
+- Assets/Live/jungle_c16_dvdr2/jungle_c16_dvdr2.xml
+- Assets/Live/jungle_c16_dvdr2/flash/jungle_c16_dvdr2_visualization.xml
+Dependencies: []

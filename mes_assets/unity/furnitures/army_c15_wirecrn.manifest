@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 776557438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8898db1748c9f4228d00dcc44d3c678
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/army_c15_wirecrn/army_c15_wirecrn.xml
+- Assets/Live/army_c15_wirecrn/flash/manifest.xml
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_icon_a.png
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_assets.xml
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_64_a_2_0.png
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_visualization.xml
+- Assets/Live/army_c15_wirecrn/flash/index.xml
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_logic.xml
+- Assets/Live/army_c15_wirecrn/flash/army_c15_wirecrn_64_a_4_0.png
+Dependencies: []

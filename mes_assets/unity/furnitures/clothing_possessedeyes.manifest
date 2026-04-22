@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1274719593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96c41976764c007061b0c6874a2fceb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_possessedeyes/flash/index.xml
+- Assets/Live/clothing_possessedeyes/flash/clothing_possessedeyes_assets.xml
+- Assets/Live/clothing_possessedeyes/flash/clothing_possessedeyes_logic.xml
+- Assets/Live/clothing_possessedeyes/flash/manifest.xml
+- Assets/Live/clothing_possessedeyes/flash/clothing_possessedeyes_icon_a.png
+- Assets/Live/clothing_possessedeyes/flash/clothing_possessedeyes_64_a_0_0.png
+- Assets/Live/clothing_possessedeyes/flash/clothing_possessedeyes_visualization.xml
+- Assets/Live/clothing_possessedeyes/clothing_possessedeyes.xml
+Dependencies: []

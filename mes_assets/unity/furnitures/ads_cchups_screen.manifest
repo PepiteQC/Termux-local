@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 2168144872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83697b523940f7ad95238727f260bff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_logic.xml
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_assets.xml
+- Assets/Live/ads_cchups_screen/flash/index.xml
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_2_5.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_e_4_1.png
+- Assets/Live/ads_cchups_screen/ads_cchups_screen.xml
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_2_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_0.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_2_2.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_icon_a.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_2_3.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_4_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_a_4_2.png
+- Assets/Live/ads_cchups_screen/flash/manifest.xml
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_visualization.xml
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_d_4_1.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_c_2_4.png
+- Assets/Live/ads_cchups_screen/flash/ads_cchups_screen_64_b_4_3.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2007143872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e28cf19c4209636f122bc9cb76321492
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc3_stool/flash/hc3_stool_assets.xml
+- Assets/Live/hc3_stool/flash/hc3_stool_logic.xml
+- Assets/Live/hc3_stool/flash/manifest.xml
+- Assets/Live/hc3_stool/flash/hc3_stool_64_a_0_0.png
+- Assets/Live/hc3_stool/flash/hc3_stool_visualization.xml
+- Assets/Live/hc3_stool/flash/hc3_stool_64_b_0_0.png
+- Assets/Live/hc3_stool/hc3_stool.xml
+- Assets/Live/hc3_stool/flash/hc3_stool_64_a_2_0.png
+- Assets/Live/hc3_stool/flash/hc3_stool_icon_a.png
+- Assets/Live/hc3_stool/flash/index.xml
+- Assets/Live/hc3_stool/flash/hc3_stool_64_sd_0_0.png
+- Assets/Live/hc3_stool/flash/hc3_stool_64_sd_2_0.png
+- Assets/Live/hc3_stool/flash/hc3_stool_64_b_2_0.png
+Dependencies: []

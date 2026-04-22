@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2410420411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86f1713f3325ba6923b21c7136502680
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_64_a_0_1.png
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_visualization.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_64_a_0_0.png
+- Assets/Live/hween14_grossfood/hween14_grossfood.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_64_a_0_3.png
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_icon_a.png
+- Assets/Live/hween14_grossfood/flash/manifest.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_assets.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_logic.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_64_a_0_4.png
+- Assets/Live/hween14_grossfood/flash/index.xml
+- Assets/Live/hween14_grossfood/flash/hween14_grossfood_64_a_0_2.png
+Dependencies: []

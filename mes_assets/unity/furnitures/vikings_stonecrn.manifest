@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3461195907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76da5a164b831f8c47b3b2955cab8428
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_64_a_0_0.png
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_visualization.xml
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_assets.xml
+- Assets/Live/vikings_stonecrn/flash/manifest.xml
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_icon_a.png
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_logic.xml
+- Assets/Live/vikings_stonecrn/flash/vikings_stonecrn_64_sd_0_0.png
+- Assets/Live/vikings_stonecrn/vikings_stonecrn.xml
+- Assets/Live/vikings_stonecrn/flash/index.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3438347874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae13c60cf9ddfe9fdcbcf6f35de8e120
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/jp_divider/flash/jp_divider_assets.xml
+- Assets/Live/jp_divider/flash/jp_divider_icon_a.png
+- Assets/Live/jp_divider/jp_divider.xml
+- Assets/Live/jp_divider/flash/jp_divider_logic.xml
+- Assets/Live/jp_divider/flash/index.xml
+- Assets/Live/jp_divider/flash/jp_divider_64_a_0_0.png
+- Assets/Live/jp_divider/flash/jp_divider_64_b_0_0.png
+- Assets/Live/jp_divider/flash/jp_divider_visualization.xml
+- Assets/Live/jp_divider/flash/manifest.xml
+Dependencies: []

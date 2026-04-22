@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1132060765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f45593a6335a1ed4758c113314d804ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/chess_b_queen/flash/chess_b_queen_logic.xml
+- Assets/Live/chess_b_queen/flash/chess_b_queen_64_a_0_0.png
+- Assets/Live/chess_b_queen/flash/chess_b_queen_64_a_2_0.png
+- Assets/Live/chess_b_queen/chess_b_queen.xml
+- Assets/Live/chess_b_queen/flash/chess_b_queen_assets.xml
+- Assets/Live/chess_b_queen/flash/chess_b_queen_64_a_4_0.png
+- Assets/Live/chess_b_queen/flash/chess_b_queen_icon_a.png
+- Assets/Live/chess_b_queen/flash/manifest.xml
+- Assets/Live/chess_b_queen/flash/chess_b_queen_64_a_6_0.png
+- Assets/Live/chess_b_queen/flash/index.xml
+- Assets/Live/chess_b_queen/flash/chess_b_queen_64_sd_0_0.png
+- Assets/Live/chess_b_queen/flash/chess_b_queen_visualization.xml
+Dependencies: []

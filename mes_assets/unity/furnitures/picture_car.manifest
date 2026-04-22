@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3039605398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d57c9cf8671834cce6c9719783a34e85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/picture_car/flash/manifest.xml
+- Assets/Live/picture_car/flash/picture_car_visualization.xml
+- Assets/Live/picture_car/picture_car.xml
+- Assets/Live/picture_car/flash/picture_car_64_a_2_0.png
+- Assets/Live/picture_car/flash/index.xml
+- Assets/Live/picture_car/flash/picture_car_logic.xml
+- Assets/Live/picture_car/flash/picture_car_icon_a.png
+- Assets/Live/picture_car/flash/picture_car_assets.xml
+Dependencies: []

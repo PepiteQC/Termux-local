@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2841586977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04d98a8b9828b09f1c34bffed2e52809
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_logic.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_64_b_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_c_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_visualization.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_sd_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_64_a_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_visualization.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_b_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_icon_a.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_a_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_64_sd_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_b_2_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/manifest.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_icon_a.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_a_2_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_c_2_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/index.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/index.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/manifest.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_assets.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_c_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_c_2_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_sd_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_64_c_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_b_2_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_64_a_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_32_b_0_0.png
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2/ads_reebok_block2_assets.xml
+- Assets/Live/ads_reebok_block2/ads_reebok_block2.xml
+- Assets/Live/ads_reebok_block2/flash/ads_reebok_block2cmp/ads_reebok_block2cmp_logic.xml
+Dependencies: []

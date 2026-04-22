@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3461577983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3488d681b794410f654a9c792586721
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/xmas14_elf5/xmas14_elf5.xml
+- Assets/Live/xmas14_elf5/flash/index.xml
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_logic.xml
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_icon_a.png
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_assets.xml
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_64_a_0_0.png
+- Assets/Live/xmas14_elf5/flash/manifest.xml
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_visualization.xml
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_64_sd_0_0.png
+- Assets/Live/xmas14_elf5/flash/xmas14_elf5_64_a_0_1.png
+Dependencies: []

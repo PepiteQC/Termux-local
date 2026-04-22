@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2507701736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 848f1dac7967ea66f4140fb6e160c8de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_02_9.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_10.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_6.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_4.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_6.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_5.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_sd_0_0.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_7.png
+- Assets/Live/rare_stpat14/flash/manifest.xml
+- Assets/Live/rare_stpat14/rare_stpat14.xml
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_3.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_10.png
+- Assets/Live/rare_stpat14/flash/Layer 1.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_a_0_0.png
+- Assets/Live/rare_stpat14/flash/Layer 2.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_1.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_icon_a .png
+- Assets/Live/rare_stpat14/flash/index.xml
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_8.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_9.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_logic.xml
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_5.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_visualization.xml
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_7.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_11.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_4.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_12.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_12.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_0.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_assets.xml
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_d_0_0.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_1.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_8.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_3.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_11.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_0.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_0_2.png
+- Assets/Live/rare_stpat14/flash/rare_stpat14_64_c_2_2.png
+Dependencies: []

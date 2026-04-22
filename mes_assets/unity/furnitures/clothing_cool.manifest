@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2795343337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3396fec64dffa0754223f00f2b4d6440
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_cool/flash/manifest.xml
+- Assets/Live/clothing_cool/flash/clothing_cool_icon_a.png
+- Assets/Live/clothing_cool/flash/clothing_cool_visualization.xml
+- Assets/Live/clothing_cool/flash/index.xml
+- Assets/Live/clothing_cool/flash/clothing_cool_assets.xml
+- Assets/Live/clothing_cool/clothing_cool.xml
+- Assets/Live/clothing_cool/flash/clothing_cool_logic.xml
+- Assets/Live/clothing_cool/flash/clothing_cool_64_sd_0_0.png
+- Assets/Live/clothing_cool/flash/clothing_cool_64_a_0_0.png
+Dependencies: []

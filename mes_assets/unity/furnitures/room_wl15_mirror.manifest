@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1985492034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6a06ddf26334cae4510ef2807332e01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_assets.xml
+- Assets/Live/room_wl15_mirror/flash/index.xml
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_visualization.xml
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_logic.xml
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_64_a_0_0.png
+- Assets/Live/room_wl15_mirror/flash/manifest.xml
+- Assets/Live/room_wl15_mirror/room_wl15_mirror.xml
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_icon_a.png
+- Assets/Live/room_wl15_mirror/flash/room_wl15_mirror_64_sd_0_0.png
+Dependencies: []

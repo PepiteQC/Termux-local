@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 837909654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 166cd9432ba1bd5cc5979774fe49ed23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/fridge/flash/fridge_logic.xml
+- Assets/Live/fridge/flash/fridge_assets.xml
+- Assets/Live/fridge/flash/fridge_64_sd_0_0.png
+- Assets/Live/fridge/flash/fridge_64_a_2_0.png
+- Assets/Live/fridge/flash/fridge_64_b_2_1.png
+- Assets/Live/fridge/flash/fridge_icon_a.png
+- Assets/Live/fridge/fridge.xml
+- Assets/Live/fridge/flash/fridge_64_b_2_0.png
+- Assets/Live/fridge/flash/index.xml
+- Assets/Live/fridge/flash/manifest.xml
+- Assets/Live/fridge/flash/fridge_visualization.xml
+Dependencies: []

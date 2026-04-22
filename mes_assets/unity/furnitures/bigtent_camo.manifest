@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1990671518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33ca2475ed23336808e579549d00502b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_d_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_g_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_g_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_b_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_icon_a.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_f_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_c_0_0.png
+- Assets/Live/bigtent_camo/bigtent_camo.xml
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_j_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_i_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_a_0_0.png
+- Assets/Live/bigtent_camo/flash/manifest.xml
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_f_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_k_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_j_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_i_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_e_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_assets.xml
+- Assets/Live/bigtent_camo/flash/bigtent_camo_visualization.xml
+- Assets/Live/bigtent_camo/flash/index.xml
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_k_0_0.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_h_0_1.png
+- Assets/Live/bigtent_camo/flash/bigtent_camo_logic.xml
+- Assets/Live/bigtent_camo/flash/bigtent_camo_64_h_0_0.png
+Dependencies: []

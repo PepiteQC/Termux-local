@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3887758313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc3b70fab301d3f4ca3e3ea49a324d0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_assets.xml
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_visualization.xml
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_icon_a.png
+- Assets/Live/dino_c15_wallpiece/dino_c15_wallpiece.xml
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_logic.xml
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_c_2_3.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_b_2_2.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_b_2_0.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_a_2_0.png
+- Assets/Live/dino_c15_wallpiece/flash/manifest.xml
+- Assets/Live/dino_c15_wallpiece/flash/index.xml
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_c_2_2.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_a_2_1.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_a_2_2.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_c_2_0.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_b_2_3.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_b_2_1.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_a_2_3.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_c_2_4.png
+- Assets/Live/dino_c15_wallpiece/flash/dino_c15_wallpiece_64_c_2_1.png
+Dependencies: []

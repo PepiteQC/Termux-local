@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3469251808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f8b80b758695d5f8d209f3d490ceaf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_64_b_0_2.png
+- Assets/Live/coralking_c18_bluesand/flash/manifest.xml
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_64_a_0_0.png
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_64_b_0_1.png
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_64_b_0_0.png
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_visualization.xml
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_icon_a.png
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_assets.xml
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_logic.xml
+- Assets/Live/coralking_c18_bluesand/coralking_c18_bluesand.xml
+- Assets/Live/coralking_c18_bluesand/flash/coralking_c18_bluesand_64_c_0_0.png
+- Assets/Live/coralking_c18_bluesand/flash/index.xml
+Dependencies: []

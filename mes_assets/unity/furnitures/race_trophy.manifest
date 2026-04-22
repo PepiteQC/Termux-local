@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1681790223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cfcaeb94a1499fa35a614d03c3ab900
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/race_trophy/flash/race_trophy_64_a_0_0.png
+- Assets/Live/race_trophy/flash/race_trophy_logic.xml
+- Assets/Live/race_trophy/race_trophy.xml
+- Assets/Live/race_trophy/flash/index.xml
+- Assets/Live/race_trophy/flash/race_trophy_assets.xml
+- Assets/Live/race_trophy/flash/manifest.xml
+- Assets/Live/race_trophy/flash/race_trophy_icon_a.png
+- Assets/Live/race_trophy/flash/race_trophy_visualization.xml
+Dependencies: []

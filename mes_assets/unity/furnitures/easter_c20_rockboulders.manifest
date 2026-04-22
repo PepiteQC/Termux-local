@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 951530487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9900757280b9a7b97d9db044a1ca366
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter_c20_rockboulders/flash/index.xml
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_assets.xml
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_64_sd_2_0.png
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_64_a_2_0.png
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_64_a_2_1.png
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_icon_a.png
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_visualization.xml
+- Assets/Live/easter_c20_rockboulders/flash/easter_c20_rockboulders_logic.xml
+- Assets/Live/easter_c20_rockboulders/easter_c20_rockboulders.xml
+- Assets/Live/easter_c20_rockboulders/flash/manifest.xml
+Dependencies: []

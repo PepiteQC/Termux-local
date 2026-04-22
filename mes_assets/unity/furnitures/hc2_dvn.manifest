@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1327376208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb0a580e15adfa28e1c581e890fbb536
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/hc2_dvn/flash/hc2_dvn_64_c_4_0.png
+- Assets/Live/hc2_dvn/flash/index.xml
+- Assets/Live/hc2_dvn/flash/hc2_dvn_logic.xml
+- Assets/Live/hc2_dvn/flash/hc2_dvn_64_b_4_0.png
+- Assets/Live/hc2_dvn/flash/hc2_dvn_64_a_4_0.png
+- Assets/Live/hc2_dvn/hc2_dvn.xml
+- Assets/Live/hc2_dvn/flash/hc2_dvn_visualization.xml
+- Assets/Live/hc2_dvn/flash/hc2_dvn_assets.xml
+- Assets/Live/hc2_dvn/flash/manifest.xml
+- Assets/Live/hc2_dvn/flash/hc2_dvn_icon_a.png
+Dependencies: []

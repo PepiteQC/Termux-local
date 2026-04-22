@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1959053643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef4f56acefddf31430e8f23bdc15dffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anna_chair/flash/anna_chair_64_sd_0_0.png
+- Assets/Live/anna_chair/flash/anna_chair_icon_a.png
+- Assets/Live/anna_chair/flash/anna_chair_assets.xml
+- Assets/Live/anna_chair/flash/anna_chair_logic.xml
+- Assets/Live/anna_chair/flash/anna_chair_64_a_0_0.png
+- Assets/Live/anna_chair/flash/anna_chair_visualization.xml
+- Assets/Live/anna_chair/flash/anna_chair_64_c_0_0.png
+- Assets/Live/anna_chair/anna_chair.xml
+- Assets/Live/anna_chair/flash/anna_chair_64_b_2_0.png
+- Assets/Live/anna_chair/flash/index.xml
+- Assets/Live/anna_chair/flash/manifest.xml
+- Assets/Live/anna_chair/flash/anna_chair_64_c_2_0.png
+- Assets/Live/anna_chair/flash/anna_chair_64_b_0_0.png
+Dependencies: []

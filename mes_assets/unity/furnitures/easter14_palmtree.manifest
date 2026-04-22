@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 106516266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5e0d355691d1c9daa564a0c803429b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_visualization.xml
+- Assets/Live/easter14_palmtree/flash/index.xml
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_logic.xml
+- Assets/Live/easter14_palmtree/easter14_palmtree.xml
+- Assets/Live/easter14_palmtree/flash/manifest.xml
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_icon_a.png
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_64_sd_0_0.png
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_assets.xml
+- Assets/Live/easter14_palmtree/flash/easter14_palmtree_64_a_0_0.png
+Dependencies: []

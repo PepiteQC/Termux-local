@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1685926969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69237fd565fab1cc4ea25f64177c0071
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_logic.xml
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_icon_a.png
+- Assets/Live/plushie_c20_flowercrown/flash/manifest.xml
+- Assets/Live/plushie_c20_flowercrown/plushie_c20_flowercrown.xml
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_assets.xml
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_visualization.xml
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_64_a_0_0.png
+- Assets/Live/plushie_c20_flowercrown/flash/plushie_c20_flowercrown_64_sd_0_0.png
+- Assets/Live/plushie_c20_flowercrown/flash/index.xml
+Dependencies: []

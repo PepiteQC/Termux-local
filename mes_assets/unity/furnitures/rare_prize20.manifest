@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3411576660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aef6419b19e64838e6284d1b48144662
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_prize20/flash/rare_prize20_64_sd_0_0.png
+- Assets/Live/rare_prize20/flash/rare_prize20_64_b_0_0.png
+- Assets/Live/rare_prize20/flash/rare_prize20_icon_a.png
+- Assets/Live/rare_prize20/flash/index.xml
+- Assets/Live/rare_prize20/flash/manifest.xml
+- Assets/Live/rare_prize20/flash/rare_prize20_visualization.xml
+- Assets/Live/rare_prize20/flash/rare_prize20_icon_b.png
+- Assets/Live/rare_prize20/flash/rare_prize20_assets.xml
+- Assets/Live/rare_prize20/flash/rare_prize20_logic.xml
+- Assets/Live/rare_prize20/flash/rare_prize20_64_a_0_0.png
+- Assets/Live/rare_prize20/rare_prize20.xml
+Dependencies: []

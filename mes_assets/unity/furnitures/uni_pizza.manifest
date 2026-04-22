@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3697385072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2303c80b274d2dbfe7e007bd0e444947
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/uni_pizza/flash/uni_pizza_icon_a.png
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_1.png
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_0.png
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_2.png
+- Assets/Live/uni_pizza/flash/uni_pizza_logic.xml
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_6.png
+- Assets/Live/uni_pizza/flash/uni_pizza_assets.xml
+- Assets/Live/uni_pizza/flash/index.xml
+- Assets/Live/uni_pizza/flash/uni_pizza_visualization.xml
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_5.png
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_3.png
+- Assets/Live/uni_pizza/flash/uni_pizza_64_a_0_4.png
+- Assets/Live/uni_pizza/flash/manifest.xml
+- Assets/Live/uni_pizza/uni_pizza.xml
+Dependencies: []

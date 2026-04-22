@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 214887314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a452739ad4ec9efb4d788afaaf99363e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_shogunhelmet/flash/clothing_shogunhelmet_64_a_2_0.png
+- Assets/Live/clothing_shogunhelmet/flash/clothing_shogunhelmet_assets.xml
+- Assets/Live/clothing_shogunhelmet/flash/clothing_shogunhelmet_visualization.xml
+- Assets/Live/clothing_shogunhelmet/flash/clothing_shogunhelmet_icon_a.png
+- Assets/Live/clothing_shogunhelmet/clothing_shogunhelmet.xml
+- Assets/Live/clothing_shogunhelmet/flash/clothing_shogunhelmet_logic.xml
+- Assets/Live/clothing_shogunhelmet/flash/manifest.xml
+- Assets/Live/clothing_shogunhelmet/flash/index.xml
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 619152330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd1aaf4e5f10a824513769b68fae8010
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bc_block_redbrick/bc_block_redbrick.xml
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_visualization.xml
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_64_c_0_0.png
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_64_a_0_0.png
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_logic.xml
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_icon_a.png
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_64_d_0_0.png
+- Assets/Live/bc_block_redbrick/flash/manifest.xml
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_icon_b.png
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_64_b_0_0.png
+- Assets/Live/bc_block_redbrick/flash/index.xml
+- Assets/Live/bc_block_redbrick/flash/bc_block_redbrick_assets.xml
+Dependencies: []

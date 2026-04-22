@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2962701200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8a277b695f657222b743ac3a86e5169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/petfood13/flash/manifest.xml
+- Assets/Live/petfood13/flash/petfood13_icon_a.png
+- Assets/Live/petfood13/flash/petfood13_64_a_2_0.png
+- Assets/Live/petfood13/petfood13.xml
+- Assets/Live/petfood13/flash/petfood13_64_a_2_1.png
+- Assets/Live/petfood13/flash/index.xml
+- Assets/Live/petfood13/flash/petfood13_logic.xml
+- Assets/Live/petfood13/flash/petfood13_visualization.xml
+- Assets/Live/petfood13/flash/petfood13_64_a_2_2.png
+- Assets/Live/petfood13/flash/petfood13_64_a_2_3.png
+- Assets/Live/petfood13/flash/petfood13_64_a_2_4.png
+- Assets/Live/petfood13/flash/petfood13_assets.xml
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1282867334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8af200c2fcbcc2feacf34a6d2ddf013f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_assets.xml
+- Assets/Live/clothing_hipoutfit2/flash/manifest.xml
+- Assets/Live/clothing_hipoutfit2/flash/index.xml
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_64_sd_0_0.png
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_icon_a.png
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_64_a_0_0.png
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_logic.xml
+- Assets/Live/clothing_hipoutfit2/clothing_hipoutfit2.xml
+- Assets/Live/clothing_hipoutfit2/flash/clothing_hipoutfit2_visualization.xml
+Dependencies: []

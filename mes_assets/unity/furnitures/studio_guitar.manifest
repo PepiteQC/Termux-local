@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3501025395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05b61ec887afcd78e8159f43ea31a159
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/studio_guitar/flash/studio_guitar_64_2_0.png
+- Assets/Live/studio_guitar/flash/index.xml
+- Assets/Live/studio_guitar/flash/manifest.xml
+- Assets/Live/studio_guitar/flash/studio_guitar_assets.xml
+- Assets/Live/studio_guitar/flash/studio_guitar_32_2_0.png
+- Assets/Live/studio_guitar/flash/studio_guitar_sd_2_0.png
+- Assets/Live/studio_guitar/flash/studio_guitar_logic.xml
+- Assets/Live/studio_guitar/flash/studio_guitar_64_b_2_1.png
+- Assets/Live/studio_guitar/flash/studio_guitar_64_b_2_0.png
+- Assets/Live/studio_guitar/flash/studio_guitar_64_a_2_0.png
+- Assets/Live/studio_guitar/flash/studio_guitar_visualization.xml
+- Assets/Live/studio_guitar/flash/studio_guitar_icon_a.png
+- Assets/Live/studio_guitar/studio_guitar.xml
+- Assets/Live/studio_guitar/flash/studio_guitar_64_sd_2_0.png
+Dependencies: []

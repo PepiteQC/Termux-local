@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2108414737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5469008ed1c274413ff6d7502b2fb271
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_b_0_0.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_a_0_2.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_icon_a.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_visualization.xml
+- Assets/Live/bathroom_poop/flash/bathroom_poop_logic.xml
+- Assets/Live/bathroom_poop/flash/index.xml
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_b_0_1.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_assets.xml
+- Assets/Live/bathroom_poop/flash/manifest.xml
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_a_0_0.png
+- Assets/Live/bathroom_poop/bathroom_poop.xml
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_sd_0_0.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_a_0_1.png
+- Assets/Live/bathroom_poop/flash/bathroom_poop_64_b_0_2.png
+Dependencies: []

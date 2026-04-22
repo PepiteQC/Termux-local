@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3578722141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fe099c1b7dfc0f07802199917ed9ed8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/clothing_dragonplushhat/flash/clothing_dragonplushhat_icon_a.png
+- Assets/Live/clothing_dragonplushhat/flash/manifest.xml
+- Assets/Live/clothing_dragonplushhat/clothing_dragonplushhat.xml
+- Assets/Live/clothing_dragonplushhat/flash/clothing_dragonplushhat_logic.xml
+- Assets/Live/clothing_dragonplushhat/flash/clothing_dragonplushhat_visualization.xml
+- Assets/Live/clothing_dragonplushhat/flash/clothing_dragonplushhat_assets.xml
+- Assets/Live/clothing_dragonplushhat/flash/index.xml
+- Assets/Live/clothing_dragonplushhat/flash/clothing_dragonplushhat_64_a_0_0.png
+Dependencies: []

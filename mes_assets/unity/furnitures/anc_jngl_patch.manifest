@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2708571383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3d4792f522c180f3b556ba6109fc300
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_logic.xml
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_c_2_1.png
+- Assets/Live/anc_jngl_patch/flash/index.xml
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_d_2_0.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_assets.xml
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_b_2_2.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_e_2_0.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_e_2_1.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_b_2_3.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_b_2_1.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_b_2_0.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_c_2_0.png
+- Assets/Live/anc_jngl_patch/anc_jngl_patch.xml
+- Assets/Live/anc_jngl_patch/flash/manifest.xml
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_icon_a.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_a_2_0.png
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_visualization.xml
+- Assets/Live/anc_jngl_patch/flash/anc_jngl_patch_64_d_2_1.png
+Dependencies: []

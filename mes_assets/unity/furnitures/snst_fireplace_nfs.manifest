@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 31185921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1363d5a047451b904585e97e50c4d01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_visualization.xml
+- Assets/Live/snst_fireplace_nfs/flash/manifest.xml
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_logic.xml
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_64_b_2_0.png
+- Assets/Live/snst_fireplace_nfs/flash/index.xml
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_64_c_2_2.png
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_64_a_2_0.png
+- Assets/Live/snst_fireplace_nfs/snst_fireplace_nfs.xml
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_64_c_2_0.png
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_icon_a.png
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_assets.xml
+- Assets/Live/snst_fireplace_nfs/flash/snst_fireplace_nfs_64_c_2_1.png
+Dependencies: []

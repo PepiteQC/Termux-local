@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 834910285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70aa3c1cb604097056c365d821e72d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_logic.xml
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_visualization.xml
+- Assets/Live/zengarden_c20_rootplant/zengarden_c20_rootplant.xml
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_icon_a.png
+- Assets/Live/zengarden_c20_rootplant/flash/manifest.xml
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_assets.xml
+- Assets/Live/zengarden_c20_rootplant/flash/index.xml
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_64_sd_0_0.png
+- Assets/Live/zengarden_c20_rootplant/flash/zengarden_c20_rootplant_64_a_0_0.png
+Dependencies: []

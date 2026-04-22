@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2028693520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1352bb90d11d4c6d8880b246077410e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_visualization.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_64_b_4_1.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_logic.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_32_sd_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/manifest.xml
+- Assets/Live/ads_wowpball/ads_wowpball.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_icon_a.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_64_sd_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_assets.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_icon_a.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_64_b_4_1.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/manifest.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_32_b_4_1.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_64_sd_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_assets.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_64_b_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_32_b_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_32_a_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_64_a_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/index.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball_camp/ads_wowpball_camp_64_a_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_64_b_4_0.png
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_visualization.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball/ads_wowpball_logic.xml
+- Assets/Live/ads_wowpball/flash/ads_wowpball/index.xml
+Dependencies: []

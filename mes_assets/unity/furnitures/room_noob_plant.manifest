@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3753877838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13ba6e7b05a4102099729153d20a2d12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/room_noob_plant/flash/manifest.xml
+- Assets/Live/room_noob_plant/flash/room_noob_plant_64_a_0_0.png
+- Assets/Live/room_noob_plant/flash/room_noob_plant_assets.xml
+- Assets/Live/room_noob_plant/flash/index.xml
+- Assets/Live/room_noob_plant/room_noob_plant.xml
+- Assets/Live/room_noob_plant/flash/room_noob_plant_64_a_0_1.png
+- Assets/Live/room_noob_plant/flash/room_noob_plant_64_sd_0_0.png
+- Assets/Live/room_noob_plant/flash/room_noob_plant_logic.xml
+- Assets/Live/room_noob_plant/flash/room_noob_plant_visualization.xml
+- Assets/Live/room_noob_plant/flash/room_noob_plant_icon_a.png
+Dependencies: []

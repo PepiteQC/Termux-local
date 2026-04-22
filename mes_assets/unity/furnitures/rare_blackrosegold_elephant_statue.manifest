@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1959584734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16a2ec76781ccfd7246ec02b73f27737
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa08a4addced3caa22a4c905891ce907
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_icon_a.png
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_64_a_4_0.png
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/index.xml
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_64_sd_0_0.png
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/manifest.xml
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_64_a_0_0.png
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_logic.xml
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_assets.xml
+- Assets/Live/rare_blackrosegold_elephant_statue/rare_blackrosegold_elephant_statue.xml
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_64_sd_4_0.png
+- Assets/Live/rare_blackrosegold_elephant_statue/flash/rare_blackrosegold_elephant_statue_visualization.xml
+Dependencies: []
