@@ -2931,7 +2931,7 @@ body {
 	color: #1a1a22;
 	border: 2px solid #1a1a22;
 	border-radius: 14px;
-	padding: 6px 12px;
+	padding: 5px 12px 5px 10px;
 	font-family: 'Volter Goldfish', 'Segoe UI', sans-serif;
 	font-size: 13px;
 	line-height: 1.25;
@@ -2941,8 +2941,53 @@ body {
 	min-width: 48px;
 	white-space: pre-wrap;
 	word-break: break-word;
-	text-align: center;
+	text-align: left;
 	image-rendering: pixelated;
+	display: inline-flex;
+	gap: 6px;
+	align-items: baseline;
+}
+
+.chat-bubble-author {
+	font-weight: 800;
+	color: #0a5cff;
+	flex-shrink: 0;
+}
+
+.chat-bubble-text {
+	color: #1a1a22;
+}
+
+.chat-bubble-shout .chat-bubble-content {
+	background: #fff6cd;
+	border-color: #2a1700;
+	color: #2a1700;
+	font-size: 15px;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+}
+
+.chat-bubble-shout .chat-bubble-author {
+	color: #c02020;
+}
+
+.chat-bubble-shout .chat-bubble-pointer {
+	background: #fff6cd;
+	border-color: #2a1700;
+}
+
+.chat-bubble-whisper .chat-bubble-content {
+	background: #f4f5ff;
+	border-color: #4c5680;
+	color: #4c5680;
+	font-style: italic;
+	opacity: 0.92;
+}
+
+.chat-bubble-whisper .chat-bubble-pointer {
+	background: #f4f5ff;
+	border-color: #4c5680;
 }
 
 .chat-bubble-pointer {
