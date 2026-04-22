@@ -264,23 +264,31 @@ export default class Habbo {
 	/**
 	 * Screen coordinates (page-relative, in CSS pixels) of the primary avatar's head,
 	 * suitable for anchoring an HTML overlay such as a chat bubble.
+	 *
+	 * Uses the Pixi display object's global position so we correctly account for
+	 * the roomContainer offset, viewport transform, and any nested container
+	 * positions — not just the bare tile screen coordinates.
 	 */
 	public getPrimaryAvatarScreenPosition(): { x: number; y: number } | null {
-		if (!this.application?.canvas || !this.viewport) return null
+		if (!this.application?.canvas) return null
 		const room = this.roomManager.getCurrentRoom() as unknown as {
 			roomContainer?: {
 				avatarsContainer?: {
-					getPrimaryAvatarPosition?: () => { x: number; y: number; height: number } | null
+					avatars?: Array<{
+						getGlobalPosition?: () => { x: number; y: number }
+					}>
 				}
 			}
 		} | null
-		const position = room?.roomContainer?.avatarsContainer?.getPrimaryAvatarPosition?.()
-		if (!position) return null
-		const worldX = TilesContainer.getScreenX(position)
-		const worldY = TilesContainer.getScreenY(position) - 48
-		const screen = this.viewport.toScreen(worldX, worldY) as { x: number; y: number }
+		const avatar = room?.roomContainer?.avatarsContainer?.avatars?.[0]
+		const global = avatar?.getGlobalPosition?.()
+		if (!global) return null
 		const rect = this.application.canvas.getBoundingClientRect()
-		return { x: rect.left + screen.x, y: rect.top + screen.y }
+		const resolution = this.application.renderer?.resolution ?? 1
+		return {
+			x: rect.left + global.x / resolution,
+			y: rect.top + global.y / resolution - 48
+		}
 	}
 
 	public destroy(): void {
